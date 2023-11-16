@@ -1,0 +1,18 @@
+/*-**************-*\
+Colonialist Legacies' Australia
+Credits & Thanks
+Civitar
+\*-**************-*/
+
+TPangolin.....................Author
+Civitar.......................SQL conversion, leaderhead implementation
+Neirai........................Lua
+Charlatan Alley...............Voice acting
+Wolfdog.......................Unit art
+Codefreak5....................Lua
+Ekmek.........................3D leaderhead
+Bernie14......................3D leaderhead
+Wodhann.......................3D leaderhead textures
+Viregel.......................Pedia
+
+And thanks many times to the community at forums.civfanatics.com!

@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="ad7331ed-db2b-4b7b-870c-42f3ed7a5d7f" version="1">
+  <Properties>
+    <Name>Nation State</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Nation States Mk2 Woooo!</Teaser>
+    <Description>Nation States Mk2 Woooo!</Description>
+    <Authors>lunar</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="759B07E49BFE5BAE27E6CABD8C1EB345" import="0">Afghanistan.xml</File>
+    <File md5="31BCF48F272C16705AEFBA4A5B3B00BC" import="0">America.xml</File>
+    <File md5="36B81622B2FB4A5ADE8BE3517070E772" import="0">ARABIA.XML</File>
+    <File md5="DA9E44F6F056456F8AE70F1DDCE82901" import="0">Argentina.xml</File>
+    <File md5="468E34DCB274E6B787CFAA35F8AF5968" import="0">Ashanti.xml</File>
+    <File md5="FF1095444978DAA0C743552D6E24C3F9" import="0">Ayyubids.xml</File>
+    <File md5="77452754CE63714B23E4C53155F4E0F2" import="0">Burma.xml</File>
+    <File md5="C64987AC29AD3A58EDC75547F16B75EC" import="0">Byzantium.xml</File>
+    <File md5="4319ADE2D36B0312EEC8320306336067" import="0">Canada.xml</File>
+    <File md5="86D43A84135561359ED629D4127FB72D" import="0">Carthage.xml</File>
+    <File md5="A6EDC0E6747015AED2200559612D05B4" import="0">Champa.xml</File>
+    <File md5="5529A42BA1673DBE87E61B0EAC521FEE" import="0">Chile.xml</File>
+    <File md5="B0FDE389F581D12644661CC673085886" import="0">China.xml</File>
+    <File md5="2C8F3A0A5F62E766972670E7F70F268B" import="0">ENGLAND.XML</File>
+    <File md5="8237D50AA329B574508DEC9BE5842F86" import="0">ETHIOPIA.XML</File>
+    <File md5="229C2AFC654AB14281BE2A9B693D11FF" import="0">France.xml</File>
+    <File md5="33CB2481033BA49DC624125878B226C1" import="0">Germany.xml</File>
+    <File md5="04F4B0C7564BCEDFCCB20F561F9D4146" import="0">HUNS.XML</File>
+    <File md5="E1D44785B67264A8C2D41714054A4BC4" import="0">INCA.XML</File>
+    <File md5="CF98325119F184D8C384663E55002F50" import="0">INDONESIA.XML</File>
+    <File md5="1D4A75FE02502C0F4FE29E5BB45B023C" import="0">Ireland.xml</File>
+    <File md5="BF799F57F7B52A6DC6046495F5F4AF49" import="0">Israel.xml</File>
+    <File md5="C1811451296C2B32EC5F891D683F34FF" import="0">Japan.xml</File>
+    <File md5="62D9C5193016595B90260AB070E998DC" import="0">Kongo.xml</File>
+    <File md5="49B3FD9F1D6C505B69F6C800B848C2A4" import="0">Mali.xml</File>
+    <File md5="E46B4AF0AEF1142EF9BF13C39884C2F6" import="0">Maori.xml</File>
+    <File md5="892B689DDF42B49F84FC641604C37CDD" import="0">MAYA.XML</File>
+    <File md5="CF9EC0F74DA25C95B699E5B19A90BC2F" import="0">Mexico.xml</File>
+    <File md5="C2D4E13E057CCBFBBFB8AF24B741347E" import="0">MOROCCO.XML</File>
+    <File md5="B947A1855F493C5DA1F32C4E5AEA3E79" import="0">Mughals.xml</File>
+    <File md5="B4AD2DE044020F73D46DD97B10D9A6F5" import="0">Norway.xml</File>
+    <File md5="7623CDA916D2369FD1C81D41383EEC19" import="0">PERSIA.XML</File>
+    <File md5="F583B87A4726FABA11D95CECFF1EBE42" import="0">Philippines.xml</File>
+    <File md5="59900B46AB811E65B0DCD6B5C4B5A1B5" import="0">POLAND.XML</File>
+    <File md5="D98C6B9E117FBC725E2C7E94E2759998" import="0">PORTUGAL.XML</File>
+    <File md5="B2ACF8A33448B4632D814F09F94C054A" import="0">ROME.XML</File>
+    <File md5="8C12F4B717347D3BA1C9E2DE4C4555F4" import="0">Sioux.xml</File>
+    <File md5="BC8EAAB58E2C4C181571A984306149ED" import="0">Soviet_Union.xml</File>
+    <File md5="D584707CB2154DF7D4CF0600837308F9" import="0">Timurids.xml</File>
+    <File md5="25B073EA7F317A1663B65F83E5DA12C9" import="0">ZULU.XML</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Afghanistan.xml</UpdateDatabase>
+      <UpdateDatabase>America.xml</UpdateDatabase>
+      <UpdateDatabase>ARABIA.XML</UpdateDatabase>
+      <UpdateDatabase>Argentina.xml</UpdateDatabase>
+      <UpdateDatabase>Ashanti.xml</UpdateDatabase>
+      <UpdateDatabase>Ayyubids.xml</UpdateDatabase>
+      <UpdateDatabase>Burma.xml</UpdateDatabase>
+      <UpdateDatabase>Byzantium.xml</UpdateDatabase>
+      <UpdateDatabase>Canada.xml</UpdateDatabase>
+      <UpdateDatabase>Carthage.xml</UpdateDatabase>
+      <UpdateDatabase>Champa.xml</UpdateDatabase>
+      <UpdateDatabase>Chile.xml</UpdateDatabase>
+      <UpdateDatabase>China.xml</UpdateDatabase>
+      <UpdateDatabase>ENGLAND.XML</UpdateDatabase>
+      <UpdateDatabase>ETHIOPIA.XML</UpdateDatabase>
+      <UpdateDatabase>France.xml</UpdateDatabase>
+      <UpdateDatabase>Germany.xml</UpdateDatabase>
+      <UpdateDatabase>HUNS.XML</UpdateDatabase>
+      <UpdateDatabase>INCA.XML</UpdateDatabase>
+      <UpdateDatabase>INDONESIA.XML</UpdateDatabase>
+      <UpdateDatabase>Ireland.xml</UpdateDatabase>
+      <UpdateDatabase>Israel.xml</UpdateDatabase>
+      <UpdateDatabase>Japan.xml</UpdateDatabase>
+      <UpdateDatabase>Kongo.xml</UpdateDatabase>
+      <UpdateDatabase>Mali.xml</UpdateDatabase>
+      <UpdateDatabase>Maori.xml</UpdateDatabase>
+      <UpdateDatabase>MAYA.XML</UpdateDatabase>
+      <UpdateDatabase>Mexico.xml</UpdateDatabase>
+      <UpdateDatabase>MOROCCO.XML</UpdateDatabase>
+      <UpdateDatabase>Mughals.xml</UpdateDatabase>
+      <UpdateDatabase>Norway.xml</UpdateDatabase>
+      <UpdateDatabase>PERSIA.XML</UpdateDatabase>
+      <UpdateDatabase>Philippines.xml</UpdateDatabase>
+      <UpdateDatabase>POLAND.XML</UpdateDatabase>
+      <UpdateDatabase>PORTUGAL.XML</UpdateDatabase>
+      <UpdateDatabase>ROME.XML</UpdateDatabase>
+      <UpdateDatabase>Sioux.xml</UpdateDatabase>
+      <UpdateDatabase>Soviet_Union.xml</UpdateDatabase>
+      <UpdateDatabase>Timurids.xml</UpdateDatabase>
+      <UpdateDatabase>ZULU.XML</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_MINOR_CIV_ISRAEL">
+			<Text>Israel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_ISRAEL_ADJ">
+			<Text>Israeli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_ISRAEL_1">
+			<Text>Ebou Dar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_ISRAEL_2">
+			<Text>Ashangi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_ISRAEL_3">
+			<Text>Daba Adum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_ISRAEL_4">
+			<Text>Addis Selima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_ISRAEL_5">
+			<Text>Amba Selli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_ISRAEL_6">
+			<Text>Ashkemest</Text>
+		</Row>
+	</Language_en_US>
+	<MinorCivilizations>
+		<Row>
+			<Type>MINOR_CIV_ISRAEL</Type>
+			<Description>TXT_KEY_MINOR_CIV_ISRAEL</Description>
+			<ShortDescription>TXT_KEY_MINOR_CIV_ISRAEL</ShortDescription>
+			<Adjective>TXT_KEY_MINOR_CIV_ISRAEL_ADJ</Adjective>
+			<Civilopedia>No info</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_MINOR_CIV_ISRAEL</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
+			<ArtStylePrefix>MEDITERRANEAN</ArtStylePrefix>
+			<ArtStyleSuffix>_LEVANT</ArtStyleSuffix>
+			<MinorCivTrait>MINOR_TRAIT_RELIGIOUS</MinorCivTrait>
+		</Row>
+	</MinorCivilizations>
+
+	<MinorCivilization_Flavors>
+		<Row>
+			<MinorCivType>MINOR_CIV_ISRAEL</MinorCivType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ISRAEL</MinorCivType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ISRAEL</MinorCivType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ISRAEL</MinorCivType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ISRAEL</MinorCivType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ISRAEL</MinorCivType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ISRAEL</MinorCivType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ISRAEL</MinorCivType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ISRAEL</MinorCivType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ISRAEL</MinorCivType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ISRAEL</MinorCivType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ISRAEL</MinorCivType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+	</MinorCivilization_Flavors>
+
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_ISRAEL_ICON</Type>
+            <Red>0</Red>
+            <Green>0.215</Green>
+            <Blue>1</Blue>
+            <Alpha>1.0</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_ISRAEL_BACKGROUND</Type>
+            <Red>0.932</Red>
+            <Green>0.85</Green>
+            <Blue>0.725</Blue>
+            <Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_MINOR_CIV_ISRAEL</Type>
+			<PrimaryColor>COLOR_PLAYER_MINOR_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_MINOR_CIV_ISRAEL_ICON</SecondaryColor>
+			<TextColor>COLOR_PLAYER_PEACH_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_ISRAEL</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_ISRAEL_1</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ISRAEL</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_ISRAEL_2</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ISRAEL</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_ISRAEL_3</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ISRAEL</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_ISRAEL_4</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ISRAEL</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_ISRAEL_5</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ISRAEL</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_ISRAEL_6</CityName>
+		</Row>
+	</MinorCivilization_CityNames>
+</GameData>

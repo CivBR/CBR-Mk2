@@ -1,0 +1,5 @@
+<Asset>
+	<Mesh file="henry_parkes_scene.gr2"/>
+	<Texture file="henry_parkes_background.dds"/>
+</Asset>
+

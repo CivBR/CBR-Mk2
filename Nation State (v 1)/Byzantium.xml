@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_MINOR_CIV_BYZANTIUM">
+			<Text>Byzantium</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_BYZANTIUM_ADJ">
+			<Text>Byzantine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_BYZANTIUM_1">
+			<Text>Deuspoli</Text>
+		</Row>
+	</Language_en_US>
+	<MinorCivilizations>
+		<Row>
+			<Type>MINOR_CIV_BYZANTIUM</Type>
+			<Description>TXT_KEY_MINOR_CIV_BYZANTIUM</Description>
+			<ShortDescription>TXT_KEY_MINOR_CIV_BYZANTIUM</ShortDescription>
+			<Adjective>TXT_KEY_MINOR_CIV_BYZANTIUM_ADJ</Adjective>
+			<Civilopedia>No info</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_MINOR_CIV_BYZANTIUM</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+			<ArtStylePrefix>MEDITERRANEAN</ArtStylePrefix>
+			<ArtStyleSuffix>_BYZANTIUM</ArtStyleSuffix>
+			<MinorCivTrait>MINOR_TRAIT_CULTURED</MinorCivTrait>
+		</Row>
+	</MinorCivilizations>
+
+<!--FLAVOR_RELIGION:          Religious=10, other=3 
+<!--FLAVOR_CULTURE:           Cultured=10, other=3 
+<!--FLAVOR_GOLD:              Mercantile=10, other=3 
+<!--FLAVOR_NAVAL:             Maritime=8, other=3 
+<!--FLAVOR_GROWTH:            Maritime=8, other=3 
+<!--FLAVOR_CITY_DEFENSE:      Militaristic=7, other=3
+<!--FLAVOR_DEFENSE:           Militaristic=7, other=3
+<!--FLAVOR_OFFENSE:           Militaristic=7, other=3 
+<!--FLAVOR_MILITARY_TRAINING: Militaristic=7, other=3 --> 
+
+	<MinorCivilization_Flavors>
+		<Row>
+			<MinorCivType>MINOR_CIV_BYZANTIUM</MinorCivType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BYZANTIUM</MinorCivType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BYZANTIUM</MinorCivType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BYZANTIUM</MinorCivType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BYZANTIUM</MinorCivType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BYZANTIUM</MinorCivType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BYZANTIUM</MinorCivType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BYZANTIUM</MinorCivType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BYZANTIUM</MinorCivType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BYZANTIUM</MinorCivType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BYZANTIUM</MinorCivType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BYZANTIUM</MinorCivType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+	</MinorCivilization_Flavors>
+
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_BYZANTIUM_ICON</Type>
+            <Red>0.796</Red>
+            <Green>0.65</Green>
+            <Blue>0.262</Blue>
+            <Alpha>1.0</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_BYZANTIUM_BACKGROUND</Type>
+            <Red>0.4</Red>
+            <Green>0.101</Green>
+            <Blue>0.435</Blue>
+            <Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_MINOR_CIV_BYZANTIUM</Type>
+			<PrimaryColor>COLOR_PLAYER_MINOR_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_MINOR_CIV_BYZANTIUM_ICON</SecondaryColor>
+			<TextColor>COLOR_PLAYER_PEACH_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_BYZANTIUM</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_BYZANTIUM_1</CityName>
+		</Row>
+	</MinorCivilization_CityNames>
+</GameData>

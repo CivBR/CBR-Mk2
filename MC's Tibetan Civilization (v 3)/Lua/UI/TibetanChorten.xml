@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Context>
+	<ToolTipType Name="ChortenTooltip" >
+		<Grid Size="280,90" Offset="8.0" Padding="8,8" Style="GridBlack8" NoClip="1" ID='Box'>
+		
+			<Button NoStateChange="1" Offset="0,5" Anchor="C,T" Color="255.255.255.0" Size="254,70" ID="ChortenBox">
+				<Image Anchor="C,C" Size="214,29" Offset="0,0" Texture="MeterBarGreatPersonBack.dds">
+					<TextureBar Anchor="L,C" Size="214.29" Texture="MeterBarGreatPersonGold.dds" Direction="Right" ID="ChortenMeter" />
+					<Image Anchor="L,C" Size="214,29" Texture="MeterBarFrame.dds"/>
+				</Image>
+				<Image Anchor="R,C" Size="64,64" Offset="0,0" Texture="64x64FrameButtons.dds">
+					<Image Anchor="C,C" Size="64,64" ID="ChortenImage"/>
+				</Image>
+			</Button>
+			
+			<Label Anchor="C,T" Offset="0,75" ID="Heading" String="Brief description" LeadingOffset="-5" WrapWidth="268" Font="TwCenMT16" ColorSet="Beige_Black" />
+			<Label Anchor="C,T" Offset="0,90" ID="Subheading" String="Brief description" LeadingOffset="-5" WrapWidth="268" Font="TwCenMT16" ColorSet="Beige_Black" />
+			<Label Offset="12,110" ID="Body" String="Brief description" LeadingOffset="-5" WrapWidth="268" Font="TwCenMT16" ColorSet="Beige_Black" />
+		</Grid>
+	</ToolTipType>
+</Context>

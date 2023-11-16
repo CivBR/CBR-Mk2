@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/1/2014 5:51:48 PM -->
+<GameData>
+	<Civilizations_AmericasStartPosition>
+		<Row>
+			<Type>CIVILIZATION_TEXAS</Type>
+			<X>37</X>
+			<Y>59</Y>
+		</Row>
+	</Civilizations_AmericasStartPosition>
+	<Civilizations_CaribbeanStartPosition>
+		<Row>
+			<Type>CIVILIZATION_TEXAS</Type>
+			<X>4</X>
+			<Y>66</Y>
+		</Row>
+	</Civilizations_CaribbeanStartPosition>
+	<Civilizations_YagemStartPosition>
+		<Row>
+			<Type>CIVILIZATION_TEXAS</Type>
+			<X>141</X>
+			<Y>56</Y>
+		</Row>
+	</Civilizations_YagemStartPosition>
+	<!-- +++++++++++++++++++++++++++++ -->
+	<!-- Earth Huge map start position -->
+	<!-- +++++++++++++++++++++++++++++ -->
+	<Civilizations_YahemStartPosition>
+		<Row>
+			<Type>CIVILIZATION_TEXAS</Type>
+			<X>20</X>
+			<Y>49</Y>
+		</Row>
+	</Civilizations_YahemStartPosition>
+	<!-- ++++++++++++++++++++++++++++++++++ -->
+	<!-- Earth Cordiform map start position -->
+	<!-- ++++++++++++++++++++++++++++++++++ -->
+	<Civilizations_CordiformStartPosition>
+		<Row>
+			<Type>CIVILIZATION_TEXAS</Type>
+			<X>7</X>
+			<Y>33</Y>
+		</Row>
+	</Civilizations_CordiformStartPosition>
+	<!-- +++++++++++++++++++++++++++++++++++ -->
+	<!-- "Greatest Earth Map" start position -->
+	<!-- +++++++++++++++++++++++++++++++++++ -->
+	<Civilizations_GreatestEarthStartPosition>
+		<Row>
+			<Type>CIVILIZATION_TEXAS</Type>
+			<X>11</X>
+			<Y>41</Y>
+		</Row>
+	</Civilizations_GreatestEarthStartPosition>
+</GameData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/30/2015 4:26:11 AM -->
+<GameData>
+	<Defines>
+		<Update>
+			<Set Value="0"/>
+			<Where Name="UNHAPPINESS_PER_POPULATION"/>
+		</Update>
+	</Defines>
+</GameData>

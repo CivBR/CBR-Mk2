@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Pouakai -->
+<GameData>
+	<Language_en_US>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Unique Units- - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Spartan Hoplite -->
+		<Update>
+			<Where Tag="TXT_KEY_UNIT_GREEK_HOPLITE_STRATEGY"/>
+			<Set Text="The Hoplite is the Spartan unique unit, replacing the Spearman. It is far more powerful than the Spearman, and receives a boost to either defense or attack depending on whether it it alone or with other Spartan units, respectively. The Hoplite is deadly against mounted opponents."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_UNIT_HELP_HOPLITE"/>
+			<Set Text="Ancient Era Unit which specializes in defeating Mounted Units. Only Sparta may build it. This Unit has a higher [ICON_STRENGTH] Combat Strength than the Spearman which it replaces, fights better on attack while with other units, and defends better when alone."/>
+		</Update>
+		<!--Spartan Syssitia Hall-->
+		<Row Tag="TXT_KEY_BUILDING_MC_SPARTAN_SYSSITIA_HALL">
+			<Text>Syssitia Hall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_SPARTAN_SYSSITIA_HALL_HELP">
+			<Text>Provides no defensive strength or extra hitpoints. Provides +15XP to new units trained in the city, and boosts the city's cultural output.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_SPARTAN_SYSSITIA_HALL_PEDIA">
+			<Text>The syssitia was a common meal found in many greek city-states of the classical period, though the ritual surrounding it was most developed in Sparta. More than a mere meal, the Syssitia was a focal point of the military lifestyle in Sparta— it was an inherently public, communal occasion, wherein all the men assigned to a given syssitia (size estimates vary from 15 to 200) were obligated to attend. Even a king could not shirk his duty of attendance without a strong extenuating circumstance, with those absent for inadequate reasons providing gifts to the table instead.[NEWLINE][NEWLINE]The Syssitia was typically held in a large hall in a banquet style, a precursor to the modern mess hall. In Spartan culture, where the feast was also called the Pheiditia, membership in a hall was vital to one’s membership in Spartan society, with Spartan men from the ages of 20 to 30 having to be voted into a given Syssitia hall.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_SPARTAN_SYSSITIA_HALL_STRATEGY">
+			<Text>The Syssitia Hall is the Spartan replacement for walls. However, unlike Walls, the Syssitia Hall doesn't provide any extra defensive strength to the city, or increase its hitpoints. Instead, the Syssitia Hall acts essentially as a second Barracks, providing an additional +15XP to new units trained in the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_MC_SPARTA_TEXT">
+			<Text>May Ares guide your spear, noble Leonidas, descendant of Heracles and of Zeus; your people rally to your side on the field of battle.  You are the ruler of Sparta, a powerful civilization with a proud military tradition.  From humble beginnings as a small city state in the Peloponnese, Sparta's influence and importance grew quickly, rising to prominence under legendary King Menelaus, who led the Spartans to war against Troy.[NEWLINE][NEWLINE]From Menelaus, the title of King passed through the ages until it fell along the Agiad line to you, Leonidas the Brave; and along the Eurypontid line to your lesser counterpart, the disgraced Leotychidas.   With the wisdom of the Oracle of Apollo, you proudly led your forces, along with those of your fellow Greeks, against your common, much larger foe – the Persians.  You and your forces met them at the pass of Thermopylae and held your line against wave after wave of Persian onslaught.  Alas, it was the decision of the gods that, on that fateful day, you and your men were to be overcome by those vile Persians, who would send you to walk the Elysian fields.[NEWLINE][NEWLINE]Mighty Leonidas, your people call for you to lead them into battle once more.  Will you answer the call to war, thus ensuring the legend of Sparta will be forever known?  Will you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MC_WALLS_OF_SPARTA_SHORT">
+			<Text>Walls of Sparta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MC_WALLS_OF_SPARTA">
+			<Text>Following your first Great General, receive an infantry unit every time your capital grows. Capturing cities may grant a free citizen in your capital</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_SPARTA_GENERAL">
+			<Text>Sparta UA Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_SPARTA_DESC">
+			<Text>Spartan Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_SPARTA_SHORT_DESC">
+			<Text>Sparta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_SPARTA_ADJECTIVE">
+			<Text>Spartan</Text>
+		</Row>
+		<!--Sparta-->
+		<Row Tag="TXT_KEY_SPY_NAME_MC_SPARTA_0">
+			<Text>Achilles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_SPARTA_1">
+			<Text>Ajax</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_SPARTA_2">
+			<Text>Agammemnon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_SPARTA_3">
+			<Text>Menelaus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_SPARTA_4">
+			<Text>Odysseus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_SPARTA_5">
+			<Text>Patroclus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_SPARTA_6">
+			<Text>Nestor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_SPARTA_7">
+			<Text>Helen</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_SPARTA_8">
+			<Text>Thetis</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_SPARTA_9">
+			<Text>Gorgo</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--Sparta-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SPARTA">
+			<Text>Sparta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SPARTA_TITLE">
+			<Text>Sparta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SPARTA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SPARTA_TEXT_1">
+			<Text>The idea of Sparta is one of the most evocative in the Western consciousness. A proud warrior society, the original army with a state, Sparta has become almost mythologized over the millennia as the exemplar of a laconic martial discipline. Sparta built this reputation in the Hellenistic mediterranean through the development of a rigid communal military culture, a nearly single-minded focus on preparing the young men of the state for service as soldiers. Though Sparta would decline and fade after the rise of Macedon and Rome, the idea of Sparta has lived on into modernity in a romanticised form.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SPARTA_HEADING_2">
+			<Text>Terrain and Climate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SPARTA_TEXT_2">
+			<Text>Sparta is found in the Peloponnese peninsula of Greece, in an area now known as Laconia. Laconia is surrounded, much like other Greek regions, by mountains and sea— the western Taygetus range and the Northeastern Parnon massif, and the Mediterranean sea to the South and East. The Evrotas river valley where Sparta itself was founded is one of the most fertile regions of Greece, and its natural defenses protected Sparta throughout its history.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SPARTA_HEADING_3">
+			<Text>Early Settlement of the Region</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SPARTA_TEXT_3">
+			<Text>Sparta was first settled by the Mycenaeans who settled much of the rest of Greece. The principal Mycenaean settlement in Laconia was Therapne, founded in approximately 1450 BCE. A shrine known as the Melanion, founded in honor of Menelaus and Helen and maintained for centuries, is the main archeological relic of the Mycenaean period in Laconia.[NEWLINE][NEWLINE]The history of Sparta truly begins, though, with the rise of Doric civilization in Greece. While it is a subject of historical debate whether the Dorian Invasion written about in traditional Greek histories actually occurred, or if the Dorian people simply rose to power after the collapse of Mycenaean civilization, the settlement of Sparta lines up roughly with the Bronze Age Collapse that included the end of Mycenae. In Greek myth, the first kings of Dorian Sparta were the descendants of Heracles, known as the Heraclides. Regardless of the true origin of these rulers, they did set up a few important institutions of Spartan society, most notably the dual kingship of the houses of Agiad and Eurypontid.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SPARTA_HEADING_4">
+			<Text>Spartan Society</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SPARTA_TEXT_4">
+			<Text>Spartan society began to take its uniquely militaristic form in the 7th, 8th and 9th centuries BCE, due to the reforms of Lycurgus. Lycurgus is considered to be the great law-giver of Spartan society, organizing the city-state under an oral constitution known as the Great Rhetra, passed down to him by the Oracle of Delphi. Lycurgus also studied the governments of Crete and the states described in Homer’s works, and developed further plans to shape Sparta into an efficiently governed city-state.[NEWLINE][NEWLINE]Lycurgus instituted a wide range of reforms that affected every aspect of Spartan society. At the highest level, he created the Gerousia, an elected council of elders that advised and could even overturn the decisions of the dual monarchy. More important for Spartan society, though, was his implementation of the agoge and the syssitia hall, two institutions that would shape Spartan culture for centuries. The agoge was the program through which the male citizens of Sparta were molded into loyal soldiers of Sparta, through intensive training from ages 7 to 20. The agoge was harsh and at times cruel, intentionally depriving young Spartiates of proper food and lodging in order to train them for conditions in the field. Upon reaching adulthood and completing training, the young men of Sparta would attempt to join a Syssitia, a communal feast of men at the heart of Spartan society. Membership in a Syssitia was a prerequisite for Spartan citizenship.[NEWLINE][NEWLINE]In classical Sparta, society was largely divided into three groups: the Spartiates, the Perioikoi, and the Helots. The Spartiates were the elite class of the city-state, those who could trace their lineage back to the founding families of the city. Only Spartiate men could go through the Agoge and join in a Syssitia hall, though there were some exceptions in the cases of foreign families of note (like the children of the Athenian general Xenophon) or in the case of Helots sponsored by Spartiates. Perioikoi were the free denizens of Spartan territory that were not Spartiates. Typically living in the other towns of the Evrotas valley, or other conquered territory, Perioikoi typically participated in commerce and manufacturing, as Spartiates were forbidden from doing so, and also contributed their own hoplites to the Spartan military. Helots were a class of serfs or slaves within Spartan society consisting of many of the subjugated peoples of Laconia. Helots, like all land in Sparta, were owned by the state and distributed equally to Spartiate families. Helots were treated with extreme disdain and distrust by the citizens of Sparta— disdain due to their low status and distrust due to their high population. Spartan policy towards Helots was designed to prevent disobedience and cultivate fear in the Helot population. Most notably, the killing of Helots was allowed during the Autumn without recrimination, a task that was typically performed by members of the crypteria, the Spartan secret police. Of course, this harsh treatment naturally begot uprisings, typically after calamity or defeat struck Sparta.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SPARTA_HEADING_5">
+			<Text>Sparta's Expansion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SPARTA_TEXT_5">
+			<Text>Spartan expansion began with the Messenian wars at the end of the 8th Century and the middle of the 7th. The wars, possibly caused by a dispute over land and cattle between two prominent citizens of Sparta and Messenia gone awry, pitted Sparta against its Eastern neighbors. The Messenians, beyond just being a neighboring people with conquerable land, were also Achaeans, a pseudo-ethnic group often pitted against Dorians in classical Greek history. The wars lasted 40 years total, and despite the most valiant efforts of the Messenian forces, the region was incorporated into Sparta.[NEWLINE][NEWLINE]The conquest of Messenia and the Spartan dominance over Laconian gave the city-state an overall territory of 8,500 square kilometers. This was by a significant margin the greatest area of a city state in Greece at this time. The Messenians were subjugated by their new Spartan rulers, and the base of the Helot class was these conquered Messenians. Those who weren’t enslaved were forced to emigrate. From this dominance over Messenia, Sparta became the undisputed hegemon of the Peloponnese, with not even Argos able to challenge Spartan might.[NEWLINE][NEWLINE]It was over the next two centuries that Spartan regional dominance would solidify. The most obvious example of Laconian dominance in the Peloponnese is the establishment of the Peloponnesian League. The Peloponnesian league was a loose alliance of the city-states of the Peloponnese, save for Argos. Unlike other leagues in Classical Greece, where all the members of the league agreed on a single compact, the Peloponnesian league was based around individual treaties that the smaller states of the region made with Sparta. The league was founded in 550 BCE, and achieved near-complete regional dominance by the end of the century. Its military exploits served to quell Messenian rebellions in Sparta and defeat Argos, the lone holdout of the Peloponnese, multiple times. By the second century of its existence, the league had expanded to contain even polities beyond the peninsula, like Megara.[NEWLINE][NEWLINE]Even beyond the league, Sparta showed considerable influence in the Greek world of the late 6th and early 5th century. Sparta allied with the Lydians in the mid-6th century and aided an ultimately unsuccessful rebellion against the tyrant Polycrates of Samos in 525 BCE. Fatefully, Sparta also assisted Athens in the overthrow of the dictator Hippias in the late 6th century. The Athenian democracy that ensued after his fall would ultimately become Sparta’s greatest foe.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SPARTA_HEADING_6">
+			<Text>War With Persia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SPARTA_TEXT_6">
+			<Text>Sparta largely remained aloof from the first years of the Persian Wars. During the Ionian revolt, Athens was the primary backer of the rebellious Greeks, with King Cleomenes of Sparta refusing to give aid after hearing of the long distance between Sparta and Persian Anatolia. However, by the end of the first decade of the 5th Century, Sparta had begun to take steps against Persia, with an attack on Persian-sympathizing Argos and a raid on Aegina, a island that had pledged allegiance to Persia.[NEWLINE][NEWLINE]After a decade of relative peace following the battle of Marathon in 490 BCE, Greece and Persia both prepared for war at the close of the 5th Century’s second decade. In Greece, an alliance of city-states formed a military confederation to protect against Xerxes’ incursions. With Sparta and Athens at its head, these 70 city-states began to prepare a defense against the Persian army, which began its march in early 480 BCE. Key to the initial Greek defense was the blockading of the two passes Persia could use to enter Greece. On land, a formation of Hoplites would defend the narrow mountain pass at Thermopylae. On sea, the straits of Artemisium were to be blockaded by the Greek navies. Following the historical dispositions of the two states, Sparta headed up the defense of Thermopylae, while Athens sailed to Artemisium.[NEWLINE][NEWLINE]It was at Thermopylae that King Leonidas of Sparta, his Hippeis of 300 Spartans, and about 1000 Thebans and Thespians held off the advance of the Persian army. Leonidas initially brought a force of several thousand troops to hold off Xerxes’ army, and for the first two days of the battle the two forces engaged in a number of assaults. However, on the third day, the Persians managed to lead a force of 20,000 through a secret trail revealed to them by a Greek traitor by the name of Ephialtes. Leonidas’ Hippeis then lead the defense of the retreating Greek army, managing to hold the pass for long enough to allow for the escape of thousands of Greek soldiers. The last stand of the Spartans at Thermopylae has been memorialized throughout Western culture for centuries.[NEWLINE][NEWLINE]Xerxes continued his advance through the Balkans, capturing Boeotia and much of Attica in 480 BCE while being stopped for advancing further by the destruction of the Persian navy by the Athenian trireme fleet at Salamis. This defeat at Salamis was a turning point in the war—the next year, Greek armies led by Spartan commanders like Leotychidas and Pausanias won resounding victories against Persia at Mycale and Plataea, forcing Persia out of Greece. Sparta would only play a limited role in the next phase of the war, wherein a largely Athenian-led coalition of states would attempt to fight Persia in Asia minor; after Pausanias was deposed as ruler of Byzantium by Athens, Sparta would fully withdraw from the conflict.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SPARTA_HEADING_7">
+			<Text>The Peloponnesian Wars</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SPARTA_TEXT_7">
+			<Text>Though Sparta returned to a period of relative peace after its exit from the Greco-Persian wars, the decades to come would represent some of the pivotal moments in Spartan history. This tumultuous time began with a war against one-time Peloponnesian league member Tegea, and its ally Argos. The Tegean War, fought between 473 and 471 BCE, ultimately was a Spartan victory, but losses were heavy, especially in the Battle of Tegea in 473. Sparta’s troubles continued with the earthquake and Helot revolt of 464 BCE. While Athens initially helped suppress the revolt, Spartan worry about an alliance between the Athenians and the Helots led to Athens’ dismissal from the conflict, a major diplomatic snub.[NEWLINE][NEWLINE]This snub led directly to Athens and the Delian League allying with Argos for the first Peloponnesian war. Sparta, despite being a major instigator of the conflict, remained aloof for its first few years, as Athens defeated many of the Peloponnesian allies, as well as Thebes, on land and sea. In 457, though, a conflict between Phocis and Doris drew Sparta into open battle with Athens at Tanagra, with Sparta achieving victory. Athens responded to the defeat with a campaign in Boeotia, conquering most of the area and achieving dominance elsewhere. Athens had to call a truce in 451, though, in order to deal with Egypt and Persia.[NEWLINE][NEWLINE]After the truce, Sparta and Athens faced off once more, in the 2nd Sacred War. This conflict was largely based around the independence of the prophetic city of Delphi, with Sparta backing its independence and Athens supporting Phocis. This conflict was short and resulted in a Spartan defeat, but soon after the tide of the war would shift, with Athens losing Boeotia in 446, and a 30-year truce being signed shortly after.[NEWLINE][NEWLINE]The truce would not prove to live up to its name, as a mere 15 years later the two leagues would erupt into conflict once more. In 431 BCE, King Archidamus II of Sparta began his invasion of Athens. Over the next few years, Archidamus would attempt to surround the city of Athens, starving out the populace. This strategy was inconclusive, but a plague that killed 30,000 in Athens, including Pericles, led to a shift in the tenor of the war. Both sides would become more aggressive, with Cleon and Demosthenes leading the Athenians and Brasidas leading the Spartans.The next eight years of the war had Spartan defeats, like at Pylos, and victories, like at Amphipolis, in roughly equal measure, and ultimately led to another truce after the deaths of many of the war hawks on both sides.[NEWLINE][NEWLINE]The next phase of the war began with the Athenian expedition to Sicily, a war with the principal goal of defending Athens’ Ionian allies from Doric Syracuse. A variety of missteps, from the Athenian refusal to retreat to their lack of Cavalry, led to Sparta and Syracuse defeating Athens handily. The Spartans also disrupted Athenian shipping and mining, and, upon Athens’ second attempt to capture Syracuse, destroyed and enslaved the Athenian fleet. After the fleet’s destruction, Athens was in disarray, with many of its Ionian allies rebelling. While Athens did have a minor resurgence under Alcibiades, the Spartan commander Lysander brought Athens to heel with a skillful alliance with Persia and the destruction of Athenian grain reserves. Athens and its allies surrendered by 404 BCE, and Athens was made a tributary state of Sparta.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SPARTA_HEADING_8">
+			<Text>Spartan Hegemony</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SPARTA_TEXT_8">
+			<Text>After the defeat of Athens, Sparta achieved a period of sustained dominance in Greece from 404 to 371 BCE. The principal events of this period were Sparta’s incursions into Persian affairs, the Corinthian War, and the Boeotian War. Sparta’s incursions into Persia included its support for Cyrus the younger’s unsuccessful bid for the throne and an attempt to defend the Ionian colonies in Anatolia that also ended in Spartan defeat.[NEWLINE][NEWLINE]The Corinthian War simultaneously revealed the cracks in Spartan dominance and further solidified it. The course of the conflict pitted Sparta against all five other major powers of the region: Thebes, Argos, Athens, Corinth, and Persia, though the Persians did switch sides by the conflict’s end. While Sparta was able to fight these powers to a stalemate on land, it suffered severe losses at sea, ending Spartan ambition to a truly thalassocratic empire. In fact, Athens would regain much of its own naval empire during the war, after those colonies were left undefended after the Persian destruction of the Spartan navy. However, Spartan hegemony was reinforced by the war’s end, with the King’s Peace of 387 giving Sparta power to enforce the peace in Greece, and the cost of the Ionian colonies.[NEWLINE][NEWLINE]The Boeotian War spelled the end of Spartan hegemony. In 378 BC, Thebes began its revolt against Sparta. Athens aided the rebellious Thebans, and Sparta proved unable to bring them to heel. The affair worsened for Sparta as the war waged, with the Spartan fleet being defeated by Athens and independent Thebes increasingly claiming hegemony over all of Boeotia. In 371, after the breakdown of peace negotiations due to Thebes signing as a representative of all Boeotia, Sparta was defeated handily by Thebes at the Battle of Leuctra. Never again would Sparta dominate Greek affairs.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SPARTA_HEADING_9">
+			<Text>Sparta after Hegemony</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SPARTA_TEXT_9">
+			<Text>Over the next two centuries, under Theban, Macedonian, and Roman Hegemony, Sparta would remain proud and independent, or at the very least more independent than most Greek states. It would struggle mightily under these yokes, and would always remain devoted to its Lycurgian rites and custom. Sparta’s ultimate subjugation would come in the second half of the 2nd Century BCE, wherein it was forced into the Achaean League and then conquered after that group’s unsuccessful revolt against Rome.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SPARTA_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_SPARTA_FACTOID_TEXT">
+			<Text>Contrary to popular belief, Sparta was in fact ruled by two kings - one from each historial lineage of the throne.</Text>
+		</Row>
+		<!--Leonidas-->
+		<Row Tag="TXT_KEY_LEADER_MC_LEONIDAS_DESC">
+			<Text>Leonidas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LEONIDAS_LIVED">
+			<Text>c. 540 BC - 480 BC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LEONIDAS_NAME">
+			<Text>Leonidas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LEONIDAS_SUBTITLE">
+			<Text>King of Sparta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LEONIDAS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LEONIDAS_TEXT_1">
+			<Text>Leonidas I was one of two Kings of Sparta during the middle phase of the Persian War. An able and respected commander, Leonidas was chosen to head up the defense of the pass at Thermopylae, the bulwark that would decide whether or not the armies of Xerxes could enter Boeotia, and then the rest of the Greek mainland. The outnumbered Greek forces held off the Persians for three days, but it was Leonidas’ heroic last stand with his Hippeis of 300 Spartans on the last day that allowed for the escape of the remainder of the Greek force. Though he perished in battle, his sacrifice allowed for the eventual defeat of the Persians.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LEONIDAS_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LEONIDAS_TEXT_2">
+			<Text>Leonidas was born the third son of the Agiad Spartan King Anaxandridas I, though only the second from his first wife. As such, Leonidas was not expected to take the Spartan throne, and received the typical education of a Spartan boy. Unlike most kings of Sparta, Leonidas went through the full agoge, and lived as a normal, albeit noble Spartan for most of his life. Meanwhile, his two older brothers, Cleomenes and Dorieus, squabbled over the throne. Tensions rose between the half-brothers to the point that Dorieus abandoned Sparta to colonize North Africa and Sicily. His expeditions proved to be his doom— Dorieus was expelled from Libya by Carthage, and killed by Segesta in Sicily.[NEWLINE][NEWLINE]Cleomenes ascended to the Agiad throne in around 519 BCE and proved to be a dynamic ruler of Sparta. He was one of the first Spartan kings to be truly interested in global affairs, interceding in Athenian politics to overthrow the tyrant Hippias and involving himself in the Ionian Revolt, the first stage of the Persian War. In his efforts to suss out Persian collaborateurs in Greece, he ran afoul of his co-king, Demaratus. Cleomenes then plotted to assassinate Demaratus, but was found out. Cleomenes was exiled, and only re-admitted when he threatened to invade Sparta. He was then imprisoned, where he died, likely by suicide. He was survived by no male heir, leaving behind only his daughter Gorgo, the wife of Leonidas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LEONIDAS_HEADING_3">
+			<Text>The Kingship</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LEONIDAS_TEXT_3">
+			<Text>Leonidas ascended to the throne in 490 BCE, at the start of a ten year interbellum between the first and second stages of the Persian Wars. Not much is known about Leonidas’ kingship during this period, though it is clear that Sparta did much to prepare for the coming war. It is known that Sparta likely received a wax tablet with a hidden message from the former king Demaratus, who had taken refuge in Persia after being deposed. The tablet likely helped forewarn the Persian invasion of 480 BCE. Before the formal beginning of that phase of the conflict, Leonidas was elected military commander of the entirety of the Greek force, a move that was as much a vindication of Sparta’s prestige within Greece as Leonidas’ renown as an honorable and loyal commander.[NEWLINE][NEWLINE]The Persian army began its invasion of Greece in earnest in August 480, an inopportune time for the Greek Army. Two ceremonial commitments stymied full participation in the defense of the pass at Thermopylae at the time: the Olympic games and a Spartan Lunar festival known as the Carnea. To fully commit military forces during either of those occasions was highly irregular. Nevertheless, when reports of a Persian advance to the pass became known, the ephors of Sparta allowed Leonidas to lead his Hippeis of 300 bodyguards to defend the pass, the gateway into Greece.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LEONIDAS_HEADING_4">
+			<Text>Thermopylae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LEONIDAS_TEXT_4">
+			<Text>While pop culture has mythologized the valiant last stand of 300 Spartans against the myriad forces of Persia, the Battle of Thermopylae was actually a longer, more diverse affair. To wit: the 300 Spartans made up a relatively small fraction of the total Greek force. According to Herodotus, the Spartans were joined by 900 Helots or Perioeci, around 3000 other Peloponnesians, 700 Thespians, 400 Thebans, 1000 Phocians, and assorted other Greeks to create a force of 6000 to 7000 soldiers. Of course, this force was still dwarfed by a Persian force that was, even at the smallest estimate, 10 times the size.[NEWLINE][NEWLINE]Even at a large disadvantage in terms of numerical strength, the Greeks managed to hold their own for two days of battle, largely due to Leonidas’ able command of the phalanx of Spartans that formed the front lines of the Greek force. The positioning of the Greek army, safely ensconced in the mountain pass of Thermopylae, allowed them to avoid dealing with the brunt of the Persian assault at once. The Persians instead had to face a near-impenetrable phalanx head-on.[NEWLINE][NEWLINE]Unfortunately for the Greeks, there was one flaw in their seemingly-impenetrable mountain fortress. A local shepherd led the Persians to a mountain path from the Persian position that led to the Greek camp. When Persia took this path, Leonidas immediately sprung into action. The vast majority of the Greek force retreated, to ensure the strength of the army in future battles. Leonidas and his 300 Spartans, as well as the Helots, 700 Thespians, and 400 Thebans, remained to hold off the Persians for as long as possible. While Leonidas’ forces held off the Persians valiantly, and allowed for the escape of the remainder of the Greek force, the Persians eventually defeated them, killing all of them save for the Thebans, who surrendered. The Persians, in an act of extreme disrespect, made plans to desecrate Leonidas’ body, crucifying him and putting his severed head on a stake.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LEONIDAS_HEADING_5">
+			<Text>Judgement of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LEONIDAS_TEXT_5">
+			<Text>Leonidas was memorialized throughout Sparta and Greece for his valiant sacrifice, especially after the Greek victory in the Persian Wars. At the site of the battle, a monument of a stone lion was erected in honor of the Spartan forces, and Leonidas is believed to be depicted as part of the Acropolis in Athens. His remains were also exhumed and reburied in a hero’s grave in Sparta, and a hero cult existed around his legend for centuries after his death. Western pop culture has remained fascinated with Leonidas’ last stand even to the present day. Two quotations principally define the legacy of Leonidas: “Stranger! To Sparta say, her faithful band / Here lie in death, remembering her command,” the epigram written by the lyric poet Simonides, and “Molon Labe” (“Come and Take It!”), the defiant response of Leonidas to the advancing Persians.</Text>
+		</Row>
+		<!--Leonidas-->
+		<Row Tag="TXT_KEY_LEADER_MC_LEONIDAS_FIRST_GREETING_1">
+			<Text>Before you speak, know that in Sparta everyone - even a king's messenger - is held accountable for the words of his voice. Now, what message do you bring?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LEONIDAS_FIRST_GREETING_2">
+			<Text>Who dares interrupt me, great king of Sparta? Choose your next words carefully, for they may be your last.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LEONIDAS_DEFEATED_1">
+			<Text>This is not possible. You have won only through treachery and deceipt, methods not befitting a warrior. You disgrace me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LEONIDAS_DEFEATED_2">
+			<Text>Enjoy your moment of glory while it lasts. You will not survive the year, lest you relinquish control of that which is not yours.</Text>
+		</Row>
+		<!--Sparta-->
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_SPARTA">
+			<Text>Sparta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_MESSENE">
+			<Text>Messene</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_TEGEA">
+			<Text>Tegea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_CORINTH">
+			<Text>Corinth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_ELIS">
+			<Text>Elis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_OLYMPIA">
+			<Text>Olympia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_MANTINEA">
+			<Text>Mantinea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_EPIDAUROS">
+			<Text>Epidauros</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_PHIGALEIA">
+			<Text>Phigaleia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_AMYKLAI">
+			<Text>Amyklai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_THERAPNE">
+			<Text>Therapne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_GYTHEION">
+			<Text>Gytheion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_GERONTHRAI">
+			<Text>Geronthrai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_HELOS">
+			<Text>Helos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_KYTHERA">
+			<Text>Kythera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_PYLOS">
+			<Text>Pylos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_PHARAI">
+			<Text>Pharai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_OITYLOS">
+			<Text>Oitylos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_PELLANA">
+			<Text>Pellana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_THOURIA">
+			<Text>Thouria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_THALAMAI">
+			<Text>Thalamai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_KYPARISSIA">
+			<Text>Kyparissia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_KYPHANTA">
+			<Text>Kyphanta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_METHONI">
+			<Text>Methoni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_SIKYON">
+			<Text>Sikyon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_AMBRAKIA">
+			<Text>Ambrakia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

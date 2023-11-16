@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="722c8675-2ae1-4753-a020-549e985f872f" version="1">
+  <Properties>
+    <Name>CBR_ReligionSpreader</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Spreads religion to appropriate cities</Teaser>
+    <Description>Spreads religion to appropriate cities</Description>
+    <Authors>CBR Dev Team</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>0</AffectsSavedGames>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>0</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions" />
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="B42273EEF376C8188421DDD38456F46E" import="0">CBR_ReligionFounder.lua</File>
+  </Files>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="CBR_ReligionFounder.lua">
+      <Name>Religion Founder</Name>
+      <Description>Religion Founder</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

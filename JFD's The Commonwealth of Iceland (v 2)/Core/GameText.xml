@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/20/2013 3:43:32 AM -->
+<GameData>
+	<Language_en_US>
+		<!--ICELAND-->
+		<Row Tag="TXT_KEY_CIV_JFD_ICELAND_ADJECTIVE">
+			<Text>Icelandic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_ICELAND_DESC">
+			<Text>Icelandic Commonwealth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_ICELAND_SHORT_DESC">
+			<Text>Iceland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ICELAND_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ICELAND_TEXT_1">
+			<Text>Though today a republic, the island of Iceland has undergone drastic changes throughout its history. To begin with, it was colonised by Norse settlers, giving it a ready-made bastion of culture. Over the years to come, Iceland became a Commonwealth under Danish rule, with a successful parliament, the Althing, among the first in the world. Following this time of prosperity came the Sturlung Wars, which ravaged the island and made it ever more reliant on Denmark. A colony of the Dano-Norwegian Empire, Iceland failed to achieve much until it became independent after the Second World War, due to the Allied takeover of the island - it subsequently voted to become a republic, and prospered to years afterwards. However, as a result of corrupt financial policy, Iceland sank into a deep recession, and is only just emerging from these dark days.</Text>
+		</Row>
+		<!--City List-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_01">
+			<Text>Reykjavík</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_02">
+			<Text>Þingvellir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_03">
+			<Text>Vatnafjörður</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_04">
+			<Text>Reyðarfjall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_05">
+			<Text>Borgarnes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_06">
+			<Text>Flókadallur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_07">
+			<Text>Húsavík</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_08">
+			<Text>Nattfaravik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_09">
+			<Text>Kopavogur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_10">
+			<Text>Hafnarfjordur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_11">
+			<Text>Akureyri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_12">
+			<Text>Keflavík</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_13">
+			<Text>Gardabaer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_14">
+			<Text>Mosfellsbaer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_15">
+			<Text>Akranes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_16">
+			<Text>Selfoss</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_17">
+			<Text>Njardvík</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_18">
+			<Text>Vestmannaeyjar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_19">
+			<Text>Grindavik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_20">
+			<Text>Saudarkrokur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_21">
+			<Text>Isafjordur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_22">
+			<Text>Alftanes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_23">
+			<Text>Hveragerdi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_24">
+			<Text>Egilsstadir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_25">
+			<Text>Borgarnes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_26">
+			<Text>Sandgerdi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_27">
+			<Text>Hofn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_28">
+			<Text>Porlakshofn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_29">
+			<Text>Dalvik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_30">
+			<Text>Gardur</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ICELAND_9">
+			<Text>Snorri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ICELAND_8">
+			<Text>Magnus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ICELAND_7">
+			<Text>Sigurdur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ICELAND_6">
+			<Text>Leifur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ICELAND_5">
+			<Text>Jon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ICELAND_4">
+			<Text>Freyja</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ICELAND_3">
+			<Text>Silvia</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ICELAND_2">
+			<Text>Anita</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ICELAND_1">
+			<Text>Anita</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ICELAND_0">
+			<Text>Ragnar</Text>
+		</Row>
+		<!--INGOLFUR-->
+		<Row Tag="TXT_KEY_LEADER_JFD_INGOLFR">
+			<Text>Ingolfur Arnarson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INGOLFR_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INGOLFR_TEXT_1">
+			<Text>Ingólfur Arnarson and his wife Hallveig are recognized as the first permanent Nordic settlers of Iceland. According to Landnáma he built his homestead in (and gave name to) Reykjavík in 874. Although recent archaeological finds in Iceland suggest settlement may have started a little earlier, the date is probably not too far off.[NEWLINE][NEWLINE]The medieval chronicler Ari Thorgilsson said Ingólfr was the first Nordic settler in Iceland, but mentioned that "Papar" – i.e. Irish monks and hermits – had been in the country before the Norsemen. He wrote that they left because they did not want to live amongst the newly arrived Norse pagans.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INGOLFR_LIVED">
+			<Text>9th Century</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INGOLFR_NAME">
+			<Text>Ingólfr Arnarson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INGOLFR_TITLE">
+			<Text>Leader of Iceland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_INGOLFR_SUBTITLE">
+			<Text>Chieftain of Iceland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_JFD_INGOLFR_TEXT">
+			<Text>Ingolfur Arnarson, great chieftain and first settler of Iceland, your noble kin await your command. Following your expulsion from Norway, you would seek out the path of your ancestors, and by the will of the Gods you would establish the first Nordic settlement in Iceland in 874 A.D. Iceland is an ancient nation, with a long history of parlimentary tradition chronicled in her great, epic sagas. Though subject to Norway and then Denmark throughout the first millenium, through the perserverance of your people's nordic spirit, Iceland would gain its independence in the middle of the 20th century, and has since continued the democratic traditions of her noble ancestors.[NEWLINE][NEWLINE]Heroic viking, great poems have yet to tell the tale of your return, and the coming deeds of your people will serve to inspire their Skaldic verses. Can you uphold the legacy of your ancestors? Can you sail the ferocious seas in search of lands which would bring glory to your name? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!--AGE OF SETTLEMENT-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_ICELAND">
+			<Text>Cities founded with Skalds or on terrain types different than the [ICON_CAPITAL] Capital begin with a free [ICON_GREAT_WORK] Great Work of Writing slot. Earn [ICON_GREAT_PEOPLE] Great Writer points from discovering Civilizations, or from winning Naval battles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_ICELAND_SHORT">
+			<Text>Age of Settlement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_ICELAND_GREAT_WRITING">
+			<Text>Writing Slot</Text>
+		</Row>
+		<!--THINGSTEAD-->
+		<Row Tag="TXT_KEY_CIV5_JFD_THINGSTEAD_TEXT">
+			<Text>A thing was the governing assembly in Germanic societies and introduced into some Celtic societies, made up of the free people of the community and presided by lawspeakers, meeting in a place called a thingstead. Today, the term lives on in the official names of national legislatures and political and judicial institutions in the Nordic countries, in the Manx form tyn, as a term for the three legislative bodies on the Isle of Man, and in the English term husting.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_THINGSTEAD">
+			<Text>Thingstead</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_THINGSTEAD_HELP">
+			<Text>Forms a [ICON_CONNECTED] City Connection with the [ICON_CAPITAL] Capital over water (if they're not already [ICON_CONNECTED] connected by land). Yields +2 [ICON_HAPPINESS_1] Happiness if [ICON_CONNECTED] Connected to the [ICON_CAPITAL] Capital.[NEWLINE][NEWLINE]City must have a Monument.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_THINGSTEAD_STRATEGY">
+			<Text>The Thingstead is the unique replacement for the amphitheater for Iceland. Unlike the Amphitheater, the Thingstead allows "water city connections" (see rules) between cities and provides +2 [ICON_HAPPINESS_1] Happiness when connected to the [ICON_CAPITAL] Capital. In addition, the Thingstead is slightly cheaper to produce than an amphitheater. Contains 1 slot for a Great Work of Writing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_ICELAND_HAPPINESS">
+			<Text>JFD: Thingstead Happiness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_ICELAND_HAPPINESS_HELP">
+			<Text>+2 [ICON_HAPPINESS_1] Happiness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_THINGSTEAD_CITY_VIEW_HELP">
+			<Text>+2 [ICON_HAPPINESS_1] Happiness from this city's [ICON_CONNECTED] connection to the [ICON_CAPITAL] Capital.</Text>
+		</Row>
+		<!--SKALD-->
+		<Row Tag="TXT_KEY_UNIT_JFD_SKALD">
+			<Text>Skald</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SKALD_TEXT">
+			<Text>The term skald (or skáld) meaning ‘poet’, is generally used for poets who composed at the courts of Scandinavian and Icelandic leaders during the Viking Age and Middle Ages. Skaldic poetry forms one of two main groupings of Old Norse poetry, the other being the anonymous Eddic poetry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_SKALD_STRATEGY">
+			<Text>The Skald is the unique Icelandic replacement for the Great Writer. This unit may be used as an effective Scout whilst embarked, gaining additional [ICON_STRENGTH] Defense and sight whilst embarked, as well as being able to cross oceans immediately. It also has the ability to found new cities, but only on a foreign continent that does not contain the Icelandic capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JFD_SKALD">
+			<Text>Unique Great Writer which specialises in scouting across oceans and can found cities on foreign continents.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_SKALD">
+			<Text>Skaldic Sagas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_SKALD_HELP">
+			<Text>May found cities on foreign continents. Double [ICON_MOVES] Movement when embarked.</Text>
+		</Row>
+		<!--Unique Names-->
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_01">
+			<Text>Bragi Boddason</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_01_DESC">
+			<Text>Bragi Boddason</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_01">
+			<Text>Ragnarsdrápa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_01">
+			<Text>Vilið Hrafnketill heyra,[NEWLINE]
+				hvé hreingróit steini[NEWLINE]
+				Þrúðar skalk ok þengil[NEWLINE]
+				þjófs ilja blað leyfa.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_02">
+			<Text>Bragi Boddason</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_02_DESC">
+			<Text>Bragi Boddason</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_02">
+			<Text>A verse about the giant Þjazi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_02">
+			<Text>Hinn es varp á víða[NEWLINE]
+				vinda ǫndurdísar[NEWLINE]
+				of manna sjǫt margra[NEWLINE]
+				mundlaug fǫður augum.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_03">
+			<Text>Bragi Boddason</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_03_DESC">
+			<Text>Bragi Boddason</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_03">
+			<Text>An exchange of verses between Bragi and a troll-woman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_03">
+			<Text>Skǫld kalla mik:[NEWLINE]
+				skipsmið Viðurs,[NEWLINE]
+				Gauts gjafrǫtuð,[NEWLINE]
+				grepp óhneppan,[NEWLINE]
+				Yggs ǫlbera,[NEWLINE]
+				óðs skap-Móða,[NEWLINE]
+				hagsmið bragar.[NEWLINE]
+				Hvat's skald nema þat?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_04">
+			<Text>Úlfr Uggason</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_04_DESC">
+			<Text>Úlfr Uggason</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_04">
+			<Text>Húsdrápa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_04">
+			<Text>The forehead-moon of the formidable friend of gods shone; the renowned god aimed terrifying glances at the necklace of the earth.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_05">
+			<Text>Eyvindr skáldaspillir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_05_DESC">
+			<Text>Eyvindr skáldaspillir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_05">
+			<Text>Hákonarmál</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_05">
+			<Text>On a good day[NEWLINE]
+				will such a king be born[NEWLINE]
+				who leaves such a sorrow.[NEWLINE]
+				His reign[NEWLINE]
+				will forever be[NEWLINE]
+				mentioned as good only.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_06">
+			<Text>Hauk Erlendsson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_06_DESC">
+			<Text>Hauk Erlendsson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_06">
+			<Text>Völuspá</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_06">
+			<Text>When time was young,[NEWLINE]
+				where Ymir dwelt,[NEWLINE]
+				was no sand, no sea,[NEWLINE]
+				nor cool waves;[NEWLINE]
+				earth existed not,[NEWLINE]
+				nor heaven above,[NEWLINE]
+				A chasm gaped,[NEWLINE]
+				and no grass.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_07">
+			<Text>Ólafur Loftsson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_07_DESC">
+			<Text>Ólafur Loftsson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_07">
+			<Text>Hallfreðar saga vandræðaskálds</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_07">
+			<Text>Love for a liege lord burns hot; and it is well that I will not be fighting against the king’s luck.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_08">
+			<Text>Ólafur Loftsson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_08_DESC">
+			<Text>Ólafur Loftsson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_08">
+			<Text>Hallfreðar saga vandræðaskálds</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_08">
+			<Text>The whole race of men to win[NEWLINE]
+				Óðinn's grace has wrought poems[NEWLINE]
+				(I recall the exquisite[NEWLINE]
+				works of my forebears);[NEWLINE]
+				but with sorrow, for well did[NEWLINE]
+				Viðrir's [Óðinn's] power please the poet,[NEWLINE]
+				do I conceive hate for the first husband of[NEWLINE]
+				Frigg [Óðinn], now I serve Christ.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_09">
+			<Text>Egill Skallagrímsson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_09_DESC">
+			<Text>Egill Skallagrímsson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_09">
+			<Text>Lausavísur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_09">
+			<Text>Thus spake my mother[NEWLINE]
+				That for me should they buy[NEWLINE]
+				A barque and beauteous oars[NEWLINE]
+				To go forth with vikings.[NEWLINE]
+				Stand in the stern,[NEWLINE]
+				Steer a dear vessel,[NEWLINE]
+				Hold course for a haven,[NEWLINE]
+				Hew down many foemen.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_10">
+			<Text>Porbjörn hornklofi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_10_DESC">
+			<Text>Porbjörn hornklofi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_10">
+			<Text>Glymdrápa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_10">
+			<Text>Hilmir réð á heiði,[NEWLINE]
+				hjaldrseiðs, þrimu, galdra[NEWLINE]
+				óðr við œskimeiða[NEWLINE]
+				ey vébrautar, heyja,[NEWLINE]
+				áðr gnapsólar Gripnis[NEWLINE]
+				gnýstœrandi fœri[NEWLINE]
+				rausnarsamr til rimmu[NEWLINE]
+				ríðviggs lagar skíðum.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_11">
+			<Text>Egill Skallagrímsson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_11_DESC">
+			<Text>Höfuðlausn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_11">
+			<Text>Höfuðlausn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_11">
+			<Text>
+				Vestr komk of ver,[NEWLINE]
+				en ek Viðris ber[NEWLINE]
+				munstrandar mar,[NEWLINE]
+				svá 's mitt of far;[NEWLINE]
+				drók eik á flot[NEWLINE]
+				við ísabrot;[NEWLINE]
+				hlóðk mærðar hlut[NEWLINE]
+				munknarrar skut.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_12">
+			<Text>Pjódólfr of Hvinir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_12_DESC">
+			<Text>Pjódólfr of Hvinir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_12">
+			<Text>Ynglingatal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_12">
+			<Text>Varð framgengt,[NEWLINE]
+				þars Fróði bjó,[NEWLINE]
+				feigðar orð,[NEWLINE]
+				es at Fjǫlni kom;[NEWLINE]
+				siklingi[NEWLINE]
+				svigðis geira[NEWLINE]
+				vágr vindlauss[NEWLINE]
+				of viða skyldi.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_13">
+			<Text>Porbjörn Hornklofi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_13_DESC">
+			<Text>Porbjörn Hornklofi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_13">
+			<Text>Glymdrápa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_13">
+			<Text>Hilmir réð á heiði[NEWLINE]
+				hjaldrskíðs þrimu, galdra[NEWLINE]
+				óðr við œskimeiða[NEWLINE]
+				ey vébrautar, heyja,[NEWLINE]
+				áðr gnapsalar Gripnis[NEWLINE]
+				gnýstœrandi fœri[NEWLINE]
+				rausnarsamr til rimmu[NEWLINE]
+				ríðviggs lagar skíðum.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_14">
+			<Text>Snorri Sturluson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_14_DESC">
+			<Text>Snorri Sturluson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_14">
+			<Text>Gylfaginning</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_14">
+			<Text>The sun knew not[NEWLINE]
+				where she had housing;[NEWLINE]
+				The moon knew not[NEWLINE]
+				what Might he had;[NEWLINE]
+				The stars knew not[NEWLINE]
+				where stood their places.[NEWLINE]
+				Thus was it ere[NEWLINE]
+				the earth was fashioned.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_15">
+			<Text>Snorri Sturluson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_15_DESC">
+			<Text>Snorri Sturluson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_15">
+			<Text>Skáldskaparmál</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_15">
+			<Text>Now is the flight of eagles[NEWLINE]
+				Over the field; the sailors[NEWLINE]
+				Of the sea-horses hie them[NEWLINE]
+				To the Hanged-God's gifts and feasting.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_16">
+			<Text>Pórir jökull Steinfinnsson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_16_DESC">
+			<Text>Pórir jökull Steinfinnsson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_16">
+			<Text>Skáldskaparmál</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_16">
+			<Text>Onto the keel you climb,[NEWLINE]
+				Cold is the ocean brine.[NEWLINE]
+				Keeping courage though,[NEWLINE]
+				Locked in a deadly throe.[NEWLINE]
+				Baldhead, show no fear,[NEWLINE]
+				showers fall on you here.[NEWLINE]
+				With maidens you had a way,[NEWLINE]
+				All must die one day.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_17">
+			<Text>Einarr Skúlason</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_17_DESC">
+			<Text>Einarr Skúlason</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_17">
+			<Text>Skáldskaparmál</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_17">
+			<Text>Vásöflugr réð vísi[NEWLINE]
+				Ok sás æzt gat ríki[NEWLINE]
+				Húf lét hilmir svífa[NEWLINE]
+				Getk þess es gramr fór vitja[NEWLINE]
+				Sætt frák Dæla dróttin.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_18">
+			<Text>Arnórr Pórðarson jarlaskáld</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_18_DESC">
+			<Text>Arnórr Pórðarson jarlaskáld</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_18">
+			<Text>Skáldskaparmál</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_18">
+			<Text>Mágnús hlýð til máttigs óðar,[NEWLINE]
+				mangi veit ek fremra annan;[NEWLINE]
+				yppa ráðumk yðru kappi,[NEWLINE]
+				Jóta gramr, í kvæði fljótu.[NEWLINE]
+				Haukr réttr es þú, Hörða dróttinn,[NEWLINE]
+				hverr gramr es þér stórum verri,[NEWLINE]
+				meiri verði þinn an þeira[NEWLINE]
+				þrifnuðr allr, unz himinn rifnar.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_19">
+			<Text>Snorri Sturluson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_19_DESC">
+			<Text>Snorri Sturluson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_19">
+			<Text>The Heimskringla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_19">
+			<Text>The king's sharp sword lies clean and bright,[NEWLINE]
+				Our brave king is to Russia gone, -- Prepared in foreign lands to fight:[NEWLINE]
+				Braver than he on earth there's none; Our ravens croak to have their fill,[NEWLINE]
+				His sharp sword will carve many feast The wolf howls from the distant hill.[NEWLINE]
+				To wolf and raven in the East.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_20">
+			<Text>Óttarr svarti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_20_DESC">
+			<Text>Óttarr svarti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_20">
+			<Text>Knútsdrápa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_20">
+			<Text>Hratt lítt gamall, lýtir[NEWLINE]
+				lögreiðar, framm skeiðum;[NEWLINE]
+				fórat fylkir œri[NEWLINE]
+				folksveimuðr þér heiman;[NEWLINE]
+				hilmir bjótt ok hættir[NEWLINE]
+				harðbrynjuð skip kynjum;[NEWLINE]
+				reiðr hafðir þú rauðar[NEWLINE]
+				randir Knútr fyr landi.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_21">
+			<Text>Óttarr svarti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_21_DESC">
+			<Text>Óttarr svarti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_21">
+			<Text>Óláfsdrápa sænska</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_21">
+			<Text>Jǫfurr heyri upphaf,[NEWLINE]
+				ofrask mun konungs lof[NEWLINE]
+				(hǫ́ttu nemi hann) rétt,[NEWLINE]
+				hróðrs sins (bragar míns).
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_22">
+			<Text>Pórarinn loftunga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_22_DESC">
+			<Text>Pórarinn loftunga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_22">
+			<Text>Tögdrápa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_22">
+			<Text>Gjöld hefk marka[NEWLINE]
+				malmdyns fyr hlyn[NEWLINE]
+				fram fimm tøgu[NEWLINE]
+				forvíst borit,[NEWLINE]
+				þeiras veitti[NEWLINE]
+				víghagr fyr brag[NEWLINE]
+				mér morðstœrir,[NEWLINE]
+				mann-Baldr, es ek fann.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_23">
+			<Text>Sigvatr Tordarson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_23_DESC">
+			<Text>Sigvatr Tordarson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_23">
+			<Text>Austrfararvísur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_23">
+			<Text>Hugstóra biðk heyra,[NEWLINE]
+				hressfœrr jöfurr, þessar,[NEWLINE]
+				þolðak vás, hvé vísur,[NEWLINE]
+				verðung, of för gerðak.[NEWLINE]
+				Sendr vask upp af öndrum[NEWLINE]
+				austr, svafk fátt í hausti,[NEWLINE]
+				til Svíþjóðar, síðan,[NEWLINE]
+				svanvangs í för langa.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_24">
+			<Text>Gunnlaugr Ormstunga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_24_DESC">
+			<Text>Gunnlaugr Ormstunga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_24">
+			<Text>Saga of Gunnlaugr Serpent-Tongue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_24">
+			<Text>Even as Ari Thorgilson the Learned, the Priest,[NEWLINE]
+				Hath told it, who was the man of all Iceland[NEWLINE]
+				Most learned in tales of the land's inhabiting[NEWLINE]
+				And in lore of time agone.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_25">
+			<Text>Tindr Hallkelsson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_25_DESC">
+			<Text>Tindr Hallkelsson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_25">
+			<Text>Heimskringla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_25">
+			<Text>The ring-linked coat of strongest mail[NEWLINE]
+				Could not withstand the iron hail,[NEWLINE]
+				Though sewed with care and elbow bent,[NEWLINE]
+				By Norn, on its strength intent.[NEWLINE]
+				The fire of battle raged around, --[NEWLINE]
+				Odin's steel shirt flew all unbound![NEWLINE]
+				The earl his ring-mail from him flung,[NEWLINE]
+				Its steel rings on the wet deck rung;[NEWLINE]
+				Part of it fell into the sea, --[NEWLINE]
+				A part was kept, a proof to be[NEWLINE]
+				How sharp and thick the arrow-flight[NEWLINE]
+				Among the sea-steeds in this fight.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_26">
+			<Text>Einarr Helgason</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_26_DESC">
+			<Text>Einarr Helgason</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_26">
+			<Text>Heimskringla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_26">
+			<Text>"What kind of kingdom is that," said the king, "which I can give[NEWLINE]
+				to Harald, that I may possess Denmark entire?"[NEWLINE]
+				"It is Norway," said the earl.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_27">
+			<Text>Pórvaldr Hjaltason</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_27_DESC">
+			<Text>Pórvaldr Hjaltason</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_27">
+			<Text>Styrbjarnar páttr Svíakappa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_27">
+			<Text>Farið til Fýrisvallar,[NEWLINE]
+				folka tungls, hverr's hungrar,[NEWLINE]
+				vörðr, at virkis garði[NEWLINE]
+				vestr kveldriðu hesta;[NEWLINE]
+				þar hefr hreggdrauga höggvit[NEWLINE]
+				(hóllaust es þat) sólar[NEWLINE]
+				elfar skíðs fyr ulfa[NEWLINE]
+				Eiríkr í dyn geira.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_28">
+			<Text>Eilífr Goðrúnarson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_28_DESC">
+			<Text>Eilífr Goðrúnarson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_28">
+			<Text>Styrbjarnar páttr Svíakappa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_28">
+			<Text>and thus the swift hastener of battle, Þröng's old friend, greedily drank the raised drink of the molten lump in the air with the swift mouths of his hands [caught it in his grasp], when the hissing cinder took flight from the hostile breast of the grip [palm] of the ardent lover of Hrímnir's maiden [giant] towards the one who strongly misses Þrúðr.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_29">
+			<Text>Kormákr Ögmundarson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_29_DESC">
+			<Text>Kormákr Ögmundarson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_29">
+			<Text>Skáldskaparmál</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_29">
+			<Text>Brightly beamed the lights-of-[NEWLINE]
+				both-her-cheeks upon me—[NEWLINE]
+				e'er will I recall it—[NEWLINE]
+				o'er the heaped-up wood-pile;[NEWLINE]
+				and the instep saw I[NEWLINE]
+				of the shapely woman—[NEWLINE]
+				no laughing matter, lo! my[NEWLINE]
+				longing—by the threshold.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_30">
+			<Text>Egill Skallagrímsson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_30_DESC">
+			<Text>Sonatorrek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_30">
+			<Text>Sonatorrek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_30">
+			<Text>Mjǫk erum tregt[NEWLINE]
+				tungu at hrœra[NEWLINE]
+				með loptvétt[NEWLINE]
+				ljóðpundara;[NEWLINE]
+				esa nú vænligt[NEWLINE]
+				of Viðurs þýfi,[NEWLINE]
+				né hógdrœgt[NEWLINE]
+				ór hugar fylgsni.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--JFD'S EXPLORATION CONTINUED EXPANDED-->
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_SWEDEN_NORWAY_01">
+			<Text>Myggbukta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_SWEDEN_NORWAY_02">
+			<Text>Eystribyggð</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_SWEDEN_NORWAY_03">
+			<Text>Longyearbyen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_SWEDEN_NORWAY_04">
+			<Text>Vinland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_SWEDEN_NORWAY_05">
+			<Text>Vestribyggð</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_SWEDEN_NORWAY_06">
+			<Text>Olonkinbyen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_SWEDEN_NORWAY_07">
+			<Text>Bouvetøya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_SWEDEN_NORWAY_08">
+			<Text>Dronning Maud Land</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_SWEDEN_NORWAY_09">
+			<Text>Tórshavn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_SWEDEN_NORWAY_10">
+			<Text>Klaksvík</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_SWEDEN_NORWAY_11">
+			<Text>Hoyvík</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_SWEDEN_NORWAY_12">
+			<Text>Argir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_SWEDEN_NORWAY_13">
+			<Text>Reykjavík</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_SWEDEN_NORWAY_14">
+			<Text>Seyðisfjörður</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_SWEDEN_NORWAY_15">
+			<Text>Skúlastaðir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_SWEDEN_NORWAY_16">
+			<Text>Vífilsstaðir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_SWEDEN_NORWAY_17">
+			<Text>Garðabær</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_SWEDEN_NORWAY_18">
+			<Text>Vopnafjörður</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_SWEDEN_NORWAY_19">
+			<Text>Kirkwall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_SWEDEN_NORWAY_20">
+			<Text>Stromness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_SWEDEN_NORWAY_21">
+			<Text>Lerwick</Text>
+		</Row>
+		<!-- RYOGA's UNIQUE CULTURAL INFLUENCE -->
+		<Row Tag="TXT_KEY_GENERIC_JFD_SWEDEN_NORWAY_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now reading your Nobel Prize-winning literature and listening to your romantic compositions. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!-- SUKRITACT's DECISIONS -->
+		<!--Commission Self-Portrait-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_SWEDEN_NORWAY_COMMISSION_SELFPORTRAIT">
+			<Text>Commission Self-Portrait</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_SWEDEN_NORWAY_COMMISSION_SELFPORTRAIT_DESC">
+			<Text>We should commission for ourself a self-portrait, by which we can be remembered in history as a modest and humble ruler.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Sweden-Norway
+				[NEWLINE][ICON_BULLET]Must have an available art slot
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Renaissance Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_GOLD] Gold
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a free Great Work of Art
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_SWEDEN_NORWAY_COMMISSION_SELFPORTRAIT_ENACTED_DESC">
+			<Text>We should commission for ourself a self-portrait, by which we can be remembered in history as a modest and humble ruler.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a free Great Work of Art
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_JFD_ANDERS_ZORN">
+			<Text>Anders Zorn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DECISIONS_JFD_OSCAR_II">
+			<Text>Oscar II</Text>
+		</Row>
+		<!--Innovate Open-Air Museums-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_SWEDEN_NORWAY_INNOVATE_OPEN_AIR_MUSEUMS">
+			<Text>Innovate Open-Air Museums</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_SWEDEN_NORWAY_INNOVATE_OPEN_AIR_MUSEUMS_DESC">
+			<Text>An open-air museum is a type of museum whose exhibits are located outdoors. They often display collections of buildings or artefacts that otherwise would not fit indoors, some featuring actors living out the lives of people of the past. Oscar II innovated this kind of museum at his summer residence near Kristiania.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Sweden-Norway
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Renaissance Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_GOLD] Gold
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_CULTURE] Culture on Great People Tile Improvements
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_SWEDEN_NORWAY_INNOVATE_OPEN_AIR_MUSEUMS_ENACTED_DESC">
+			<Text>An open-air museum is a type of museum whose exhibits are located outdoors. They often display collections of buildings or artefacts that otherwise would not fit indoors, some featuring actors living out the lives of people of the past. Oscar II innovated this kind of museum at his summer residence near Kristiania.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_CULTURE] Culture on Great People Tile Improvements
+			</Text>
+		</Row>
+		<!-- SUKRITACT's EVENTS -->
+		<!-- Prize-winning Poetry -->
+		<Row Tag="TXT_KEY_EVENT_JFD_SWEDEN_NORWAY_PRIZE_WINNING_POETRY">
+			<Text>Prize-winning Poetry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_SWEDEN_NORWAY_PRIZE_WINNING_POETRY_DESC">
+			<Text>A collection of our poetry, published by {1_CapitalName}'s finest academy, has been awarded second prize in a competition of fine literature.[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_SWEDEN_NORWAY_PRIZE_WINNING_POETRY_OUTCOME_1">
+			<Text>We are flattered, of course!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_SWEDEN_NORWAY_PRIZE_WINNING_POETRY_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} {2_Yield}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_SWEDEN_NORWAY_PRIZE_WINNING_POETRY_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have won second prize in a competition of fine literature held by {1_CapitalName}'s finest academy.</Text>
+		</Row>
+		<!-- Arctic Expedition -->
+		<Row Tag="TXT_KEY_EVENT_JFD_SWEDEN_NORWAY_ARCTIC_EXPEDITION">
+			<Text>Arctic Expedition</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_SWEDEN_NORWAY_ARCTIC_EXPEDITION_DESC">
+			<Text>A group of adventurers, eager to explore the frozen Arctic, have petitioned for us to become their sponsor and to fund an expedition north.[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_SWEDEN_NORWAY_ARCTIC_EXPEDITION_OUTCOME_1">
+			<Text>Excellent. When do they leave?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_SWEDEN_NORWAY_ARCTIC_EXPEDITION_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Receive a {2_UnitName}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_SWEDEN_NORWAY_ARCTIC_EXPEDITION_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have agreed to become patron to an expedition to the Arctic north.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_SWEDEN_NORWAY_ARCTIC_EXPEDITION_OUTCOME_2">
+			<Text>I have not the funds for this frivolous expense.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_SWEDEN_NORWAY_ARCTIC_EXPEDITION_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Nothing[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_SWEDEN_NORWAY_ARCTIC_EXPEDITION_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have declined to become patron to an expedition to the Arctic north.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_SWEDEN_NORWAY_ARCTIC_EXPLORATION">
+			<Text>Oscar II of Sweden-Norway has agreed to patronise an expedition to the Arctic.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

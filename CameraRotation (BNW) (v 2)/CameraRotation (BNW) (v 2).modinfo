@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="fb301ab8-34f7-4557-b5e4-7599c6ce6060" version="2">
+  <Properties>
+    <Name>CameraRotation (BNW)</Name>
+    <Teaser>Adds camera rotation hotkeys to the game.</Teaser>
+    <Description>CameraRotation for Civilization V: Brave New World
+by alpaca
+
+Adds camera rotation hotkeys to the game.
+
+This doesn't work superbly (you sometimes rotate into map borders for example), which is probably why the devs didn't add it by default, but it works.
+
+Press and hold [COLOR_PLAYER_BLUE_TEXT]numpad divide[ENDCOLOR] or [COLOR_PLAYER_BLUE_TEXT]SHIFT + LeftArrow[ENDCOLOR] to rotate clockwise. Likewise, press [COLOR_PLAYER_BLUE_TEXT]numpad multiply[ENDCOLOR] or [COLOR_PLAYER_BLUE_TEXT]SHIFT + RightArrow[ENDCOLOR]  to rotate counter-clockwise.
+
+Also see the versions for vanilla Civilization V, Gods + Kings, and Civ V Unofficial Patch.
+
+Compatibility: This mod changes  DLC/Expansion2/UI/InGame/WorldView/WorldView.lua</Description>
+    <Authors>alpaca, heinous_hat</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <Homepage>http://forums.civfanatics.com/showthread.php?t=403982</Homepage>
+    <AffectsSavedGames>0</AffectsSavedGames>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="cc7356e8-ddcf-44da-85e1-a28918c93484" minversion="0" maxversion="999" title="Unofficial Patch and Vanilla Enhanced" />
+    <Mod id="01127f62-3896-4897-b169-ecab445786cd" minversion="0" maxversion="999" title="Civ V Unofficial Patch (GK)" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="A51175FB0FDD0BCE9DD21D1EBF296E67" import="1">WorldView.lua</File>
+  </Files>
+</Mod>

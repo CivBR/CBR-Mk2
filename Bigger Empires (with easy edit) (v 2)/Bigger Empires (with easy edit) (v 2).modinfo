@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="6c7ae2fc-8ebf-45e6-b0f6-859beb7c4c34" version="2">
+  <Properties>
+    <Name>Bigger Empires (with easy edit)</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Allows your empire to expand further and faster and adjust the expansion parameters to your liking</Teaser>
+    <Description>This mod by default:
+[NEWLINE]• allows your cities to expand culturally to up to 8 rings (decreasing late game pointless AI city spam - the lands will be claimed further from your cities)
+[NEWLINE]• decreases the cultural cost of acquiring new tiles on average by 25%, so that you can grow quicker
+[NEWLINE]• decreases the cost of buying a tile by 10 gold/tile (some empires tend to focus more on gold than culture, and I believe it would be unfair to only reduce the culture cost)
+[NEWLINE]
+[NEWLINE]It doesn't change the ratio of borders growth between civs and city states (1,5 slower for city states), but you can tweak it if you like in the xml file.
+[NEWLINE]
+[NEWLINE]What makes this mod different to others is an attached excel spreadsheet, allowing you to modify the 4 parameters changing the cultural cost, so that you can create your own version suiting your needs. Just open the attached xlsx file, change the values to your liking and see the impact, and then change the values in the xml file to what you're happy with. There's also a few other parameters responsible for borders growth you can tweak, explained in detail in attached file.
+[NEWLINE]
+[NEWLINE]Supports multiplayer via mpmpm.</Description>
+    <Authors>Manek</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>0</AffectsSavedGames>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="63645493942C1C2CD20C5AD325D0D702" import="0">BiggerEmpires.xml</File>
+    <File md5="932C8F09485EE181EFD0CF3806E44A06" import="0">civV_culture_cost.xlsx</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>BiggerEmpires.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

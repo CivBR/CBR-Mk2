@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/20/2014 11:21:31 PM -->
+<GameData>
+	<Language_en_US>
+	<!--City Names-->
+		<Row Tag="TXT_KEY_CITY_NAME_TEXAS_1">
+			<Text>Austin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TEXAS_2">
+			<Text>Houston</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TEXAS_3">
+			<Text>San Antonio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TEXAS_4">
+			<Text>Dallas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TEXAS_5">
+			<Text>El Paso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TEXAS_6">
+			<Text>Corpus Christi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TEXAS_7">
+			<Text>Gonzales</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TEXAS_8">
+			<Text>Laredo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TEXAS_9">
+			<Text>Richardson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TEXAS_10">
+			<Text>Harrisburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TEXAS_11">
+			<Text>Brownsville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TEXAS_12">
+			<Text>Galveston</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TEXAS_13">
+			<Text>Waco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TEXAS_14">
+			<Text>McAllen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TEXAS_15">
+			<Text>Velasco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TEXAS_16">
+			<Text>Carrollton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TEXAS_17">
+			<Text>Columbia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TEXAS_18">
+			<Text>Beaumont</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TEXAS_19">
+			<Text>Pasadena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TEXAS_20">
+			<Text>Holford's Prairie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TEXAS_21">
+			<Text>Bastrop</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TEXAS_22">
+			<Text>Hidalgo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TEXAS_23">
+			<Text>Nacogdoches</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TEXAS_24">
+			<Text>Goliad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TEXAS_25">
+			<Text>Presidio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TEXAS_26">
+			<Text>Floresville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TEXAS_27">
+			<Text>Point Isabel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TEXAS_28">
+			<Text>Arlen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TEXAS_FW">
+			<Text>Fort Worth</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_TEXAS_9">
+			<Text>Walker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_TEXAS_8">
+			<Text>Bowie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_TEXAS_7">
+			<Text>Armstrong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_TEXAS_6">
+			<Text>Ross</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_TEXAS_5">
+			<Text>Brooks</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_TEXAS_4">
+			<Text>Ford</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_TEXAS_3">
+			<Text>Major Kong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_TEXAS_2">
+			<Text>Gonzaullas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_TEXAS_1">
+			<Text>Colt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_TEXAS_0">
+			<Text>Crockett</Text>
+		</Row>
+	<!--Texas-->
+		<Row Tag="TXT_KEY_CIV_TEXAS_ADJECTIVE">
+			<Text>Texan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TEXAS_DESC">
+			<Text>Republic of Texas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TEXAS_SHORT_DESC">
+			<Text>Texas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_TEXAS_TEXT">
+			<Text>Glory to you, Samuel Houston, leader of the proud and indominatable Texan people! Born as an American, you moved to the Mexican state of Coahuila Y Tejas, and soon became a fearless leader of the Texas Revolution in the face of Mexican tyranny. Inspiring Texans not to forget the tragedies at the Battle of the Alamo and of the Goliad massacre, men under your command successfully routed the Mexican army at the Battle of San Jacinto, and secured the independence of your nation. You served as the 1st and 3rd President of the Republic of Texas, and supported peaceful annexation by the growing United States. You also protected the well-being of your people, refusing to swear allegiance to neither the Confederate States of America, nor allowing Union soldiers into Texas to put down dissidents. Truly, you loved Texas above all else, and have well earned your place as her greatest leader![NEWLINE][NEWLINE]Mr. Houston, your people call out to you to once again lead them to glory and power. Will you answer their call? Will you once again build an inspirational and influential culture, known the world over, or will you show the world the power and fighting skill of your men, the flowers of the nation? Can you build a civilization to stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TEXAS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TEXAS_TEXT_1">
+			<Text>The Republic of Texas was a nation that existed on the frontier between Mexico and the United States of America between 1836 and 1845. The recorded history of Texas begins with the arrival of the first Spanish conquistadors in the region now known as Texas in 1519, who found the region populated by numerous Native American tribes, whose ancestors had been there for thousands of years. During the period from 1519 to 1848, all or parts of Texas were claimed by six countries: France, Spain, Mexico, the Republic of Texas, the United States of America--as well as the Confederate States of America in 1861–65. The first European base was established in 1682, when a French colony, Fort Saint Louis, was established near Matagorda Bay. The colony was killed off by Native Americans after three years, but Spanish authorities felt pressed to establish settlements to keep their claim to the land. Several missions were established in East Texas; they were abandoned in 1691. Twenty years later, concerned with the French presence in neighboring Louisiana, Spanish authorities again tried to colonize Texas. Over the next 110 years, Spain established numerous villages, fortresses, and missions in the province. A small number of Spanish settlers arrived, in addition to missionaries and soldiers. Spain signed agreements with colonizers from the United States.[NEWLINE][NEWLINE]When Mexico won its independence from Spain in 1821, Mexican Texas was part of the new nation. To encourage settlement, Mexican authorities allowed organized immigration from the United States, and by 1834, over 30,000 Anglos lived in Texas, compared to 7,800 Mexicans. Tensions between American settlers and the Mexican government rose sharply following Santa Anna's 1824 dissolvation of the constitution, culminating in the Battle of Gonzales. At Gonzales, the Mexican army was dispatched to retrieve a single cannon from Texan dissidents who famously told them to "come and take it". This battle sparked the Texas Revolution, which was won at the Battle of San Jacinto in 1836, earning the state independence as a Republic. 9 years later, Texas was voluntarily annexed by the growing United States, becoming that country's 28th state.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TEXAS_HEADING_2">
+			<Text>Climate and Terrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TEXAS_TEXT_2">
+			<Text>Located at both the border between the United States and Mexico, and with that the border of North and Central America, Texas is a warm region, bordered by the Gulf of Mexico in the east and the Rio Grande river on the southern border. Very diverse geography-wise, it is part of the Great Plains to the north, touching the Sierra Madre Mountain range in the south.[NEWLINE][NEWLINE]Texas's climate varies widely, from arid in the west to humid in the east. The huge expanse of Texas encompasses several regions with distinctly different climates: Northern Plains, Trans-Pecos Region, Texas Hill Country, Piney Woods, and South Texas. Generally speaking, the eastern half of Texas is humid subtropical, while the western half is semi-arid (with some arid regions). While snowfall is more common across northern Texas than in its southern sections, snow has fallen heavily near and along the middle and upper Texas coastline. Texas ranks first in tornado occurrence with an average of 139 per year. Tropical cyclones can affect the state, either from the Gulf of Mexico or from an overland trajectory originating in the eastern Pacific Ocean. Those originating from the Gulf of Mexico are more likely to strike the upper Texas coast than elsewhere. Significant floods have occurred across the state throughout history, both from tropical cyclones and from stalled weather fronts.[NEWLINE][NEWLINE]With bountiful natural resources, Texas is a major agricultural and industrial state. It leads all other US states in such categories as oil, cattle, sheep, and cotton. Texas also produces poultry, eggs, dairy products, greenhouse and nursery products, wheat, hay, rice, sugar cane, and peanuts, and a range of fruits and vegetables.</Text>
+		</Row>
+	<!--Sam Houston-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HOUSTON_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HOUSTON_TEXT_1">
+			<Text>Samuel "Sam" Houston was an American politician and soldier, best known for his role in securing the independence of Texas from Mexico, and later bringing Texas into the United States as a constituent state. Born in Virginia, of Scots-Irish descent, Houston became a key figure in the history of Texas and was elected as the first and third President of the Republic of Texas, U.S. Senator for Texas after it joined the United States, and finally as a governor of the state. He refused to swear loyalty to the Confederacy when Texas seceded from the Union in 1861 with the outbreak of the American Civil War, and was removed from office. To avoid bloodshed, he refused an offer of a Union army to put down the Confederate rebellion. Instead, he retired to Huntsville, Texas, where he died before the end of the American Civil War.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HOUSTON_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HOUSTON_TEXT_2">
+			<Text>Sam Houston was the 5th son of Major Samuel Houston and Elizabeth Paxton, born in the Shenandoah Valley of Virginia. The elder Samuel Houston, a veteran of the Revolutionary War, died in 1807, shortly before his family moved to Maryville, Tennessee. Having only received a short, basic education while growing up on the Virginia frontier, Sam was only 14 when his family moved, and in 1809, at age 16, he ran way from home, because he was dissatisfied working as a shop clerk in his older brothers' store.[NEWLINE][NEWLINE]Heading southwest, he lived with the Cherokee tribe on Hiwassee Island for a few years, becoming an adoptive son to Cherokee chief Ahuludegi, who named him "Colonneh" (The Raven). Sam learned fluent Cherokee while living with the tribe, and visited his family in Maryville every several months. He eventually returned to his family in 1812, at age 19, and founded a small schoolhouse, the first in Tennessee. Soon, he reported to a training camp in Knoxville, enlisting in the 39th Infantry Regiment to fight the British in the War of 1812. Quickly rising from the rank of Private to Third Lieutenant, he was wounded at the Battle of Horshoe Bend in 1814, but continued to fight. When future president Andrew Jackson called on volunteers to dislodge a group of Creek soldiers from a fortification, Houston volunteered, but was shot in the shoulder and arm during the battle. He returned to Maryville a disabled veteran. Houston became close to Jackson, who was impressed with him and acted as a mentor.[NEWLINE][NEWLINE]In 1822 Houston was elected to the US House of Representatives for Tennessee, where he was a staunch supporter of Jackson. He was widely considered to be Jackson's political protégé, although their ideas about appropriate treatment of Native Americans differed greatly. Houston was a Congressman from 1823 to 1827, re-elected in 1824. In 1827 he declined to run for re-election to Congress. He ran for, and won, the office of governor of Tennessee in 1827, defeating Congressman Newton Cannon and former governor Willie Blount. He planned to run for re-election in 1829, but resigned after his wife left him shortly after their marriage and made public statements embarrassing to him.[NEWLINE][NEWLINE]In 1832, Houston visited Washington, DC, to expose the frauds that had been committed against the Cherokee. Anti-Jacksonian Congressman William Stanbery of Ohio made accusations about Houston in a speech on the floor of Congress. Attacking Jackson through his protégé, Stanbery accused Houston of being in league with John Van Fossen and Congressman Robert S. Rose. The three men had bid on supplying rations to the various tribes of Native Americans who were being forcibly relocated west of the Mississippi as a result of Jackson's Indian Removal Act of 1830. After Stanbery refused to answer Houston's letters about the accusation, Houston confronted him on Pennsylvania Avenue and beat him with a hickory cane. Stanbery drew one of his pistols and pulled the trigger--fortunately, the gun misfired. On April 17 Congress ordered Houston's arrest. During his trial, he pleaded self-defense, but was found guilty. Houston's political reputation suffered further due to the publicity related to the trial for his assault of Stanbery. He asked his second wife, Tiana Rodgers, a Cherokee, to go with him to Mexican Texas, but she chose to stay at their cabin and trading post in present-day Kansas and remarried. Houston married again after his divorce from Eliza Allen in 1837 and Tiana's death in 1838.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HOUSTON_HEADING_3">
+			<Text>Texas Revolution, Republic of Texas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HOUSTON_TEXT_3">
+			<Text>Houston left for Texas in December 1832 and was immediately swept up in the local politics of what was still a territory of the Mexican state of Coahuila. Attending the Convention of 1833 as representative for Nacogdoches, Houston emerged as a supporter of William Harris Wharton and his brother, who promoted independence from Mexico. This was the more radical position of the American settlers and Tejanos in Texas. He also attended the Consultation of 1835. The Texas Army commissioned him as Major General in November 1835. He negotiated a peace settlement with the Cherokee of East Texas in February 1836 to allay their fears about independence. At the convention to declare Texan Independence in March 1836, Houston was selected as Commander-in-Chief. On March 2, 1836, his 43rd birthday, Houston signed the Texas Declaration of Independence.[NEWLINE][NEWLINE]On March 6th, Mexican soldiers killed all those at the Alamo Mission at the end of the infamous siege. On March 11, Houston joined what constituted his army at Gonzales: 374 poorly equipped, trained, or supplied recruits. Word of the defeat at the Alamo reached Houston and, while he waited for confirmation, he organized the recruits as the 1st Regiment Volunteer Army of Texas. On March 13, short on rations, Houston retreated before the superior forces of Mexican General Antonio López de Santa Anna. Heavy rain fell nearly every day, causing severe morale problems among the exposed troops struggling in mud. After four days' march, near present-day La Grange, Houston received additional troops and continued east two days later with 600 men. At Goliad, Santa Anna ordered the execution of approximately 400 volunteer Texas militia led by James Fannin, who had surrendered his forces on March 20. Near present-day Columbus on March 26, Houston's forces were joined by 130 more men, and the next day learned of the Fannin massacre. Houston continued his retreat eastward toward the Gulf coast, drawing criticism for his perceived lack of willingness to fight. On March 29, camped along the Brazos River, two companies refused to retreat further. Houston decided to use the opportunity for rudimentary training and discipline of his force. On April 2 he organized the 2nd Regiment, received a battalion of regulars, and on April 11 ordered all troops along the Brazos to join the main army, approximately 1,500 men in all. He began crossing the Brazos on April 12. Finally, Santa Anna caught up with Houston's army, but had split his own army into three separate forces in an attempt to encircle the Texans. At the Battle of San Jacinto on April 21, 1836, Houston surprised Santa Anna and the Mexican forces during their afternoon "siesta." Spurred on by calls to remember The Alamo and Goliad, the Texans won a decisive victory in under 18 minutes, suffering few casualties, but Houston's ankle was shattered by a stray bullet. Badly beaten, Santa Anna was soon captured and forced to sign the Treaty of Velasco, granting Texas its independence. Although Houston stayed on briefly for negotiations, he returned to the United States for treatment of his ankle wound.[NEWLINE][NEWLINE]Houston was twice elected president of the Republic of Texas. On September 5, 1836, he defeated Stephen F. Austin and Henry Smith with a landslide of over 79% of the vote. Houston served from October 22, 1836, to December 10, 1838, and again from December 12, 1841, to December 9, 1844. While he initially sought annexation by the U.S., he dropped that goal during his first term. In his second term, he strove for fiscal prudence and worked to make peace with the various tribes of Native Americans in the Republic. He also struggled to avoid war with Mexico, who did not recognize the Republic and whose forces invaded twice during 1842. In response to the Regulator-Moderator War of 1844, he sent in Republic militia to put down the feud.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HOUSTON_LIVED">
+			<Text>1793 - 1863 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HOUSTON_NAME">
+			<Text>Sam Houston</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HOUSTON_SUBTITLE">
+			<Text>Leader of Texas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOUSTON">
+			<Text>Houston</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HOUSTON_TITLES_1">
+			<Text>President of the Republic of Texas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HOUSTON_TITLES_2">
+			<Text>Governor of Texas</Text>
+		</Row>
+		<!--Come and Take it-->
+		<Row Tag="TXT_KEY_TRAIT_TAKEIT">
+			<Text>Melee, Gun, Mounted, and Siege units recieve a combat bonus relative to their proximity to the Capital. +2 [ICON_CULTURE] Culture from Forts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TAKEIT_SHORT">
+			<Text>Come And Take It</Text>
+		</Row>
+		<!--Texas Ranger-->
+		<Row Tag="TXT_KEY_UNIT_TEXASRANGER">
+			<Text>Ranger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_TEXASRANGER">
+			<Text>Cavalry replacement unique to the Republic of Texas. Unlike the standard Cavalry unit, the Ranger gains defensive bonuses from terrain, and provides a boost of culture and points towards your next Golden Age upon defeating an enemy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TEXASRANGER_STRATEGY">
+			<Text>The Ranger replaces the standard Cavalry unit of the Industrial era, and may only be built by the Republic of Texas. Upon killing an enemy unit, 100% of that unit's combat strength is converted into [ICON_CULTURE] culture and points towards the next Texan [ICON_GOLDEN_AGE] Golden Age. It also receives combat bonuses from terrain such as hills and forts, unlike standard mounted units. Position them wisely!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_TEXASRANGERS_TEXT">
+			<Text>The Texas Ranger Division, often called the Texas Rangers, is a law enforcement agency in Texas. Historically, they have acted as law enforcement, detectives, guards, and as a paramilitary force serving both the Republic of Texas and the US state of Texas. Originally created by Stephen F. Austin in an 1823 call-to-arms, the Rangers are the oldest body of law enforcement still active in the United States, and have taken part in some of the most well-known criminal cases in Wild West history, such as those of Sam Bass, John Wesley Hardin, as well as Bonnie and Clyde. Their military history is not to be overlooked, as they took part in battling Comanche, Cherokee, and Apache raids, the Texas Revolution, the Mexican-American war, the Civil War, and the Mexican Revolution, among others. From its earliest days, the Rangers were surrounded with the mystique of the Old West. As it happened with many Old West myths, the Rangers' legendary aura was in part a result of the work of sensationalistic writers and the contemporary press, who glorified and embellished their deeds in an idealized manner. During their long history, a distinct Ranger tradition has evolved; their cultural significance to Texans is such that they are legally protected against disbandment.</Text>
+		</Row>
+		<!--Ranch-->
+		<Row Tag="TXT_KEY_BUILDING_TEXASRANCH_DESC">
+			<Text>Ranch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TEXASRANCH_HELP">
+			<Text>Unique Texan Stable replacement. +15% [ICON_PRODUCTION] Production when building Mounted units.[NEWLINE][NEWLINE]+1 [ICON_PRODUCTION] Production from [ICON_RES_SHEEP]Sheep, [ICON_RES_COW]Cattle, [ICON_RES_HORSE]Horses and [ICON_RES_BISON]Bison worked by this city. +1 [ICON_FOOD] Food from [ICON_RES_SHEEP]Sheep and [ICON_RES_COW]Cattle. +1 [ICON_CULTURE] Culture from [ICON_RES_HORSE]Horses and [ICON_RES_BISON]Bison.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_TEXASRANCH_TEXT">
+			<Text>A ranch is an area of landscape, including various structures, given primarily to the practice of ranching, the practice of raising grazing livestock such as cattle or sheep for meat or wool. The word most often applies to livestock-raising operations in the western United States, Mexico and Canada, though there are ranches in other areas. Ranching is also a method used to raise less common livestock such as elk, American bison or even ostrich, emu, and alpacas. If the ranch includes arable or irrigated land, the ranch may also engage in a limited amount of farming, raising crops for feeding the animals, such as hay and feed grains.[NEWLINE][NEWLINE]Ranching is part of the iconography of the "Wild West" as seen in Western movies and rodeos. The person who owns and manages the operation of a ranch is usually called a rancher, and the people who are employees of the rancher and involved in handling livestock are called a number of terms, including cowhand, ranch hand, and cowboy. The historic American "Cowboy" of the late 19th century arose from the "Vaquero" traditions of northern Mexico and Texas and became a figure of special significance and legend in American culture. As of 2014, Texas leads the USA in number of farms and ranches, with 247,500 farms and ranches covering 130.4 million acres.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TEXASRANCH_STRATEGY">
+			<Text>In addition to boosting overall [ICON_PRODUCTION] production and the [ICON_PRODUCTION] production of Mounted units in particular, the Ranch can boost the [ICON_FOOD] food and [ICON_CULTURE] culture of the city as well, and its effects are extended to [ICON_RES_BISON]Bison. The Ranch can only be built by Texas.</Text>
+		</Row>
+		<!--Unique Dialogue-->
+		<Row Tag="TXT_KEY_GENERIC_TEXAS_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now eating your barbecue and wearing your ten-gallon hats. I worry the rest of the world will soon succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOUSTON_FIRST_GREETING_1">
+			<Text>Hello, and welcome to Texas. My name is Samuel Houston, and I am among the many fathers and builders of this nation. How do you do? </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOUSTON_FIRST_GREETING_2">
+			<Text>Welcome, stranger, to the grand Republic of Texas. I am Samuel Houston, though you can call me Sam. We are a sovereign nation, and be warned that we will fiercely fight to the death against all who disrespect that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOUSTON_DEFEATED_1">
+			<Text>Texas shall never die, and we shall never submit to the tyrannical likes of you! Remember the Alamo!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOUSTON_DEFEATED_2">
+			<Text>You've made a horrible mistake, you fool! The world shall never forget the heroic last stand of Texas against your wicked forces!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOUSTON_DEFEATED_3">
+			<Text>Remember the Alamo!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOUSTON_POLITE_HELLO_1">
+			<Text>Howdy!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOUSTON_POLITE_HELLO_2">
+			<Text>Welcome back! To what do I owe the pleasure of this visit?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOUSTON_POLITE_HELLO_3">
+			<Text>It's nice to see you again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOUSTON_NEUTRAL_HELLO_1">
+			<Text>Howdy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOUSTON_NEUTRAL_HELLO_2">
+			<Text>Welcome back.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOUSTON_NEUTRAL_HELLO_3">
+			<Text>To what do I owe the pleasure of your visit?</Text>
+		</Row>
+		<!--Wish For the World Support; Texan Magical Girls ahoy!-->
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_TEXAS">
+			<Text>Margaret Lea Houston</Text>
+		</Row>
+		<!--Decisions-->
+		<Row Tag="TXT_KEY_UNIT_TEXASOUTLAW">
+			<Text>Outlaw</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OUTLAW_1">
+			<Text>Bill Longley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OUTLAW_2">
+			<Text>Sam Bass</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OUTLAW_3">
+			<Text>Jessie Evans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OUTLAW_4">
+			<Text>Jim Miller</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OUTLAW_5">
+			<Text>John Wesley Hardin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OUTLAW_6">
+			<Text>Butch Cassidy and The Sundance Kid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OUTLAW_7">
+			<Text>Bonnie and Clyde</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_OUTLAW_GREATWORK">
+			 <Text>Outlaw Museum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_OUTLAW_GREATWORK_CIVILOPEDIA">
+			<Text>A privately-owned local museum dedicated to historical Outlaws, their exploits, and their effects on Texan culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_OUTLAW_GREATWORK_HELP">
+			<Text>Provides a free, unique Great Work of Art relevant to the slain Outlaw. May only be acquired by Texas with the Place A Bounty On An Outlaw decision, in the Modern, Atomic, and Information eras.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TEXAS_BOUNTY">
+			<Text>Place a Bounty on an Outlaw</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TEXAS_BOUNTY_DESC">
+			<Text>
+				An infamous criminal in our society, wanted dead or alive to face judgement for their crimes, has continuously evaded capture by law enforcement, and potential vigilantes are unmotivated to pursue him. Placing an official bounty of Gold on the criminal's hide will encourage more men to join our hunt.
+				[NEWLINE]
+				[NEWLINE]Requirements/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Texas
+				[NEWLINE][ICON_BULLET]May not be enacted in the Ancient Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per Era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]A dangerous Barbarian Outlaw appears in your territory!
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a free Mounted Unit
+				[NEWLINE][ICON_BULLET]The Player that kills the Outlaw receives a unique bonus that increases with each era
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TEXAS_BOUNTY_ENACTED_DESC">
+			<Text>
+				An infamous criminal in our society, wanted dead or alive to face judgement for their crimes, has continuously evaded capture by law enforcement, and potential vigilantes are unmotivated to pursue him. Placing an official bounty of Gold on the criminal's hide will encourage more men to join our hunt.
+				[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a free Mounted Unit
+				[NEWLINE][ICON_BULLET]The Player that kills the Outlaw receives a unique bonus that increases with each era
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TEXAS_OIL_INDUSTRY">
+			<Text>Stabilize the Oil Industry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TEXAS_OIL_INDUSTRY_DESC">
+			<Text>
+				An enormous amount of Oil has been discovered beneath our lands, and our people are so caught up in the 'Oil Boom' that they are extracting oil at an absurd and unsustainable rate. We must intervene to secure the longevity of the oil fields.
+				[NEWLINE]
+				[NEWLINE]Requirements/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Texas
+				[NEWLINE][ICON_BULLET]Player must have discovered Biology
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]1000 [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]100 [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All land-based sources of [ICON_RES_OIL] Oil in your empire are automatically improved
+				[NEWLINE][ICON_BULLET]+2 [ICON_PRODUCTION] Production from Oil Wells
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TEXAS_OIL_INDUSTRY_ENACTED_DESC">
+			<Text>
+				An enormous amount of Oil has been discovered beneath our lands, and our people are so caught up in the 'Oil Boom' that they are extracting oil at an absurd and unsustainable rate. We must intervene to secure the longevity of the oil fields.
+				[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All land-based sources of [ICON_RES_OIL] Oil in your empire are automatically improved
+				[NEWLINE][ICON_BULLET]+2 [ICON_PRODUCTION] Production from Oil Wells
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POPUP_DECISIONS_TEXAS_BOUNTY">
+			<Text>For killing a notorious Outlaw, your civilization receives {1_Num} [ICON_CULTURE] Culture and {2_Num} [ICON_GOLDEN_AGE] Golden Age Points!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POPUP_DECISIONS_TEXAS_BOUNTY_BUILDING">
+			<Text>For killing a notorious Outlaw, your civilization receives {1_Num} [ICON_CULTURE] Culture, {2_Num} [ICON_GOLDEN_AGE] Golden Age Points, and a free Great Work!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

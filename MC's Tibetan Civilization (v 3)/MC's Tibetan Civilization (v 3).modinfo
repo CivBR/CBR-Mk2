@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="184ce8f0-91ef-46d1-9aa2-6f72cc492a85" version="3">
+  <Properties>
+    <Name>MC's Tibetan Civilization</Name>
+    <Teaser>Tibet: The Roof of the World</Teaser>
+    <Description>The Tibetan Empire was a political entity based in what is now the Tibetan plateau of Central Asia. From its foundation in the seventh century by Songtsän Gampo, Tibet grew to occupy an area from the Indian Ocean to Pakistan and central China, threatening well-established kingdoms in China and India. It became a renowned centre for Buddhism, and the religious leader of Tibet is known and revered worldwide. The Empire of Tibet lasted for over 200 years, until a civil war resulted in the Era of Fragmentation and the dissolution of the empire, sealing the fate of Tibet by weakening the former territories and opening them to foreign occupation.</Description>
+    <Authors>Pouakai, Sukritact, Leugi, Moriboe</Authors>
+    <SpecialThanks>Tomatekh</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety &amp; Prestige " />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded	" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="69E755938296A17015D28CF6FF27BB70" import="1">Art/Audio/TibetWar.mp3</File>
+    <File md5="0C9FCA20F1EACA14B5C6A91A5D483DCB" import="1">Art/Audio/TibetDoM.mp3</File>
+    <File md5="39227ACF3D3359BF4489FD56B6EC1093" import="1">Art/Audio/TibetPeace.mp3</File>
+    <File md5="368437086476717F56083679FA6ACB49" import="0">Art/MC_Tibet_Audio.sql</File>
+    <File md5="4825FF63D25623D319343D449A4FABB6" import="1">Art/Graphics/HimalayanCavalry.dds</File>
+    <File md5="4ABA138D6529976247D181A36EF2929F" import="1">Art/Graphics/HimalayanCavalry.fxsxml</File>
+    <File md5="77BD2B628859E4D77E0329DA4CCB181A" import="1">Art/Graphics/HimalayanCavalry.gr2</File>
+    <File md5="229ACCC755E0FE91B8B9AD7E530D4659" import="1">Art/Graphics/HimalayanCavalry_Horse.dds</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">Art/Graphics/no_gloss.dds</File>
+    <File md5="BA1197891E1D12794D0E5EACACDD3F48" import="1">Art/Graphics/sv_himalayan_cavalry.dds</File>
+    <File md5="D6E6B0FB3F7263556EB0028A8A205536" import="1">Art/Icon Atlases/HimalayanCavalryFlag.dds</File>
+    <File md5="FCF24A2489BAAEEBEB33F2EC265D1280" import="0">Art/Icon Atlases/HimalayanCavalry_gloss.dds</File>
+    <File md5="72301AE19B394DCD30103D69C8D33A0B" import="1">Art/Icon Atlases/MC_TibetAlphaAtlas_128.dds</File>
+    <File md5="EE6502857F2A182E588722AA1BE65560" import="1">Art/Icon Atlases/MC_TibetAlphaAtlas_16.dds</File>
+    <File md5="957B28BDA1C1604686FDFCD780F6ED98" import="1">Art/Icon Atlases/MC_TibetAlphaAtlas_22.dds</File>
+    <File md5="1535E72D6A6E279E9AF00390957A82B5" import="1">Art/Icon Atlases/MC_TibetAlphaAtlas_24.dds</File>
+    <File md5="98140F565DBE1B7EA7875CF91E0085CD" import="1">Art/Icon Atlases/MC_TibetAlphaAtlas_32.dds</File>
+    <File md5="0ECAADB56FA8B19340F8F683D20405F7" import="1">Art/Icon Atlases/MC_TibetAlphaAtlas_45.dds</File>
+    <File md5="419E779120FE13460BB406E3AE322395" import="1">Art/Icon Atlases/MC_TibetAlphaAtlas_48.dds</File>
+    <File md5="74C57E84AF8F1EDD482AC3E3C8D9D1F7" import="1">Art/Icon Atlases/MC_TibetAlphaAtlas_64.dds</File>
+    <File md5="BB50FCB4A2574A708308155573F99FE6" import="1">Art/Icon Atlases/MC_TibetAlphaAtlas_80.dds</File>
+    <File md5="17F913D748AC625A59EBAACA9B986EEF" import="1">Art/Icon Atlases/MC_TibetAtlas_128.dds</File>
+    <File md5="37D0D88B1E21A79D92F6013569E4436B" import="1">Art/Icon Atlases/MC_TibetAtlas_256.dds</File>
+    <File md5="9AD71A116552AC7FC98815947B942D52" import="1">Art/Icon Atlases/MC_TibetAtlas_32.dds</File>
+    <File md5="E4031583DD8CB494B4BBFF10D926B1CA" import="1">Art/Icon Atlases/MC_TibetAtlas_45.dds</File>
+    <File md5="05E71F83FFDF1F276D9E439A797B58CA" import="1">Art/Icon Atlases/MC_TibetAtlas_64.dds</File>
+    <File md5="8AC8D23CA54D4729C844F0655AD0AB2D" import="1">Art/Icon Atlases/MC_TibetAtlas_80.dds</File>
+    <File md5="B0715EFCA6EDEE8F1D4DCADC69027044" import="0">Art/MC_Tibet_ArtDefines.sql</File>
+    <File md5="E3AC9CEF1E4B809269DA09D5E7F3E77A" import="0">Art/Scenes/Alt/DOM_Tibet.dds</File>
+    <File md5="EC9AC243AEABB636C98366FC2581AEE2" import="0">Art/Scenes/Alt/TibetDiploMod.dds</File>
+    <File md5="86A3559EC448946C9DED1AB6043EC631" import="1">Art/Scenes/DOM_Tibet.dds</File>
+    <File md5="2AB3F34D4B4B62598DCA486F4C84399E" import="1">Art/Scenes/TibetDiploMod.dds</File>
+    <File md5="909E8DE5E3810CCE8C9838C2346E079D" import="1">Art/Scenes/Tibet_Leaderhead.xml</File>
+    <File md5="7D4D6EC4892F94979503C67F7E5D7CD7" import="1">Art/Scenes/Tibet_Map512.dds</File>
+    <File md5="B6DE45FAB0034B115CCF23F49AB28775" import="1">Core/Decisions Support/MC_Tibet_Decisions.lua</File>
+    <File md5="F25FDCB7F29EFE45F1C4A704DB228F1F" import="0">Core/Gedemon's YnAEMP Support/MC_Tibet_CivilizationStartPos.sql</File>
+    <File md5="BB8BDB63DE31BBE315E0AD2276CED2A7" import="0">Core/hazel16's Map Labels Support/MC_Tibet_ML_Tables.sql</File>
+    <File md5="FBCB80CFE9A503B3813C38CC7B9A4712" import="0">Core/JFD's Cultural Diversity Support/Civilization_JFD_CultureTypes.sql</File>
+    <File md5="7FF16BCABDFA3E821C4B06827BF0F7AF" import="0">Core/MC_Tibet_Buildings.sql</File>
+    <File md5="70E1CA00FCF75516844331C26AA19B80" import="0">Core/MC_Tibet_Civilizations.sql</File>
+    <File md5="45664CD4A8C688FEC528B8B4A78A7A33" import="0">Core/MC_Tibet_Diplomacy.sql</File>
+    <File md5="B3A395F8AFAFCF1EBC7A65314590255E" import="0">Core/MC_Tibet_GameText.xml</File>
+    <File md5="21840738A20D50EFAECA07542BD80BDF" import="0">Core/MC_Tibet_Leaderhead.sql</File>
+    <File md5="9586985CC55A289DFCC3D9FA026EB6CF" import="0">Core/MC_Tibet_PlayerColours.sql</File>
+    <File md5="D0B74988F48C0A27F6EE54ABE7736838" import="0">Core/MC_Tibet_Promotions.sql</File>
+    <File md5="84B61FDE23A23DB65AB09576CBB2AD6F" import="0">Core/MC_Tibet_Traits.sql</File>
+    <File md5="D3C7642F68F3C4A703AC5DA8601A4144" import="0">Core/MC_Tibet_Units.sql</File>
+    <File md5="AFF3323A19A181C2EFB0366BFC65ACA2" import="0">Core/Decisions Support/MC_Tibet_Decisions.sql</File>
+    <File md5="368147BC2054D26958B2D1374E524400" import="0">Core/Decisions Support/MC_Tibet_Decisions.xml</File>
+    <File md5="5690A1B2ACA2729FD9D55156E232AB1A" import="1">Lua/PlotIterators.lua</File>
+    <File md5="8A5FC22EB73A2C2106DE16D1A3E98AF2" import="1">Lua/Sukritact_SaveUtils.lua</File>
+    <File md5="5C5BDE9B7E56191707E2A34C9DF51FB3" import="0">Lua/TibetanMountainStart.lua</File>
+    <File md5="3F000C8F5D81875759DC5154FFC982DA" import="0">Lua/Tibet_UA.Lua</File>
+    <File md5="8E95408BA3ED6403BD740CFCA24FF3C3" import="0">Lua/Tibet_HimalayanCalvalry.Lua</File>
+    <File md5="86C1C3EDCE4699DE320A932C4E70E22C" import="0">Lua/UI/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">Lua/UI/CityInfoStack.xml</File>
+    <File md5="4486E05E92C6A1829D1BD4FC8EAB80DE" import="1">Lua/UI/CultureOverview.lua</File>
+    <File md5="BF85D174CA9D4F2EC2AD7E3FBB6C0D6D" import="1">Lua/UI/CultureOverview.xml</File>
+    <File md5="B47CD29BC04D95E1A0DB0E2114D2B993" import="0">Lua/UI/TibetanChorten.lua</File>
+    <File md5="7117F842CE10A758BE28946D2EA95960" import="0">Lua/UI/TibetanChorten.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/MC_Tibet_Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/MC_Tibet_Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/MC_Tibet_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/MC_Tibet_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/MC_Tibet_Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/MC_Tibet_PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/MC_Tibet_Promotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/MC_Tibet_Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/MC_Tibet_Units.sql</UpdateDatabase>
+      <UpdateDatabase>Art/MC_Tibet_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Art/MC_Tibet_Audio.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Decisions Support/MC_Tibet_Decisions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Decisions Support/MC_Tibet_Decisions.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Gedemon's YnAEMP Support/MC_Tibet_CivilizationStartPos.sql</UpdateDatabase>
+      <UpdateDatabase>Core/hazel16's Map Labels Support/MC_Tibet_ML_Tables.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Cultural Diversity Support/Civilization_JFD_CultureTypes.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Tibet_UA.Lua">
+      <Name>TibetUA</Name>
+      <Description>TibetUA</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/UI/TibetanChorten.xml">
+      <Name>TibetanChorten</Name>
+      <Description>TibetanChorten</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Tibet_HimalayanCalvalry.Lua">
+      <Name>Tibet_HimalayanCalvalry</Name>
+      <Description>Tibet_HimalayanCalvalry</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/TibetanMountainStart.lua">
+      <Name>TibetanMountainStart</Name>
+      <Description>TibetanMountainStart</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/UI/CityInfoStack.lua">
+      <Name>CityInfoStack</Name>
+      <Description>CityInfoStack</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

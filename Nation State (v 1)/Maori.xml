@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_MINOR_CIV_MAORI">
+			<Text>The Maori</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_MAORI_ADJ">
+			<Text>Maori</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_MAORI_1">
+			<Text>Sampura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_MAORI_2">
+			<Text>Malos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_MAORI_3">
+			<Text>Te Sipi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_MAORI_4">
+			<Text>Holuang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_MAORI_5">
+			<Text>Oronga Val</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_MAORI_6">
+			<Text>La'taha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_MAORI_7">
+			<Text>Wailantiaw</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_MAORI_8">
+			<Text>Te Delayon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_MAORI_9">
+			<Text>Pikpaha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_MAORI_10">
+			<Text>Lampu-las</Text>
+		</Row>
+	</Language_en_US>
+	<MinorCivilizations>
+		<Row>
+			<Type>MINOR_CIV_MAORI</Type>
+			<Description>TXT_KEY_MINOR_CIV_MAORI</Description>
+			<ShortDescription>TXT_KEY_MINOR_CIV_MAORI</ShortDescription>
+			<Adjective>TXT_KEY_MINOR_CIV_MAORI_ADJ</Adjective>
+			<Civilopedia>No info</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_MINOR_CIV_MAORI</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_POLYNESIAN</ArtStyleType>
+			<ArtStylePrefix>ASIAN</ArtStylePrefix>
+			<ArtStyleSuffix>_OCEAN</ArtStyleSuffix>
+			<MinorCivTrait>MINOR_TRAIT_MILITARISTIC</MinorCivTrait>
+		</Row>
+	</MinorCivilizations>
+
+	<MinorCivilization_Flavors>
+		<Row>
+			<MinorCivType>MINOR_CIV_MAORI</MinorCivType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MAORI</MinorCivType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MAORI</MinorCivType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MAORI</MinorCivType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MAORI</MinorCivType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MAORI</MinorCivType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MAORI</MinorCivType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MAORI</MinorCivType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MAORI</MinorCivType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MAORI</MinorCivType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MAORI</MinorCivType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MAORI</MinorCivType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+	</MinorCivilization_Flavors>
+
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_MAORI_ICON</Type>
+            <Red>0.945</Red>
+            <Green>0.85</Green>
+            <Blue>0.49</Blue>
+            <Alpha>1.0</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_MAORI_BACKGROUND</Type>
+            <Red>0.337</Red>
+            <Green>0.235</Green>
+            <Blue>0.082</Blue>
+            <Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_MINOR_CIV_MAORI</Type>
+			<PrimaryColor>COLOR_PLAYER_MINOR_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_MINOR_CIV_MAORI_ICON</SecondaryColor>
+			<TextColor>COLOR_PLAYER_PEACH_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_MAORI</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_MAORI_1</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MAORI</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_MAORI_2</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MAORI</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_MAORI_3</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MAORI</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_MAORI_4</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MAORI</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_MAORI_5</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MAORI</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_MAORI_6</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MAORI</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_MAORI_7</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MAORI</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_MAORI_8</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MAORI</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_MAORI_9</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MAORI</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_MAORI_10</CityName>
+		</Row>
+	</MinorCivilization_CityNames>
+</GameData>

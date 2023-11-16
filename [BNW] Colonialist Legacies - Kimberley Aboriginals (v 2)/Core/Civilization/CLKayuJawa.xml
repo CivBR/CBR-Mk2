@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/18/2015 10:03:58 PM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_CLKAYUJAWA</Type>
+			<Description>TXT_KEY_TRAIT_CLKAYUJAWA</Description>
+			<ShortDescription>TXT_KEY_TRAIT_CLKAYUJAWA_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+</GameData>

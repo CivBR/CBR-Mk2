@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="7287f9db-78cb-40c3-bf8a-cf8ebc18a565" version="3">
+  <Properties>
+    <Name>MC's Polynesian Civilisation Pack</Name>
+    <Teaser>Splits the existing Polynesia civ into [COLOR_POSITIVE_TEXT]Hawaii, Rapa Nui, the Maori, and Tonga[ENDCOLOR]</Teaser>
+    <Description>Polynesia is the term for a cultural region in the Pacific Ocean spanning from the three extremities of Hawaii, Aotearoa / New Zealand and Rapa Nui (Easter Island), and including well over one thousand islands. These islands are full of vastly differing and unique histories, from the primarily land based conflict and fortified villages of the Maori Iwi of New Zealand, to the enormous stone carvings of Rapa Nui. While the majority of the islands retained contact with one another, changing climates and events cut off the extremities, allowing each society to develop independently without influence of the outside world until the arrival of Europeans. As such, the Polynesian civ from Firaxis is an anachronistic and ahistorical amalgamation of a civ, with a leader from the Hawaiian islands, a unique unit from Aotearoa and a Unique Improvement from Rapa Nui. The Polynesian Civilization Pack rectifies this, with the separation of these into four unique civilizations - the Maori, Hawaii, Rapa Nui and the Tu'i Tonga Empire. Each civilization features unique mechanics and distinct playstyles to best reflect the civ, from the expansionist and diplomatic Tu'i Tonga to the militaristic Maori and the firmly religious Rapa Nui.</Description>
+    <Authors>More Civilisations team</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="ECF7C605-BA11-4CAC-8D80-D71306AAC471" minversion="0" maxversion="999" />
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="Cultural Diversity" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Piety" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Traits" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's ExCE" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="CA2FF2AD4366FFB15DDB534628BDF649" import="1">Art/Atlases/PolynesiaAlpha_128.dds</File>
+    <File md5="9F974A3D9AD06389BBE2730B39A4F54F" import="1">Art/Atlases/PolynesiaAlpha_16.dds</File>
+    <File md5="41B55C29555BE6AB7E3F9B7D6568E954" import="1">Art/Atlases/PolynesiaAlpha_24.dds</File>
+    <File md5="5E319298B20CC8A32FEF9410D6C6FB10" import="1">Art/Atlases/PolynesiaAlpha_32.dds</File>
+    <File md5="3F466385B2C120FB14D3ACAA7A3BDADF" import="1">Art/Atlases/PolynesiaAlpha_48.dds</File>
+    <File md5="82B3CC58CF55FA31EC93B07450314C66" import="1">Art/Atlases/PolynesiaAlpha_64.dds</File>
+    <File md5="EFAAFE851525A884E3F11BF0FF84E854" import="1">Art/Atlases/Polynesia_128.dds</File>
+    <File md5="F19B56BE2F91C75BFE48393EF2064937" import="1">Art/Atlases/Polynesia_16.dds</File>
+    <File md5="B4AFA1A2579C7E87DDECFA1B284BBEDE" import="1">Art/Atlases/Polynesia_24.dds</File>
+    <File md5="A3BA89135036EEF59BD4DD8AFBA47B11" import="1">Art/Atlases/Polynesia_256.dds</File>
+    <File md5="7882261B1744457D2B2D40D8135AA33B" import="1">Art/Atlases/Polynesia_32.dds</File>
+    <File md5="1E990EE084BC06A22220FE5AFAFB3656" import="1">Art/Atlases/Polynesia_45.dds</File>
+    <File md5="0DDFF60D43940B47EE6F0C3DE1F014F8" import="1">Art/Atlases/Polynesia_48.dds</File>
+    <File md5="716DFB28D4261F78EFA9CCDEC2933DD7" import="1">Art/Atlases/Polynesia_64.dds</File>
+    <File md5="2F679DC71A70EBF0E83E8BDFCF6F938B" import="1">Art/Atlases/Polynesia_80.dds</File>
+    <File md5="1F0C07E42A91143B59E4690E3A7E04B0" import="1">Art/FontIcon/manutara_fonticon.dds</File>
+    <File md5="1F92EC6F259AEA647B38831D9777851B" import="1">Art/FontIcon/Manutara_fonticon.ggxml</File>
+    <File md5="09BB917ED2E0D08F1E32E42C4893E068" import="0">Art/FontIcon/Manutara_Fonticon.xml</File>
+    <File md5="5129BE21E39DFABC7B8D0BB76C80E00D" import="1">Art/FontIcon/sv_manutara.dds</File>
+    <File md5="BABC6432F1D9915B69C55566BFBEF740" import="1">Art/Models/Flag_Tongiaki.dds</File>
+    <File md5="816473957AA79CDC635A337CC838D0BD" import="1">Art/Models/Koa/hawaii_ikaika.fxsxml</File>
+    <File md5="C2AD90F157A7850255AB6118F9771BC1" import="1">Art/Models/Koa/hawaii_ikaika.gr2</File>
+    <File md5="4B287F1BF3990715DD536722531E8595" import="1">Art/Models/Koa/hawaii_ikaika_diff.dds</File>
+    <File md5="F0C52B17A20219287233D3049BBF928F" import="1">Art/Models/Koa/hawaii_ikaika_sref.dds</File>
+    <File md5="9E7E5639D0A2F0364E16BB17DB3432CF" import="1">Art/Models/Koa/Koa_UnitFlag.dds</File>
+    <File md5="84999876DBB6B847F5B4DBF7D0A03E26" import="1">Art/Models/Koa/sv_Koa.dds</File>
+    <File md5="838F3D55FD443B1D563905DB791CC2EE" import="1">Art/Models/Matato'a/flag_manu_matatoa.dds</File>
+    <File md5="37263362D4070DC7BF1202BB5232C175" import="1">Art/Models/Matato'a/flag_matatoa.dds</File>
+    <File md5="DFC611F97679BBD2E5DB9614FA0622D2" import="1">Art/Models/Matato'a/matatoa.fxsxml</File>
+    <File md5="9ADFCAC1A0B6D209F6184086EEC5C71D" import="1">Art/Models/Matato'a/matatoa.gr2</File>
+    <File md5="A4C6978C94D028491B1B77C9872F19CB" import="1">Art/Models/Matato'a/matatoa_diff.dds</File>
+    <File md5="AA494D797B2551EC3FF1F9762C550EC9" import="1">Art/Models/Matato'a/sv_manu_matatoa.dds</File>
+    <File md5="944A05710A5FE6CA6FE444B384FFEB7B" import="1">Art/Models/Matato'a/sv_Matatoa.dds</File>
+    <File md5="768CF213C7721197B73A4BA28FB0785E" import="1">Art/Models/Pa/PaBase01.dds</File>
+    <File md5="906317C16E93DC076D7C7DB73A41623B" import="1">Art/Models/Pa/PaBase02.dds</File>
+    <File md5="E5CF85629618CF5C11BB3E984D48D003" import="1">Art/Models/Pa/PaBase03.dds</File>
+    <File md5="41D952D1CDF9F0924E21D1C2B62F4F31" import="1">Art/Models/Pa/PaBase_PL.dds</File>
+    <File md5="A5948B746EC7C82E785D47251DABE191" import="1">Art/Models/Pa/PaObjects.dds</File>
+    <File md5="60304963FE44524C9E2433AF70B8D5F7" import="1">Art/Models/Pa/PaObjects_PL.dds</File>
+    <File md5="70C1EA4225C0A8629A1232D618A81CEE" import="1">Art/Models/Pa/pa_01.fxsxml</File>
+    <File md5="BD74898051E7441B786FD4D6571D13DD" import="1">Art/Models/Pa/pa_01.gr2</File>
+    <File md5="931720BAC6FB1CA52E0D4A800878AE82" import="1">Art/Models/Pa/pa_02.fxsxml</File>
+    <File md5="8B0E533E0F51A22E2F1723F3D4C68265" import="1">Art/Models/Pa/pa_02.gr2</File>
+    <File md5="9875FFBD57CCBA74024A6422DE22B344" import="1">Art/Models/Pa/pa_03.fxsxml</File>
+    <File md5="0952C51CE71233DAC41439590C07B0D5" import="1">Art/Models/Pa/pa_03.gr2</File>
+    <File md5="3F1448E7DB4606278B14417E34BC2882" import="1">Art/Models/Pa/pa_hb.fxsxml</File>
+    <File md5="B735233DA1008B9C9680CF88C89813B6" import="1">Art/Models/Pa/pa_hb.gr2</File>
+    <File md5="7129C5B01638252D836DD368629DD69C" import="1">Art/Models/Pa/pa_pl.fxsxml</File>
+    <File md5="FDFE99669E12FB5AA9266BC4A7797412" import="1">Art/Models/Pa/pa_pl.gr2</File>
+    <File md5="A7DFFD0B023376C7808A67C4813E2822" import="1">Art/Models/Pa/sv_pa.dds</File>
+    <File md5="DA7BB009BA43F43A043623D24AE6A6D4" import="1">Art/Models/sv_Tongiaki.dds</File>
+    <File md5="283EDDA5C7D08CE6213ABF08CD90EE81" import="1">Art/Scenes/DoM_MC_Maori.dds</File>
+    <File md5="7C975B3B90F29C496D1231710A811439" import="1">Art/Scenes/Map_MC_Maori.dds</File>
+    <File md5="4EB0B4F398D34870C30548EDC1F0E8E2" import="1">Art/Scenes/Maori_Leaderhead.dds</File>
+    <File md5="36D78AAE2DD46B5A71D10E93E089ECA5" import="1">Art/Scenes/Map_MC_Tonga.dds</File>
+    <File md5="B1A79FBF3A83B6E80C9A4F1E38EEF1C4" import="1">Art/Scenes/MC_Mickey_to_Tiki.dds</File>
+    <File md5="891D0CB49B947FA95AFA060315C8EC65" import="1">Art/Scenes/Rapa_Nui_Leaderhead.dds</File>
+    <File md5="C5BF6407B729C5B4BA4AAB8E8DBB7B99" import="1">Art/Scenes/DoM_MC_Rapa_Nui.dds</File>
+    <File md5="FCA637C13CCD4348ACEB4324DC60466B" import="1">Art/Scenes/Map_MC_Rapa_Nui.dds</File>
+    <File md5="F97953D32D77E94A479C03A45DC62C70" import="1">Art/Scenes/Tongan_Leaderhead.dds</File>
+    <File md5="661E6FD909578699D1A21BC304AD9535" import="1">Art/Scenes/DOM_MC_Hawaii.dds</File>
+    <File md5="08641EBFCD9C0E58A9CC4BF458D72F10" import="1">Art/Scenes/Map_MC_Hawaii.dds</File>
+    <File md5="8C2E81E9C2299FA8540230C46616661D" import="1">Art/Scenes/DoM_MC_Tonga.dds</File>
+    <File md5="E849FDE1B0626D842B68C25A8E07DC91" import="0">Decisions/Events.sql</File>
+    <File md5="8B5D749DC27F8105E7680903F475D493" import="1">Decisions/JFD_OceanicEvents.lua</File>
+    <File md5="25F7EC4E3A26F9FC6D73D06F66878580" import="1">Decisions/MC_Polynesia_Decisions.lua</File>
+    <File md5="3716BE35F768B9EF9C93EEFC9D75BD3E" import="0">Decisions/MC_Polynesia_Decisions.xml</File>
+    <File md5="58BF9F810FB82191745369C6FC0A9C5B" import="0">Lua/DummyPolicyTrait.lua</File>
+    <File md5="F23E99A8EA6137234F8D6FD5D4DEA7EA" import="0">Lua/HawaiiExtraXP.lua</File>
+    <File md5="8858DBA4B085824BC4A80AF264AC7848" import="0">Lua/HawaiiUA.lua</File>
+    <File md5="08ED7E582D298FCE7C589733F0BF2821" import="0">Lua/HawaiiUACulture.lua</File>
+    <File md5="BBE3D2765A90D031AA9EDA14909B0B95" import="0">Lua/HeiauSpecialist.lua</File>
+    <File md5="A7DAA60E9887E883A73D62785E5BFDD8" import="0">Lua/JFD_MalaeFood.lua</File>
+    <File md5="0DB0825DF2E61FCB7EE0510D3B7B1267" import="0">Lua/JFD_PaMilitaryUnitProduction.lua</File>
+    <File md5="D379593DC656CD23B8FC2CF9132BEEAB" import="0">Lua/JFD_TaiahaWarriorCombatBoost.lua</File>
+    <File md5="7916C85939FF27C85CF1D32DE81A58BC" import="0">Lua/JFD_YnAEMPEmbarkation.lua</File>
+    <File md5="F02FBE20CDC5D7C727D22A7CB06EB169" import="0">Lua/KaiKaiGPScript.lua</File>
+    <File md5="C18C4A89E4A28F89CAF40350C8A1C857" import="0">Lua/ManutaraScripts.lua</File>
+    <File md5="00DEF979B9C7B3257EB58F22F4FBEAF7" import="0">Lua/Maori_UA.lua</File>
+    <File md5="07F8EF00C8404299BB058CD79F52C840" import="0">Lua/OutriggerEmbarkation.lua</File>
+    <File md5="2B7B488A043353F865E65E21887C4C60" import="0">Lua/RapaNuiFaith.lua</File>
+    <File md5="8A5FC22EB73A2C2106DE16D1A3E98AF2" import="1">Lua/Sukritact_SaveUtils.lua</File>
+    <File md5="C37DD8F0A2CFF7F825C5902BD39143B0" import="0">Lua/TongaUA.lua</File>
+    <File md5="A9D2BF8421268F921910B8C710D77520" import="1">Sounds/TeRauparahaPeace.mp3</File>
+    <File md5="B6803627E459F9B5C1DD5259E3128EB9" import="1">Sounds/TeRauparahaWar.mp3</File>
+    <File md5="4886BEC5EFE02CCB9E7829702C74AFB7" import="1">Sounds/MaoriDoM.mp3</File>
+    <File md5="14C45D0E7538EBF420A2A61124A8EEB9" import="1">Sounds/HotuMatuaPeace.mp3</File>
+    <File md5="C0A0223DEDA85DA244261151C55D4151" import="1">Sounds/RapaNuiDoM.mp3</File>
+    <File md5="B7DE20859938C1E45B975A6D347FA3F2" import="1">Sounds/HotuMatuaWar.mp3</File>
+    <File md5="C1F70AC0913EADBE889C3DC3D8CD0A91" import="1">Sounds/TongaDoM.mp3</File>
+    <File md5="A86D4A11C5310B4063FB8CBB506D4FD7" import="1">Sounds/TongaPeace.mp3</File>
+    <File md5="24D952355CA5B0D029AFE8E632731D8E" import="1">Sounds/TongaWar.mp3</File>
+    <File md5="41BB4EB7396BF44E77324BA0E7F03F61" import="1">SQL/ArtDefTongiaki.sql</File>
+    <File md5="FCAC80937D0BEE4D6917ECCEFE08941C" import="1">SQL/ArtDefKoa.sql</File>
+    <File md5="A195D2261603A4365938C55F7417E895" import="1">SQL/MatatoaDefine.sql</File>
+    <File md5="CB3F636F6114C5528045EA7731900E70" import="0">SQL/MC_Polynesia_ModSupport.sql</File>
+    <File md5="47233A21B12410506E39C7668DB98EA1" import="0">SQL/OtherModSupport.sql</File>
+    <File md5="34ABBC323E2BB1A86AADC7DF41983A92" import="1">SQL/PaDefine.sql</File>
+    <File md5="FC75CBC713E9FB4C5403F63B1D260590" import="1">XML/Art/MC_Maori_Leaderhead.xml</File>
+    <File md5="777C2FBE6247A0D26A6D05904E8EF8D9" import="1">XML/Art/MC_Tonga_Leaderhead.xml</File>
+    <File md5="DCF51686D3100E2D3AFFFF3A45E5BC5B" import="1">XML/Art/MC_Rapa_Nui_Leaderhead.xml</File>
+    <File md5="ED360EDA2C94DB3E574026F46AE00A8F" import="0">XML/Buildings/Polynesia_BuildingClasses.xml</File>
+    <File md5="4AC4149C76181CF0D618CA8B33D19A05" import="0">XML/Buildings/Polynesia_Buildings.xml</File>
+    <File md5="6A8231B132C71B51BA789B4D48F9C444" import="0">XML/Civilizations/Polynesia_Civilizations.xml</File>
+    <File md5="15331BA735CE7C8FC0FD2F31B69518BF" import="0">XML/Civilizations/Polynesia_Strategic.xml</File>
+    <File md5="B5245E0F2473458C1864C5F78B0E2A73" import="0">XML/Civilizations/Polynesia_Traits.xml</File>
+    <File md5="CC88E91BA5C7B47560F8C5E7FE30F0EA" import="0">XML/GameInfo/Polynesia_GreatWorks.xml</File>
+    <File md5="1EF09A69373CDC4859545DDBCB671D6F" import="0">XML/GameInfo/Polynesia_IconTextureAtlases.xml</File>
+    <File md5="CD760871AAD88A569E6B3D5AEDB87D1E" import="0">XML/GameInfo/Polynesia_Sounds.xml</File>
+    <File md5="CB2D3DD4E7146BA516C2C9A8C8CB1549" import="0">XML/Leaders/Diplomacy.sql</File>
+    <File md5="E39BC2C5F67682DA0DE14DCA0CD6E7EC" import="0">XML/Leaders/Polynesia_Leader.xml</File>
+    <File md5="229F1863E150A08DBCD232C8F1FE6AB9" import="0">XML/Terrain/Polynesia_Improvements.xml</File>
+    <File md5="DED64855CD8D036B24B0B377E5A819EB" import="0">XML/Text/Polynesia_Text.xml</File>
+    <File md5="404C735CB087C7F84D1366D3E5486AA1" import="0">XML/Units/ManutaraEgg.xml</File>
+    <File md5="14514A5C73D06CA8C14960D343A82A09" import="0">XML/Units/Polynesia_UnitPromotions.xml</File>
+    <File md5="966E8E36C710B851237E019871AD606E" import="0">XML/Units/Polynesia_Units.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/FontIcon/Manutara_Fonticon.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/ArtDefKoa.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/ArtDefTongiaki.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/PaDefine.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/MatatoaDefine.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/OtherModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Polynesia_BuildingClasses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Polynesia_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Polynesia_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Polynesia_Strategic.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Polynesia_Traits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/Polynesia_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/Polynesia_Sounds.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/Polynesia_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Terrain/Polynesia_Improvements.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Polynesia_Text.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Polynesia_UnitPromotions.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Polynesia_Units.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/ManutaraEgg.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/Polynesia_GreatWorks.xml</UpdateDatabase>
+      <UpdateDatabase>Decisions/MC_Polynesia_Decisions.xml</UpdateDatabase>
+      <UpdateDatabase>Decisions/Events.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/MC_Polynesia_ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/HawaiiExtraXP.lua">
+      <Name>HawaiiExtraXP</Name>
+      <Description>Allows the Hawaiian UU to start with more XP</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/HawaiiUA.lua">
+      <Name>HawaiiUA</Name>
+      <Description>More XP from Specialists</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_MalaeFood.lua">
+      <Name>JFD_MalaeFood</Name>
+      <Description>Food from adjacent coast tiles</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_TaiahaWarriorCombatBoost.lua">
+      <Name>JFD_TaiahaWarriorCombatBoost</Name>
+      <Description>Maori UU acts as a mini GG</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/OutriggerEmbarkation.lua">
+      <Name>OutriggerEmbarkation</Name>
+      <Description>Units on the same tile as a Tongiaki can enter ocean tiles</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/RapaNuiFaith.lua">
+      <Name>RapaNuiFaith</Name>
+      <Description>Faith from new citizens</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/TongaUA.lua">
+      <Name>TongaUA</Name>
+      <Description>Bonus from meeting CS and Civs</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/HeiauSpecialist.lua">
+      <Name>HeiauSpecialist</Name>
+      <Description>Random Specialist slot for Heiau UB</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_PaMilitaryUnitProduction.lua">
+      <Name>JFD_PaMilitaryUnitProduction</Name>
+      <Description>Boost to unit production when working Pa tiles</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/ManutaraScripts.lua">
+      <Name>ManutaraScripts</Name>
+      <Description>Rapa Nui UU Script</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Maori_UA.lua">
+      <Name>Maori_UA</Name>
+      <Description>Production on Killing a Unit</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/KaiKaiGPScript.lua">
+      <Name>KaiKaiGPScript</Name>
+      <Description>GPP from Faith for Rapa Nui</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/HawaiiUACulture.lua">
+      <Name>HawaiiUACulture</Name>
+      <Description>Since Culture from Specialists doesn't work</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_YnAEMPEmbarkation.lua">
+      <Name>YnAEMP Embarkation</Name>
+      <Description>To give Poly civs the ability to compete</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

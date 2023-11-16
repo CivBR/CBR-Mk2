@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="e9ba812a-f7f2-4a43-a355-1e9a2bba6fba" version="3">
+  <Properties>
+    <Name>Republic of Texas</Name>
+    <Teaser>This mod adds the Republic of Texas, led by Sam Houston.</Teaser>
+    <Description>This mod adds the Republic of Texas, led by Sam Houston. 
+
+Unique Ability: "Come And Take It"; Melee, Gun, Mounted, and Siege units recieve a combat bonus near the Capital City. +2 culture from Forts. 
+
+Unique Unit: "Ranger"; Replaces Cavalry, converts 50% of a defeated enemy's combat strength into culture for the empire, and gains points towards a Golden Age equal to 100% that unit's strength. 
+
+Unique Building: "Ranch"; Replaces the Stable. +1 Food from Cattle and Sheep. +1 Culture from Horses.</Description>
+    <Authors>Kramer (AKA 'Sasquatch')</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>1</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Cultural Influence" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="d60c32bd-6826-4ca3-8161-2e37ebab5883" minversion="0" maxversion="999" title="Protestant Denominations" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD's Piety and Prestige" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="0816DE613A5B55F982FB6224E9945D62" import="1">Art/Houston_DOM.dds</File>
+    <File md5="93142CB033345AA2D591E0FFCC3DD237" import="1">Art/Houston_Scene.dds</File>
+    <File md5="BB5B07C43847A5A2525DC4B97ABC7187" import="1">Art/Outlawicon128.dds</File>
+    <File md5="60969A53A262BA55D9B45D4738598A80" import="1">Art/Outlawicon256.dds</File>
+    <File md5="AE428A4D7B16F0B815EE8B49310FB649" import="1">Art/Outlawicon32.dds</File>
+    <File md5="CFEED98FDEED6F9F3EBE71600DD3E8F6" import="1">Art/Outlawicon45.dds</File>
+    <File md5="A5FE3F124CC9B36B5E011B2BDF50E7EC" import="1">Art/Outlawicon48.dds</File>
+    <File md5="D71BF4DE0519E27822EF88091111C8BD" import="1">Art/Outlawicon64.dds</File>
+    <File md5="204EF17E8E4D23D68180925EC7399B57" import="1">Art/Outlawicon80.dds</File>
+    <File md5="95606817B28465434E6F08692417574F" import="1">Art/Rangerflag.dds</File>
+    <File md5="150B84E9B5EEA88E664AEC3DDCB08CA9" import="1">Art/sv_texasoutlaw.dds</File>
+    <File md5="72C8C6F5D5047BFB306AF443E3A1EA5B" import="1">Art/sv_texasranger.dds</File>
+    <File md5="BC6F6BD851C33200318BFDB38BE21942" import="1">Art/texasalpha128.dds</File>
+    <File md5="A07728DCD1EE5F242C4F4CF27D79D1CA" import="1">Art/texasalpha16.dds</File>
+    <File md5="23AB79644926A3CDA2243399BBCFF03E" import="1">Art/texasalpha24.dds</File>
+    <File md5="F03B02DDB830274690890A64CB8A222F" import="1">Art/texasalpha32.dds</File>
+    <File md5="5F0BDADBADC8B8D23B5D9E624A6547A6" import="1">Art/texasalpha45.dds</File>
+    <File md5="E8DD45A1219494BF842CD31278CDD046" import="1">Art/texasalpha48.dds</File>
+    <File md5="ED9029C0020E6D11B5514F05EB2D789F" import="1">Art/texasalpha64.dds</File>
+    <File md5="50DE92D8E8BA4FCBD3ADEF14D6562DF4" import="1">Art/texasalpha80.dds</File>
+    <File md5="3F68CE2A83D0F65A737D24B4E4CA239E" import="1">Art/texasatlas128.dds</File>
+    <File md5="9BBF8D292F883AFD714D567245C570D8" import="1">Art/texasatlas256.dds</File>
+    <File md5="FF3A86C6A10FA45A707367EE9E893AB6" import="1">Art/texasatlas32.dds</File>
+    <File md5="CF5B2F710D94CD9DE72B7D0298939204" import="1">Art/texasatlas45.dds</File>
+    <File md5="0A1CD0EEE2B5E54AE10D2B3A916FAD99" import="1">Art/texasatlas64.dds</File>
+    <File md5="20C77F098E306EF6D3A05EB1E8D15C2D" import="1">Art/texasatlas80.dds</File>
+    <File md5="854B869B808F53A5D8E6FAB1CD2665B2" import="1">Art/republictexasmap.dds</File>
+    <File md5="1587FCEAE8CFE9F7DA518D3DDD96FD4D" import="1">Art/TexasDecisionsButchandSundance.dds</File>
+    <File md5="4EE9BD3088DE1ED11561CE4DF1EA5BAF" import="1">Art/texasoutlawflag.dds</File>
+    <File md5="5139AB788C26E870D19B9EF63AA390ED" import="1">Lua/TexasDecisions.lua</File>
+    <File md5="D9DEA686C8252031B8CE75E064BF5026" import="0">Lua/TexasDecisionsSupport.sql</File>
+    <File md5="6E5D04DD4EB880CFF3D5B3ACDA5189DC" import="1">Music/Houston_Peace.mp3</File>
+    <File md5="BCD3B56E5173CC57BEE3D5F5475DBB5B" import="1">Music/Houston_War.mp3</File>
+    <File md5="EF8C25D29815BB4CB28F15114B961AD9" import="1">Music/TexasDecisionsBountyClaimed.mp3</File>
+    <File md5="028F9557DAF6A3450A2F67AC0D571ED3" import="0">XML/Buildings/TexasBuildings.xml</File>
+    <File md5="BE1B0861FE00BD657C6F4F5EF8CC0CD6" import="0">XML/Civilizations/Texas_Trait.xml</File>
+    <File md5="9560B39C76E335165579F39A6C0D8B93" import="1">XML/Civilizations/Civ_Texas.xml</File>
+    <File md5="4321FA4F6603212EEFB1F892DD691856" import="0">XML/GameInfo/TexasAtlases.xml</File>
+    <File md5="FB3974AE1FC8A939A9C3F68A189E4132" import="1">XML/GameInfo/Houston_Scene.xml</File>
+    <File md5="DB25BCD31B49BF5173C80E65CCAA15F8" import="1">XML/GameInfo/Texas_TSL.xml</File>
+    <File md5="E7A331C2C72B72FD9BC3C7063BADEE2C" import="0">XML/Leaders/Civ5Leader_Houston.xml</File>
+    <File md5="A5A0CCD1C010C82C417C25CE32A586CC" import="0">XML/Leaders/HoustonMusic.xml</File>
+    <File md5="891F09C1142DD6B582CBE03A84019BF8" import="0">XML/Map Labels Compatibility.sql</File>
+    <File md5="40AC9B20CB6C3DC0D591A476E9D481D6" import="0">XML/New Text/TexasText.xml</File>
+    <File md5="9B602C87D49BF85615A92EB58D0A5C8A" import="0">XML/TexasCulDivSupport.sql</File>
+    <File md5="9E49F32BA5AD23F41496E110C0DF8840" import="0">XML/TexasHistoricalReligions.sql</File>
+    <File md5="0E5FBADEF6CD61E953D6FF4E186320F0" import="0">XML/TexasOtherModSupport.sql</File>
+    <File md5="F3E4B175F1ADFB019446A12FF615C424" import="0">XML/Units/TexasDecisionsUnits.xml</File>
+    <File md5="431412E2827A12BE985DC9024AF01896" import="0">XML/Units/TexasUnits.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/New Text/TexasText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Civ_Texas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Texas_Trait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/Civ5Leader_Houston.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/TexasUnits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/TexasBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/TexasAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/HoustonMusic.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/Houston_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/TexasHistoricalReligions.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Map Labels Compatibility.sql</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/Texas_TSL.xml</UpdateDatabase>
+      <UpdateDatabase>XML/TexasCulDivSupport.sql</UpdateDatabase>
+      <UpdateDatabase>XML/TexasOtherModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Units/TexasDecisionsUnits.xml</UpdateDatabase>
+      <UpdateDatabase>Lua/TexasDecisionsSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

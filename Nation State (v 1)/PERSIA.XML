@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_MINOR_CIV_PERSIA">
+			<Text>Persia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_PERSIA_ADJ">
+			<Text>Persian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_PERSIA_1">
+			<Text>Hafri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_PERSIA_2">
+			<Text>Halabat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_PERSIA_3">
+			<Text>Uruppak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_PERSIA_4">
+			<Text>Djelibeybi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_PERSIA_5">
+			<Text>Kis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_PERSIA_6">
+			<Text>Dur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_PERSIA_7">
+			<Text>Assur-shar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_PERSIA_8">
+			<Text>Taymazu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_PERSIA_9">
+			<Text>Sirsa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_PERSIA_10">
+			<Text>Nina</Text>
+		</Row>
+	</Language_en_US>
+
+<!-- ArtStyleType [Buildings]:
+ARTSTYLE_SOUTH_AMERICA , ARTSTYLE_ASIAN , ARTSTYLE_MIDDLE_EAST , ARTSTYLE_EUROPEAN , ARTSTYLE_GRECO_ROMAN , ARTSTYLE_POLYNESIAN -->
+
+<!-- ArtStylePrefix [?]:
+AMERICAN , ASIAN , AFRICAN , EUROPEAN , MEDITERRANEAN -->
+
+<!-- ArtStyleSuffix [Units]:
+base game suffixes: _AMER , _ASIA , _AFRI , _EURO, _MED
+ArtStyleSuffix for Ethnic Diversity mod can be the name of a major civ from the base game (e.g., _HUNS), or one of the following major groups:
+_AFRI [Subsaharan African], _AMER [North Amerindian] , _ASIA [East Asian,Sinitic], _CENTAS [Central Asian,Turkic], _EASTEU [East European,Slavic], _EURO [West European,Germanic/Celtic], _MED [Mediterranean,Hellenic/Roman/Iberian] _MIDEAST [Middle Eastern,Arab], _OCEAN [Polynesian], _NORTHAF [Maghrebi], _NORTHEU [North European,Nordic], _SEASIA [Southeast Asian,Sundaic], _SOUTHAM [Central/South Amerindian], _SOUTHAS [South Asian,Indo-Aryan/Dravidian]
+Or one of the following subgroups:
+_AUSTRALIA , _BELGIUM , _BOHEMIA , _CANADA, _GOTHS , _KIEV , _LEVANT [Semitic], _SAHUL [Aboriginal Australian], _SWISS , _VATICAN_CITY -->
+
+<!-- MinorCivTrait:
+MINOR_TRAIT_CULTURED , MINOR_TRAIT_MILITARISTIC , MINOR_TRAIT_MARITIME , MINOR_TRAIT_MERCANTILE , MINOR_TRAIT_RELIGIOUS -->
+
+	<MinorCivilizations>
+		<Row>
+			<Type>MINOR_CIV_PERSIA</Type>
+			<Description>TXT_KEY_MINOR_CIV_PERSIA</Description>
+			<ShortDescription>TXT_KEY_MINOR_CIV_PERSIA</ShortDescription>
+			<Adjective>TXT_KEY_MINOR_CIV_PERSIA_ADJ</Adjective>
+			<Civilopedia>No info</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_MINOR_CIV_PERSIA</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
+			<ArtStylePrefix>ASIAN</ArtStylePrefix>
+			<ArtStyleSuffix>_PERSIA</ArtStyleSuffix>
+			<MinorCivTrait>MINOR_TRAIT_CULTURED</MinorCivTrait>
+		</Row>
+	</MinorCivilizations>
+
+<!--FLAVOR_RELIGION: Religious=10, other=3 [MCEvolved, otherwise 0]-->
+<!--FLAVOR_CULTURE: Cultured=10, other=3 [MCEvolved, otherwise 0]-->
+<!--FLAVOR_GOLD: Mercantile=10, other=3 [MCEvolved, otherwise 0]-->
+<!--FLAVOR_NAVAL: Maritime=8, other=3 [MCEvolved, otherwise 0]-->
+<!--FLAVOR_GROWTH: Maritime=8, other=3 [MCEvolved, otherwise 0]-->
+<!--FLAVOR_CITY_DEFENSE: Militaristic=7, other=3 [MCEvolved, otherwise 0]-->
+<!--FLAVOR_DEFENSE: Militaristic=7, other=3 [MCEvolved, otherwise 0]-->
+<!--FLAVOR_OFFENSE: Militaristic=7, other=3 [MCEvolved, otherwise 0]-->
+<!--FLAVOR_MILITARY_TRAINING: Militaristic=7, other=3 [MCEvolved, otherwise 0]-->
+<!--FLAVOR_EXPANSION: always=3 [MCEvolved, otherwise 0]-->
+<!--FLAVOR_NUKE: always=0-->
+<!--FLAVOR_WONDER: always=0-->
+
+	<MinorCivilization_Flavors>
+		<Row>
+			<MinorCivType>MINOR_CIV_PERSIA</MinorCivType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PERSIA</MinorCivType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PERSIA</MinorCivType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PERSIA</MinorCivType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PERSIA</MinorCivType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PERSIA</MinorCivType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PERSIA</MinorCivType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PERSIA</MinorCivType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PERSIA</MinorCivType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PERSIA</MinorCivType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PERSIA</MinorCivType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PERSIA</MinorCivType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+	</MinorCivilization_Flavors>
+
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_PERSIA_ICON</Type>
+            <Red>0.961</Red>
+            <Green>0.902</Green>
+            <Blue>0.216</Blue>
+            <Alpha>1.0</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_PERSIA_BACKGROUND</Type>
+            <Red>0.694</Red>
+            <Green>0.031</Green>
+            <Blue>0.012</Blue>
+            <Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_MINOR_CIV_PERSIA</Type>
+			<PrimaryColor>COLOR_PLAYER_MINOR_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_MINOR_CIV_PERSIA_ICON</SecondaryColor>
+			<TextColor>COLOR_PLAYER_PEACH_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_PERSIA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_PERSIA_1</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PERSIA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_PERSIA_2</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PERSIA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_PERSIA_3</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PERSIA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_PERSIA_4</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PERSIA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_PERSIA_5</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PERSIA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_PERSIA_6</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PERSIA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_PERSIA_7</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PERSIA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_PERSIA_8</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PERSIA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_PERSIA_9</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PERSIA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_PERSIA_10</CityName>
+		</Row>
+	</MinorCivilization_CityNames>
+</GameData>

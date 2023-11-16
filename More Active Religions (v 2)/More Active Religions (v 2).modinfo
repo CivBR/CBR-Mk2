@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="499a9b62-2309-4758-a5d9-add2c7867a90" version="2">
+  <Properties>
+    <Name>More Active Religions</Name>
+    <Teaser>Increases the number of possible Religions for each map type.</Teaser>
+    <Description>Increases the number of possible Religions for each map type.
+
+Duel: 2 Religions (no change)
+Tiny: 4 Religions (+1)
+Small: 5 Religions (+1)
+Standard: 7 Religions (+2)
+Large: 8 Religions (+2)
+Huge: 8 Religions (+1)
+
+__________________
+
+I could not set more than 8 Religions max, because the number of available Beliefs is limited in the game.
+If you want to add more, check the info below!
+
+This change might add a little more competitiveness and limit overpowered Religions that have Civs without Religion around them.
+
+I recommend using BlouBlou's and ryoga's Religion mods together with this, for more diversity and less frustration with AI's picking all your favourite Beliefs.
+
+__________________
+
+If you want to change the number of available active Religions, you can easily do so yourself after downloading this mod:
+Using Explorer, simply open the file
+Documents/My Games/Sid Meier's Civilization 5/MODS/More Active Religions/xml/ActiveRel.xml
+with NotePad.
+You will see the Map Types and a corresponding number of possible active Religions.
+Just change the number to your own preference!
+
+Important: More than 8 Religions is only possible with mods that add more Beliefs! (The base game only has 16 Follower, 9 Founder and 9 Enhancer Beliefs)
+
+Enjoy!</Description>
+    <Authors>scotchandcake</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>0</AffectsSavedGames>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="F17882344B5526FAE4CB57014E2E543F" import="0">xml/ActiveRel.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>xml/ActiveRel.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

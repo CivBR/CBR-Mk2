@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="2db78a7a-1b53-40b9-a43a-d968326735aa" version="1">
+  <Properties>
+    <Name>[BNW] Archaeologists are VERBOTEN</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>No more goddamned archaeologists</Teaser>
+    <Description>No more goddamned archaeologists</Description>
+    <Authors>Sasquatch (AKA Kramer), TPangolin</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="762228B91EE7AA642A8CB3D03B39D153" import="0">ArchaeologistGenocideWhen.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>ArchaeologistGenocideWhen.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

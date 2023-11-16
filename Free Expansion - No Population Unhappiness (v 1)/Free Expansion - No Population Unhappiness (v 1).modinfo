@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="857c61d5-acbe-4caf-ace8-e026c19f3ed7" version="1">
+  <Properties>
+    <Name>Free Expansion - No Population Unhappiness</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Removes unhappiness from population. Does not remove unhappiness from occupied population (build a courthouse to make it go away</Teaser>
+    <Description>Removes unhappiness from population. Does not remove unhappiness from occupied population (build a courthouse to make it go away).</Description>
+    <Authors>Numenor</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="0CCC467AF8269E1AD0F5EFA31FF7ADBC" import="0">Population_Happiness.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Population_Happiness.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

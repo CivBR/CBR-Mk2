@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/21/2014 2:43:29 PM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_TAKEIT</Type>
+			<Description>TXT_KEY_TRAIT_TAKEIT</Description>
+			<ShortDescription>TXT_KEY_TRAIT_TAKEIT_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+	<Trait_FreePromotionUnitCombats>
+		<Row>
+			<TraitType>TRAIT_TAKEIT</TraitType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+			<PromotionType>PROMOTION_DEFEND_NEAR_CAPITAL</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_TAKEIT</TraitType>
+			<UnitCombatType>UNITCOMBAT_SIEGE</UnitCombatType>
+			<PromotionType>PROMOTION_DEFEND_NEAR_CAPITAL</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_TAKEIT</TraitType>
+			<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+			<PromotionType>PROMOTION_DEFEND_NEAR_CAPITAL</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_TAKEIT</TraitType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+			<PromotionType>PROMOTION_DEFEND_NEAR_CAPITAL</PromotionType>
+		</Row>
+	</Trait_FreePromotionUnitCombats>
+	<Trait_ImprovementYieldChanges>
+		<Row>
+			<TraitType>TRAIT_TAKEIT</TraitType>
+			<ImprovementType>IMPROVEMENT_FORT</ImprovementType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Trait_ImprovementYieldChanges>
+</GameData>

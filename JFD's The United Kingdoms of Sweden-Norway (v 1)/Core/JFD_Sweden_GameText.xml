@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- FATHER OF MODERN WARFARE -->
+		<Row Tag="TXT_KEY_TRAIT_JFD_SWEDEN_SHORT">
+			<Text>Father of Modern Warfare</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_SWEDEN">
+			<Text>Infantry Units produce Great Generals faster when beginning next to a friendly Mounted Unit. Great Generals increase the starting [ICON_MOVES] Movement of adjacent Siege Units by +1 and may be used to spread your religion.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,1741 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Pouakai -->
+<GameData>
+	<Language_en_US>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Unique Units- - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--Hawaiian Koa-->
+		<Row Tag="TXT_KEY_UNIT_MC_HAWAIIAN_KOA">
+			<Text>Koa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_HAWAIIAN_KOA_HELP">
+			<Text>More expensive Longswordsmen replacement. Does not require [ICON_RES_IRON] Iron. Begins with the Amphibious promotion and additional experience. Only Hawaii may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_HAWAIIAN_KOA_STRATEGY">
+			<Text>The Koa is a Hawaiian Unique Unit with an emphasis on amphibious warfare. In addition to the amphibious promotion, the Koa begins with additional experience points, allowing a promotion to be chosen even without any military buildings. In addition to this, it does not require Iron, unlike the Longswordsmen which it replaces.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_HAWAIIAN_KOA_PEDIA">
+			<Text>Taking their name from the tree from which they crafted their diverse weaponry, the koa were feared above all other warriors in Hawaii. Their rigorous training, undertaken secretly in the night, honed their skills against enemy formations. Each sought mastery of Kapu Ku'ialua, often known simply as lua. Hawaii's indigenous martial art, lua focuses on joint locks, pressure points, and bone-shattering techniques, with an emphasis on strategy to compliment its role in oceanic warfare. Armed with this style, the koa fought with spears, staffs, slings, daggers, and hoe leiomano--an iconic shark-toothed weapon. In order to preserve the traditions of the koa, Kamehameha formed the pa ku'ialua--schools where young men continued to be trained in lua for decades after. </Text>
+		</Row>
+		<!--Rapa Nui Matato'a-->
+		<Row Tag="TXT_KEY_UNIT_MC_RAPA_NUI_MATATOA">
+			<Text>Matato'a</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_RAPA_NUI_MATATOA_HELP">
+			<Text>Unique Composite Bowman. Weaker, but can see further. Only Rapa Nui may build it. Has a chance of finding a Manu-tara egg on coastal hill tiles which, if successful, turns the unit into a Tangata-Manu.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_RAPA_NUI_MATATOA_STRATEGY">
+			<Text>The Matato'a is a Unique Unit of Rapa Nui. It is weaker and can see further than the Composite Bowmen, which it replaces. The Matato'a also has the ability to search a coastal hill tile for a Manu-tara egg. If it is successful, the tile gains extra faith and the Matato'a becomes a Tangata-Manu, which is stronger than both the Matato'a and the Composite Bowmen and has the ability to cross ocean tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_RAPA_NUI_MATATOA_PEDIA">
+			<Text>The Matato'a were the chiefs and war leaders of the mata, the large kinship groups that divided the island among themselves. Beneath them served commoners recruited for battle, armed with clubs known as paoa, from which these lowly warriors took their name. The favored weapons of the matato'a, however, were the vero and the kakau, the spear and the javelin, both tipped with vicious mataa, an obsidian point said to have been developed during the war between the hanua 'e'epe and the hanua momoko. This legendary war may be connected to the 18th Century conflicts on the island, during which mataa became increasingly common and the matato'a assumed greater control over Rapa Nui. To further secure their rule and determine which matato'a took precedence over the others, they established the competitive mata veri ceremony to chose a Tangata Manu.</Text>
+		</Row>
+		<!--Rapa Nui Tangata Manu-->
+		<Row Tag="TXT_KEY_UNIT_MC_RAPA_NUI_TANGATA_MANU">
+			<Text>Tangata-Manu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_RAPA_NUI_TANGATA_MANU_HELP">
+			<Text>Matato'a which has discovered a Manu-Tara egg. It is stronger and can enter ocean tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_RAPA_NUI_TANGATA_MANU_STRATEGY">
+			<Text>A Tangata-Manu is an elite version of the Matato'a, unique to Rapa Nui. It has discovered a Manu-tara egg, which has given the unit extra strength and the ability to cross ocean tiles. The Tangata-Manu cannot be built or purchased, and can only be acquired through the discovery of a Manu-Tara egg by a Matato'a.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_RAPA_NUI_TANGATA_MANU_PEDIA">
+			<Text>From the earliest days of Rapa Nui, the site of 'Orongo hosted the Tangata Tapu Manu rituals. Young men and women came to this holy site to undergo their initiation into adulthood. As the authority of the matato'a increased, they transformed these ancient rituals to legitimize their rule, creating the mata veri ceremony. When the mata veri, or Grand Assemblage, convened each September, the Rapanui enjoyed an island-wide armistice while the matato'a chose a new Tangata Manu. Either competing himself or through a proxy, the matato'a raced from 'Orongo to the tiny islet of Motu Nui. There, they claimed an egg from the manu tara, the sooty terns that nest on the islet. The first matato'a to return to 'Orongo with an intact egg was proclaimed the Tangata Manu, the Birdman. The new Tangata Manu enjoyed a year of luxury and privilege in special residence at Rano Raraku. His paoa could strike against his enemies with virtual impunity, and he oversaw the distribution of food on the island and served as the official intermediary between the people and Makemake, the avian fertility god that had usurped the ancestral Polynesian deities that had once been worshipped on the island. The emergence of the Tangata Manu brought about a renaissance of Rapanui art, both to commemorate the victories of the Tangata Manu and their new god, and among the more traditional elements of society still loyal to the 'ariki mau and intent on countering the influence of the matato'a.</Text>
+		</Row>
+		<!--Tongan Tongiaki-->
+		<Row Tag="TXT_KEY_UNIT_MC_TONGAN_TONGIAKI">
+			<Text>Tongiaki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_TONGAN_TONGIAKI_HELP">
+			<Text>Unique Tongan trireme. May enter ocean tiles. When an embarked unit begins its turn on the same tile, it may also enter ocean tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_TONGAN_TONGIAKI_STRATEGY">
+			<Text>The Tongiaki is a Trireme replacement unique to Tonga. In addition to having the ability to enter Ocean tiles, the Tongiaki allows any embarked unit which begins its turn on the	same tile as the Tongiaki to also enter ocean tiles for that turn, even before Astronomy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_TONGAN_TONGIAKI_PEDIA">
+			<Text>The Tongiaki was a resilient and robust double-hulled canoe. They were used by the Tongans to spread their influence and control over neighboring Pacific kingdoms. Relying heavily on the ocean winds, the Tongiaki was 70 ft. long and could reportedly carry up to a 100 people. However, the Tongiaki sacrificed its maneuverability for the weight it could ship, which would ultimately lead to their decline in use after a newer version that was more swift and agile would be adopted.</Text>
+		</Row>
+		<!--Maori Warrior text updates-->
+		<Update>
+			<Set Text="Taiaha Warrior"/>
+			<Where Tag="TXT_KEY_UNIT_POLYNESIAN_MAORI_WARRIOR"/>
+		</Update>
+		<Update>
+			<Set Text="Medieval Era unit that boosts the [ICON_STRENGTH] Combat Strength of nearby units and earns promotions faster. Only the Maori may build it. Replaces the Pikeman."/>
+			<Where Tag="TXT_KEY_CIV5_POLYNESIAN_MAORI_WARRIOR_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="The Maori Warrior is similar to a Great General, although the bonus which it provides to nearby units is smaller than that of the general's. As well as this, the Taiaha Warrior gains experience quicker, meaning that it is able to gain new promotions much quicker than the Pikeman, which it replaces. "/>
+			<Where Tag="TXT_KEY_CIV5_POLYNESIAN_MAORI_WARRIOR_STRATEGY"/>
+		</Update>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Unit Promotions - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<Row Tag="TXT_KEY_PROMOTION_MC_TAIAHA_WARRIOR">
+			<Text>Blessing of Tumatauenga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_TAIAHA_WARRIOR_HELP">
+			<Text>Gains experience faster, and nearby units receive a 5% combat boost.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_TAIAHA_COMBAT_BONUS">
+			<Text>Nearby Taiaha Warrior</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_TAIAHA_COMBAT_BONUS_HELP">
+			<Text>A nearby Taiaha Warrior is giving this unit a combat boost.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_KOA_XP">
+			<Text>Advanced Koa Training</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_KOA_XP_HELP">
+			<Text>This unit begins with 10 additional experience points</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_KOA_XP_CONSUMED">
+			<Text>Advanced Koa Training</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_KOA_XP_CONSUMED_HELP">
+			<Text>This unit begins with 10 additional experience points</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_OUTRIGGER">
+			<Text>Wayfinding</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_OUTRIGGER_HELP">
+			<Text>Embarked units which start on the same tile as this unit may enter ocean tiles.</Text>
+		</Row>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Unique Buildings- - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--Hawaiian Heiau-->
+		<Row Tag="TXT_KEY_BUILDING_MC_HAWAIIAN_HEIAU">
+			<Text>Heiau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_HAWAIIAN_HEIAU_HELP">
+			<Text>Gives a random specialist slot upon completion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_HAWAIIAN_HEIAU_PEDIA">
+			<Text>In the traditional religion of the Hawaiian islands, Heiau served as the primary places of worship and of seeking the help of the divine. Heiau were established for a variety of reasons, with different types for individual purposes, including navigational success, treatment of the sick or fertility, among others. These heiau were not only for different purposes, but were entirely different forms, including semi-submerged heiau for aid in fishing, and varying from simple earth terraces to elaborate temple structures composed of volcanic rock with multiple pyramids. They varied in size, too, with the largest heiau being several acres in size (these ones were extremely sacred, and only the Ali'i nui and high priests were allowed to use them.) Following the decline of the traditional Hawaiian religion with the arrival of Christian missionaries in the early 19th century, many of the Heiau were destroyed or fell into disrepair, believed to be heathen. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_HAWAIIAN_HEIAU_STRATEGY">
+			<Text>The Heiau is a unique Hawaiian version of the Temple. In addition to all the standard benefits of a temple, the Heiau provides a random specialist slot upon completion.</Text>
+		</Row>
+		<!--Tongan Mala'e-->
+		<Row Tag="TXT_KEY_BUILDING_MC_TONGAN_MALAE">
+			<Text>Mala'e</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_TONGAN_MALAE_HELP">
+			<Text>+1 [ICON_FOOD] Food from sources of [ICON_RES_CRAB] Crab and [ICON_RES_FISH] Fish. +2 [ICON_FOOD] Food if the city is adjacent to at least three coastal tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_TONGAN_MALAE_PEDIA">
+			<Text>The Tongan nobility maintained large fenced compounds in their capital. These compounds were multifaceted, but their largest features are the mala’e, expansive grassy areas containing a falu hau, or meeting house. Here the Tonga Tu’i hosted the ‘inasi festivals, held meetings, and accepted tribute. Toward the rear of mala’e, the nobility built yet another fenced and gated compound for their personal residence, between 15-18 meters in length and over 6 meters tall. Surrounding the mala’e were the houses of the nobleman’s wives and his retainers, storehouses, baths, ornamental trees and other luxuries befitting the noble’s position.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_TONGAN_MALAE_STRATEGY">
+			<Text>In addition to providing [ICON_PEACE] Faith, the Mala'e grants the city in which it is constructed a random specialist.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_MALAE_FOOD">
+			<Text>MC: Mala'e Food</Text>
+		</Row>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Unique Improvements - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<Row Tag="TXT_KEY_MC_MAORI_PA">
+			<Text>Pa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_MC_MAORI_PA_HELP">
+			<Text>Provides a 40% [ICON_STRENGTH] Defensive bonus to units which are stationed on the tile. When worked by a city, boosts [ICON_PRODUCTION] Military Unit Production in the city by 5% per each worked. May only be built on a hill, and may not be built next to another Pa. Only the Maori can build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_MAORI_PA_PEDIA">
+			<Text>While almost any Maori village could be called a pa, today the word has come to refer to fortified hilltop villages almost exclusively. Ringed with palisades and terraces, these monumental structures announced the military power of a rangatira and his iwi to the world. Pa were built in strategic places throughout an iwi’s territory, in order to best guard its fertile lands. A simple pa might consist only of a single palisade, while a more complex pa would consist of multiple rings of palisades, earthen ramparts, ditches from which to defenders can mount ambushes, kumara patches, food storage areas, wells, underground passages, and decorative entryways. During the Musket Wars, a new type of pa was developed - the gunfighter pa. These forts were usually simpler than the older varieties, but could be constructed in a matter of days. The Gunfighter pa provided greater defense against attackers wielding firearms, as well as allowing defenders to the full advantage of their own muskets.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_MC_MAORI_PA">
+			<Text> Construct a [LINK=IMPROVEMENT_MC_MAORI_PA]Pa[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_MC_MAORI_PA_HELP">
+			<Text>A Pa boosts the [ICON_STRENGTH] Defensive Strength of a unit stationed on the tile, as well as increases the rate of [ICON_PRODUCTION] Military Unit Production when worked by a city. Must be built on a hill, and may not be built next to an existing Pa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_MC_MAORI_PA_REC">
+			<Text>It will boost the [ICON_PRODUCTION] Military Unit Production of a city when worked, as well as increasing the [ICON_FOOD] Food yield of the tile and the [ICON_STRENGTH] Defensive Strength of units on it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PA_MILITARY_UNIT_PRODUCTION">
+			<Text>MC: Pa Military Production</Text>
+		</Row>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Dawn of Man - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_MC_MAORI_TEXT">
+			<Text>Greetings Te Rauparaha, noble Rangatira of the Maori people! May Tumatauenga and Tangaroa bestow their blessings upon you! You were the leader of the Ngati Toa, a proud Iwi famed for their valour upon the field of battle amongst friend and foe alike. When the European powers came to the islands of Aotearoa, you resisted their incursions into your lands while at the same time utilising their superior weaponry - the musket - to give you an advantage over your foes with whom your people had fought for centuries prior. It was with these conquests that your name came to be known far and wide, earning you a place among the greatest military minds of the age. Your achievements were not limited to the battlefield, however. It was your ability as a negotiator which successfully stemmed the tide of European settlement upon your lands through peace, not war. Yet not all of your people were as willing to support a peaceful solution, with many choosing to take up arms against the colonists. While maintaining a friendly relation with the colonists, you supported the opposition through the supply of intelligence, an act which would be your undoing. Yet even in prison you fostered your legacy, creating a powerful haka which came to embody the mana of the Maori on a global scale long after your death.[NEWLINE][NEWLINE]Great Te Rauparaha, the Maori are once again under threat of invasion from imperial powers, and are in dire need of a strong, battle-hardened leader! Te Rauparaha, the gods and your people call to you to protect your lands against all foes. Can you reprise your role as general and chief? Can you fend off all those who would doubt your sovereignty? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!--<Row Tag="TXT_KEY_DAWN_OF_MAN_MC_HAWAII_TEXT">
+			<Text></Text>
+		</Row>-->
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_MC_TONGA_TEXT">
+			<Text>Malo 'etau lava 'Aho'eitu, the great king who came down from the sky. The Tongan people arrived on the island of Tongatapu some 3,000 years ago and quickly established themselves among the many islands of the surrounding archipelago. Astute sailors and fisherman, they ably adapted Fijian ship building techniques to assert maritime supremacy and conquer the neighboring Samoan Kingdom. A legend amongst your people, Divine Father, you established the Tu'i Tonga Empire which, at its height, stretched from the islands of Niue to Tikopia and created a sphere of influence that fostered transoceanic trade and cultural exchange. Yet this supremacy would not last, with infighting proving to be downfall of your dynasty as Samoa began to reassert itself across the South Pacific.[NEWLINE][NEWLINE]Great King, though weakened from times past, Tonga has never lost its sovereignty to a foreign crown. Your kingdom has endured in a way that few could ever match. The memory of your once vast empire still travels across the waters which once sustained it, and on the wings of the seabirds which guided its navigators. Can you restore Tonga's rightful place amongst the great nations of the Pacific? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_MC_RAPA_NUI_TEXT">
+			<Text>'Iorana Hotu Matu'a, father and Ariki Mau to the Rapa Nui people. Hailing from the Marquesas Islands, you followed a prophetic dream to find and settle a new home for your people at the navel of the world. The island that would come be to known as Easter Island proved an untapped paradise for the Rapa Nui, who quickly mastered its bounty developing advanced agricultural techniques and erecting the massive Moai statues which continue to captivate the world even to this day. Yet, it was your people's success that ultimately led to their downfall. Easter Island would prove too small as overpopulation and diminishing natural resources left the Rapa Nui divided and weakened to greet the arrival of European exploration. A mere fraction of their original size, the Rapa Nui were diminished further still as foreign-borne diseases and slave traders ravaged what was left of your once great civilization.[NEWLINE][NEWLINE]Supreme Chief, isolated from the rest of the world your people managed to craft wonders that far larger civilizations can only envy. Yet no longer are your people limited by the constraints of your island home. It is time to set sail and follow a new dream to a land of limitless wealth and potential. Can you lead your people into this new era? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Unique Abilities- - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<Row Tag="TXT_KEY_TRAIT_KAHUNA_MASTERY_SHORT">
+			<Text>Kahuna Mastery</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_KAHUNA_MASTERY">
+			<Text>Specialists generate double their base yield. Receive [ICON_GREAT_PEOPLE] Great People points from combat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_HAWAII_UA_CULTURE">
+			<Text>MC: Hawaiian Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MANA_OF_TUMATAUENGA_SHORT">
+			<Text>Mana of Tumatauenga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MANA_OF_TUMATAUENGA">
+			<Text>Every time an enemy unit is defeated in battle, receive 25% of the [ICON_PRODUCTION] Production cost towards that unit in the [ICON_CAPITAL] Capital. Melee Units lower the [ICON_STRENGTH] Combat Strength of adjacent enemy units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAORI_UA_NOTIFICATION">
+			<Text>The training of a {1_Unit} has been sped up by {2_Delta} [ICON_PRODUCTION] Production. You need another {3_Remaining} [ICON_PRODUCTION] Production to complete its training.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAORI_UA_NOTIFICATION_2">
+			<Text>You have completed the training of a {1_Unit} in the Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_KAI_KAI_LORE_SHORT">
+			<Text>Kai Kai Lore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_KAI_KAI_LORE">
+			<Text>Receive [ICON_PEACE] Faith whenever a new [ICON_CITIZEN] Citizen is born. +1 [ICON_GREAT_PEOPLE] Cultural Great Person point for every 10 [ICON_PEACE] Faith generated by a city, including that from the birth of new citizens.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_RAPA_NUI_FAITH">
+			<Text>{1_Num} [ICON_PEACE] Faith from the birth of a new citizen in {2_CityName}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FRIENDLY_ISLES_SHORT">
+			<Text>The Friendly Isles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FRIENDLY_ISLES">
+			<Text>Whenever you first meet a Civilization or City-State, earn a random [ICON_CULTURE] Culture, [ICON_PEACE] Faith, [ICON_GOLD] Gold, or [ICON_RESEARCH] Science bonus. Earn more [ICON_INFLUENCE] Influence from completing City-State quests.</Text>
+		</Row>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Denonyms- - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<Row Tag="TXT_KEY_MC_MAORI_DESC">
+			<Text>Maori Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_MAORI_SHORT_DESC">
+			<Text>The Maori</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_MC_MAORI_ADJECTIVE">
+			<Text>Maori</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_HAWAII_DESC">
+			<Text>Kingdom of Hawaii</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_HAWAII_SHORT_DESC">
+			<Text>Hawaii</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_HAWAII_ADJECTIVE">
+			<Text>Hawaiian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_TONGA_DESC">
+			<Text>Tu'i Tonga Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_TONGA_SHORT_DESC">
+			<Text>Tonga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_TONGA_ADJECTIVE">
+			<Text>Tongan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_RAPA_NUI_DESC">
+			<Text>Rapa Nui Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_RAPA_NUI_SHORT_DESC">
+			<Text>Rapa Nui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_RAPA_NUI_ADJECTIVE">
+			<Text>Rapa Nui</Text>
+		</Row>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Spy Names - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--Maori-->
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MAORI_0">
+			<Text>Tane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MAORI_1">
+			<Text>Apirana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MAORI_2">
+			<Text>Hone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MAORI_3">
+			<Text>Tamati</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MAORI_4">
+			<Text>Wiremu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MAORI_5">
+			<Text>Tame</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MAORI_6">
+			<Text>Anika</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MAORI_7">
+			<Text>Hinewai</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MAORI_8">
+			<Text>Aroha</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MAORI_9">
+			<Text>Kora</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--Hawaii-->
+		<Update>
+			<Where Tag="TXT_KEY_SPY_NAME_POLYNESIA_0"/>
+			<Set Text="Makaha"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_SPY_NAME_POLYNESIA_1"/>
+			<Set Text="Lanakila"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_SPY_NAME_POLYNESIA_2"/>
+			<Set Text="Maka Koa"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_SPY_NAME_POLYNESIA_3"/>
+			<Set Text="Hiapo"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_SPY_NAME_POLYNESIA_4"/>
+			<Set Text="Alohi"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_SPY_NAME_POLYNESIA_5"/>
+			<Set Text="Ikaika"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_SPY_NAME_POLYNESIA_6"/>
+			<Set Text="Leilani"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_SPY_NAME_POLYNESIA_7"/>
+			<Set Text="Lili'uokalani"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_SPY_NAME_POLYNESIA_8"/>
+			<Set Text="Manono"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_SPY_NAME_POLYNESIA_9"/>
+			<Set Text="Wahinepio"/>
+		</Update>
+		<!--<Row Tag="TXT_KEY_SPY_NAME_MC_HAWAII_0">
+			<Text>Makaha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_HAWAII_1">
+			<Text>Lanakila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_HAWAII_2">
+			<Text>Maka Koa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_HAWAII_3">
+			<Text>Hiapo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_HAWAII_4">
+			<Text>Alohi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_HAWAII_5">
+			<Text>Ikaika</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_HAWAII_6">
+			<Text>Leilani</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_HAWAII_7">
+			<Text>Lili'uokalani</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_HAWAII_8">
+			<Text>Manono</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_HAWAII_9">
+			<Text>Wahinepio</Text>
+			<Gender>feminine</Gender>
+		</Row>-->
+		<!--Tonga-->
+		<Row Tag="TXT_KEY_SPY_NAME_MC_TONGA_0">
+			<Text>Lo'au</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_TONGA_1">
+			<Text>Kae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_TONGA_2">
+			<Text>Longopoa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_TONGA_3">
+			<Text>Sinialu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_TONGA_4">
+			<Text>Fasi'apule</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_TONGA_5">
+			<Text>Toiukamae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_TONGA_6">
+			<Text>Salote</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_TONGA_7">
+			<Text>Papiloa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_TONGA_8">
+			<Text>Lolofonua</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_TONGA_9">
+			<Text>Sangone</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--Rapa Nui-->
+		<Row Tag="TXT_KEY_SPY_NAME_MC_RAPA_NUI_0">
+			<Text>Tepano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_RAPA_NUI_1">
+			<Text>Roma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_RAPA_NUI_2">
+			<Text>Mini</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_RAPA_NUI_3">
+			<Text>Torometi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_RAPA_NUI_4">
+			<Text>Riro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_RAPA_NUI_5">
+			<Text>Tama Teka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_RAPA_NUI_6">
+			<Text>Vakai</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_RAPA_NUI_7">
+			<Text>Koreto</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_RAPA_NUI_8">
+			<Text>Angata</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_RAPA_NUI_9">
+			<Text>Avvarepua</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Civilization Pedias - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--Maori-->
+		<Row Tag="TXT_KEY_MC_MAORI">
+			<Text>The Maori</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAORI_TITLE">
+			<Text>The Maori</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAORI_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAORI_TEXT_1">
+			<Text>The Maori are the group of indigenous Polynesian people of New Zealand (which they called Aotearoa, or the Land of the Long White Cloud). The Maori have settled on New Zealand for nearly three quarters of a millenium, in their isolation they created their own culture and society. The early Maoris formed tribes - influenced from their earlier Polynesian societies, horticulture began to thrive from the importation of flora, and the infamous warrior culture rose into prominence. The arrival of the British in the 17th century set about great change in every aspect of Maori life, initially the Maori adopted and accepted European culture and the two coexisted peacefully. Tensions over the sale of land however led to conflict by the 1860s; social upheaval, battles and foreign epidemics struck the Maori population and caused their numbers to dindle before a recovery in the 20th century.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAORI_HEADING_2">
+			<Text>Geography and Climate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAORI_TEXT_2">
+			<Text>New Zealand sits southeast of Australia in the South Pacific Ocean. Formed from tectonic movement, much of New Zealand and its surrounding islands are mountainous and volcanic. The landmasses were formed when the continent of Zealandia - formed roughly 83 million years ago - had sank into the ocean 20 million years ago, leaving the highlands above sea level. The North Island is smaller and less mountainous than the South Island, yet it is more marked by active volcanoes; Mount Ruapehu, the island’s tallest peak is itself an active cone volcano, and Lake Taupo, New Zealand’s largest lake is a caldera, a feature formed from a collapse of the land due to a volcanic eruption.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAORI_HEADING_3">
+			<Text>Land of the Long White Cloud</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAORI_TEXT_3">
+			<Text>Little is known about the Polynesian voyage to New Zealand - the current evidence suggests the ancient Maori first landed and settled on New Zealand at around 1280, and that the heavy presence of female Maori at the time suggests the landing on New Zealand was deliberate.[NEWLINE][NEWLINE]The Archaic period of the Maori describes the first years of settlement, where the tribes - known to the Maori as ‘iwi’ - settled by the woodlands where several species of moa birds once lived. The Maori hunted the moa to such an extent that the moa became extinct in New Zealand during this time, the Archaic period is also known as the ‘Moahunter’ period for this reason. The Otago iwi became the center of Maori cultural development with most of their settlements established within 6 miles of the coast. Intriguingly the period saw a complete lack of weaponry, instead the Archaic period is known for the creation of “reel necklaces” and the hunting of the local birdlife. Apart from birds the Maori diet was rich in seafood, and despite the low life expectancy of the Maori - around 31-32 years - and the hard life of the frontiersmen, the iwi was capable of supporting their injured and infirm.[NEWLINE][NEWLINE]By the start of the 16th century the climate had cooled, and around this time a series of large earthquakes struck the South Island. Combined with the extinction of the moa bird, among other food sources, sweeping changes in Maori life developed into the more recognisable customs that defines the Classic period. The Maori created pounamu weapons made from indigenous nephrite jade or bowenite stone in this period. Curved canoes were developed by the Maori, and the fierce warrior culture sprang into action; building hillforts across the islands - the pa, engaging in frequent cannibalism, and controlled some of the largest canoes in history. It was in this moment that contact was first made with Europe.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAORI_HEADING_4">
+			<Text>Last Human Community Untouched</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAORI_TEXT_4">
+			<Text>Abel Tasman and Captain James Cook are two of the first explorers to discover and land on New Zealand; Tasman in 1642 and Cook in 1769. Initial contact was problematic and in some cases fatal. In the 1780s the Maori meet whaling crews from Europe and America, some of these crews already held Maori. Some South Island crews were nearly entirely Maori. A trickle of convicts escaping Australia, deserters from passing ships, and Christian missionaries added to the European influence over the Maori. In the Boyd Massacre of 1809 the Maori took hostage and killed 66 people in an act of revenge, the cannibalism of these people caused shipping and whaling companies to be wary and to steer clear from New Zealand in following years.[NEWLINE][NEWLINE]By 1830 as many as 2000 Europeans were living with the Maori. The Europeans had positions in all parts of Maori society, from slaves serving their masters to high-ranking advisor roles for the iwi chiefs. Some Europeans were prisoners in their new home, others expatriated from their homeland and identified themselves as Maori, they were known to the Maori as Pakeha Maori - literally meaning ‘European Maori’. They were valued as an asset to many iwis as European knowledge and technologies were handed down from Pakeha Maori, most notably firearms. The Maori language was first notated by Thomas Kendall in 1815, five years later Professor Samuel Lee compiled the Maori grammar and vocabulary. The Maori quickly adopted literacy from missionaries. The established colonial government handed free gazettes to the Maori in 1843 called Ko Te Karere O Nui Tireni; it outlined information about colonial law, crimes, explanations and remarks on European customs.[NEWLINE][NEWLINE]Between 1805 and 1840 however, the purchase of muskets by iwis with European contact upset the balance of power, leading to a period of violent inter-tribal warfare known as the Musket Wars. The powerful iwi destroyed their weaker foes and drove the rest out of their homelands. From 100,000 in 1800 the Maori population is said to have dropped between 20% and 50% by 1843; a census in 1856-7 reveals the population then to be 56,049, this is during a time of relative stability in Maori life. However the Musket Wars were not the only contributing factor to the mortality of Maori then, European diseases such as influenza and measles killed an unknown number of Maori, contributed largely by new European settlers who had not performed recent health checks. Pakeha Maori Te Rangi Hiroa documented a respiratory epidemic the Maori called ‘rewharewha’. He recorded that “almost everything, except plague and sleeping sickness have taken their toll on Maori dead.”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAORI_HEADING_5">
+			<Text>British Treaty with Aotearoa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAORI_TEXT_5">
+			<Text>As the colonies spread further in the 1830s and missionaries became more active, and a growing lawlessness in the colonies themselves, the British Crown accepted requests from missions and chiefs to intervene. However some escaped convicts, seamen, gunrunners and Americans sought to actively work against the British, spreading rumours to the Maori of mistreatment and oppression. Chief Tamati Waka Nene was angry at the colonial government’s disinclination to stop gunrunners from selling weapons to rebels. The French had also begin to take interest in acquiring New Zealand for themselves, they sent French missionaries to spread anti-British sentiment. Despite this Queen Victoria sent Captain William Hobson to negotiate terms for a treaty between Britain and New Zealand. Arriving on February 1840 Hobson set about establishing a treaty with the chiefs of the North Island - the Treaty of Waitangi. Ultimately 500 chiefs and a small collection of Europeans signed the document, only a few chiefs refused to do so, affected by France’s interests these few were Catholic chiefs. The treaty gave the Maori the rights of British subjects as well as a guarantee in tribal autonomy in exchange for British sovereignty.[NEWLINE][NEWLINE]Even today dispute over the exact terms of the treaty remains, due largely to the Maori translation of the document, translated by Henry and William Williams. Their imperfect Maori and a lack of exactly similar words in the Maori lexicon handicapped them to create an imperfect representation of the terms. Despite this though relations between Britain and the Maori were largely peaceful; the Maori set up shops and businesses, selling and exporting foods and product domestically and internationally. This would not last though, tensions rose as disputes over land purchases and an attempt by the Maori to create what some saw as a rival to the British royalty system led to the New Zealand wars in the 1860s. The wars began when rebel Maori attacked isolated settlers in Taranaki, the major conflicts though were against British forces - including levied troops from Australia and few allied Maori - against numerous Maori iwis opposed to the land sales. While the wars in fact resulted in few deaths on either side of the conflict, the colonies confiscated land as punishment from what were seen as rebellions, in some cases from iwis which took no part in any of the conflicts, though they were almost instantly returned again.[NEWLINE][NEWLINE]The Native Lands Acts of 1862 and 1865 established the Native Land Court, a specialized court that dealt with the ownership of Maori land. This also allowed Maori to sell their lands to both colonial government and private settlers. Subsequent transactions saw nearly all Maori lands sold by 1890, although over time some of these lands were returned to them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAORI_HEADING_6">
+			<Text>Population Decline and Revival</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAORI_TEXT_6">
+			<Text>During the late 19th century, the Maori population started to considerably decline as European colonists settled in New Zealand. In 1840, the population of New Zealand was estimated between 50,000 and 70,000 Maori and 2,000 Europeans, but by 1950 the European population exploded tenfold. In the 1896 census, the Maori numbered 42,113 and paled in comparison to the now more than 700,000 European colonists present on New Zealand. At the same time, it was observed by Professor Ian Poole that female Maori children had a very high chance of death before the age of one. Despite this and the fears that Maori would simply be absorbed into the European populace, the population decline would come to an end in the following decades into the 20th century. By the late 1930s the Maori population was well over 80,000. Many Maori who intermarried with Europeans, and their children, would continue to identify as Maori and keep their culture alive for generations to come. The Maori would also give rise to several successful politicians and a political party, the Young Maori Party, whose goal was to improve the lives of the Maori by blending with European culture while still keeping traditional practices and art alive.[NEWLINE][NEWLINE]Maori troops took part in both world wars. A pioneer battalion of nearly 3,000 Maori and Pacific islanders were deployed in Egypt and later the Gallipoli peninsula during World War I. Upon their return to New Zealand after the war, the country was struck by a devastating influenza outbreak that killed 4.5 times more Maori than those of European descent. When World War II began, Maori were exempt from being conscripted into the military, but many still enlisted voluntarily. The 28th Maori Battalion consisted of about 3,600 men over the course of the entire war fighting in North Africa, Italy, Crete, and Greece, proving to be formidable soldiers that earned the respect of both Allied and Axis commanders. Over 12,000 other Maori soldiers served among the New Zealand forces outside of the 28th Battalion during the war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAORI_HEADING_7">
+			<Text>Maori Today</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAORI_TEXT_7">
+			<Text>Since the beginning of the new millennium, the position of Maori within wider New Zealand society has continued to be a contentious topic, and one which contains both tales of triumph and adversity. Disputes which arose as a result of the differing interpretations of the Treaty of Waitangi continue to be a prominent issue both in New Zealand politics and in the judicial system, with a dedicated permanent commission of inquiry established to resolve disputes between Iwi and the New Zealand Government. Multiple political parties have been established around the premise of Maori rights, which alongside dedicated Maori seats in Parliament seek to ensure that Maori have involvement in the government. [NEWLINE][NEWLINE]Outside politics, Maori culture has also seen a revival in recent years. Many Maori words have been adopted into New Zealand English, with words such as Pakeha (meaning a New Zealander of European ancestry) and Ka Pai (used to express approval of something) are as widely known as any English word amongst the New Zealand population, and are used in everyday English to create a form of the language unique to the island nation (although English words still vastly outnumber Maori ones.) Te Reo Maori is taught in many primary and secondary schools, often alongside Maori cultural activities known as Kapa Haka (which involve learning Maori waiata, or songs, as well as traditional Maori performance activities such as poi or Haka.) Some aspects of Maori culture have been adopted by wider New Zealand society as a representation of the whole country, with often cited examples being Te Rauparaha's Haka, Ka Mate, frequently performed by the All Blacks (New Zealand's Rugby Union team) and the Maori waiata Pokarekare Ana, written during or shortly after World War One by a Maori soldier. Maori is one of three official languages of New Zealand, alongside English and New Zealand Sign Language, one of the core reasons for its prevalence in schools. Many place names also have Maori names alongside their English ones, such as New Zealand's highest mountain Aoraki / Mt. Cook, or the popular tourist destination of Piopiotahi / Milford Sound. Similarly, both main islands of New Zealand have official Maori names alongside their English ones, Te Ika a Maui and Te Wai Pounamu for the North and South Islands respectively. [NEWLINE][NEWLINE] However, the Maori population remains to an extent marginalised in New Zealand society, and is often over-represented in crime statistics and under-represented in school achievement rates. While only 14% of New Zealand's population identify as Maori, saome 50% of the prison population is Maori. Maori also have higher levels of substance abuse and addiction than Pakeha, and on average have a life expectancy roughly 7 years shorter than that of Pakeha. These are but a few of the issues faced by the modern day Maori population, and which they continue to face on an everyday basis.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAORI_FACTOID_HEADING">
+			<Text>Maori Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAORI_FACTOID_TEXT">
+			<Text>The Maori were not the first humans to settle in New Zealand. Previous Polynesian explorers had arrived and settled, known as the Moriori, and had formed a peaceful society. They were later driven from the mainland by Maori settlers, and were exiled to the Chatham Islands until Maori raiding parties came to their last stronghold and eliminated them. </Text>
+		</Row>
+		<!--Hawaii-->
+		<Update>
+			<Set Text="Hawaiian Empire"/>
+			<Where Tag="TXT_KEY_CIV5_POLYNESIA_TITLE"/>
+		</Update>
+		<Update>
+			<Set Text="Hawaii"/>
+			<Where Tag="TXT_KEY_CIV_POLYNESIA_SHORT_DESC"/>
+		</Update>
+		<Update>
+			<Set Text="Ancient Hawai'i"/>
+			<Where Tag="TXT_KEY_CIV5_POLYNESIA_HEADING_3"/>
+		</Update>
+		<Update>
+			<Set Text="The Kingdom of Hawaii"/>
+			<Where Tag="TXT_KEY_CIV5_POLYNESIA_HEADING_4"/>
+		</Update>
+		<Update>
+			<Set Text="American Cession"/>
+			<Where Tag="TXT_KEY_CIV5_POLYNESIA_HEADING_5"/>
+		</Update>
+		<Update>
+			<Set Text="20th Century Hawaii"/>
+			<Where Tag="TXT_KEY_CIV5_POLYNESIA_HEADING_6"/>
+		</Update>
+		<Update>
+			<Set Text="The history of the Hawaiian archipelago is one of isolated beginnings, European influence, unification, the overthrow of native control and finally administered to the United States as a territory. Discovered by Captain James Cook in 1778, Hawai'i was originally called the 'Sandwich Islands', named after the fourth Earl of Sandwich, John Montagu."/>
+			<Where Tag="TXT_KEY_CIV5_POLYNESIA_TEXT_1"/>
+		</Update>
+		<Update>
+			<Set Text="Hawai'i is made up of eight islands placed some 2000 miles southwest of North America, deep in the northern Pacific Ocean. Constantly created, formed and reformed by underwater volcanic activity, the Hawaiian islands sit on top of a hotspot - a magma source fed by the underlying mantle. As the Pacific plate moves northwest the hotspot remains under Hawai'i, creating new volcanoes and fertile land. The Hawaiian climate is typically tropical for the most part, but the islands themselves vary a great deal in their local climates, as a result resorts tend to face windward."/>
+			<Where Tag="TXT_KEY_CIV5_POLYNESIA_TEXT_2"/>
+		</Update>
+		<Update>
+			<Set Text="The earliest settlement of the Hawaiian islands is not entirely known; scholars tend to believe the first Polynesians arrived on Hawai'i in the third century from the Marquesas, followed by Tahitian invaders a millenium later. Others suggest that there was a single period of extensive settlement of the entire Polynesian region. Some writers believe that there may have been native Hawaiians before the arrival of the Polynesians, stories about menehune - little people who built heiau and fishponds - were said to prove the existence of ancient peoples who settled before the Polynesians, however in 1951 historians such as Luomala argue the stories as folklore, archaeologists have also yet to prove any suggestion of menehune settlements.[NEWLINE][NEWLINE]Ancient Hawai'i was a caste society. Four major classes existed in the tribe; the ali'i were the chiefs of the islands, ruling with divine power called 'mana'. The kahuna were the professionals - priests, carpenters, chanters and dancers, physicians and healers. The maka'ainana were the commoners - farmers and fishers, the laborers who did so not only for themselves and their families, but to support the ali'i and kahuna. Finally the kauwa were the war captives or their descendants; much like other slave classes from ancient cultures the kauwa could not marry above them and largely worked for the ali'i, even used for human sacrifice.[NEWLINE][NEWLINE]Like other Polynesian civilizations the Hawaiians remained entirely isolated from outside influence - Asian, American or European - until January 18, 1778 when British Captain James Cook first discovered Kaua'i island and then continued southward to discover and explore the rest of the island chain. When Cook landed at what would become Kealakekua Bay the natives believed him as Lono - the Hawaiian god of fertility, rainfall, music and peace. In this chance meeting Cook had met with a young Kamehameha I amongst other ali'i. The young ali'i would soon begin a great campaign to unify the archipelago."/>
+			<Where Tag="TXT_KEY_CIV5_POLYNESIA_TEXT_3"/>
+		</Update>
+		<Update>
+			<Set Text="Starting in 1780 Kamehameha began a lengthy military campaign to unify and claim the entire archipelago; travelling from island to island, defeating all the chiefs. The wars lasted fifteen long years in which Kamehameha used modern weapons from Europe and western advisors such as John Young and Issac Davis. Despite success in claiming O'ahu and Maui islands he was not able to secure a victory at Kaua'i, his attempts foiled by a storm and a plague that severely weakened his army. Eventually however the chief of Kaua'i swore allegiance to Kamehameha, thus in that action unified the islands under a single banner for the first time in its history. The unification ended the ancient Hawaiian society and created an independent constitutional monarchy, forged in the traditions and the manner of western monarchs.[NEWLINE][NEWLINE]From its inception in 1810 to 1893 the Kingdom of Hawai'i was governed by two dynastic families; the House of Kamehameha and the Kalakaua Dynasty. The Kamehameha Dynasty saw more tumult and political threats whereas the shorter Kalakaua Dynasty displayed internal political upheavals and constitutions. After Kamehameha's death his wife, Queen Ka'ahumanu came to rule as a newly converted Protestant. In that time Catholicism was illegal, in 1831 chiefs loyal to the queen forced the removal of French Catholic priests from the islands and natives converted to the religion were claimed to have been imprisoned and tortured after the expulsion. This prejudice held under her successor Kuhina Nui Ka'ahumanu II, where Captain Laplace of the French frigate Artémise sailed to Hawai'i in 1839 with orders to send an ultimatum, threatening war. By July 17 King Kamehameha III signed the Edict of Toleration, he paid US$20,000 in compensation and agreed to Laplace's demands. After what would become known as the French Incident, admiral Louis Tromelin arrived in Honolulu in August 1849. Tromelin made ten demands to Kamehameha III, mostly to give full religious rites to Catholics. The demands were never met and, after warnings from the admiral, the French force overwhelmed the skeleton army, taking the fort and plundering property. By September 5 Tromelin retreated and left.[NEWLINE][NEWLINE]To make matters worse, on February 10 1843, Lord George Paulet on the HMS Carysfort sailed into Honolulu to demand the cession of the Hawaiian Islands to the British Crown. Under threat of fire Kamehameha III abdicated under protest, surrendering to Paulet fifteen days later. Gerrit P Judd, a mission who became the Minister of Finance, sent envoys to the United States, France and Britain secretly to protest against the lord’s actions. The protest eventually reached Rear Admiral Richard Darton Thomas, Paulet’s commanding officer; he arrived on July 26 to repudiate his subordinate’s actions. Five days after, the Hawaiian government was restored with Kamehameha III restored as king."/>
+			<Where Tag="TXT_KEY_CIV5_POLYNESIA_TEXT_4"/>
+		</Update>
+		<Update>
+			<Set Text="As the House of Kamehameha ended its rule over Hawai’i in 1872, the House of Kalakaua seated the throne. Initially Lunalilo won the election to rule, but his death after thirteen months placed the only remaining male relative of Kamehameha, Kalakaua as king. By this time American influence was well established; at the start of the 19th century American Protestant missions settled in Hawai’i and gained wealth and influence rapidly. They prohibited traditions they disliked, Reverend Amos Starr Cooke established a school to educate the royal family and its future monarchs. His relations with the king earned him an unofficial position as advisor to King Kamehameha III in 1843 where devised a land reform granting foreigners the ability to buy land from locals so as to plant sugarcane. Cooke and other missionaries became big landholders in Hawai’i, and from sugar production took hold of the economy.[NEWLINE][NEWLINE]A free trade agreement between the United States and the Kingdom of Hawai’i was drafted in 1875, the Reciprocity Treaty. It granted duty-free importation of Hawaiian sugar into the States, further promoting plantation growth, held largely by the foreigners. Later that year the US demanded the cession of what is now Pearl Harbour, Hawaiians protested on the streets until the revolt was choked by US marines. The treaty also allowed similar transactions with rice as rice was also a major crop. This attracted Chinese and Japanese immigration into Hawai’i to support the sugar industry and expand the cultivation of the rice.[NEWLINE][NEWLINE]Over the course of eleven years, starting in 1887, revolts sprung up from the white minorities; beginning with the formation of the Reform Party and their armed militia, the Honolulu Rifles. The militia and members of the cabinet seized the palace and forced King David Kalakaua into proclaiming their bill. Forcing the Bayonet Constitution, the militia striped the authority of the monarchy bare and set about disenfranchising the Asian population, giving three-quarters of the vote to white Europeans and Americans. The following year a plot to overthrow the king was exposed. By 1889 a rebellion of natives led by Colonel Robert Wilcox attempted to depose the unpopular constitution and storm the palace. The Wilcox Rebellions were crushed by the Honolulu Rifles. When the king died in 1891 Lili’uokalani ascended and immediately altered the constitution to restore the monarch’s authority. Unsettled by the turn of events a group of white men formed the Committee of Safety in January 14 1983, the primary goal of the party was the unseat the queen and annex Hawai’i to the United States. In just three days the States Government summoned a company of Marines and sailors to land and assume positions in US Legation and Consulate, establishing the Provisional Government of Hawaii. By January 17 Lili’uokalani abdicated under this pressure, yielding authority and pleading for justice.[NEWLINE][NEWLINE]Fear grew for the Hawaiian whites of a US intervention to restore the monarchy, thus prompting the Republic of Hawaii on July 4, the American Independance Day, 1894 under the presidency of Sanford Dole. The 1895 Counter-Revolution led by Colonels Robert Nowlein and Wilcox attempted to remove the republic and restore the queen to the throne, both colonels and Lili’uokalani were captured and imprisoned. Seeking to annex Hawaii as an American territory President William McKinley signed the Newlands Resolution on July 7 1889, ending Hawaiian independence."/>
+			<Where Tag="TXT_KEY_CIV5_POLYNESIA_TEXT_5"/>
+		</Update>
+		<Update>
+			<Set Text="The territorial legislature convened for the first time on February 20, 1901, where the year prior the Hawaiians formed the Hawaiian Independent Party, led by Robert Wilcox, who in doing so became the first Hawaiian congressional delegate. During this period the sugar industry expanded greatly, the major companies began to gain considerable strength as the tariffs of sugarcane were lifted, planters had more money to invest. Five of the biggest sugar manufacturers held the monopoly in their hands, controlling 90% of the business - they were known as the ‘Big Five’. They kept their prices high and profited greatly; the executives began to sit at each other’s boards and began to grow political power, the families often favoring the Republican Party.[NEWLINE][NEWLINE]On December 7 1941 the Empire of Japan committed a surprise attack on Pearl Harbour in the Hawaiian Territory. The attack was designed to preemptively stop the U.S. Pacific Fleet from interfering with Japan’s actions in Southeast Asia. While it shocked the Americans, it in fact led to America entering World War II, declaring war against Japan and in turn Germany and Italy declaring war on America. To compound Japan’s oversight Admiral Hara Tadaichi, upon reflection summed up the result of the attack as “a great tactical victory at Pearl Harbour and thereby lost the war.” Isoroku Yamamoto, the mastermind of the attack was not aware of a decision on the U.S. Navy as far back as 1935 to abandon charging across the Pacific in response to an outbreak of war. The Pearl Harbour attack, it would seem, was entirely unnecessary and eventually resulted in the Atomic Bomb and Germany and Japan’s defeat in the conflict.[NEWLINE][NEWLINE]In 1954 a non-violent revolution swept across Hawaii’s industry with strikes, protests and other forms of civil disobedience. That year’s election saw the Republican Party’s unbroken rule ended, establishing the Democratic Party in Hawaii. The Democrats lobbied for statehood, unionized the workforce and as a result hasted the decline of the sugar industry. Statehood eventually came to Hawaii when President Dwight David Eisenhower signed the Hawaii Admission Act on March 18 1959 and after a referendum Hawaii became America’s 50th state on August 21 that year. The Big Five sugar companies declined to such a point that they, like most other sugar businesses became bought out by foreign firms.[NEWLINE][NEWLINE]Today Hawaii is a lush Pacific islander paradise, modernizing quickly from American construction and trading heavily on its tourism industry. In 1978 the Hawai’i State Constitutional Convention incorporated programs to promote native Hawaiian language and culture. The promotion of Hawaiian culture led to a Hawaiian Renaissance, reigniting interest in Ancient Hawai’i. With help of the Congress the Apology Resolution passed on November 23 1993 where President Bill Clinton signed the bill, it apologized to the native Hawaiians for the United States’ role in overthrowing the kingdom in 1893."/>
+			<Where Tag="TXT_KEY_CIV5_POLYNESIA_TEXT_6"/>
+		</Update>
+		<Update>
+			<Set Text="Hawaiian Factoids"/>
+			<Where Tag="TXT_KEY_CIV5_POLYNESIA_FACTOID_HEADING"/>
+		</Update>
+		<Update>
+			<Set Text="The Hawaiian archipelago is the longest island chain in the world, measuring at some 1,500 miles from end to end.[NEWLINE][NEWLINE]The military and navy of the kingdom conformed to the warriors of Kona, who under Kamehameha originally mobilized in his campaigns. The divisions both used traditional canoes and uniforms with western technology such as artillery, muskets and European ships.[NEWLINE][NEWLINE]The reasons James Cook was revered as a god in Hawai'i were due to a series of coincidences; the mast and sails of Cook's ship - HMS Resolution - resembled Lono's emblem, a mast and a sheet of white tapa. Additionally Cook arrived during the Makahiki season dedicated to Lono."/>
+			<Where Tag="TXT_KEY_CIV5_POLYNESIA_FACTOID_TEXT"/>
+		</Update>
+		<Update>
+			<Set Text="Leader of Hawaii"/>
+			<Where Tag="TXT_KEY_CIV5_KAMEHAMEHA_SUBTITLE"/>
+		</Update>
+		<Update>
+			<Set Text="Hawaiian Empire"/>
+			<Where Tag="TXT_KEY_CIV_POLYNESIA_DESC"/>
+		</Update>
+		<Delete Tag="TXT_KEY_CIV5_POLYNESIA_TEXT_7"/>
+		<Delete Tag="TXT_KEY_CIV5_POLYNESIA_HEADING_7"/>
+		<Row Tag="TXT_KEY_MC_HAWAII">
+			<Text>Hawaii</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_HAWAII_TITLE">
+			<Text>Kingdom of Hawaii</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_HAWAII_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_HAWAII_TEXT_1">
+			<Text>The history of the Hawaiian archipelago is one of isolated beginnings, European influence, unification, the overthrow of native control and finally administered to the United States as a territory. Discovered by Captain James Cook in 1778, Hawai'i was originally called the "Sandwich Islands", named after the fourth Earl of Sandwich, John Montagu.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_HAWAII_HEADING_2">
+			<Text>Geography and Climate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_HAWAII_TEXT_2">
+			<Text>Hawai'i is made up of eight islands placed some 2000 miles southwest of North America, deep in the northern Pacific Ocean. Constantly created, formed and reformed by underwater volcanic activity, the Hawaiian islands sit on top of a hotspot - a magma source fed by the underlying mantle. As the Pacific plate moves northwest the hotspot remains under Hawai'i, creating new volcanoes and fertile land. The Hawaiian climate is typically tropical for the most part, but the islands themselves vary a great deal in their local climates, as a result resorts tend to face windward.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_HAWAII_HEADING_3">
+			<Text>Ancient Hawai'i</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_HAWAII_TEXT_3">
+			<Text>The earliest settlement of the Hawaiian islands is not entirely known; scholars tend to believe the first Polynesians arrived on Hawai'i in the third century from the Marquesas, followed by Tahitian invaders a millenium later. Others suggest that there was a single period of extensive settlement of the entire Polynesian region. Some writers believe that there may have been native Hawaiians before the arrival of the Polynesians, stories about menehune - little people who built heiau and fishponds - were said to prove the existence of ancient peoples who settled before the Polynesians, however in 1951 historians such as Luomala argue the stories as folklore, archaeologists have also yet to prove any suggestion of menehune settlements.[NEWLINE][NEWLINE]Ancient Hawai'i was a caste society. Four major classes existed in the tribe; the ali'i were the chiefs of the islands, ruling with divine power called 'mana'. The kahuna were the professionals - priests, carpenters, chanters and dancers, physicians and healers. The maka'ainana were the commoners - farmers and fishers, the laborers who did so not only for themselves and their families, but to support the ali'i and kahuna. Finally the kauwa were the war captives or their descendants; much like other slave classes from ancient cultures the kauwa could not marry above them and largely worked for the ali'i, even used for human sacrifice.[NEWLINE][NEWLINE]Like other Polynesian civilizations the Hawaiians remained entirely isolated from outside influence - Asian, American or European - until January 18, 1778 when British Captain James Cook first discovered Kaua'i island and then continued southward to discover and explore the rest of the island chain. When Cook landed at what would become Kealakekua Bay the natives believed him as Lono - the Hawaiian god of fertility, rainfall, music and peace. In this chance meeting Cook had met with a young Kamehameha I amongst other ali'i. The young ali'i would soon begin a great campaign to unify the archipelago.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_HAWAII_HEADING_4">
+			<Text>Kingdom of Hawaii</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_HAWAII_TEXT_4">
+			<Text>Starting in 1780 Kamehameha began a lengthy military campaign to unify and claim the entire archipelago; travelling from island to island, defeating all the chiefs. The wars lasted fifteen long years in which Kamehameha used modern weapons from Europe and western advisors such as John Young and Issac Davis. Despite success in claiming O'ahu and Maui islands he was not able to secure a victory at Kaua'i, his attempts foiled by a storm and a plague that severely weakened his army. Eventually however the chief of Kaua'i swore allegiance to Kamehameha, thus in that action unified the islands under a single banner for the first time in its history. The unification ended the ancient Hawaiian society and created an independent constitutional monarchy, forged in the traditions and the manner of western monarchs.[NEWLINE][NEWLINE]From its inception in 1810 to 1893 the Kingdom of Hawai'i was governed by two dynastic families; the House of Kamehameha and the Kalakaua Dynasty. The Kamehameha Dynasty saw more tumult and political threats whereas the shorter Kalakaua Dynasty displayed internal political upheavals and constitutions. After Kamehameha's death his wife, Queen Ka'ahumanu came to rule as a newly converted Protestant. In that time Catholicism was illegal, in 1831 chiefs loyal to the queen forced the removal of French Catholic priests from the islands and natives converted to the religion were claimed to have been imprisoned and tortured after the expulsion. This prejudice held under her successor Kuhina Nui Ka'ahumanu II, where Captain Laplace of the French frigate Artémise sailed to Hawai'i in 1839 with orders to send an ultimatum, threatening war. By July 17 King Kamehameha III signed the Edict of Toleration, he paid US$20,000 in compensation and agreed to Laplace's demands. After what would become known as the French Incident, admiral Louis Tromelin arrived in Honolulu in August 1849. Tromelin made ten demands to Kamehameha III, mostly to give full religious rites to Catholics. The demands were never met and, after warnings from the admiral, the French force overwhelmed the skeleton army, taking the fort and plundering property. By September 5 Tromelin retreated and left.[NEWLINE][NEWLINE]To make matters worse, on February 10 1843, Lord George Paulet on the HMS Carysfort sailed into Honolulu to demand the cession of the Hawaiian Islands to the British Crown. Under threat of fire Kamehameha III abdicated under protest, surrendering to Paulet fifteen days later. Gerrit P Judd, a mission who became the Minister of Finance, sent envoys to the United States, France and Britain secretly to protest against the lord’s actions. The protest eventually reached Rear Admiral Richard Darton Thomas, Paulet’s commanding officer; he arrived on July 26 to repudiate his subordinate’s actions. Five days after, the Hawaiian government was restored with Kamehameha III restored as king.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_HAWAII_HEADING_5">
+			<Text>American Cession</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_HAWAII_TEXT_5">
+			<Text>As the House of Kamehameha ended its rule over Hawai’i in 1872, the House of Kalakaua seated the throne. Initially Lunalilo won the election to rule, but his death after thirteen months placed the only remaining male relative of Kamehameha, Kalakaua as king. By this time American influence was well established; at the start of the 19th century American Protestant missions settled in Hawai’i and gained wealth and influence rapidly. They prohibited traditions they disliked, Reverend Amos Starr Cooke established a school to educate the royal family and its future monarchs. His relations with the king earned him an unofficial position as advisor to King Kamehameha III in 1843 where devised a land reform granting foreigners the ability to buy land from locals so as to plant sugarcane. Cooke and other missionaries became big landholders in Hawai’i, and from sugar production took hold of the economy.[NEWLINE][NEWLINE]A free trade agreement between the United States and the Kingdom of Hawai’i was drafted in 1875, the Reciprocity Treaty. It granted duty-free importation of Hawaiian sugar into the States, further promoting plantation growth, held largely by the foreigners. Later that year the US demanded the cession of what is now Pearl Harbour, Hawaiians protested on the streets until the revolt was choked by US marines. The treaty also allowed similar transactions with rice as rice was also a major crop. This attracted Chinese and Japanese immigration into Hawai’i to support the sugar industry and expand the cultivation of the rice.[NEWLINE][NEWLINE]Over the course of eleven years, starting in 1887, revolts sprung up from the white minorities; beginning with the formation of the Reform Party and their armed militia, the Honolulu Rifles. The militia and members of the cabinet seized the palace and forced King David Kalakaua into proclaiming their bill. Forcing the Bayonet Constitution, the militia striped the authority of the monarchy bare and set about disenfranchising the Asian population, giving three-quarters of the vote to white Europeans and Americans. The following year a plot to overthrow the king was exposed. By 1889 a rebellion of natives led by Colonel Robert Wilcox attempted to depose the unpopular constitution and storm the palace. The Wilcox Rebellions were crushed by the Honolulu Rifles. When the king died in 1891 Lili’uokalani ascended and immediately altered the constitution to restore the monarch’s authority. Unsettled by the turn of events a group of white men formed the Committee of Safety in January 14 1983, the primary goal of the party was the unseat the queen and annex Hawai’i to the United States. In just three days the States Government summoned a company of Marines and sailors to land and assume positions in US Legation and Consulate, establishing the Provisional Government of Hawaii. By January 17 Lili’uokalani abdicated under this pressure, yielding authority and pleading for justice.[NEWLINE][NEWLINE]Fear grew for the Hawaiian whites of a US intervention to restore the monarchy, thus prompting the Republic of Hawaii on July 4, the American Independance Day, 1894 under the presidency of Sanford Dole. The 1895 Counter-Revolution led by Colonels Robert Nowlein and Wilcox attempted to remove the republic and restore the queen to the throne, both colonels and Lili’uokalani were captured and imprisoned. Seeking to annex Hawaii as an American territory President William McKinley signed the Newlands Resolution on July 7 1889, ending Hawaiian independence.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_HAWAII_HEADING_6">
+			<Text>20th Century Hawaii</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_HAWAII_TEXT_6">
+			<Text>The territorial legislature convened for the first time on February 20, 1901, where the year prior the Hawaiians formed the Hawaiian Independent Party, led by Robert Wilcox, who in doing so became the first Hawaiian congressional delegate. During this period the sugar industry expanded greatly, the major companies began to gain considerable strength as the tariffs of sugarcane were lifted, planters had more money to invest. Five of the biggest sugar manufacturers held the monopoly in their hands, controlling 90% of the business - they were known as the ‘Big Five’. They kept their prices high and profited greatly; the executives began to sit at each other’s boards and began to grow political power, the families often favoring the Republican Party.[NEWLINE][NEWLINE]On December 7 1941 the Empire of Japan committed a surprise attack on Pearl Harbour in the Hawaiian Territory. The attack was designed to preemptively stop the U.S. Pacific Fleet from interfering with Japan’s actions in Southeast Asia. While it shocked the Americans, it in fact led to America entering World War II, declaring war against Japan and in turn Germany and Italy declaring war on America. To compound Japan’s oversight Admiral Hara Tadaichi, upon reflection summed up the result of the attack as “a great tactical victory at Pearl Harbour and thereby lost the war.” Isoroku Yamamoto, the mastermind of the attack was not aware of a decision on the U.S. Navy as far back as 1935 to abandon charging across the Pacific in response to an outbreak of war. The Pearl Harbour attack, it would seem, was entirely unnecessary and eventually resulted in the Atomic Bomb and Germany and Japan’s defeat in the conflict.[NEWLINE][NEWLINE]In 1954 a non-violent revolution swept across Hawaii’s industry with strikes, protests and other forms of civil disobedience. That year’s election saw the Republican Party’s unbroken rule ended, establishing the Democratic Party in Hawaii. The Democrats lobbied for statehood, unionized the workforce and as a result hasted the decline of the sugar industry. Statehood eventually came to Hawaii when President Dwight David Eisenhower signed the Hawaii Admission Act on March 18 1959 and after a referendum Hawaii became America’s 50th state on August 21 that year. The Big Five sugar companies declined to such a point that they, like most other sugar businesses became bought out by foreign firms.[NEWLINE][NEWLINE]Today Hawaii is a lush Pacific islander paradise, modernizing quickly from American construction and trading heavily on its tourism industry. In 1978 the Hawai’i State Constitutional Convention incorporated programs to promote native Hawaiian language and culture. The promotion of Hawaiian culture led to a Hawaiian Renaissance, reigniting interest in Ancient Hawai’i. With help of the Congress the Apology Resolution passed on November 23 1993 where President Bill Clinton signed the bill, it apologized to the native Hawaiians for the United States’ role in overthrowing the kingdom in 1893.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_HAWAII_FACTOID_HEADING">
+			<Text>Hawaiian Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_HAWAII_FACTOID_TEXT">
+			<Text>The Hawaiian archipelago is the longest island chain in the world, measuring at some 1,500 miles from end to end.[NEWLINE][NEWLINE]The military and navy of the kingdom conformed to the warriors of Kona, who under Kamehameha originally mobilized in his campaigns. The divisions both used traditional canoes and uniforms with western technology such as artillery, muskets and European ships.[NEWLINE][NEWLINE]The reasons James Cook was revered as a god in Hawai'i were due to a series of coincidences; the mast and sails of Cook's ship - HMS Resolution - resembled Lono's emblem, a mast and a sheet of white tapa. Additionally Cook arrived during the Makahiki season dedicated to Lono.</Text>
+		</Row>
+		<!--Tonga-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_TONGA">
+			<Text>Tonga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_TONGA_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_TONGA_FACTOID_TEXT">
+			<Text>The Tongan monarchy is one of the few countries worldwide never to have lost sovereignty to a foreign nation, maintaining its independence throughout the colonial era. [NEWLINE][NEWLINE]Due to his warm reception, Captain James Cook named the islands 'The Friendly Islands.' However, there was a plot by island chiefs to kill him, which ultimately failed as the chiefs could not agree on how to carry it out. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_TONGA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_TONGA_TEXT_1">
+			<Text>A centuries-old island nation in the middle of the Pacific, the Kingdom of Tonga has functioned as such for possibly over a millenium. As the one of the more southern islands in the Polynesian triangle, the name of Tonga itself comes from a word meaning “south”. Though its history is largely unknown before the arrival of European settlers, it is known to have become a kingdom and been successful at colonising other islands thereafter. Due to the lack of a writing system, as with many other Polynesian civilisations, the majority of Tonga's history is gained by word of mouth, tales and legends passed down through centuries. The archipelago that Tonga is based on is shrouded in mythology, as well as having close ties to history both inside and outside Polynesia. Today, the Tonganese system of government still functions in much the same way as was laid down by their ancestors - it still has a monarchy, though is becoming increasingly democratic at the same time. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_TONGA_HEADING_2">
+			<Text>Geography and Climate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_TONGA_TEXT_2">
+			<Text>Overall, Tonga is constituted of 176 islands; of those, 36 are actually inhabited. All of these islands fall under two main categories, volcanic and atoll. The volcanic ones are built of layer upon layer of volcanic ash, making way for rich, fertile soil and larger mountains, occasionally making way for lakes in the remnants of a volcano. Atoll islands, on the other hand, are usually quite small, only one of their number having gotten high enough to show its volcanic base. As far as geography divides the islands, they lie on two different plates, hence their separate formations - the volcanic ones lie to the west, on the Australian-Indian plate, while to the east, running along the Tongan Trench, lie the atoll isles. [NEWLINE][NEWLINE]As far as weather goes in Tonga, there is little more than distinct “dry” and “wet” seasons. Most of the rain forms around February to April; the rest of the year is dry for the most part. Cyclones can occasionally form around the isles in Tonga, mostly from around November to April; as such, it is classed as a tropical weather zone. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_TONGA_HEADING_3">
+			<Text>Initial Settlement and Further Settling </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_TONGA_TEXT_3">
+			<Text>The islands that now constitute Tonga were first settled around 900 BC by an Asian culture known as the Lapita. The evidence lies in ceramics, dated to around then, though it is incredibly hard to pinpoint it to a single century, never mind an exact year. How the Lapita people managed to get to Tonga from their Asian home is a remarkable feat, especially without European technology - it was most likely managed by star wayfinding techniques. Prior to European contact with the isles, there was no form of writing within it, so a lot of the history is left to archaeologists to decipher. [NEWLINE][NEWLINE]Coming from a resource-scarce region of present-day Papua New Guinea, the Lapita people knew well how to survive in less than abundant places. They were able to thrive in Tonga, building houses that reached just above the high tide level to cleverly avoid storms. At some point in her history, Tonga was declared a kingdom; this kingdom expanded quickly due to heredity laws at the time. As the oldest son would inherit all, younger sons had to go to other islands in any hope to obtain land. This lead to a large amount of colonisation lead by people desperately in search of new land, leading to a vaster Tongan realm.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_TONGA_HEADING_4">
+			<Text>Tu'i Tonga Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_TONGA_TEXT_4">
+			<Text>Set up as a maritime state spanning hundreds of islands, the Tu'i Tonga Empire really represented Tonga at the height of its power prior to European contact, having been a state from around the 12th to 16th centuries. During the pinnacle of its power, Tongans travelled all over Polynesia, to islands relatively close such as Fiji, and other kingdoms across the vast Pacific such as Hawaii, continuing a tradition of seafaring, one not practiced to such an extent across the rest of Polynesia before the Europeans came. Suffice to say, it is likely that the Tongans knew much of the Pacific Ocean, and they would have been able to trade with civilisations far and beyond their island chain, as archaeological evidence has proven. While the Tongan Empire could simply be a blob of several chiefdoms that didn't pay regular homage towards a monarch, instead an island chain of explorers and chiefdoms, what they managed to achieve in terms of exploration was enough to make their mark on history.[NEWLINE][NEWLINE]This was the pinnacle of Tonga's power - a successful trading empire throughout Polynesia, selling on goods such as pottery and cloth, they were able to thrive on their small ocean chain in the Pacific. Though Tonga has never since returned to this dominance that they once had in their region, they have ever since boasted a large archipelago with masses of natural beauty, known for generations owing to this empire. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_TONGA_HEADING_5">
+			<Text>Crisis and Contact</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_TONGA_TEXT_5">
+			<Text>During the 15th century, the Tu'i Tonga Empire began to fragment as a result of civil war. In 1616, the first Europeans arrived, lead by the Dutch explorers Willem Schouten and Jacob Le Maire. These explorers soon began to convert the native Tongans to Christianity, akin to what happened in many other places around the world where colonists went. Though they had mixed receptions around the archipelago, they succeeded in beginning to convert Tonga to Christianity. Notably, however, Tonga was never taken over by an outside power; this is unusual among cultures that did not have access to European technology of the time. In 1643, Abel Tasman visited the islands; and in 1773, he was followed by James Cook. Describing them as the “Friendly Islands” due to the warm reception Cook received there, the name lives on as a nickname for Tonga.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_TONGA_HEADING_6">
+			<Text>Imperialism and Unity</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_TONGA_TEXT_6">
+			<Text>In 1799, Tonga's king was murdered, plunging the islands into civil war for fifty years. By 1845, an end emerged to the civil war - the master orator and tactician, Tāufa'āhau, claimed the throne of an ever-more unified Tonga. Taking the name George Tupou I after George III of the United Kingdom, the new monarch of Tonga was able to establish a rule to keep the islands together, and the Europeans out. Through diplomacy more than anything else, George Tupou established a firm rule over the island kingdom, making laws for the freedom of press, the abolishment of serfdom, and limiting the power of chiefs, among others. In 1900, when George's son died, Tongan chiefs attempted to oust the monarchy and install their own government, along with the European settlers, but this attempt failed. Instead, the United Kingdom made Tonga into a “protected state”, taking some powers away from Tonga on the one hand, but ensuring they were immune to war on the other.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_TONGA_HEADING_7">
+			<Text>Power of the Monarchy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_TONGA_TEXT_7">
+			<Text>Even today, the monarch of Tonga has constitutional powers; this is fairly unusual for most monarchs, but what makes them unique still is that the Tongan monarchy was established well before the Europeans arrived, and is still a major part of Tongan politics today - in fact, it is the only nation in Polynesia to have a monarchy. Prior to 2008, when most of the monarch's powers were taken away by choice of the king wanting a more democratic society, the monarch would typically take a role in politics. George Tupou V, who reigned from 2006 - 2012, had a lot of constitutional power before the transfer of power; while he was Crown Prince of Tonga, he was the Foreign Minister for Tonga. Though the position “Prime Minister of Tonga” was officially established in 1876, it was not until these constitutional amendments - over a century later - that power was put into the Prime Minister's hands. Tonga is still continuing to become a fully-fledged democracy, and is well on track to do that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_TONGA_HEADING_8">
+			<Text>Tonga Today</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_TONGA_TEXT_8">
+			<Text>Though there have been several dissenters over the powers of the monarch, Tonga is a fully unified state, and has a substantial tourism base, and is becoming increasingly democratic as time goes on. With a 98.9% literacy rate, Tonga's is among the highest in the world, though with a comparatively low population, it does not enjoy the same amount of scientific advancement as other nations, though it is of interest to geologists, given the formation of the islands. In 2006, riots broke out as the king had made no advancement in introducing democracy to the islands, leading to cars being overturned, around 60% of the downtown area of Nuku'alofa being destroyed, and the deaths of six people. Since these protests, however, Tonga has become increasingly more democratic, and given the current standards, will continue to do so into the future.</Text>
+		</Row>
+		<!--Rapa Nui-->
+		<Row Tag="TXT_KEY_MC_RAPA_NUI">
+			<Text>Rapa Nui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_RAPA_NUI_TITLE">
+			<Text>Rapa Nui Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_RAPA_NUI_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_RAPA_NUI_TEXT_1">
+			<Text>Also known as Easter Island, Rapa Nui has been home to the most far-flung human population on the planet for centuries. The Rapanui established a complex and dynamic society on their island home that has had to adapted to many tumultuous changes, from the slow desolation of Rapa Nui to a succession of avaricious European robber barons. Through it all, the Rapanui have employed arts and religion to create, express, and promote their cultural identity in the face of considerable hardships.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_RAPA_NUI_HEADING_2">
+			<Text>Geography and Climate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_RAPA_NUI_TEXT_2">
+			<Text>Rapa Nui is a small subtropical island in the southeast Pacific, and one of the most remote places on Earth, with about 3600km in either direction separating the island from Chile to the east and the Marquesas Islands to the northwest. Roughly triangular in shape, with a volcanic craters and domes at each corner, the island covers 171 square kilometers (66 square miles). These old volcanoes vary in height from Mount Teravaka in the north at 510m (1674 feet) to Rano Kau in the southwest at 300m (985 feet).[NEWLINE][NEWLINE]Its volcanic soil once support forests of palms, but changing conditions on the island coupled with human activity on the island has altered that landscape considerably. Today it is predominantly a rolling grassy plain. There are no permanent streams or rivers on the island. When the winter rains come, the water either drains rapidly into the ocean or finds its way into underground reservoirs or one of the island few crater lakes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_RAPA_NUI_HEADING_3">
+			<Text>Te Pito o Te Henua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_RAPA_NUI_TEXT_3">
+			<Text>The ancestors of the Rapanui likely arrived on the island by 700 AD, arriving by way of Mangareva to the west. According to traditional Rapanui history, the island was originally settled by the followers of Hotu Matua, an ariki who guided his people to safety on distant Rapa Nui after losing a war against a rival chieftain. Hotu Matua became the islands first ariki mau (“The True Noble”), a rank that in the early history of the island equated to both king and high priest of the Rapanui. He named the island Te Pito o Te Henua, the Navel of the Earth, and his people became the Tangata Henua, the People of the Land.[NEWLINE][NEWLINE]Distant the vast distances that separated their island from the rest of inhabited world, the early people of Rapa Nui were not isolated. They continued to sail eastward, discovering the tiny islet of Salas y Gomez nearly 400 kilometers to the east, which became a favorite fishing spot. Beyond, they likely reached South America by 1100 AD. Though they did not settle the continent, they did return with kumara (sweet potato). Kumara soon joined taro, a Polynesian staple, as one of the dominant crops employed by the Rapanui, and with voyages to and from Mangareva and its neighboring islands the Rapanui helped spread kumara throughout the majority of Polynesia.[NEWLINE][NEWLINE]The monumental architecture of the early Rapanui have rightly made the island famous. Around 700 AD, the Rapanui of Tahai constructed the first ahu, a ceremonial platform related to the marae of East Polynesia and the heiau of Hawaii. Soon others would follow and before long the Rapanui began adorning their ahu with the iconic moai, physical manifestations of the ancestors who ensured the prosperity of the island through their potent mana. The moai were carved by the tuhunga, groups of sculptors that were part clan and part artist’s guild, at Rano Raraku and transported to their destination along a network of roads that linked the island to the moai quarries. Over time the moai became larger and more uniform as the tuhunga perfected their craft and their patrons demanded increasingly impressive statues. Ahu and moai construction flourished during the Rapanui Golden Age from about 1250 to 1500 AD, culminating in the construction of the fifteen massive moai of the Tongariki.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_RAPA_NUI_HEADING_4">
+			<Text>The Drowning of the World</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_RAPA_NUI_TEXT_4">
+			<Text>Rapa Nui’s contact with the rest of the world steadily diminished throughout throughout its Golden Age. This isolation is remembered in Rapanui folklore as the the drowning of Hiva - the legendary lands beyond the horizon. In the 1200s, their ancestral homeland Mangareva fell under the dominion of the Marquesans, increasing the social differences between the Rapanui and their distant cousins. As the Earth began to slide into the Little Ice Age, changing climatic patterns hindered Polynesian navigation throughout much the Pacific. The tiny islands of Pitcairn and Henderson, vital outposts between Mangareva and Rapa Nui, were abandoned at this time. [NEWLINE][NEWLINE]Also contributing to Rapa Nui’s isolation was the deforestation underway at the time. As wood became scarcer, the Rapanui could no longer afford to construct their own long-distance voyaging canoes. While human activity certain contributed to the loss of the island’s forest, another Polynesian immigrant that stowed-away with the Rapanui also shares the responsibility. The Polynesian rats insatiable appetite for seeds and nuts prevented new trees from replacing those that were cut down. As the island became increasingly treeless, it also dried. Much of the water fell on the island soon found its way into natural underground reservoirs or washed out to sea. [NEWLINE][NEWLINE]To combat these ecological changes, the Rapanui adopted a host of new agricultural techniques. In upland areas, they constructed irrigated palm plantations. Throughout the island, they built manavai - circular rock gardens that protect protect crops against wind erosion, soil temperature variation, and evaporation. They invented a technique known as lithic mulching, which uses the weathering of volcanic rock to increase the fertility of the soil. Armed with these techniques, the Rapanui continued to survive even as the forests dwindled. The Rapanui still had need of wood, but it became increasingly precious. By the mid-1600s the last of Rapa Nui’s forests had been consumed. Lean times lay ahead, as were new ways of determining who had the power and privilege to distribute what remained across the island.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_RAPA_NUI_HEADING_5">
+			<Text>The Tangata Hiva and the Tangata Manu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_RAPA_NUI_TEXT_5">
+			<Text>In 1722, the Tangata Hiva - the People of Distant Lands - once again landed on Rapa Nui. This time, though, they did not come from Polynesia. These new Tangata Hiva were Europeans led by Dutchman Jacob Roggeveen, sailing with three ships for the Dutch East Indies Company. Their initial visit to Rapa Nui was brief but tragic as Roggeveen’s men killed nearly a dozen Rapanui, including the local priest who had first welcomed them to the island, as they came to marvel at the Tangata Hiva’s boats.[NEWLINE][NEWLINE]Roggeveen’s visit was a fleeting encounter with Europeans, who would not return  to the island for many decades - and even then none remained for very long. When Europeans did return, the political landscape of Rapa Nui had shifted dramatically.[NEWLINE][NEWLINE]Though his political power had been waning since the end of the Golden Age, the ariki mau still dominated the island’s religious and secular life by the time Roggeveen arrived. Following Roggeveen, however, the Hotu Iti sought to usurp authority from the ariki mau. The Hotu Iti were one of the two hanua that divided the island in half. The hanua were composed of mata, a large social unit analogous to a tribe. The ariki mau’s mata belonged to the other hanua, the Tu’u, which had long enjoyed the privilege of their close relationship with the island’s ruler. The Hotu Iti, however, began their rise to power during the Golden Age, thanks in part to their control of the moai quarry at Rano Raraku. The rivalry between the Tu’u and the Hotu Iti, once expressed through the construction of ever more impressive ahu and moai, now erupted into open warfare.[NEWLINE][NEWLINE]The war began around 1725, and for nearly twenty-five years, the two sides pillaged and plundered their rivals. In traditional Rapanui history, this period is known as the Huri-Moai - “the Statue Toppling.” Many of the moai were violent cast down and some decapitated, as rivals disgraced their enemies and severed their ties to ancestral mana. Others appear to have been toppled more gently and buried, perhaps because communities gave their ancestors a more dignified departure rather than see the moai desecrated by their enemies. In the end, the Hotu Iti successfully claimed political power over the island, while the ariki mau retained his religious position as the mediator between the people and the ancestral deities of the island. Initially, the Hotu Iti did not set up a single ruler to replace the ariki mau. Instead, the matato’a, the warrior-leaders of the mata, were granted autonomy over their own people. Unfortunately, as rivalries between the various matato’a flared into further violence, a new system of governance was needed - one that threatened what little power the ariki mau retained.[NEWLINE][NEWLINE]To resolve disputes among themselves, the matato’a created the position of Tangata Manu, the Birdman. The Tangata Manu was selected annually by a race to retrieve eggs from a small neighboring islet. The first matato’a to return with an intact egg was proclaimed Tangata Manu for the year, invested with the authority to distribute food over the island and to punish communities that failed to pay him proper tribute. The Tangata Manu also served as the high priest for a new god, Makemake, who had usurped the position of most of the old Polynesian pantheon. Though the ariki mau held onto to the old gods for a time, he eventually converted to the worship of Makemake as well and reclaimed his role as spiritual intermediary through the use of the rongorongo script and a new class of tuhunga who specialized in reading his sacred proclamations. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_RAPA_NUI_HEADING_6">
+			<Text>The Blackbirders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_RAPA_NUI_TEXT_6">
+			<Text>European visits to Rapa Nui during and after the Huri-Moai included a half-hearted expedition by the Spanish to claim the island, a dismissive survey by James Cook for the British, and French expedition that left with a more favorable opinion of the island, and infrequent whaling vessels. For their part, the Rapanui profited from these visits, trading kumara and companionship to sailors hungry for both. Some Rapanui joined the crews of passing vessels so that they could at last see Hiva again. Such friendly relations between the Rapanui and Europeans lasted until 1862.[NEWLINE][NEWLINE]In that year, Peru was suffering from a shortage of labor after slavery had been abolished. The Peruvian government adopted a policy to permit the trade of indenture contracts to provide a supply of cheap labor. The major source of these indentured workers were to come from Polynesian immigrants using their contracts to pay for their travel to Peru. The Blackbirders, as those licensed to recruit immigrants came to be called, often were little more than slavers, abducting more than 1500 Rapanui and forcing them into indentured servitude in the few months this policy was in place. Before the end of 1863, Peru bowed th international pressure and repealed the policy. Those Rapanui who had survived months of vicious slave labor were repatriated to their homeland.[NEWLINE][NEWLINE]Among those captured by the Blackbirders were Kai Mako’i ‘Iti, the current ariki mau, and his family. Kai Mako’i ‘Iti and his grandson Mau Ratu both died in the Peruvian guano mines where they had been enslaved.  Mau Ratu’s son, the eight-year-old Manu Rangi, had also been blackbirded, but his captors turned west from Rapanui in homes of gaining more captive laborers from other islands. Arriving at Rapa, a small island in the Australs, the Blackbirders were overwhelmed by the Rapans, who seized control of the Blackbirders’ ship and liberated the Rapanui. This encounter between the Rapanui and the Rapans resulted in a new name for both islands. The Mangarevan colonists who had settled Rapa deemed it the most remote of islands and named it “The Extremity.” After meeting their long-lost Rapanui relatives and comparing geographical knowledge, the Rapans learned their island was only Rapa Iti, “the Lesser Extremity” and recognized Rapa Nui as “the Greater Extremity.” When Manu Rangi, now the ariki mau, returned home with his fellow captives, they brought the name Rapa Nui with him as a sign of gratitude for their Rapan liberators and recognition of their place in the greater Polynesian world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_RAPA_NUI_HEADING_7">
+			<Text>Priests and Scoundrels</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_RAPA_NUI_TEXT_7">
+			<Text>Also traveling with Manu Rangi on the return voyage to Rapanui was the Frenchman Eugene Eyraud, the first European missionary to proselytize on the island. Through most of his mission, Eyraud endured the hardships of the cruel matatoa Torometi. In 1864, thanks to the efforts of Tama Teka, a matatoa who also had returned to Rapa Nui with Manu Rangi, Eyraud managed to escape Torometi shortly before his superiors came to retrieve him from the island. [NEWLINE][NEWLINE]Once off the island, Eyraud convinced the Congregation of the Sacred Hearts (SSCC) to establish a permanent mission to island, which arrived in 1866. The mission was composed of Eyruad, Father Hippolyte Roussel, and three Mangarevan Christians: Araki, Akilio, and Papetati. The missionaries efforts proved quite successful, and Catholicism was rapidly adopted by the Rapanui, aided in part by the unfortunate deaths of the many traditional priests in a smallpox epidemic in 1866 that had been brought to the island by those returning from Peru. Smallpox was not the only disease ravaging the island. Tuberculosis came with the mission, felling Rapanui and missionary alike. Manu Rangi (now known as Kerekorio), among the first converts, died from the disease in 1867, ending the line of ariki mau. Less than year later, the disease claimed Eyraud as well.[NEWLINE][NEWLINE]The success of the SSCC mission brought Rapa Nui to the avaricious attention of Jean-Baptiste Dutrou-Bornier, who soon devised his own schemes to profit from the island. Originally a blackbirder sailing for Tahiti as late as 1867, Dutrou-Bornier conspired with the Tahiti-based Brander plantations to transform Rapanui into his own personal ranch. In 1869 he began purchasing land from the Rapa Nui at unfairly low prices and often at gunpoint. Dutrou-Bornier had hoped Father Roussel would co-sign the land sales, which would have lended his efforts some much need legitimacy, the missionary refused to cooperate. [NEWLINE][NEWLINE]Dutrou-Bornier allied himself with Torometi and established Mataveri as his base of operations. Supplied by Dutrou-Bornier, Torometi led his paoa against the SSCC at Hanga Roa, burning homes and raiding fields and livestock. The matatoa Roma, allied with the missionaries, led the counter-offensive against Torometi and Dutrou-Bornier. From April to July 1870, the fighting was fiercest. By September, Dutrou-Bornier owned all of Rapanui except for a tiny parcel of land reserved for the SSCC mission. In April 1871, the SSCC mission was recalled to Tahiti. The missionaries departed in June, taking with them as many Rapanui as they’re vessel could carried. Some 275 Rapanui set sail for Tahiti, more than those who remained on the island. Even Torometi was forced to flee his homeland as Dutrou-Bornier solidified his hold over those who remained. [NEWLINE][NEWLINE]With his victory over the SSCC-allied Rapanui, Dutrou-Bornier set his plans in motion to transform the island into a ranch from which he could supply the needs of the Brander plantations back on Tahiti. By 1875, his assets include 4000 sheep, 300 pigs, 70 cattle, 20 horses, and unnumbered chickens (the last being the only domestic animals the Rapanui maintained by the time Europeans arrived, though they likely had pigs as well in the early days of settlement). However, Dutrou-Bornier would not enjoy his new-found wealth for long. On August 6, 1876, he fell to three Rapanui assassins.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_RAPA_NUI_HEADING_8">
+			<Text>Angata and the Company</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_RAPA_NUI_TEXT_8">
+			<Text>In 1888 Chile annexed Rapa Nui, both to increase their international prestige by claiming an overseas colony and to secure what they thought might serve as a useful port on voyages between the Americas and Australia. However, for the Rapanui still living on the island, the presence of Chilean government was only distantly felt at the time. The more immediate concern for them were the succession of business interests that dominated the island following Dutrou-Bornier’s death, each larger and more tyrannical than the last. Following the annexation, these businesses only became more threatening as their local managers were eventually made official representatives of the Chilean government, making any strike or boycott of the company a treasonous act.[NEWLINE][NEWLINE]However, in the years just after the annexation, the Rapanui did enjoy a brief period of relative autonomy. In the years following the annexation, Angata, already well regarded for her years of service as a catechist since 1871, became increasingly influential in Rapanui politics. When the Rapanui decided in 1892 to democratically elect  a new ariki mau, it was Angata’s support of Timeone Riro that led him to victory over an opponent with closer bloodties to the old ariki mau lineage. Riro would go on to found the Riroroko, one of the major families of Rapa Nui today. During his reign, Riro championed the Rapanui’s rights in the face of exploitation by Merlet and Company, the current commercial interests on the island. In 1899, guarded by three Rapanui soldiers, he journeyed to Chile to petition the president for assistance. Shortly after arriving in Chile, following a night of dining and entertain with Merlet employees, Riro suspiciously died of alcohol poisoning in a Valparaiso hospital before he could meet with any government officials. In his place, one of his guards, Juan Tepano, was appointed as the island’s first cacique.[NEWLINE][NEWLINE]When Merlet and Company defaulted on its own loans, the island’s corporate authorities passed to its parent company, the Chilean branch of Williamson, Balfour and Co. (the Company) in 1903. The Company imprisoned the Rapanui in Hanga Rao, constructing a wall prevent them from travelling as they wished. The Rapanui could leave their town only on official Company business, such as tending to the thousands of livestock that now roamed freely over the island. While many Rapanui found brief two-week employment when the sheep were sheared at Vaihu, for most of the year very few Rapanui enjoyed regular employment or the freedom and access to imported goods that came with it. For the rest of the Rapanui, they survived by farming what little land remained to them and through donations that arrived annually via the Chilean navy. Though they might be starving, anyone caught stealing a sheep would be deported to the Chilean mainland.[NEWLINE][NEWLINE]The oppression of the Rapanui by the Company finally sparked a rebellion in June 1914. Angata had received a dream from God, declaring the authority of the Company was at an end. “The big robbery,” as Angata called the Company’s land claims, would no longer be tolerated, and the hungry Rapanui would hold a feast at Hanga Roa’s church. Seeming to verify her divine mandate, a dense fog rose up the night of the Rapanui’s cattle raid, shielding them from the watchful eyes of the Company guards. The Rapanui flag flew over Hanga Roa again, for the first time since its annexation by Chile, and the Rapanui themselves once again enjoyed the freedom of the island. As her revolution continued, Angata’s visions became increasingly apocalyptic. She claimed that Chile had suffered a great earthquake and drowned in the sea, that the navy vessel that resupplied the island has sunk as well. When one of her followers asked her to name a new ariki mau and depose Juan Tepano as cacique, she refused, declaring it a moot issue as the Kingdom of God was soon at hand.[NEWLINE][NEWLINE]Angata’s Revolt lasted until August, when the navy vessel she said had sunk finally arrived, along with a large supply of donations organized by a British archaeological team that had been on the island during the revolt. The navy’s presence restore the status quo, but brought increased public scrutiny on the Company’s treatment of the Rapanui. When it came time to renegotiate the Company’s lease, the Chilean government included provisions to aid the Rapanui and to protect their cultural heritage.[NEWLINE][NEWLINE]The Company’s investments on Rapa Nui peaked in the 1930s, when they owned more than 70,000 livestock, mostly sheep.Throughout the 1940s, livestock populations continued to decline and Rapanui-Company conflicts remained sporadic. Finally, in 1953, the Company’s lease on the island was no longer renewed and the Chilean Navy seized control of the island.</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_RAPA_NUI_HEADING_9">
+			<Text>Modern Rapa Nui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_RAPA_NUI_TEXT_9">
+			<Text>From the 1950s onward, Rapa Nui has experienced a period of rapid modernization and increased civil liberties, thanks to the efforts of local community leaders like Alfonso Rapu, whose efforts in the 1960s led to the Rapanui receiving the full rights of Chilean citizens. In the 1970s, Rapa Nui was largely spared the violence and terror of Pinochet’s Junta, and through the Te Mau Hatu (the Consejo de Ancianos, or the Council of Elders), established by Alberto Hotus - another champion of Rapanui civil and cultural rights - the Rapanui enjoyed a greater freedom in speaking out against the junta. Te Mau Hatu reached out beyond Chile’s borders, exposing Pinochet’s brutality to United States, the Pope, and other world leaders. By echoing and republishing the writings of the Te Mau Hatu, mainland Chileans found an avenue for indirectly criticizing the Pinochet government as well.[NEWLINE][NEWLINE]Increased opportunities for world travel since the 1950s and the allure of its towering moai have made Rapa Nui a prominent tourist destination, despite its remoteness. Numerous archaeological expedition, documentaries, and books have helped fuel the international interest in the island’s rich history. Many of the moai and ahu that had been cast down during the Huri Moai have now been restored to their former glory. Today, more than 50,000 tourists arrive annually - more than ten times the population of the island itself!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_RAPA_NUI_FACTOID_HEADING">
+			<Text>Rapa Nui Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_RAPA_NUI_FACTOID_TEXT">
+			<Text>Tu’u ko Iho may have been the original founder of the island instead of Hotu Matua, who may instead be the same as Atu Motua, the founder of Mangareva.[NEWLINE][NEWLINE]At its peak, the Rapanui population might have been between twelve and twenty-two thousand during its Golden Age. At its lowest in 1877, there were only 110. Today, the population of the Rapa Nui is over 5,700, with the Rapanui themselves making up 60% of the population.[NEWLINE][NEWLINE]Trees became so scarce on Rapa Nui, the common Polynesian world for tree or timber, “rakua,” came to mean “wealth” and “riches” in old Rapanui.[NEWLINE][NEWLINE]Though Makemake came to be the dominant spiritual entity on the island by the time of European contact, that older Polynesian gods, like Tangaroa, were once worshiped on the island is revealed by various places named in honor of them.[NEWLINE][NEWLINE]Likewise, while most Rapanui are Catholic today, many traditional beliefs, such as the presence of ancestral guardians, remain commonplace.[NEWLINE][NEWLINE]The runway at Mataveri Airport is among the longest in South America. NASA helped fund its construction in case it needed to serve as an emergency landing site for the space shuttle.</Text>
+		</Row>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Leader Civilopedias - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--Akbar-->
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_DESC">
+			<Text>Te Rauparaha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_LIVED">
+			<Text>1760s - 1849</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_NAME">
+			<Text>Te Rauparaha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_SUBTITLE">
+			<Text>Leader of the Maori</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_TITLES_1">
+			<Text>Rangatira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_TEXT_1">
+			<Text>When the British settlers came to New Zealand and asked the indigenous Maori who was the greatest chief in New Zealand, they would likely have told responded with Te Rauparaha, nicknamed the “Napoleon of the South” due to his immense military accomplishments. This fearsome chief was undoubtable worthy of this title, given his tactical mind and cunning strategies which empowered his tribe to win over others during the Gunpowder Wars, which devastated so many others. Altogether a fantastic military leader and a diplomatic genius, Te Rauparaha was what the Maori needed during the time of turmoil brought about by the advent of British colonialism into the south Pacific, given he managed to prioritise both his tribe and the Maori as a whole against the impending British storm. To this end, Te Rauparaha’s immortal war dance - the Haka - lives on as an integral part of the modern-day nation of New Zealand’s culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_HEADING_2">
+			<Text>Early Years</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_TEXT_2">
+			<Text>Te Rauparaha was born in the 1760s into the Ngāti Toa iwi, in the northern part of the North Island. He was short among the members of the iwi, but was very strong and gained a reputation as a great warrior. He rose into the iwi's greatest chief and war leader because of his aggressiveness in fulfilling the iwi’s interests. His main enemies during these early conflicts were the Waikato, with which they had been at war with since the late 1700s. He led war parties, taking revenge for Ngāti Toa died, and on one occasion, killing a Waikato chief. In 1819, he joined a war party that reached the southern part of the North Island. This might have inspired him to send the Ngāti Toa on a fighting retreat south to the southern part of the North Island when the iwi was under straining under pressure from Waikato tribes in the north.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_HEADING_3">
+			<Text>The Migration</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_TEXT_3">
+			<Text>The Ngāti Toa conquered people and land as they went, allowing Te Rauparaha to build up his forces.The campaign ended with the Ngāti Toa conquering the southern part of the North Island, occupying strategically important Kapiti Island and using it as a base. A coalition of mainland tribes fought back, and tried to retake their land. The Ngāti Toa, rallied, managed to hold their newly conquered territory, defeating their enemies at the Battle of Waiorua.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_HEADING_4">
+			<Text>Wars of Expansion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_TEXT_4">
+			<Text>When Te Rauparaha ruled from Kapiti, he able to control the flow of firearms and ammunition, ensuring that his allies and captured peoples stayed loyal to him. In 1827, he led a raid across the Cook Strait to the South Island, taking several prisoners in a raid at the mouth of the Wairau river. A year later, he attacked the Ngai Tahu, a iwi on Queen Charlotte Sound and the dominant iwi on the South Island, taking a hundred prisoners. In 1830, he returned on board a European ship, hidden in the bottom. When Ngai Tahu leaders tried to buy guns from the ship's captain, he and his warriors jumped out of the bottom and captured the chiefs. In 1831, he returned for the final time and captured several settlement and sent some men loyal to him to rule the South Island. By the mid-1830s he had de facto control of the southern part of the North Island and the northern part of the South Island. He wished to conquer the rest of the South Island, but the Ngai Tahu had gotten guns and were able to defend themselves against him.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_HEADING_5">
+			<Text>The British Settlers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_TEXT_5">
+			<Text>In 1839, he sold the New Zealand Company vast tracts of land for a permanent European settlement. In 1840, he and many other leaders signed the Treaty of Waitangi, hoping the British would recognize his conquests. Alarmed by the amount of British settlers coming to New Zealand, he tried to stem the flow. This led to his arrest in the Wairau Affray, where settlers tried to take Ngāti Toa land with fraudulent documents. He was freed and declared innocent, infuriated the settlers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_HEADING_6">
+			<Text>Final Years</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_TEXT_6">
+			<Text>In 1846, the British were at war with many of Maori tribes, and although Te Rauparaha had declared neutrality, the British caught him supplying weapons to the Maori and he was arrested again. He urged the Ngāti Toa not to take revenge and was allowed by the British to return in 1847. He ordered the construction of a church for his local pā, which combined European and Maori architecture, and it was also the first church ever built by the Maori. Unfortunately, he did not live to see the church completed, dying on 27 November 1849.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_HEADING_7">
+			<Text>Verdict of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_TEXT_7">
+			<Text>Te Rauparaha managed to maintain the lands of the Maori people as a whole, while expanding the lands of the Ngāti Toa itself, even with the chaos that followed with the advent of both the British and the introduction of their weapon, the musket. He was considered an excellent warrior, commander, and conqueror. Te Rauparaha’s military prowess could well have brought British rule to an end in New Zealand had it been for changes in the way the war played out; however, mistranslation in the Treaty of Waitangi cost him not only his title, but the sovereignty of his lands. The subsequent influx of British settlers brought his his rule to an end, given his relative inability to resist the colonial rule. Overall, Te Rauparaha is considered one of the best leaders the Maori ever had, with his dance - the Haka - forever immortalizing him in the hearts of New Zealanders, his mana living on to this day within the very fabric of New Zealand’s culture. Without Te Rauparaha, the current state of New Zealand would be a very different place - though whether for the worse or for the better is impossible to say.</Text>
+		</Row>
+		<!--'Aho'eitu-->
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_DESC">
+			<Text>'Aho'eitu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_NAME">
+			<Text>'Aho'eitu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_TITLES_1">
+			<Text>Tu'i Tonga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_SUBTITLE">
+			<Text>Leader of the Tu'i Tonga Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_LIVED">
+			<Text>c. 10th century?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_FACT_1">
+			<Text>Despite being brought up in a somewhat restrictive Hindu sect, Raja Raja was fairly tolerant towards other faiths and beliefs. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_TEXT_1">
+			<Text>A semi-mythological figure and allegedly the first king of the Tu'i Tonga Empire, 'Aho'eitu was raised by his mother due to his father's absence. According to folklore, he was one day told that his father was a god, and when he had grown up, he decided he wanted to find him. Told to climb the Toa tree, 'Aho'eitu ascended it, and found his father, Tangoloa 'Eitumatupua, by a lakeside there. Upon return to his realm of the newly-founded Tu'i Tonga Empire, 'Aho'eitu's older brothers, who were jealous of his handsomeness, decided to cut off his head and hide it under a poisonous hoi bush. They subsequently roasted and ate the remains of 'Aho'eitu.[NEWLINE][NEWLINE]Later Tangaloa 'Eitumatupua came down from the sky and asked the four brothers what had become of 'Aho'eitu. The brothers were ashamed and repented, and asked to have 'Aho'eitu restored. Tangaloa 'Eitumatupua had the brothers regurgitate into a large bowl, then covered the bowl with a mat. Through magic, 'Aho'eitu was restored to life. [NEWLINE][NEWLINE]The four brothers of 'Aho'eitu were punished by Tangaloa 'Eitumatupua. They and their descendents were made to serve 'Aho'eitu on the island of Tonga, and that is how 'Aho'eitu became the first Tu'i Tonga.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_HEADING_2">
+			<Text>Judgement of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_TEXT_2">
+			<Text>In spite of the fact that 'Aho'eitu was a folk hero and not a real person, it is hard to see what affects he had on history. If the tale was assumed to be true, he would be credited as the founder of the Tu'i Tonga Empire, a vast maritime realm that comprises most of Tonga's glory days. 'Aho'eitu may well have not just been mythological, but based on some king that actually established the Tu'i Tonga Empire - this in itself would have been a worthy achievement, but it is likely that they would have accomplished many other great deeds to be passed down in oral tradition today. Even if the character of 'Aho'eitu was purely fictional, it does serve the cultural history of Tonga well, adding more depth to its history than simply fact.</Text>
+		</Row>
+		<!--Hotu Matu'a-->
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_DESC">
+			<Text>Hotu Matu'a</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_LIVED">
+			<Text>???</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_NAME">
+			<Text>Hotu Matu'a</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_SUBTITLE">
+			<Text>Leader of Rapa Nui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_TITLES_1">
+			<Text>Ariki Mau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_TEXT_1">
+			<Text>The legendary founder of Rapanui society, Hotu Matu'a was the first 'ariki mau (supreme chief, or literally “the true noble”) of Te Pito Te Henua--the name he gave to Rapa Nui when he and his followers first landed on the island. According to tradition, Hotu Matu'a came from a pair of islands known as Marae Renga and Marae Tohio. After the short reign of his father, a power struggle ensued between Hotu Matu'a and his brother Ko Te Ira Ka Atea. Other versions of the story say that Hotu Matu'a's enemy was a rival of his brother Machaa known as Oroi. Machaa and Oroi had both fallen in love with the same woman. While her heart was with Machaa, she knew Oroi commanded the loyalty of numerous warriors and would not permit them to remain together. Tricking Oroi to undertake a pilgrimage around their home island before they would be wed, she and Machaa eloped and went into hiding while he was away. When Oroi learned that he had been fooled, he swore revenge against Machaa and his entire family, including Hotu Matu'a.[NEWLINE][NEWLINE]Whether he fought against a rival claimant or his brother's rival (or perhaps both), the war went poorly for Hotu Matu'a. Following three consecutive defeats, his children had been murdered and his situation became increasingly desperate. He and his people found themselves in desperate need of refuge. At this time a vision came to one of his people, perhaps Machaa or the tattooist Haumaka, foretelling of a distant island where they would be safe. When the scouts returned to confirm the vision, Hotu Matu'a and some three hundred followers set out on two voyaging canoes, the Oteka and the Oua, each ninety feet long. The voyaging canoes circled the island and made landfall on Anakena, the beach named for the month of August when Hotu Matu'a landed.[NEWLINE][NEWLINE]Hotu Matu'a named the island Te Pito Te Henua, the Navel of the World, and soon after his wife Vakai gave birth to a son, Ko Tuumaheke. As the years progressed, he and Vakai would have five more sons and at least one daughter. The land the vision led them to was indeed a prosperous one, with fertile soil and rich seas, but it was not quite the refuge Hotu Matu'a had hoped. [NEWLINE][NEWLINE]Before Hotu Matu'a and his followers set sail, Oroi had heard learned of their plan to flee. Disguising himself as a servant, he hid among the voyagers. As they landed at Anakena, he slipped quietly away and waited for any opportunity to ruin Hotu Matu'a and his people. Early disappearances were attributed to the hardship of living on a new and unfamiliar island, but Oroi's presence on the island was finally discovered by Aorka, an unfortunate father whose five children were murdered by Oroi while they bathed in a small cove. To lure his old enemy out of hiding, the aging Hotu Matu'a traveled along to visit his daughter and son-in-law. Along the way, he spotted a trap set for him by Oroi and deftly avoided it. Instructing his daughter and her husband to follow him quietly as he returned home, Hotu Matu'a allowed himself to fall into Oroi's trap. When the murderer emerged to kill his old rival, Hotu Matu'a called out to his daughter and son-in-law. Together the three of them defeated Oroi. They took his body to ahu that now bears his name, where he was ritually cannibalized to ensure he would never again threaten Hotu Matu'a's people.[NEWLINE][NEWLINE]Years later, now blind and ill, Hotu Matu'a lay on his deathbed. The question of succession remained unresolved. Hotu Matu'a favored his youngest son, Hotu-iti, while Vakai favored their oldest son, Ko Tuumaheke. In council with the other nobles, Hotu Matu'a finally decreed that Ko Tuumaheke should be named atariki, the heir, and that thereafter the atariki should always be the 'ariki mau's eldest son, fearing that Hotu-iti was not yet old enough to defend himself against any challenge his older brothers might make against his rule. As his final act, Hotu Matu'a divided the island among his sons, granting Hotu-iti a large tract of land in the eastern, where he would go on to found the 'Otu 'Iti hanua (confederacy) which would produce the matato'a that rivaled the 'ariki mau in power and prestige.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_HEADING_2">
+			<Text>Judgement of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_TEXT_2">
+			<Text>Though he looms large in Rapanui oral history, there is considerable doubt that Hotu Matu'a existed, at least as described. His name is suspiciously similar to the Atu Motua, the founder of Mangareva, the islands from which the Rapanui most likely sailed. Perhaps the legend of Hotu Matu'a was imported to the island by its first settlers, or perhaps, during the turbulent years following European contact, new influence from Mangareva conflated the figures from their respective oral histories. In this latter view, Hotu Matu'a may have usurped Tu’u ko Iho as the founder of the island. Tu’u ko Iho, said to have been one of Hotu Matu'a’s compatriots and a legendary wood carver, became regulated to the background of the island’s origins story. Still, the Miru mata, the lineage to which the ‘ariki mau belonged, traced their ancestry through Tu’u ko Iho and named the confederacy they led the Tu’u hanua.</Text>
+		</Row>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Diplomacy Lines - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--Hota Matua Diplomacy Lines-->
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_FIRSTGREETING_1">
+			<Text>Welcome! May the people of Rapa Nui be blessed by your arrival</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_FIRSTGREETING_2">
+			<Text>Welcome to the lands of the people of Rapa Nui. I hope you are good omen.</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_DEFEATED_1">
+			<Text>The Rapa Nui are no longer blessed. It is time to find another home.</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_REPEAT_TOO_MUCH_1">
+			<Text>...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>We expect to be treated equally.</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_GREETING_HOSTILE_HELLO_1">
+			<Text>Your people must suffer under such a ruler.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_GREETING_POLITE_HELLO_1">
+			<Text>We are always honoured by the arrival of such a great leader..</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>I'm too busy for your war. If you have other business with us, state it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_GREETING_HUMAN_AT_WAR_1">
+			<Text>My country knows all too well the ravages of war, and it has taken us years to reclaim our lands. How may we help?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>I will warn you of trespassing into our lands. My people will not give up their homeland so easily.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>This transgression will have serious consequences!</Text>
+		</Row>*/
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>I hope that your aggressive expansion will not cause us any problems in the future. I would hate to think you couldn't be trusted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>Your empire has such a strong army. Together we shall diminish our pitiful enemies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>A healthy economy like yours is desirable. Perhaps you could guide us?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>What a little dominion. It hope it ceases to exist. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>Your army would be quickly overwhelmed. I hope it stays like that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>Brutes like you are a plague to this world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_TOO_SOON_FOR_DOF_1">
+			<Text>It is too early for this. We will discuss this later.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_DENOUNCE_1">
+			<Text>Your evil actions need to be known.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Very well. I suppose this is all you can do.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_HUMAN_DOFED_FRIEND_1">
+			<Text>It is wonderful that you are friends with{1_CivName}! They have proven themselves trustworthy!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_HUMAN_DOFED_ENEMY_1">
+			<Text>{1_CivName} is not to be trusted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>I strongly urge you to reconsider your position with {1_CivName}. There is much to be learned from them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>I agree that {1_CivName} is not to be trusted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>I noticed that you have declared your friendship with {1_CivName}. They are indeed a worthy ally.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>I was going to deal with you after I dealt with {1_CivName} anyway</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>I share your convictions that {1_CivName} only causes problems for our cause. Perhaps the combination of our denouncements will teach them a lesson.</Text>
+		</Row>
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_DEC_FRIENDSHIP_1">
+			<Text>I want nothing more than for our two great peoples to be at peace and harmony, and to prosper greatly. A declaration of friendship will go a long way toward this goal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Please move your army away from my borders. My people shall cut them down if they grow too agitated.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_PLOT_BUYING_WARNING_1">
+			<Text>Your ambitions of expansion have final piqued my interest. I must warn against stepping beyond your bounds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Your aggressive expansion threatens the stability of my empire. I will not let you claim these lands so easily.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_EXPANSION_WARNING">
+			<Text>Your ambitions of expansion have final piqued my interest. I must warn against stepping beyond your bounds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_RETURNED_CIVILIAN_1">
+			<Text>You have proven yourself one of the few worthy of trust. You have my thanks.</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_DONT_SETTLE_NO_1">
+			<Text>These lands once belonged to my ancestors. I will not so readily abandon my claim.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_DONT_SETTLE_YES_1">
+			<Text>I'll let you go for now. My warriors require rest.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_LUXURY_TRADE_1">
+			<Text>I sincerely hope that through trade we can achieve what others could only through war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_OPEN_BORDERS_EXCHANGE_1">
+			<Text>I believe there is much to be achieved for our people should we allow them such freedoms.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_RESPONSE_REQUEST_1">
+			<Text>A man must know his perfection and do what work he can do.</Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_ATTACKED_HOSTILE_1">
+			<Text>I will have my revenge soon!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_ATTACKED_EXCITED_1">
+			<Text>When I make up my mind to take the field, let them come and let me fight them alone.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_ATTACKED_SAD_1">
+			<Text>A pity! Would that there were a suitable occasion, that the foe should see a man better than himself!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_ATTACKED_BETRAYED_1">
+			<Text>I knew you would turn out to be pathetic.</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_TOO_SOON_NO_PEACE_1">
+			<Text>There are still some lands of yours that are desirable among the garbage you have of an empire.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_BAD_1">
+			<Text>Disappointing... as usual.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_HOTU_MATUA_GOOD_1">
+			<Text>Exalt the greatness of the gods for having guided you.</Text>
+		</Row>
+		<!--Aho Eitu Diplomacy Lines-->
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_FIRSTGREETING_1">
+			<Text>I am Aho Eitu, King of Tonga and the Legend of the Pacific. What do you seek here?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_FIRSTGREETING_2">
+			<Text>A brave soul you are to enter this divine dominion. What can my people do for you?</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_DEFEATED_1">
+			<Text>Alas, I must now reside in my father's abode above.</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_REPEAT_TOO_MUCH_1">
+			<Text>...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>This deal is unfair for us.</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_GREETING_HOSTILE_HELLO_1">
+			<Text>I have concluded that you are not brave, but rather stupid to meet me in such an insolent way.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_GREETING_POLITE_HELLO_1">
+			<Text>What do you seek from this great king?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>I'm too busy for your war. If you have other business with us, state it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_GREETING_HUMAN_AT_WAR_1">
+			<Text>My country knows all too well the ravages of war, and it has taken us years to reclaim our lands. How may we help?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>I will warn you of your recent expansionism. I will not tolerate you venturing into lands that are mine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>This transgression will have serious consequences!</Text>
+		</Row>*/
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>I hope that your aggressive expansion will not cause us any problems in the future. I would hate to think you couldn't be trusted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>The strength of your army reflects the strength of your character and extent of knowledge.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>Your empire is truly blessed with such a strong economy. What a wise leader you must be.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>What a small state you have. It would make a nice addition to my empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>I couldn't help but think that you must lead a city state since your army is pathetic.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>What a savage heart the gods have put in you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_TOO_SOON_FOR_DOF_1">
+			<Text>It is too early for this. We will discuss this later.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_DENOUNCE_1">
+			<Text>Your evil actions need to be known.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Very well. I suppose this is all you can do.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_HUMAN_DOFED_FRIEND_1">
+			<Text>It is wonderful that you are friends with{1_CivName}! They have proven themselves trustworthy!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_HUMAN_DOFED_ENEMY_1">
+			<Text>{1_CivName} is not to be trusted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>I strongly urge you to reconsider your position with {1_CivName}. There is much to be learned from them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>I agree that {1_CivName} is not to be trusted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>I noticed that you have declared your friendship with {1_CivName}. They are indeed a worthy ally.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>I was going to deal with you after I dealt with {1_CivName} anyway</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>I share your convictions that {1_CivName} only causes problems for our cause. Perhaps the combination of our denouncements will teach them a lesson.</Text>
+		</Row>
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_DEC_FRIENDSHIP_1">
+			<Text>I want nothing more than for our two great peoples to be at peace and harmony, and to prosper greatly. A declaration of friendship will go a long way toward this goal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Please move your army away from my borders. I would hope that they not meet their deaths so far away from home.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_PLOT_BUYING_WARNING_1">
+			<Text>Your ambitions of expansion have final piqued my interest. I must warn against stepping beyond your bounds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Your aggressive expansion threatens the stability of my empire. I will not let you claim these lands so easily.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_EXPANSION_WARNING">
+			<Text>Your ambitions of expansion have final piqued my interest. I must warn against stepping beyond your bounds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_RETURNED_CIVILIAN_1">
+			<Text>You have proven yourself one of the few worthy of trust. You have my thanks.</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_DONT_SETTLE_NO_1">
+			<Text>These lands once belonged to my ancestors. I will not so readily abandon my claim.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_DONT_SETTLE_YES_1">
+			<Text>I'll let you go for now. My warriors require rest.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_LUXURY_TRADE_1">
+			<Text>I sincerely hope that through trade we can achieve what others could only through war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_OPEN_BORDERS_EXCHANGE_1">
+			<Text>I believe there is much to be achieved for our people should we allow them such freedoms.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_RESPONSE_REQUEST_1">
+			<Text>A man must know his perfection and do what work he can do.</Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_ATTACKED_HOSTILE_1">
+			<Text>I will have my revenge soon!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_ATTACKED_EXCITED_1">
+			<Text>When I make up my mind to take the field, let them come and let me fight them alone.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_ATTACKED_SAD_1">
+			<Text>A pity! Would that there were a suitable occasion, that the foe should see a man better than himself!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_ATTACKED_BETRAYED_1">
+			<Text>I knew you would turn out to be pathetic.</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_TOO_SOON_NO_PEACE_1">
+			<Text>There are still some lands of yours that are desirable among the garbage you have of an empire.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_BAD_1">
+			<Text>Disappointing... as usual.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AHO_EITU_GOOD_1">
+			<Text>Exalt the greatness of the gods for having guided you.</Text>
+		</Row>
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_FIRSTGREETING_1">
+			<Text>Welcome! I am Te Rauparaha, Rangatira of the Maori. How may my people help yours?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_FIRSTGREETING_2">
+			<Text>Ahh, who has Tangaroa brought to our shores? Welcome to the lands of the Maori people.</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_DEFEATED_1">
+			<Text>May my head be a sacrifice for my fellow men. Our resilient spirit will not broken.</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_REPEAT_TOO_MUCH_1">
+			<Text>...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>Take your business elsewhere</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_GREETING_HOSTILE_HELLO_1">
+			<Text>Tumatauenga will soon restore balance to this world. I'm afraid you will no longer be there to amuse me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_GREETING_POLITE_HELLO_1">
+			<Text>Greetings, friend. Come, there is a Hangi cooking. What is on your mind?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>I'm too busy for your war. If you have other business with us, state it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_GREETING_HUMAN_AT_WAR_1">
+			<Text>My country knows all too well the ravages of war, and it has taken us years to reclaim our lands. How may we help?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Your ambitions of expansion have final piqued my interest. I must warn you to stay within your limits.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>This transgression will have serious consequences!</Text>
+		</Row>*/
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>I hope that your aggressive expansion will not cause us any problems in the future. I would hate to think you couldn't be trusted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>The strength of your army reflects the strength of your character and extent of knowledge.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>I see we have both worked hard to make our empires centres of commerce and diplomacy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>The size of your empire reflects poorly on your character.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>Tumatauenga is merciful with you. Otherwise my armies would have overcome your few hordes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>Your warmongering reflects poorly on your character.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_TOO_SOON_FOR_DOF_1">
+			<Text>It is too early for this. We will discuss this later.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_DENOUNCE_1">
+			<Text>Your evil actions need to be known.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Your denouncement means nothing. Do not be surprised when a flotilla of war canoes is what your people wake up to in the middle of the night.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_HUMAN_DOFED_FRIEND_1">
+			<Text>It is wonderful that you are friends with{1_CivName}! They have proven themselves trustworthy!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_HUMAN_DOFED_ENEMY_1">
+			<Text>{1_CivName} is not to be trusted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>I strongly urge you to reconsider your position with {1_CivName}. There is much to be learned from them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>I agree that {1_CivName} is not to be trusted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>I noticed that you have declared your friendship with {1_CivName}. I applaud the decision and have decided to take them as my tuakana as well.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>I was going to deal with you after I dealt with {1_CivName} anyway</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>I share your convictions that {1_CivName} only causes problems for our cause. Perhaps the combination of our denouncements will have them rethink their position in this world.</Text>
+		</Row>
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_DEC_FRIENDSHIP_1">
+			<Text>I want nothing more than for our two great peoples to be at peace and harmony, and to prosper greatly. A declaration of friendship will go a long way toward this goal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>I must warn that I am ready to match you in force if you do not move your army from my borders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_PLOT_BUYING_WARNING_1">
+			<Text>Your ambitions of expansion have final piqued my interest. I must warn against stepping beyond your bounds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Your aggressive expansion threatens the stability of my empire. I will not let you claim these lands so easily.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_EXPANSION_WARNING">
+			<Text>Your ambitions of expansion have final piqued my interest. I must warn against stepping beyond your bounds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_RETURNED_CIVILIAN_1">
+			<Text>You have proven yourself one of the few worthy of trust. You have my thanks.</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_DONT_SETTLE_NO_1">
+			<Text>These lands once belonged to my ancestors. I will not so readily abandon my claim.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_DONT_SETTLE_YES_1">
+			<Text>I'll let you go for now. My warriors require rest.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_LUXURY_TRADE_1">
+			<Text>I sincerely hope that through trade we can achieve what others could only through war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_OPEN_BORDERS_EXCHANGE_1">
+			<Text>I believe there is much to be achieved for our people should we allow them such freedoms.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_RESPONSE_REQUEST_1">
+			<Text>A man must know his perfection and do what work he can do.</Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_ATTACKED_HOSTILE_1">
+			<Text>I will have my revenge soon!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_ATTACKED_EXCITED_1">
+			<Text>When I make up my mind to take the field, let them come and let me fight them alone.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_ATTACKED_SAD_1">
+			<Text>A pity! Would that there were a suitable occasion, that the foe should see a man better than himself!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_ATTACKED_BETRAYED_1">
+			<Text>I knew you would turn out to be pathetic.</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_TOO_SOON_NO_PEACE_1">
+			<Text>There are still some lands of yours that are desirable among the garbage you have of an empire.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_BAD_1">
+			<Text>Disappointing... as usual.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TE_RAUPARAHA_GOOD_1">
+			<Text>Exalt the greatness of the gods for having guided you.</Text>
+		</Row>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- City Lists- - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--Maori-->
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAORI_PARIHAKA">
+			<Text>Parihaka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAORI_KAIAPOI">
+			<Text>Kaiapoi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAORI_RUAPEKAPEKA">
+			<Text>Ruapekapeka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAORI_WHANGANUI_A_TARA">
+			<Text>Whanganui-a-tara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAORI_PUKEKURA">
+			<Text>Pukekura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAORI_RANGIRIRI">
+			<Text>Rangiriri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAORI_NUKUHAU">
+			<Text>Nukuhau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAORI_HINGIKAKA">
+			<Text>Hingikaka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAORI_WAITANGI">
+			<Text>Waitangi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAORI_KAPITI">
+			<Text>Kapiti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAORI_TAMAKI_MAKAURAU">
+			<Text>Tamaki Makaurau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAORI_OTAUTAHI">
+			<Text>Otautahi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAORI_NGARUAWAHIA">
+			<Text>Ngaruawahia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAORI_WAIRAU">
+			<Text>Wairau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAORI_TAIHAPE">
+			<Text>Taihape</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAORI_WHANGANUI">
+			<Text>Whanganui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAORI_WHANGAREI">
+			<Text>Whangarei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAORI_WHAKATANE">
+			<Text>Whakatane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAORI_PORIRUA">
+			<Text>Porirua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAORI_MIMIWHANGATA">
+			<Text>Mimiwhangata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAORI_KORORAREKA">
+			<Text>Kororareka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAORI_RANGITIKEI">
+			<Text>Rangitikei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAORI_MAUNGANUI">
+			<Text>Maunganui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAORI_TARAWERA">
+			<Text>Tarawera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAORI_ROTORUA">
+			<Text>Rotorua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAORI_WHAKATU">
+			<Text>Whakatu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAORI_KIRIKIRIROA">
+			<Text>Kirikiriroa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAORI_PIOPIOTAHI">
+			<Text>Piopiotahi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAORI_AHURIRI">
+			<Text>Ahuriri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAORI_EKETEHUNA">
+			<Text>Eketehuna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAORI_OTOROHANGA">
+			<Text>Otorohanga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAORI_OTEPOTI">
+			<Text>Otepoti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAORI_TAUMATA">
+			<Text>Taumatawhakatangihangakoauauotamateaurehaeaturipukakapikimaungahoronukupokaiwhenuakitanatahu</Text>
+		</Row>
+		<!--Hawaii-->
+		<Row Tag="TXT_KEY_CITY_NAME_MC_HAWAII_HONOLULU">
+			<Text>Honolulu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_HAWAII_WAIKIKI">
+			<Text>Waikiki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_HAWAII_HILO">
+			<Text>Hilo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_HAWAII_KAILUA_KONA">
+			<Text>Kailua-Kona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_HAWAII_WAIPAHU">
+			<Text>Waipahu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_HAWAII_KANEOHE">
+			<Text>Kaneohe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_HAWAII_MILILANI">
+			<Text>Mililani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_HAWAII_KAHULUI">
+			<Text>Kahului</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_HAWAII_MILILANI_MAUKA">
+			<Text>Mililani Mauka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_HAWAII_KIHEI">
+			<Text>Kihei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_HAWAII_MAKAKILO">
+			<Text>Makakilo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_HAWAII_WAHIAWA">
+			<Text>Wahiawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_HAWAII_WAILUKU">
+			<Text>Wailuku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_HAWAII_KAPOLEI">
+			<Text>Kapolei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_HAWAII_KUNIA">
+			<Text>Kunia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_HAWAII_HALAWA">
+			<Text>Halawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_HAWAII_WAIMALU">
+			<Text>Waimalu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_HAWAII_WAIANAE">
+			<Text>Waianae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_HAWAII_NANAKULI">
+			<Text>Nanakuli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_HAWAII_KAILUA">
+			<Text>Kailua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_HAWAII_LAHAINA">
+			<Text>Lahaina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_HAWAII_WAIPIO">
+			<Text>Waipio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_HAWAII_KAPAA">
+			<Text>Kapaa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_HAWAII_KALAOA">
+			<Text>Kalaoa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_HAWAII_MAILI">
+			<Text>Maili</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_HAWAII_AIEA">
+			<Text>Aiea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_HAWAII_WAIMEA">
+			<Text>Waimea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_HAWAII_WAIHEE_WAIEHU">
+			<Text>Waihee-Waiehu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_HAWAII_AHUIMANU">
+			<Text>Ahuimanu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_HAWAII_HOLUALOA">
+			<Text>Holualoa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_HAWAII_MAKAHA">
+			<Text>Makaha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_HAWAII_HAIKU_PAUWELA">
+			<Text>Haiku-Pauwela</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_HAWAII_PUKALANI">
+			<Text>Pukalani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_HAWAII_WAIKELE">
+			<Text>Waikele</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_HAWAII_NAPILI_HONOKOWAI">
+			<Text>Napili-Honokowai</Text>
+		</Row>
+		<!--Tonga-->
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TONGA_MUA">
+			<Text>Mu'a</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TONGA_NUKUALOFA">
+			<Text>Nuku'alofa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TONGA_NEIAFU">
+			<Text>Neiafu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TONGA_HAVELUOTO">
+			<Text>Haveluoto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TONGA_VAINI">
+			<Text>Vaini</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TONGA_PANGAI">
+			<Text>Pangai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TONGA_OHONUA">
+			<Text>Ohonua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TONGA_ANGAHA">
+			<Text>Angaha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TONGA_KOLONGA">
+			<Text>Kolonga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TONGA_HIHIFO">
+			<Text>Hihifo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TONGA_TAFAHI">
+			<Text>Tafahi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TONGA_PETANI">
+			<Text>Petani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TONGA_HOLONGA">
+			<Text>Holonga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TONGA_APIA">
+			<Text>Apia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TONGA_ATA">
+			<Text>Ata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TONGA_FALEVAI">
+			<Text>Falevai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TONGA_FALALEU">
+			<Text>Falaleu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TONGA_MALAPO">
+			<Text>Malapo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TONGA_NOMUKA">
+			<Text>Nomuka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TONGA_FONOIFUA">
+			<Text>Fonoifua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TONGA_MATUKU">
+			<Text>Matuku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TONGA_OUA">
+			<Text>O'ua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TONGA_TUNGUA">
+			<Text>Tungua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TONGA_VAIPOA">
+			<Text>Vaipoa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TONGA_OVAKA">
+			<Text>Ovaka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TONGA_SALEGA">
+			<Text>Salega</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TONGA_TALAU">
+			<Text>Talau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TONGA_POPUA">
+			<Text>Popua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TONGA_KOTU">
+			<Text>Kotu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TONGA_TOFUA">
+			<Text>Tofua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TONGA_KAO">
+			<Text>Kao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TONGA_LOTOFOA">
+			<Text>Lotofoa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TONGA_LOFANGA">
+			<Text>Lofanga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TONGA_UIHA">
+			<Text>Uiha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TONGA_FAKAHIKU">
+			<Text>Fakahiku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TONGA_ALOFI">
+			<Text>Alofi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TONGA_HAAFEVA">
+			<Text>Ha'afeva</Text>
+		</Row>
+		<!--Rapa Nui-->
+		<Row Tag="TXT_KEY_CITY_NAME_MC_RAPA_NUI_HANGA_ROA">
+			<Text>Hanga Roa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_RAPA_NUI_HANGA_PIKO">
+			<Text>Hanga Piko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_RAPA_NUI_MATAVERI">
+			<Text>Mataveri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_RAPA_NUI_ORONGO">
+			<Text>Orongo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_RAPA_NUI_ANAKENA">
+			<Text>Anakena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_RAPA_NUI_TE_ATA_HERO">
+			<Text>Te Ata Hero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_RAPA_NUI_TAHAI">
+			<Text>Tahai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_RAPA_NUI_TE_PEU">
+			<Text>Te Peu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_RAPA_NUI_MAIKATI_TE_MOA">
+			<Text>Maikati Te Moa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_RAPA_NUI_VAI_MATA">
+			<Text>Vai Mata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_RAPA_NUI_A_TANGA">
+			<Text>A Tanga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_RAPA_NUI_PAPA_TEKENA">
+			<Text>Papa Tekena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_RAPA_NUI_VAI_TARA_KAI_UA">
+			<Text>Vai Tara Kai Ua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_RAPA_NUI_NAU_NAU">
+			<Text>Nau Nau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_RAPA_NUI_TE_PITO_KURA">
+			<Text>Te Pito Kura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_RAPA_NUI_HEKII">
+			<Text>Hekii</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_RAPA_NUI_TAU_A_URE">
+			<Text>Tau A Ure</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_RAPA_NUI_TAHAROA">
+			<Text>Taharoa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_RAPA_NUI_TONGARIKI">
+			<Text>Tongariki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_RAPA_NUI_ONE_MAKIHI">
+			<Text>One Makihi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_RAPA_NUI_TUU_TAHI">
+			<Text>Tu'u Tahi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_RAPA_NUI_HANGA_TETENGA">
+			<Text>Hanga Tetenga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_RAPA_NUI_RUNGA_VAE">
+			<Text>Runga Va'e</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_RAPA_NUI_OROI">
+			<Text>Oroi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_RAPA_NUI_AKAHANGA">
+			<Text>Akahanga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_RAPA_NUI_URA_URANGA">
+			<Text>Ura Uranga Te Mahina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_RAPA_NUI_HANGA_TEE">
+			<Text>Hanga Te'e</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_RAPA_NUI_TARAKIU">
+			<Text>Tarakiu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_RAPA_NUI_HANGA_POUKURA">
+			<Text>Hanga Poukura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_RAPA_NUI_HANGA_HAVE">
+			<Text>Hanga Have</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_RAPA_NUI_VINAPU">
+			<Text>Vinapu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_RAPA_NUI_HURI_A_URENGA">
+			<Text>Huri a Urenga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MICKEY_TO_TIKI">
+			<Text>Mickey to Tiki tu Meke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DICK_FRIZZELL">
+			<Text>Dick Frizzell</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

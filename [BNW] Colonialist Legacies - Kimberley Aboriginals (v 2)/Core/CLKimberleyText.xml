@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/17/2015 3:47:56 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_CLKIMBERLEY_ADJECTIVE">
+			<Text>Kimberley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_CLKIMBERLEY_DESC">
+			<Text>Kimberley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_CLKIMBERLEY_TEXT">
+			<Text>Hail, Jandamarra of the Bunuba, great Jalgangurru and leader of the Kimberley! In your lifetime, you led a grand rebellion against the European invaders who threatened your people and homeland, using their own weapons against them. You were renowned for your prowess and tactics against your enemies, and revered by your kinsmen as a legendary figure. Despite your humble beginnings as a tracker, you rose to become a powerful foe to the European colonists, and a mythic force to the fellow members of your tribe![NEWLINE][NEWLINE]O Jandamarra, after years of valiantly defending your people’s lands from invaders, you were finally defeated at the hands of a fellow native tracker. Without your guidance, your rebellion crumbled and your tribe was defeated by the Europeans. But your tribe calls out to you once more! Will you rise again to protect your people? Will you build a civilization to stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_CLKIMBERLEY_SHORT_DESC">
+			<Text>Kimberley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CLKIMBERLEY_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CLKIMBERLEY_HEADING_2">
+			<Text>Geography and Climate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CLKIMBERLEY_HEADING_3">
+			<Text>The Name</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CLKIMBERLEY_HEADING_4">
+			<Text>Establishing The Wunan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CLKIMBERLEY_HEADING_5">
+			<Text>Continental Trade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CLKIMBERLEY_HEADING_6">
+			<Text>Intercontinental Trade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CLKIMBERLEY_HEADING_7">
+			<Text>Colonization and Resistance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CLKIMBERLEY_HEADING_8">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CLKIMBERLEY_TEXT_1">
+			<Text>The history of human habitation of the Kimberley is truly ancient. From the earliest times people of the Kimberley have prospered and portrayed their ceremonies on the stones throughout the country. Trade contacts among the Kimberley Aboriginal communities stretched from Indonesia to Kati Thanda-Lake Eyre and beyond. The wunan tradition of the region encourages generous trade but also respect for each nation’s territory. When that respected has not been given in return, the people of the Kimberley have risen up in defense of their country with both force and politics.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CLKIMBERLEY_TEXT_2">
+			<Text>The Kimberley is the northernmost region of what is now Western Australia. To the north and west the Kimberley borders the Timor Sea and Indian Ocean respectively. The coast possesses numerous bays and inlets and much of it consists of steep cliffs rising from the sea and mangrove estuaries. Annual monsoons blowing off the Indian Ocean nourish, and often flood, the Kimberley’s many rivers. These rivers cut steep gorges and canyons through the low sandstone and limestone mountains, the remnants of primordial reefs. The southern regions of the Kimberley are flatter tropical savannahs that eventually transition into the deserts of the Australian interior.[NEWLINE][NEWLINE]Kimberley Aboriginal communities recognize six distinct seasons. Mankala, the rainy season, occurs between December and March, during which as much as 90% of the region’s annual precipitation will fall. During Marul (April), the rains cease and the land begins to dry. When Wirralburu (May) arrives, dry winds blow in from the southeast and the nights become cool. Barrgana (June-August) marks the cool winter dry season sets in and temperatures drop to annual lows of 54* F (12* C) - though parts of the Kimberley Plateau can drop below freezing at this time. The weather warms again during Wilburu (September), a time when seafood is particularly abundant in the coastal reefs and mangroves. Finally, during Larja (October - November), the days grow humid and temperatures can soar up to 104* F (40* C) until the northwest winds of Mankala bring the rains again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CLKIMBERLEY_TEXT_3">
+			<Text>There are more than thirty nations whose traditional territory falls within the Kimberley region. These include but are by no means  limited to the following: the Ngarinyin, the Kija, the Worora, the Bunuba, the Nyul Nyul, the Nyikina, the Bardi, the Yawuru, and the Walmajarri. Although each nation has their own language, traditions, and history, there are commonalities that have allowed a pan-Kimberley identity to emerge in recent decades. As a formal body, this political identity formed the Kimberley Land Council in 1978 to defend the land rights of the Kimberley region’s traditional owners. Additional organizations such as the Kimberley Aboriginal Law and Culture Centre, the Kimberley Aboriginal Artists, the Kimberley Aboriginal Medical Services Council and others have further recognized and promoted this identity. Following their example, we will also being using “the Kimberley” and derivations thereof to refer to this Civilization.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CLKIMBERLEY_TEXT_4">
+			<Text>For the Kimberley Aboriginal communities, wunan (also spelled “wurnan”) ranks among the most important aspects of the Law and the origins of wunan is a defining amount in the history of the Kimberley region. The primary focus of the wunan law governs trade and exchange of goods between communities, but by extension it also helps to define the lands those communities occupy and influences kinship systems and the resolution of conflicts between communities.[NEWLINE][NEWLINE]The Ngarinyin account of the origins of wunan is the most well known. During the age of the Gwion, there lived a visionary artist named Wibalma. He created sacred objects known as mayangarri, and among them was the mayangarri Manjilarri - the Sacred Object of Justice. Wibalma refused to share the power that came with his sacred objects. Wodoi and Jungan, the two great leaders of the Kamali nomads, came to visit Wibalma and convince him to share his power. When they arrived, Wibalma was away hunting, but his wife Nyamanbiligi offered to show the two men Wibalma’s workshop. While they waited, Wodoi and Jungan discovered the mayangarri Manjilarri and stole it.[NEWLINE][NEWLINE]Upon learning that the mayangarri Manjilarri had been taken from him, Wibalma pursued the two leaders and soon caught up with them. Once Wodoi and Jungan explained their reasons for taking the sacred object, Wibalma admitted that he had been wrong to keep the mayangarri Manjilarri to himself and that all should be able to benefit from the Law. The three men convened a great council at Dududungarri, drawing in representatives from all over the Kimberley, Arnhem Land, and as far away as Uluru.[NEWLINE][NEWLINE]At Dududungarri, the people agreed to follow the wunan law bringing an end to the nomadic lifestyle of the Kamali. Instead the people would now live on dambun (clan districts) governed by the wunan law of exchange. They adopted the moiety divisions, with half the people belonging to Wodoi’s moeity and the other to Jungan’s, which established the patterns for cross-marriage and kinship in the Kimberley.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CLKIMBERLEY_TEXT_5">
+			<Text>Following the establishment of wunan law, the Kimberley became a major trading hub for western Australia and beyond. From the Kimberley region, trade routes spread out over the continent. Some headed northwest to relatively-nearby Arnhem Land. Some headed east reaching at least as far as Mount Isa in modern Queensland. Others crossed the deserts of central Australia to reach Uluru, Kati Thanda-Lake Eyre, the Eyre Peninsula before finally arriving in the vicinity of modern Adelaide. Finally, another branch of the Kimberley’s trading sphere headed south toward Perth. Many of these ancient trade routes have since become stock trails for driving cattle and modern highways.[NEWLINE][NEWLINE]Locally, food was the most important source of trade items, as each dambun traded its own produce to secure what could not be grown or found within within their own land. Further afield, imperishable items became far more prominent. Pearlshell and baler shells from the coast and finely wrought spearheads made from chalcedony and opal were among the most prominent goods from the Kimberley that crossed the continent. Pituri, a native species of tobacco grown in the vicinity of Kati Thanda-Lake Eyre, traveled back to the Kimberley along these trade routes, along with sharp quartz blades, woven dillybags, and red and white ochres.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CLKIMBERLEY_TEXT_6">
+			<Text>Around 4000 years ago, the Australian continent began to experience its earliest known sustained contact with peoples beyond its shores. These included Indians sailing from the west and Melanesian sailing from the north and east. The exact nature of these early contact events are not well known, but the following centuries were a time of great change throughout the continent with the adoption and development of new technologies, the arrival and spread of the dingo, and sweeping dominance of the Pama-Nyungan speakers over most of the continent. Throughout this, the Kimberley Aboriginal communities were among the few on the continent to resist the influences of the Pama-Nyungan speakers and retain their own unique and diverse languages.[NEWLINE][NEWLINE]In more recent history, the Kimberley region was active in the trepang trade. Trepang, or sea cucumber, was highly prized in the cuisine of China, and trepangers from Indonesia, Makassar and Timor especially, sailed to Australia to acquire these animals from their Australian trading partners. This trade may have begun as early as the 12th Century based on archaeological remains from trepanger camps on the Australian coast. Depictions of Indonesian praus in Australian artwork dates at least to to mid-16th Century, and the trade routes were thriving by the time Europeans became involved; in 1801 European explorers encountered 64 praus off the coast of the Kimberley engaged in the trepang trade.[NEWLINE][NEWLINE]To the people of Indonesia, the Kimberley was known as Kayu Jawa and it was one of the primary regions - the other being Marege’, known to English-speakers as Arnhem Land. The trepangers traded in cloth, tobacco, metal tools, and rice, in exchange for the trepang and the assistance of local communities in processing it before the traders departed. While the relationship between Australian communities and the trepangers were generally peaceful in Arnhem Land, the situation was more complex in the Kimberley. Although they initially welcomed these foreign traders, local communities began to feel exploited. Perhaps the trepangers ran afoul of the wunan law and failed to compensate the owners of the dambuns from which trepang was harvested in a manner that was deemed appropriate. To balance the scales, Kimberley men often stole the praus that arrived on their shores. Violence arose on both sides, effectively ending the trepang trade in the region by the late 19th Century. Elsewhere it would last into the early 20th Century, when the colonial government outlawed the practice.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CLKIMBERLEY_TEXT_7">
+			<Text>The first major colonial foray into the Kimberley began in December 1837 and, due to illness, flooding, and resistance by local communities, came to an end by April of the following year. In 1864, a trio of would-be settlers set out to discover the alleged goldfields of the Kimberley and for unclear reasons were killed by Kimberley men. A colonial search party was dispatched to discover the fate of these men and, sadly, the leader Meitland Brown treated the local populace harshly and upon learning that the three men had been killed deemed any resistance by the Kimberley peoples as justification for exterminating them, which tragically led to the La Grange Massacre on 6 April, 1865.[NEWLINE][NEWLINE]The colonists would not obtain a permanent settlement in the Kimberley until the 1880s with the establishment of colonial communities like Broome and Yeeda Station. As colonial settlements spread over the region, many from Kimberley communities found employment. When Aboriginal workers did not come willing, they were blackbirded and forced to work for European employers, perhaps most most infamous exploitation of Aboriginal labor at this time was Broome’s pearl farms, that forced young women to dive for pearls with little to no equipment. The harsh treatment of Kimberley communities triggered a three-year conflict known as Jandamarra’s War.[NEWLINE][NEWLINE]Though Jandamarra lost his war, the Kimberley Aboriginal peoples continued the struggle against the exploitation of colonialism. The turning point came in 1978, when the Kimberley Aboriginal peoples came together to protest the intrusion by AMEX, an American mining company supported by the Western Australia government, into their sacred grounds. Though the protests unfortunately did not halt AMEX’s ruinous exploration for oil, they did lead to the formation of the Kimberley Land Council and other institutions that continue to give voice to the concerns of the Kimberley Aboriginal peoples and defend their traditions, language, and rights.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CLKIMBERLEY_TEXT_8">
+			<Text>The Kimberley Aboriginal peoples have famously produced two artistic traditions unique to their region, one depicting the Wandjina and the other depicting the Gwion.[NEWLINE][NEWLINE]The Wandjina are Dreaming beings, who help Wungurr the Serpent form the world and continue to influence the Kimberley region by sending rains and the spirits of newborns.[NEWLINE][NEWLINE]The Gwion are the leaders of the first peoples to be born of Jillinya the Great Mother, and artwork depicting them engaged in ceremony has been dated to 20,000 years old or more and are among the earliest depictions of religious ritual found anywhere in the world.[NEWLINE][NEWLINE]Two titles are known among the Gwion. The Munganunga are the visionaries who devised the Law and encoded it upon the sacred mayangarri. The Jenagi Jenagi are the Gwion messengers who distributed the mayangarri to local communities.[NEWLINE][NEWLINE]Yandama is another famous Gwion who is credited with the invention of the nyarndu, or spearthrower.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CLJANDAMARRA">
+			<Text>Jandamarra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLJANDAMARRA_NAME">
+			<Text>Jandamarra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLJANDAMARRA_SUBTITLE">
+			<Text>Leader of the Jandamarra Insurrection</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLJANDAMARRA_TITLES_1">
+			<Text>Jalgangurru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLJANDAMARRA_HEADING_1">
+			<Text>Background</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLJANDAMARRA_HEADING_2">
+			<Text>Early Life in the Outback</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLJANDAMARRA_HEADING_3">
+			<Text>The Legendary Guerilla Pigeon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLJANDAMARRA_HEADING_4">
+			<Text>Jandamarra's Demise</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLJANDAMARRA_HEADING_5">
+			<Text>Judgement of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLJANDAMARRA_TEXT_1">
+			<Text>
+				Jandamarra, also to be known by the Europeans as "Pigeon" grew up at the time when the pastoralists were first laying claim to an early colonial Australia. It was the frontier; a time of violence and great upheavals. He was only in his mid twenties when he was gunned down, but in his short life he created a legacy that will never be forgotten.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLJANDAMARRA_TEXT_2">
+			<Text>Jandamarra was born around 1873. At about the age of 11, Jandamarra and his mother came in from the bush to live on Lennard River Station, one of the earliest pastoral stations in the Kimberley. Jandamarra became a strong horseman, a crack shot and a competent English speaker. But after this first taste of station life, he returned to join the Bunuba still living a traditional life, outside the control of the stations. He was caught up in a police raid, and served time in Derby in jail for sheep-stealing. When he eventually returned to his country, he worked at Lillimooloora Station with Bill Richardson. When Richardson joined the police force, Jandamarra became his tracker. As a tracker, he helped the police capture many of our ancestors – his own people – taken away in chains to distant gaols, many never to be seen again. It was in this period that he became known as a reckless womaniser who flouted the kinship and skin laws. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLJANDAMARRA_TEXT_3">
+			<Text>His close but uneasy friendship with Richardson came to a dramatic end. In late 1894 the pair succeeded in capturing a group which included virtually all of the most senior Bunuba leaders and elders. During the night of October 31 1894, he chose to return his allegiance to the indigenous Bunuba. He shot Richardson, armed the Bunuba people and began a guerilla campaign against the European invaders. Jandamarra’s first major act of war was a direct confrontation – the battle of Windjana Gorge on November 16, 1894 – between 30 armed police and a large group of the Bunuba in which he was very badly wounded. He recovered, but the appalling and indiscriminate reprisal killings of Aboriginal people throughout the Fitzroy River valley led Jandamarra to develop different tactics. The Bunuba now targeted property, crops and stock, and harassed and ‘stalked’ the pastoralists without causing human casualties. In this way they tied down the progress of pastoral expansion for over three years. Jandamarra developed an almost superhuman reputation amongst white settlers and police for his ability to elude them. Police chasing Jandamarra were also in awe at his ability to cross the rugged ranges with no effect on his bare feet, despite their boots being cut to shreds by the sharp rocks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLJANDAMARRA_TEXT_4">
+			<Text>He was finally tracked down and killed on April 1, 1897 when the police brought in another Aboriginal tracker, Mingo Mick, who had equally legendary powers. Mingo however, was forced to undertake such a task due to the fact that the local police had held his children hostage. Micki tracked Jandamarra down and shot him dead at Tunnel Creek on 1 April 1897. The white troopers cut off Jandamarra's head as proof that he was dead and it was preserved and sent to a firearms company in England where it was used as an example of the effectiveness of the companies firearms.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLJANDAMARRA_TEXT_5">
+			<Text>Although it has been over a century since he was killed, Jandamarra has been an inspiration to indigenous Australians down through the decades, remembered in stories, in dances, in songs, in plays traditional and contemporary. Jandamarra’s extraordinary position – poised between the white and black worlds – makes him a compelling tragic hero. And it makes this story one of the most dramatic of all the tales of the 19th Century conflict between Aboriginal people and white settlers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CLKAYUJAWA_SHORT">
+			<Text>Wunan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CLKAYUJAWA">
+			<Text>Gain 50% of the [ICON_HAPPINESS_1] Happiness from Luxury Resources not connected to your Trade Network from Cities that you have a Trade Route with.  Units gain increased Combat Strength for every Outgoing Trade Route.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CLKIMTRACKER">
+			<Text>Tracker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CLKIMTRACKER_STRATEGY">
+			<Text>A unique Rifleman only available to the Kimberley Aboriginals, the Tracker is more suited at scouting than fighting, as it receives access to the Recon promotions tree. It can passively "Track" nearby enemy units, allowing the Kimberley to see that unit and whatever it sees for a period of time, as well as giving other nearby units a combat bonus against "Tracked" units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_CLKIMTRACKER">
+			<Text>Replacing the Rifleman, not only can the Tracker gain promotions belonging to the Scout line, but they also have the ability to passively "Track" nearby units belonging to other players. When a unit is tagged as "Tracked", the player controlling the Kimberley will be able to see what that unit sees (and uncover undiscovered territory) for a short period of time. "Tracked" units also suffer a combat penalty from any Kimberley unit that attacks them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_CLKIMTRACKER_TEXT">
+			<Text>During British colonization of Australia, the colonists relied heavily upon Aboriginal trackers. Employing knowledge and skills essential for survival in their native country, the trackers located sources of food and water, engaged in search-and-rescue missionaries and apprehended criminal bushrangers fleeing from justice. Jandamarra himself served as a tracker for colonial police in the Kimberley before leading his rebellion and was regarded as one of the finest of his day. Combining his indigenous skills with the firearms training he received from the police, he was able to arm his compatriots and avoid capture for three years until finally and fatally confronted by another tracker, Minko Micki.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CLTREPANGER">
+			<Text>Trepanger Camp</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CLTREPANGER_HELP">
+			<Text>Alongside the benefits of the Harbor it replaces, the Trepanger Camp further increases Land Trade Route Length for every incoming Naval Trade Route to this City. Provides a [ICON_PRODUCTION] Production boost for every foreign Cargo Ship within workable range of the City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CLTREPANGER_STRATEGY">
+			<Text>In addition to connecting coastal cities to the Capital and increasing the range of Naval Trade Routes like the normal Harbor does, the Trepanger Camp increases the range of outgoing Land Trade Routes for every incoming Naval Trade Route. And on top of that, it provides a boost of [ICON_PRODUCTION] Production for every foreign Cargo Ship within 3 tiles of the city. Be sure to build Trepanger Camps in coastal cities near friendly nations to encourage trade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CLTREPANGER_PEDIA">
+			<Text>The trepangers were traders from Indonesia who established camps along the northern coast of Australia from the Kimberley to Arnhem Land. They came seeking trepang, or sea cucumber, that was plentiful off the Australian coast. These camps featured seasonal housing for the trepangers while they waited for favorable winds to carry them home and huge pots for boiling trepang. The success of these camps depended largely on the support of local Aboriginal communities who assisted with the harvesting and processing of trepang and traded other foods for goods brought by the trepangers, which in turned helped fuel trade with communities further from the coast.</Text>
+		</Row>
+		<!--City Names-->
+		<Row Tag="TXT_KEY_CITY_NAME_CLKIMBERLEY_1">
+			<Text>Rubibi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CLKIMBERLEY_2">
+			<Text>Windjana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CLKIMBERLEY_3">
+			<Text>Kalumburu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CLKIMBERLEY_4">
+			<Text>Mowanjum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CLKIMBERLEY_5">
+			<Text>Kunmunya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CLKIMBERLEY_6">
+			<Text>Bidyadanga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CLKIMBERLEY_7">
+			<Text>Kandiwal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CLKIMBERLEY_8">
+			<Text>Ardyaloon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CLKIMBERLEY_9">
+			<Text>Junjuwa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CLKIMBERLEY_10">
+			<Text>Goolarabooloo Millibinyarri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CLKIMBERLEY_11">
+			<Text>Yungngora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CLKIMBERLEY_12">
+			<Text>Kadjina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CLKIMBERLEY_13">
+			<Text>Milijiddee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CLKIMBERLEY_14">
+			<Text>Wulungarra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CLKIMBERLEY_15">
+			<Text>Looma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CLKIMBERLEY_16">
+			<Text>Djarindjin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CLKIMBERLEY_17">
+			<Text>Yakanarra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CLKIMBERLEY_18">
+			<Text>Bayulu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CLKIMBERLEY_19">
+			<Text>Oombulgurri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CLKIMBERLEY_20">
+			<Text>Minyirr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CLKIMBERLEY_21">
+			<Text>Wangkatjungka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CLKIMBERLEY_22">
+			<Text>Jalyirr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CLKIMBERLEY_23">
+			<Text>Kununurra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CLKIMBERLEY_24">
+			<Text>Warmun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CLKIMBERLEY_25">
+			<Text>Wotjulum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CLKIMBERLEY_26">
+			<Text>Kooljamon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CLKIMBERLEY_27">
+			<Text>Jarlmadangah Burru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CLKIMBERLEY_28">
+			<Text>Lillimooloora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CLKIMBERLEY_29">
+			<Text>Darngku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CLKIMBERLEY_30">
+			<Text>Mardoowarra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CLKIMBERLEY_31">
+			<Text>Kupartiya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CLKIMBERLEY_32">
+			<Text>Goongewa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CLKIMBERLEY_33">
+			<Text>Camballin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CLKIMBERLEY_34">
+			<Text>Balgo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CLKIMBERLEY_35">
+			<Text>Luiligui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CLKIMBERLEY_36">
+			<Text>Quandan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CLKIMBERLEY_37">
+			<Text>Bilingurr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CLKIMBERLEY_38">
+			<Text>Walmadany</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_CLKIMBERLEY_9">
+			<Text>Ellemarra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_CLKIMBERLEY_8">
+			<Text>Yangkana</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_CLKIMBERLEY_7">
+			<Text>Kaiimbinya</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_CLKIMBERLEY_6">
+			<Text>Minko Micki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_CLKIMBERLEY_5">
+			<Text>Cudiana</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_CLKIMBERLEY_4">
+			<Text>Pugjawola</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_CLKIMBERLEY_3">
+			<Text>Bieundurry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_CLKIMBERLEY_2">
+			<Text>Barunga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_CLKIMBERLEY_1">
+			<Text>Arai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_CLKIMBERLEY_0">
+			<Text>Marutja</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_CLKIMBERLEY_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now congregating around one another telling each other grand creation stories of spirits carving the land. I'm inclined to agree that they're enjoyable, but I worry the rest of the world will soon succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CLKIMBERLEY_1">
+			<Text>Keeping the Wandjina Fresh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CLKIMBERLEY_1_DESC">
+			<Text>
+				In the Dreaming, the Wandjina transformed a featureless landscape into our beautiful country and continue to bless us by sending the annual monsoons and the spirits of children yet to be born. We honor them and give thanks by maintaining the images they painted throughout the land.
+				[NEWLINE]
+				[NEWLINE]Requirements/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Kimberley
+				[NEWLINE][ICON_BULLET]Player must have a Pantheon
+				[NEWLINE][ICON_BULLET]Player must be producing +5 (or more) [ICON_PEACE] Faith per turn
+				[NEWLINE][ICON_BULLET]May only be enacted once per era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]100 [ICON_PEACE] Faith
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]A 5-turn 'We Love The King Day' begins in all cities.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CLKIMBERLEY_1_ENACTED_DESC">
+			<Text>
+				In the Dreaming, the Wandjina transformed a featureless landscape into our beautiful country and continue to bless us by sending the annual monsoons and the spirits of children yet to be born. We honor them and give thanks by maintaining the images they painted throughout the land.
+				[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]A 5-turn 'We Love The King Day' begins in all cities.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CLKIMBERLEY_2">
+			<Text>Memorialize Divers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CLKIMBERLEY_2_DESC">
+			<Text>
+				As our technology improves, the work of our divers becomes safer and we obtain a greater appreciation for the dangers earlier generations, and our women especially, risked to harvest the bounty of the sea. We honor their memory today.
+				[NEWLINE]
+				[NEWLINE]Requirements/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Kimberley
+				[NEWLINE][ICON_BULLET]Player must have at least one Coastal City
+				[NEWLINE][ICON_BULLET]Can only be enacted after the Classical Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]50 [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a boost of [ICON_PEACE] Faith (more for every Coastal City) when entering a new era
+				[NEWLINE][ICON_BULLET]Each worked Sea Resource provides [ICON_GOLDEN_AGE] Golden Age points.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CLKIMBERLEY_2_ENACTED_DESC">
+			<Text>
+				As our technology improves, the work of our divers becomes safer and we obtain a greater appreciation for the dangers earlier generations, and our women especially, risked to harvest the bounty of the sea. We honor their memory today.
+				[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a boost of [ICON_PEACE] Faith (more for every Coastal City) when entering a new era
+				[NEWLINE][ICON_BULLET]Each worked Sea Resource provides [ICON_GOLDEN_AGE] Golden Age points.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

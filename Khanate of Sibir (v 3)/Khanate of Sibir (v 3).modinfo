@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="539c48c9-2a8f-4920-9aaf-656dda98c493" version="3">
+  <Properties>
+    <Name>Khanate of Sibir</Name>
+    <Teaser>Adds the Siberian Khanate civilization to the game.</Teaser>
+    <Description>Adds the Siberian Khanate civilization to the game. 
+
+Leader: Kuchum Khan 
+
+Unique Ability: Hit and Run Tactics - All land combat units with the exception of Siege units can move after attacking. 
+
+Unique Unit: Siberian Tatar - Replaces Knight. Ranged attack unit which can move after attacking, ignores terrain cost and has greater combat strength in rough terrain. 
+
+Unique Building: Yaranga - Replaces Granary. In addition to the yields of the Granary, worked tundra and snow tiles yield 1+ extra food. Available from Agriculture. 
+
+Credits: 
+XML - Hiram
+Art - LastSword, Regalman, TarcisioCM
+Music:
+https://www.youtube.com/watch?v=i0djHJBAP3U
+https://www.youtube.com/watch?v=X6KS1f-SlNg</Description>
+    <Authors>Hiram</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+    <Dlc id="293C1EE3-1176-44f6-AC1F-59663826DE74" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="A1D3E4072B8647C245670D8B289AD109" import="1">Art/Buildingicons/yaranga128.dds</File>
+    <File md5="D6B858A779C2C5D7F5968951E9476314" import="1">Art/Buildingicons/yaranga256.dds</File>
+    <File md5="CABC251C2F477BE74BE765ABA4746BCA" import="1">Art/Buildingicons/yaranga45.dds</File>
+    <File md5="C2CAC3E8D077792F72AE2B34B5305865" import="1">Art/Buildingicons/yaranga64.dds</File>
+    <File md5="E12CA5F339F971D70E68E878956395EE" import="1">Art/Civicons/sibiralpha128.dds</File>
+    <File md5="AB18F277311E3D606FE2A1D3D42E90F0" import="1">Art/Civicons/sibiralpha16.dds</File>
+    <File md5="177416EA682B3D06A6C3B532B98FAC2F" import="1">Art/Civicons/sibiralpha24.dds</File>
+    <File md5="F46F1DA00D1EB4A8577187D439EAE883" import="1">Art/Civicons/sibiralpha32.dds</File>
+    <File md5="01C54D119AACD0C1BCA50B7C4A275C11" import="1">Art/Civicons/sibiralpha48.dds</File>
+    <File md5="D9C4FC3427EE3E341F2127DBA4FFC85A" import="1">Art/Civicons/sibiralpha64.dds</File>
+    <File md5="2359AE5F47464335F80FD0DFF92B5477" import="1">Art/Civicons/sibiricon128.dds</File>
+    <File md5="F8D32D486060472675ED84B3B0E4456E" import="1">Art/Civicons/sibiricon214.dds</File>
+    <File md5="CD20AFDADD60E6F360900F22146BA24D" import="1">Art/Civicons/sibiricon256.dds</File>
+    <File md5="4BA61F013A7D3EF255606AA279D1319B" import="1">Art/Civicons/sibiricon32.dds</File>
+    <File md5="3220C7D983C42309A85EFBF614CFD404" import="1">Art/Civicons/sibiricon45.dds</File>
+    <File md5="AFB5239C9AA19203F83E71D01834B33A" import="1">Art/Civicons/sibiricon64.dds</File>
+    <File md5="FF4254C0B8D69F3C88B5B90A4F679B1E" import="1">Art/Civicons/sibiricon80.dds</File>
+    <File md5="9CDADB8DB278424CE40BABEC5B6318D3" import="1">Art/kuchum.dds</File>
+    <File md5="A22075A38EC97FBDFF70E5C4E031BC8D" import="1">Art/KuchumDOM.dds</File>
+    <File md5="37E325C6AF61011A179C766C17359E13" import="1">Art/Leadericons/kuchum128.dds</File>
+    <File md5="51C8AB1E1F2A18780FBE626CC67A42DF" import="1">Art/Leadericons/kuchum256.dds</File>
+    <File md5="8D5696DD543C6D4B066C92670EDFC7E3" import="1">Art/Leadericons/kuchum64.dds</File>
+    <File md5="47CBE184841641B5C563986DEDD28BCD" import="1">Art/SibirMap.dds</File>
+    <File md5="52CAB30AC552FE423F1CD0A3300B0A12" import="1">Art/Uniticons/sibtat128.dds</File>
+    <File md5="AA135AF3349DE96118892FA9BD3E0D5E" import="1">Art/Uniticons/sibtat256.dds</File>
+    <File md5="0904818B5FA4EB59D8D1F99E6CD9933E" import="1">Art/Uniticons/sibtat32.dds</File>
+    <File md5="DC6EE47C02ED5FA464CD793316D8D5A0" import="1">Art/Uniticons/sibtat45.dds</File>
+    <File md5="FFF158585DA64AC5D224E35F3765DF46" import="1">Art/Uniticons/sibtat64.dds</File>
+    <File md5="A3758519B29D760C72659441C8A35492" import="1">Art/Uniticons/sibtat80.dds</File>
+    <File md5="6986D7FF06809C8247FB42D3D29F57E5" import="1">Sounds/KuchumPeace.mp3</File>
+    <File md5="C059EB1AE55F6F21579C61BD6F91C78E" import="1">Sounds/KuchumWar.mp3</File>
+    <File md5="AAF38A0923DFA60FF62593FC7C2742DD" import="0">XML/Civilizations.xml</File>
+    <File md5="181464E470A4BA33728B6647BED16637" import="0">XML/Buildings.xml</File>
+    <File md5="2AF8B610D3389D6080490BD59B602C64" import="1">XML/Kuchum_Scene.xml</File>
+    <File md5="286897CA3B0D09892950DD2F487DB980" import="0">XML/IconAtlas.xml</File>
+    <File md5="D6E7822427C8D0485D7F073965E410FF" import="0">XML/Leaders.xml</File>
+    <File md5="61CAAEA350992993B59297C449C19584" import="0">XML/Sounds.xml</File>
+    <File md5="2AEA879554E8E19AC02F042BAB22635E" import="0">XML/Text.xml</File>
+    <File md5="C8DAE0ACCBBEFD7B30C9CA621DCAC7BA" import="0">XML/Units.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>XML/IconAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Sounds.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

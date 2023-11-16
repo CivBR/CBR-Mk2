@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Pouakai -->
+<GameData>
+	<ArtDefine_StrategicView>
+		<Replace>
+			<StrategicViewType>ART_DEF_UNIT_MC_HAWAIIAN_KOA</StrategicViewType>
+			<TileType>Unit</TileType>
+			<Asset>sv_koa.dds</Asset>
+		</Replace>
+		<Replace>
+			<StrategicViewType>ART_DEF_UNIT_MC_RAPA_NUI_MATATOA</StrategicViewType>
+			<TileType>Unit</TileType>
+			<Asset>sv_matatoa.dds</Asset>
+		</Replace>
+		<Replace>
+			<StrategicViewType>ART_DEF_UNIT_MC_TONGAN_TONGIAKI</StrategicViewType>
+			<TileType>Unit</TileType>
+			<Asset>sv_tongiaki.dds</Asset>
+		</Replace>
+		<InsertOrAbort>
+			<StrategicViewType>IMPROVEMENT_MC_MAORI_PA</StrategicViewType>
+			<TileType>Improvement</TileType>
+			<Asset>SV_pa.dds</Asset>
+		</InsertOrAbort>
+	</ArtDefine_StrategicView>
+</GameData>

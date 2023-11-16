@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="e5fd14ae-8d35-48c0-947c-ef558bebc4bf" version="6">
+  <Properties>
+    <Name>UI - Enhanced Demographics</Name>
+    <Teaser>Modularised version of Albert "Einstein" Dunberg's Improved Demographics Popup</Teaser>
+    <Description>Enhanced version of the Demographics popup that adds a tabular view and a list of the Top 5 Cities</Description>
+    <Authors>William Howard</Authors>
+    <SpecialThanks>Albert "Einstein" Dunberg, German translation by worf-der-grosse</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>0</AffectsSavedGames>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+    <PediaCategory>UI</PediaCategory>
+    <PediaAtlas>UNIT_ATLAS_2</PediaAtlas>
+    <PediaIndex>47</PediaIndex>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="7480A9728C51ABD4AA05F8C31961B073" import="1">UI/Demographics.lua</File>
+    <File md5="1A4C0D713EEA4FEC37B3D94DA6CF22AA" import="1">UI/Demographics.xml</File>
+    <File md5="15DB4B4C34C8CCEBBAD1B0EDC801F674" import="0">XML/UIEnhancedDemographics.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/UIEnhancedDemographics.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

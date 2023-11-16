@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DEMOGRAPHICS_DEMOGRAPHICS">
+			<Text>Demographics</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEMOGRAPHICS_TABLES">
+			<Text>Table</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEMOGRAPHICS_CITIESWONDERS">
+			<Text>Top 5 Cities / Wonders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEMOGRAPHICS_PRODUCTION_SHORT">
+			<Text>Mfd Goods</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEMOGRAPHICS_RESEARCH">
+			<Text>Currently Researching</Text>
+		</Row>		
+		<Row Tag="TXT_KEY_DEMOGRAPHICS_PRODUCTION_SORT_POP">
+			<Text>Sort By Population</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEMOGRAPHICS_PRODUCTION_SORT_FOOD">
+			<Text>Sort By Crop Yield</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEMOGRAPHICS_PRODUCTION_SORT_PROD">
+			<Text>Sort By Manufactured Goods</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEMOGRAPHICS_PRODUCTION_SORT_GOLD">
+			<Text>Sort By GNP</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEMOGRAPHICS_PRODUCTION_SORT_LAND">
+			<Text>Sort By Land</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEMOGRAPHICS_PRODUCTION_SORT_ARMY">
+			<Text>Sort By Soldiers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEMOGRAPHICS_PRODUCTION_SORT_APPROVAL">
+			<Text>Sort By Approval</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEMOGRAPHICS_PRODUCTION_SORT_LITERACY">
+			<Text>Sort By Literacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEMOGRAPHICS_NOTHING">
+			<Text>Nothing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEMOGRAPHICS_UNKNOWN_CITY">
+			<Text>Unknown City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEMOGRAPHICS_TOP5CITIES">
+			<Text>Top 5 Cities</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEMOGRAPHICS_WONDERS">
+			<Text>World Wonders</Text>
+		</Row>		
+	</Language_en_US>
+
+  <Language_de_DE>
+    <Row Tag="TXT_KEY_DEMOGRAPHICS_DEMOGRAPHICS">
+      <Text>Demographie</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DEMOGRAPHICS_TABLES">
+      <Text>Tabelle</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DEMOGRAPHICS_CITIESWONDERS">
+      <Text>Top 5 St&#228;dte / Wunder</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DEMOGRAPHICS_PRODUCTION_SHORT">
+      <Text>Produktion</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DEMOGRAPHICS_RESEARCH">
+      <Text>aktuelle Forschung</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DEMOGRAPHICS_PRODUCTION_SORT_POP">
+      <Text>sortiert nach Bev&#246;lkerung</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DEMOGRAPHICS_PRODUCTION_SORT_FOOD">
+      <Text>sortiert nach Nahrungsertrag</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DEMOGRAPHICS_PRODUCTION_SORT_PROD">
+      <Text>sortiert nach Produktion</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DEMOGRAPHICS_PRODUCTION_SORT_GOLD">
+      <Text>sortiert nach Goldertrag</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DEMOGRAPHICS_PRODUCTION_SORT_LAND">
+      <Text>sortiert nach Land</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DEMOGRAPHICS_PRODUCTION_SORT_ARMY">
+      <Text>sortiert nach Soldaten</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DEMOGRAPHICS_PRODUCTION_SORT_APPROVAL">
+      <Text>sortiert nach Zustimmung</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DEMOGRAPHICS_PRODUCTION_SORT_LITERACY">
+      <Text>sortiert nach Bildung</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DEMOGRAPHICS_NOTHING">
+      <Text>keine</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DEMOGRAPHICS_UNKNOWN_CITY">
+      <Text>unbekannte Stadt</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DEMOGRAPHICS_TOP5CITIES">
+      <Text>Top 5 St&#228;dte</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DEMOGRAPHICS_WONDERS">
+      <Text>Weltwunder</Text>
+    </Row>
+  </Language_de_DE>
+</GameData>

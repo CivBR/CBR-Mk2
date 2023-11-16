@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="d9ece224-6cd8-4519-a27a-c417b59cdf35" version="2">
+  <Properties>
+    <Name>Future Worlds</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Extending the Civ V game into the near future!</Teaser>
+    <Description>Extends the Information Era of Civ V by adding near-future technologies and units!</Description>
+    <Authors>Mischa</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>0</AffectsSavedGames>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Enlightenment Era" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="54649EBEDA74A8D619AE116547C84C82" import="1">Art/FM2_Atlas128.dds</File>
+    <File md5="D393DA9154E281AA3D354D752928B7B4" import="1">Art/FM2_Atlas256.dds</File>
+    <File md5="3B1841C7E24E0B8C291A56F8BFC5985E" import="1">Art/FM2_Atlas32.dds</File>
+    <File md5="0ECA0B152607BEEC1B031B5D00067B80" import="1">Art/FM2_Atlas45.dds</File>
+    <File md5="21C7B9A176839B161306776CDE04D8E0" import="1">Art/FM2_Atlas64.dds</File>
+    <File md5="6C4262EBEE58A7CDBCB2379530AEBE78" import="1">Art/FM2_Atlas80.dds</File>
+    <File md5="A2F61D6F0FCF7135BF7103916D6AE92C" import="1">Art/FM_Atlas128.dds</File>
+    <File md5="A1F504AD8C69BEC703F652DB0DB76340" import="1">Art/FM_Atlas256.dds</File>
+    <File md5="D8690A99592C80D22E5187B299028BE6" import="1">Art/FM_Atlas32.dds</File>
+    <File md5="B3BBA924772DC65AEF71DC98BF543172" import="1">Art/FM_Atlas45.dds</File>
+    <File md5="37BB6464992274AFD3E522F023EA6DA6" import="1">Art/FM_Atlas64.dds</File>
+    <File md5="56D48019CC43E75E84C0AC33DD495A38" import="1">Art/FM_Atlas80.dds</File>
+    <File md5="EE9967275D4CCA71F15826DA63BC898C" import="1">Art/FutureIcons1.dds</File>
+    <File md5="A3881799F738673C0B638D6664439437" import="1">Art/FutureIcons2.dds</File>
+    <File md5="1430AD447677E0A40EE141B4E6F9D578" import="1">Art/FutureIcons3.dds</File>
+    <File md5="ADD2649DBC50F869C4A7363B4344178F" import="1">Art/FutureIcons4.dds</File>
+    <File md5="70B53AFE783FFAF31D80496A81912A41" import="1">Art/FutureWorldsIconAtlas128-2.dds</File>
+    <File md5="4CEFFC832374997FC11B55C10FD0447C" import="1">Art/FutureWorldsIconAtlas128.dds</File>
+    <File md5="A16DA2BD8D4D5B65696647BFCBE3CF1C" import="1">Art/FutureWorldsIconAtlas256-2.dds</File>
+    <File md5="6809B4BBCFF9172B6AB62AF7B7FB7AB6" import="1">Art/FutureWorldsIconAtlas256.dds</File>
+    <File md5="24E419EDD585531A2DF9F95261B3E046" import="1">Art/FutureWorldsIconAtlas32-2.dds</File>
+    <File md5="3F54ADEFB2954F58512C6A04E432A824" import="1">Art/FutureWorldsIconAtlas32.dds</File>
+    <File md5="A9E15E62C1C9803022DCBA74FD7F5BD5" import="1">Art/FutureWorldsIconAtlas45-2.dds</File>
+    <File md5="39A573F51209D768B3C80799A8B2B1DD" import="1">Art/FutureWorldsIconAtlas45.dds</File>
+    <File md5="9664A1369804CF7A72A40BC49BA4197B" import="1">Art/FutureWorldsIconAtlas64-2.dds</File>
+    <File md5="3470E1B82746692545DF337475538B7B" import="1">Art/FutureWorldsIconAtlas64.dds</File>
+    <File md5="047AEC5D7C690B6FFF2DD1E10824911B" import="1">Art/FutureWorldsIconAtlas80-2.dds</File>
+    <File md5="69A293A63A645A2346A60C75F8B9F72D" import="1">Art/FutureWorldsIconAtlas80.dds</File>
+    <File md5="DD96B072A789834D9BAF93127A9798C7" import="1">Art/Improvements/angeltower.dds</File>
+    <File md5="C0E69DF5B9D410938A5CC7A13DA3F269" import="1">Art/Improvements/Arcology_Base_Destroyed_DIFF.dds</File>
+    <File md5="9DE852EC0EE9836D291BF072D98EFD79" import="1">Art/Improvements/Arcology_Base_Destroyed_GLOSS.dds</File>
+    <File md5="009B1DF971EE276E5F525F0E66479777" import="1">Art/Improvements/Arcology_Base_DIFF.dds</File>
+    <File md5="4FCD3D06A9FE0990B24805BBECC7EE74" import="1">Art/Improvements/Arcology_Base_GLOSS.dds</File>
+    <File md5="7A8AC09D06773BCC542E0D08203E901A" import="1">Art/Improvements/Arcology_Dome_DIFF_bio.dds</File>
+    <File md5="D964A568783B9945521F0165F8FCA224" import="1">Art/Improvements/Arcology_Dome_GLOSS.dds</File>
+    <File md5="A735C613F1583FE9F8F1CE9F234D9D64" import="1">Art/Improvements/BE Improvements/biowell_cn.fxsxml</File>
+    <File md5="6B6D9AD0A0D17AF9FF3E93508049AB1C" import="1">Art/Improvements/BE Improvements/biowell_cn.gr2</File>
+    <File md5="B498A47EB7C6142A759753332D8A116C" import="1">Art/Improvements/BE Improvements/biowell_cn_decald.dds</File>
+    <File md5="CBFED8F90882A9D65623BC6F0B812809" import="1">Art/Improvements/BE Improvements/biowell_cn_decalh.dds</File>
+    <File md5="6FA179E81EFF5F2CD5D0600938E31D2C" import="1">Art/Improvements/BE Improvements/biowell_cn_diff.dds</File>
+    <File md5="4D4881E93404543F8606FDC39F5983E3" import="1">Art/Improvements/BE Improvements/biowell_cn_sref.dds</File>
+    <File md5="1682AF5A871D833F6B95FB5B03A23D5F" import="1">Art/Improvements/BE Improvements/biowell_hb.fxsxml</File>
+    <File md5="ED61D350FA4E03A282418B44C2248EE1" import="1">Art/Improvements/BE Improvements/biowell_hb.gr2</File>
+    <File md5="7C11009399F161911B186AE6D74FC310" import="1">Art/Improvements/BE Improvements/biowell_hb_decald.dds</File>
+    <File md5="45002572480C401518E7825ED4632929" import="1">Art/Improvements/BE Improvements/biowell_hb_decalh.dds</File>
+    <File md5="7C83D33C3FF408F2D7532A715D5E5C44" import="1">Art/Improvements/BE Improvements/biowell_hb_decals.dds</File>
+    <File md5="E4C491C41DA9CF89C4BF1E44C23B7A5B" import="1">Art/Improvements/BE Improvements/biowell_hb_diff.dds</File>
+    <File md5="D16D1373F5B0799820FD12FEE92BD9E5" import="1">Art/Improvements/BE Improvements/biowell_hb_sref.dds</File>
+    <File md5="8E824CC089DD393B62977A4AC45F6C40" import="1">Art/Improvements/BE Improvements/biowell_pl.fxsxml</File>
+    <File md5="D53EC76B43577F2CBFD2028C68A2729D" import="1">Art/Improvements/BE Improvements/biowell_pl.gr2</File>
+    <File md5="9AB09046F177772B55B3954D4EAB13A5" import="1">Art/Improvements/BE Improvements/biowell_pl_decald.dds</File>
+    <File md5="29933873B35BD53AC19199FE5067FC8A" import="1">Art/Improvements/BE Improvements/biowell_pl_diff.dds</File>
+    <File md5="996EC6F4CB371632F4F06C00FBAC3D20" import="1">Art/Improvements/BE Improvements/biowell_pl_sref.dds</File>
+    <File md5="B37D5C9D76AFA85B24F34270E84365A6" import="1">Art/Improvements/BE Improvements/GeothermalWell_CN.fxsxml</File>
+    <File md5="F680B178248FDF69DBB0AEED93B6E4AD" import="1">Art/Improvements/BE Improvements/GeothermalWell_CN.gr2</File>
+    <File md5="6ACF38CFC40CB20573D99E4860323CC0" import="1">Art/Improvements/BE Improvements/hbkit_diff.dds</File>
+    <File md5="5D752CFB3A0C66987F9D714214408346" import="1">Art/Improvements/BE Improvements/hbkit_sref.dds</File>
+    <File md5="2784F0216C80B4FDF8DAAC55D17005C2" import="1">Art/Improvements/BE Improvements/mutacology_cn.fxsxml</File>
+    <File md5="9A7FBF805A55E8ADEFE7CD0940427FC9" import="1">Art/Improvements/BE Improvements/mutacology_cn.gr2</File>
+    <File md5="9E8495466F0339DE300AA44DDE597A01" import="1">Art/Improvements/BE Improvements/mutacology_cn_decald.dds</File>
+    <File md5="D9E84474FC60342419A72819305107A1" import="1">Art/Improvements/BE Improvements/mutacology_cn_diff.dds</File>
+    <File md5="33C067DB66D951697FD365B9FBE87CA2" import="1">Art/Improvements/BE Improvements/node_cn.fxsxml</File>
+    <File md5="D54871ADA1BD453C5F45865F88D5890A" import="1">Art/Improvements/BE Improvements/Node_cn.gr2</File>
+    <File md5="4C1E301A3F5C5C15BD5BC4C7E50F96AC" import="1">Art/Improvements/BE Improvements/node_cn_decald.dds</File>
+    <File md5="A1BE1D9C75D64CB9C0152AD4BA7125B4" import="1">Art/Improvements/BE Improvements/node_cn_decalh.dds</File>
+    <File md5="92025C2C9BBE6B51FE6972871805EDE6" import="1">Art/Improvements/BE Improvements/node_cn_diff.dds</File>
+    <File md5="3F599AF3245F2AAD8CF7DFCC29C818B5" import="1">Art/Improvements/BE Improvements/node_cn_sref.dds</File>
+    <File md5="79A8FEC65A0B663DA768FAF7467DC202" import="1">Art/Improvements/BE Improvements/node_hb.fxsxml</File>
+    <File md5="BDF232F84AB50456C0649B377581CE7B" import="1">Art/Improvements/BE Improvements/Node_hb.gr2</File>
+    <File md5="FC7F0BAAE9B71556C7E1E9160EFA0D36" import="1">Art/Improvements/BE Improvements/node_hb_decald.dds</File>
+    <File md5="2C01814AC59695C431CD2EBBC86EEEB6" import="1">Art/Improvements/BE Improvements/node_hb_decalh.dds</File>
+    <File md5="62A7E4A20C0237A11CF841D2418CA1BA" import="1">Art/Improvements/BE Improvements/node_hb_diff.dds</File>
+    <File md5="32883F8002463B786A8666CA6DBA2BDE" import="1">Art/Improvements/BE Improvements/node_pl.fxsxml</File>
+    <File md5="EA075B85357C43C0AB75EB4462268E23" import="1">Art/Improvements/BE Improvements/Node_pl.gr2</File>
+    <File md5="05419CD4F3F9C26BC9CAA9E4F4775EF9" import="1">Art/Improvements/BE Improvements/node_pl_decald.dds</File>
+    <File md5="3BEF6973596AA05CBD1B0884162E5132" import="1">Art/Improvements/BE Improvements/node_pl_diff.dds</File>
+    <File md5="4AD378867EC98C918F3E6AEF109D3F69" import="1">Art/Improvements/BE Improvements/node_pl_sref.dds</File>
+    <File md5="025BC70BB2980F7C7E4F6DBC59ED46B0" import="1">Art/Improvements/BE Improvements/wellgeothermal_cn_diff.dds</File>
+    <File md5="AC3F376CAEB4461D7487AC0B536CA975" import="1">Art/Improvements/BE Improvements/wellgeothermal_cn_diff_blue.dds</File>
+    <File md5="3BE40DF91D30444E572DEAE8C0F71CD8" import="1">Art/Improvements/BE Improvements/wellgeothermal_cn_sref.dds</File>
+    <File md5="5C8081F82D1ED5B75908E61EF6D7B470" import="1">Art/Improvements/BE Improvements/wellgeothermal_hb_diff.dds</File>
+    <File md5="CECB91868F54E726E56628B0C5624A7B" import="1">Art/Improvements/BE Improvements/wellgeothermal_hb_sref.dds</File>
+    <File md5="3C9172A7B32A35F2984B5973ABE518E0" import="1">Art/Improvements/BE Improvements/wellgeothermal_pl_diff.dds</File>
+    <File md5="F8778F426BA95C979DC285FA6C24CB14" import="1">Art/Improvements/BE Improvements/wellgeothermal_pl_sref.dds</File>
+    <File md5="8934D706079B759E8FEEA0863528662B" import="1">Art/Improvements/BioDomes.fxsxml</File>
+    <File md5="85EB88EC1B6F5BEDD754934A449AE61C" import="1">Art/Improvements/BioDomes.gr2</File>
+    <File md5="67481F5A713DA453D72360E92A3F3476" import="1">Art/Improvements/BioDomes_build.fxsxml</File>
+    <File md5="251877D86FD418B62A54D9DE00D95181" import="1">Art/Improvements/BioDomes_build.gr2</File>
+    <File md5="39A3AEB77AAF05E052F7DCFD599764A0" import="1">Art/Improvements/BioDomes_PL.fxsxml</File>
+    <File md5="4E97063525F84685573B3399AA8E0211" import="1">Art/Improvements/BioDomes_PL.gr2</File>
+    <File md5="6B9A828D39F9C3274E6CAF35A030FCC9" import="1">Art/Improvements/CommsArray.fxsxml</File>
+    <File md5="6498E6EEBFF3EAD61F1C8BA0A4AC6F27" import="1">Art/Improvements/CommsArray.gr2</File>
+    <File md5="FE04C31A74E74C5E877F15FA91DCA79F" import="1">Art/Improvements/CommsArray_build.fxsxml</File>
+    <File md5="E775AA1426B620B6159AD0C426DD2756" import="1">Art/Improvements/CommsArray_build.gr2</File>
+    <File md5="9B51924E50742D7EC9B579AF5900501F" import="1">Art/Improvements/CommsArray_PL.fxsxml</File>
+    <File md5="1CB0D3958137C005C18D14078B3011FA" import="1">Art/Improvements/crops.dds</File>
+    <File md5="1094BA65F728AE190F510F767D7DB9B1" import="1">Art/Improvements/crops_irr.dds</File>
+    <File md5="69C22E94F3641E7CD1C5968D0942DD5D" import="1">Art/Improvements/cycon_set.dds</File>
+    <File md5="1C2595872C93CEFCB2F4D36FF64BA2B7" import="1">Art/Improvements/desal.dds</File>
+    <File md5="8904DB1863577039980B629B6256454B" import="1">Art/Improvements/desal2.dds</File>
+    <File md5="5AA621C8DB2BB3114ACD58CF79F44706" import="1">Art/Improvements/DroneSet.dds</File>
+    <File md5="0187010177E366DF726CF655607743D9" import="1">Art/Improvements/Factory01A1Base.dds</File>
+    <File md5="1915FF31AEFD2A8C7D08BE82DAA319F9" import="1">Art/Improvements/Factory01A2Base.dds</File>
+    <File md5="5B8D0D0B942879AD2637189AE7C7F607" import="1">Art/Improvements/Future2IconAtlas128.dds</File>
+    <File md5="7161A60C5256CB18CC90525333765139" import="1">Art/Improvements/Future2IconAtlas256.dds</File>
+    <File md5="A41548B9F6B7F4EEB42410D5E13BE932" import="1">Art/Improvements/Future2IconAtlas32.dds</File>
+    <File md5="6168B717AB3828366385ADEF68D3150B" import="1">Art/Improvements/Future2IconAtlas45.dds</File>
+    <File md5="B1EFD44BC63DB1478D50377751585680" import="1">Art/Improvements/Future2IconAtlas64.dds</File>
+    <File md5="D356EA3555DBE35E4B98D17B85A26E02" import="1">Art/Improvements/Future2IconAtlas80.dds</File>
+    <File md5="A6D8995A2AE0ECD2CF57DFFA6600F7BD" import="1">Art/Improvements/fx_triggers_beacon.ftsxml</File>
+    <File md5="58181E52CD4779F24A21BB4E97BFFB50" import="1">Art/Improvements/Generator.dds</File>
+    <File md5="1BB25E9087ED1DFBB710EE52FC63E6E0" import="1">Art/Improvements/Generator.fxsxml</File>
+    <File md5="692A1BD8815D7E8B217D36EBF69C5CFF" import="1">Art/Improvements/Generator.gr2</File>
+    <File md5="4EE9A7489A738F76DF15F6E26F370598" import="1">Art/Improvements/Generator_build.fxsxml</File>
+    <File md5="4DD50846AE79C2543ED36F30F802202C" import="1">Art/Improvements/Generator_build.gr2</File>
+    <File md5="3A9565DEF8B329BEB300585E54E06C96" import="1">Art/Improvements/Generator_PL.fxsxml</File>
+    <File md5="07263BAB7C0F8CFF8864098DA33E3239" import="1">Art/Improvements/GreyGoo.fxsxml</File>
+    <File md5="7AEAAE94149A93DCDBCFEBD1A348A3C5" import="1">Art/Improvements/GreyGoo.gr2</File>
+    <File md5="194EB33C6528F8BC6AC25AEF760E2C35" import="1">Art/Improvements/GreyGooFontIcons.dds</File>
+    <File md5="539A81C24160FF692A6BF51B5D8A6B89" import="1">Art/Improvements/GreyGoo_decal_h.dds</File>
+    <File md5="9A7259B84B952AC9F007AF0DFB33A8E9" import="1">Art/Improvements/GreyGoo_diff.dds</File>
+    <File md5="7E5A186FE617546CA7AD7A4CFFB3763F" import="1">Art/Improvements/GreyGoo_sref.dds</File>
+    <File md5="A550FCE3FF686A03F76F5D82DDE01962" import="1">Art/Improvements/HERC.fxsxml</File>
+    <File md5="EF5C12718FAD214FFD36C8691BD21E78" import="1">Art/Improvements/HERC.gr2</File>
+    <File md5="CAAEF5520FD6B95E71131D416D1371AA" import="1">Art/Improvements/HERC_build.fxsxml</File>
+    <File md5="CF64F6ACEAE606E77021A4BC3F7644A2" import="1">Art/Improvements/HERC_build.gr2</File>
+    <File md5="2ECDB647207E2EA7006BA46BC9A390E8" import="1">Art/Improvements/HERC_PL.fxsxml</File>
+    <File md5="991B97FB191EBD6417E93A24F8EE8750" import="1">Art/Improvements/house.dds</File>
+    <File md5="A3DB3BF63BA8A9CCF0A473CBAACC4670" import="1">Art/Improvements/house_alpha.dds</File>
+    <File md5="16F5049E6CD95E1CE37E6EF20B613893" import="1">Art/Improvements/IndustrialSite.fxsxml</File>
+    <File md5="82AEDD70D5D1D14A76E42BB1FBB8A55E" import="1">Art/Improvements/IndustrialSite.gr2</File>
+    <File md5="E6592503FF19E26BD9F3C3CA108B40A7" import="1">Art/Improvements/IndustrialSite_build.fxsxml</File>
+    <File md5="B272F0394E0E0B9EC99F635893994344" import="1">Art/Improvements/IndustrialSite_build.gr2</File>
+    <File md5="168D68644EDD5CC5C9D626CBFE914643" import="1">Art/Improvements/IndustrialSite_PL.fxsxml</File>
+    <File md5="270FE86B04363A2B122789F0078E68E9" import="1">Art/Improvements/institute_01.dds</File>
+    <File md5="992FE80ED7435C034E3C530FFA4F5A88" import="1">Art/Improvements/institute_02.dds</File>
+    <File md5="EB66171FD01CCE16556169E68120894B" import="1">Art/Improvements/market1.dds</File>
+    <File md5="78712C20394006DB60559C83769A0004" import="1">Art/Improvements/market2.dds</File>
+    <File md5="5185AF2404A9EAD42ACF766F0301563D" import="1">Art/Improvements/market3.dds</File>
+    <File md5="78D6552560564EDE4093D8B3B55884E5" import="1">Art/Improvements/mod_farm.dds</File>
+    <File md5="8A8FC096AA7A4640DA17C54AEBDF234E" import="1">Art/Improvements/networknode.dds</File>
+    <File md5="0140877DE1E2FE29477F427C4B361F35" import="1">Art/Improvements/NetworkNode.fxsxml</File>
+    <File md5="53B3E1C59D553E1486BAFB53E9EF4F1C" import="1">Art/Improvements/NetworkNode.gr2</File>
+    <File md5="5B3EE05B60ACFA0B445C5724877DCD41" import="1">Art/Improvements/NetworkNode_build.fxsxml</File>
+    <File md5="27EA07468AE1628511334451BFC84C92" import="1">Art/Improvements/NetworkNode_build.gr2</File>
+    <File md5="13F5CC989528F54A46223C53E8B21CCE" import="1">Art/Improvements/NetworkNode_PL.fxsxml</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">Art/Improvements/no_gloss.dds</File>
+    <File md5="9137322BFD0CF5CB22176F101EDDCDA2" import="1">Art/Improvements/OilRefineryBase.dds</File>
+    <File md5="E2248C3BE81001A1A52920D24C49E8ED" import="1">Art/Improvements/quarrymodern.dds</File>
+    <File md5="201B8F860475BA1DEF04AA5CD85CA630" import="1">Art/Improvements/ReactorCore.dds</File>
+    <File md5="76B580FA613AE74F294B51202041B838" import="1">Art/Units/Arsenal Ship/ArsenalShip.dds</File>
+    <File md5="228BAB18A59E128DBA2AAE8E2D68CBE7" import="1">Art/Units/Arsenal Ship/ArsenalShip.fxsxml</File>
+    <File md5="330E2A2DB541835796AFD0574D0EFC0E" import="1">Art/Units/Arsenal Ship/ArsenalShip.gr2</File>
+    <File md5="597F62254C2B1A37FC33F20F2BBDD7FB" import="1">Art/Units/Arsenal Ship/ArsenalShip_gloss.dds</File>
+    <File md5="B171715A4B72399416D8E18EF4B13A8C" import="1">Art/Units/Arsenal Ship/fx_triggers_arsenalship.ftsxml</File>
+    <File md5="0D77B6452847E3C7A1E7277D6BF95ED6" import="1">Art/Units/Biodrone/Biodrone.fxsxml</File>
+    <File md5="8F80589A2DD14458C15713F954150070" import="1">Art/Units/Biodrone/Biodrone.gr2</File>
+    <File md5="F4FF0CE8E27ADDFCF15BC3ACD7FAF936" import="1">Art/Units/Biodrone/biodrone_body.dds</File>
+    <File md5="5AF9B71CB1C71561EDC3E451E709ABD3" import="1">Art/Units/Biodrone/biodrone_body_gloss.dds</File>
+    <File md5="B4220DC75F2161043BF5CBD2715A34AC" import="1">Art/Units/BioInfantry/BioInfantry.fxsxml</File>
+    <File md5="0D60B10EC706A90613B7B4E8FC1D944B" import="1">Art/Units/BioInfantry/BioInfantry.gr2</File>
+    <File md5="E99AB3A8BC73F21229B9E0C11B315AB9" import="1">Art/Units/BioInfantry/BioInfantryGreenBlue.dds</File>
+    <File md5="A33BE81EB2ADEB73993BC72D235DC470" import="1">Art/Units/BioInfantry/BioInfantryGun2.dds</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">Art/Units/BioInfantry/no_gloss.dds</File>
+    <File md5="206AA51B93E81D3FEC5F7720F6B90222" import="1">Art/Units/BioInfantry/oraganicarmoredinfantry.dds</File>
+    <File md5="C21D056D42302BC061079311F90CD0D7" import="1">Art/Units/BioTrooper/BioTrooper.fxsxml</File>
+    <File md5="9E0D4AD857D45129A875D0F5CC59B302" import="1">Art/Units/BioTrooper/BioTrooperFinal.gr2</File>
+    <File md5="5CBCDC4EB6BD24D04D3FA99BF5E2CF74" import="1">Art/Units/BioTrooper/BioTrooper_diff.dds</File>
+    <File md5="6FB411433AF8907DB1932E881A0335A8" import="1">Art/Units/BioTrooper/BioTrooper_sref.dds</File>
+    <File md5="57EAFAF959B645A1E236EE33B5EDFF40" import="1">Art/Units/Chimera/black_4x4.dds</File>
+    <File md5="2056F3232BEE9EA7A46C4BA9F7C8BB61" import="1">Art/Units/Chimera/Scorpion_Black.dds</File>
+    <File md5="7561D4364DF89F2B732C08399099C0FB" import="1">Art/Units/Chimera/Scorpion_Black.fxsxml</File>
+    <File md5="CB1BDAB77AB7DCADF882242A9E20CBDE" import="1">Art/Units/Chimera/Scorpion_Black.gr2</File>
+    <File md5="5C73D42B4F6676D73A36745C41812135" import="1">Art/Units/Chimera/Scorpion_DieA.gr2</File>
+    <File md5="7C707BDBD21EB6F468E52DED34AB3EDA" import="1">Art/Units/Chimera/Scorpion_DieB.gr2</File>
+    <File md5="9506FC1513F0213385AF5D2686A82C92" import="1">Art/Units/Chimera/Scorpion_DieFadeA.gr2</File>
+    <File md5="22B9633F3088B11EB0968C519FCD1D51" import="1">Art/Units/Chimera/Scorpion_DieFadeB.gr2</File>
+    <File md5="6981617C7A72BF367C6EFFB1956F590B" import="1">Art/Units/Chimera/Scorpion_FidgetA.gr2</File>
+    <File md5="ECA47FDD42CF018C2A4E308725A36021" import="1">Art/Units/Chimera/Scorpion_FidgetB.gr2</File>
+    <File md5="C6D1CFEF0AA679AD35BA252DD04E5306" import="1">Art/Units/Chimera/Scorpion_FortifyA.gr2</File>
+    <File md5="069F3D27D78ECFCB5BCCD57EE75BAF52" import="1">Art/Units/Chimera/Scorpion_FortifyB.gr2</File>
+    <File md5="60D2AC1E44EB720517111B6E1D51DE3A" import="1">Art/Units/Chimera/Scorpion_HurtA.gr2</File>
+    <File md5="12762997C2A4C4F2C675E951AF73320D" import="1">Art/Units/Chimera/Scorpion_HurtB.gr2</File>
+    <File md5="5CAC82B55F774D6664107528E94EEE33" import="1">Art/Units/Chimera/Scorpion_Idle.gr2</File>
+    <File md5="D4DD72F67A73F32E5F8C102DAB3787B9" import="1">Art/Units/Chimera/Scorpion_IdleMeleeA.gr2</File>
+    <File md5="154D2725A0B0C8BECF1133BE23A075ED" import="1">Art/Units/Chimera/Scorpion_IdleMeleeB.gr2</File>
+    <File md5="87EB9D8393D9DFA2DF30EFC9A06821BD" import="1">Art/Units/Chimera/Scorpion_MeleeA.gr2</File>
+    <File md5="47799B3918C545D7B067C97CA4134DAB" import="1">Art/Units/Chimera/Scorpion_MeleeB.gr2</File>
+    <File md5="63147A744AE2470F9D8EE83036635DB6" import="1">Art/Units/Chimera/Scorpion_Walk.gr2</File>
+    <File md5="D124A84EFA9B3B3AB8C7D62AB4B7762B" import="1">Art/Units/Power Armor/Brainius.dds</File>
+    <File md5="D23D5B7774DA51BCE967B08E65DFB351" import="1">Art/Units/Power Armor/Cyborg.gr2</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">Art/Units/Power Armor/no_gloss.dds</File>
+    <File md5="5B811AF5596286D7B6DAD0FE8E8FA53B" import="1">Art/Units/Drone/edited_fx_triggers_jetfighter.ftsxml</File>
+    <File md5="A8D818212DEF10FF499B93C51F5EFD0F" import="1">Art/Units/Drone/SV_UAV.dds</File>
+    <File md5="25508B471913335C68040D5530CDA408" import="1">Art/Units/Drone/UAV.dds</File>
+    <File md5="90DF67F1E343BB93D85AFED78C12E1F2" import="1">Art/Units/Drone/UAV.fxsxml</File>
+    <File md5="F4883E68FD3C96A8EBD0C18DCF6DB79E" import="1">Art/Units/Drone/uav.gr2</File>
+    <File md5="FA6D61D0AB7AF957EF09E8CA7DA1D638" import="1">Art/Units/Drone/UAVatlas128.dds</File>
+    <File md5="ADF4D54987AC6EC6B9F4654624326FCD" import="1">Art/Units/Drone/UAVatlas256.dds</File>
+    <File md5="E55DE3DE2A81BF86E8A8E37F5FF314FF" import="1">Art/Units/Drone/UAVatlas32.dds</File>
+    <File md5="7763F0960003B5A0568707C423FE73D8" import="1">Art/Units/Drone/UAVatlas45.dds</File>
+    <File md5="C60F3988BEF7B401DF6FA37A88AA0E4B" import="1">Art/Units/Drone/UAVatlas64.dds</File>
+    <File md5="38224851BE5EE8A2D30F6199C103A3D7" import="1">Art/Units/Drone/UAVatlas80.dds</File>
+    <File md5="E67EC2B0DCD3D94063F3720CBE02018A" import="1">Art/Units/Drone/UAV_SREF.dds</File>
+    <File md5="572068CBF3C6AA2A68CA9E76708EED37" import="1">Art/Units/Hovertank/fx_triggers_hovertank.ftsxml</File>
+    <File md5="DEC4D81392BD03E424F7BFEAC294ECF4" import="1">Art/Units/Hovertank/Hovertank.fxsxml</File>
+    <File md5="82CE9B67CA33136A01EE216FB4CF009F" import="1">Art/Units/Hovertank/Hovertank.gr2</File>
+    <File md5="B9E8908E8CD34FA4488605A3298C6BE8" import="1">Art/Units/Hovertank/hovertank_diff.dds</File>
+    <File md5="61D5F10D72AF168F244B59DDEA3EBB36" import="1">Art/Units/Hovertank/hovertank_sref.dds</File>
+    <File md5="F9B1EC498017CA4E239EC8F45A8E187D" import="1">Art/Units/Mech Artillery/mechartillery.fxsxml</File>
+    <File md5="EC518C20880D8B2348BCCE49AB3A5FED" import="1">Art/Units/Mech Artillery/MechArtillery.gr2</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">Art/Units/Mech Artillery/no_gloss.dds</File>
+    <File md5="E97E1671F9DD7967262CEBBB185DB1E2" import="1">Art/Units/Mech Artillery/TX_Scorpion_Legs_Dif_2.dds</File>
+    <File md5="11F498D79F232464379C4337E5C823FD" import="1">Art/Units/Power Armor/PowerArmor.fxsxml</File>
+    <File md5="A39C02BF9D0D3341B510C83AE1B9F64F" import="1">Art/Units/Power Armor/PowerArmor.gr2</File>
+    <File md5="DABFA22C33DD94F21004A970A85BA490" import="1">Art/Units/Power Armor/powerarmor_body_diffuse-Alpha.dds</File>
+    <File md5="9932D5E9595A9BA7B728ABD3A051CFCA" import="1">Art/Units/Power Armor/powerarmor_body_diffuse.dds</File>
+    <File md5="1F54996B0EC3E9DE0505163830F550F8" import="1">Art/Units/Power Armor/powerarmor_helmet_diffuse-Alpha.dds</File>
+    <File md5="8B4D6C2F5057FB909D1B81A865DFA2F4" import="1">Art/Units/Power Armor/powerarmor_helmet_diffuse.dds</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">Art/Units/Robot Infantry/no_gloss.dds</File>
+    <File md5="7956BAADAC71B64DE19B74EBB193E6DF" import="1">Art/Units/Robot Infantry/RobotInfantry.dds</File>
+    <File md5="60739EFB4C61BF655E96FAF3F63266D2" import="1">Art/Units/Robot Infantry/RobotInfantry.fxsxml</File>
+    <File md5="9E697CF8F3C97FAD238A58CD9F9130E8" import="1">Art/Units/Robot Infantry/RobotInfantry.gr2</File>
+    <File md5="5FBA3D33D774D95D0C834978701F4F6A" import="1">Art/Units/Robot Infantry/RobotInfantryGun1.dds</File>
+    <File md5="7EFD52ED30A44E9DE2449F959BD57AA3" import="1">Art/Wonders/AlBurjCT_Splash.dds</File>
+    <File md5="AC63206D1B159F7A59C308AAD217D0D7" import="1">Art/Wonders/Angelnet_Splash.dds</File>
+    <File md5="D1D9186934B7F0E11069846DBBEC724B" import="1">Art/Wonders/BionicTowerCT_Splash.dds</File>
+    <File md5="D08A63CC114A3F11B3C17FC433B30E5C" import="1">Art/Wonders/BuenosAiresForumCT_Splash.dds</File>
+    <File md5="0DC4E953EA45030F9C5147411D438071" import="1">Art/Wonders/China_icon128.dds</File>
+    <File md5="363F1AC7A407CDEC10BF366265A47883" import="1">Art/Wonders/China_icon256.dds</File>
+    <File md5="198921179CAA29DBB3CADACD04F24DB1" import="1">Art/Wonders/China_icon45.dds</File>
+    <File md5="58B543310541B186CA02C110B793A73B" import="1">Art/Wonders/China_icon64.dds</File>
+    <File md5="E99FB3CE0F655674572B7556A12BAA6E" import="1">Art/Wonders/China_icon80.dds</File>
+    <File md5="13320A30151FAD82C6750C50116F1141" import="1">Art/Wonders/CitadelStation_Splash.dds</File>
+    <File md5="EBC8BFE1AD222CF4C1EFFA4D84D1D8D3" import="1">Art/Wonders/DigitalEmancipation_Splash.dds</File>
+    <File md5="BE9979FE5B9043DFF999F873139B2345" import="1">Art/Wonders/EnrichmentCentre_Splash.dds</File>
+    <File md5="672508870079967D17B815DB92208910" import="1">Art/Wonders/FloatingIslandsCT_Splash.dds</File>
+    <File md5="5EABF31CC84EAB10FD2E48F12D9E5E2C" import="1">Art/Wonders/GeneVault_Splash.dds</File>
+    <File md5="6DD0E8F14625597C092E69C2C34DD47A" import="1">Art/Wonders/GENOME_SPLASH.DDS</File>
+    <File md5="9E90E841CD4144298CA3DD900E61B751" import="1">Art/Wonders/KingdomTowerCT_Splash.dds</File>
+    <File md5="44C62D258F46A295BE442898131326DE" import="1">Art/Wonders/LivingCity_Splash.dds</File>
+    <File md5="F1642C649A949250018E95F8DE756721" import="1">Art/Wonders/MiapolisCT_Splash.dds</File>
+    <File md5="D99EBF1324584810B419122A62519939" import="1">Art/Wonders/NephilimGeneTemplate_Splash.dds</File>
+    <File md5="56456E8B39E7417885895271E01127F0" import="1">Art/Wonders/OrbitalRefinery_Splash.dds</File>
+    <File md5="8F4C2E591D6AB586989BC1787D9EF2B8" import="1">Art/Wonders/PholusMutagen_Splash.dds</File>
+    <File md5="DD1B4C0ADCBC950A71F06D6202187A9A" import="1">Art/Wonders/Shanghai_WFC_splash.dds</File>
+    <File md5="A12418D4B512243172118859ED664791" import="1">Art/Wonders/ShimizuMCPCT_Splash.dds</File>
+    <File md5="193DB537E5C9B32CB81AE0E1E1273273" import="1">Art/Wonders/SkyCityCT_Splash.dds</File>
+    <File md5="961FED258E7CAE7FB0FCC7D0713FEE6F" import="1">Art/Wonders/Skynet_Splash.dds</File>
+    <File md5="58E4487CFDD6D59B810325678BFA1C15" import="1">Art/Wonders/Skytree_128.dds</File>
+    <File md5="8291677B9ADA14B87B15D5CB94CAE468" import="1">Art/Wonders/Skytree_256.dds</File>
+    <File md5="2F2DBC6903BE7CA7C400F21FE4C212D0" import="1">Art/Wonders/Skytree_45.dds</File>
+    <File md5="9745FCBE676C5B00176038F13156B134" import="1">Art/Wonders/Skytree_64.dds</File>
+    <File md5="354BDCDD46456EAB5AA89CC388BC110F" import="1">Art/Wonders/Skytree_80.dds</File>
+    <File md5="F95D4FD77EBF8CD4C8E74B1F1D0F8730" import="1">Art/Wonders/SkyTree_Splash.dds</File>
+    <File md5="E400650E8AAA6A3F143259792E2CBD35" import="1">Art/Wonders/SkyTree_splash_a.dds</File>
+    <File md5="ACC908C711B5DD2CC7B4D142217554CA" import="1">Art/Wonders/UltimaTowerCT_Splash.dds</File>
+    <File md5="9A0F0B4D893F04F860B16B24B564B744" import="1">Art/Mutant/black_4x4.dds</File>
+    <File md5="100D6177CFB502C010A96BB89140B48F" import="1">Art/Mutant/zombie.fxsxml</File>
+    <File md5="77E4C723A336360A190A34657D146C70" import="1">Art/Mutant/zombie.gr2</File>
+    <File md5="9E3D0F655EDA3C1F60F314DB35515986" import="1">Art/Mutant/ZombieA Kopie.dds</File>
+    <File md5="3242EC43DBB1E8AC8F54D47A5D8C67C7" import="1">Art/Units/Cybersub/Cybersub.fxsxml</File>
+    <File md5="831A700DD17B74706024049C9BB8EBB1" import="1">Art/Units/Cybersub/Cybersub.gr2</File>
+    <File md5="871AA56580270CEB8FD40C2D8C3F8666" import="1">Art/Units/Cybersub/Manta.dds</File>
+    <File md5="875147ACD5D027C4B9A40EE856450710" import="1">Art/Units/Cybersub/Manta_gloss.dds</File>
+    <File md5="04903B9755E67DF991DF36CFB62AE6C5" import="1">Art/Units/Drone Fighter/DroneFighter.dds</File>
+    <File md5="E37161737732277076AC358B58B92749" import="1">Art/Units/Drone Fighter/DroneFighter.fxsxml</File>
+    <File md5="BC7F1138E08EE7A6ADA6A9A75C867048" import="1">Art/Units/Drone Fighter/DroneFighter.gr2</File>
+    <File md5="15072DC9CF12065AA87F29EFFFED0F31" import="1">Art/Units/Drone Fighter/DroneFighter_gloss.dds</File>
+    <File md5="79DA93D7CE0ADE6855BDC07E102658F9" import="1">Art/Units/Neodestroyer/fx_triggers_neodestroyer.ftsxml</File>
+    <File md5="E478B6644FB7AB523964440E65B1831F" import="1">Art/Units/Neodestroyer/neodestroyer.fxsxml</File>
+    <File md5="6076E2A768C8F04991D17C1521DF355D" import="1">Art/Units/Neodestroyer/Neodestroyer.gr2</File>
+    <File md5="06274CF1ACBF2194166F46747F03971F" import="1">Art/Units/Neodestroyer/sensordestroyer.dds</File>
+    <File md5="FC0407C09AD55C6821EE9EF6FD80BBA5" import="1">Art/Units/Neodestroyer/sensordestroyer_gloss.dds</File>
+    <File md5="CB01858856A0DB4CDF09B64F6B6070D6" import="1">Art/Units/Railgun Tank/fx_triggers_railguntank.ftsxml</File>
+    <File md5="4C702DCA9B798E22611AE311A48E0F34" import="1">Art/Units/Railgun Tank/myrmidontank.dds</File>
+    <File md5="460164C2BB756A88FE720B51A0357AB1" import="1">Art/Units/Railgun Tank/myrmidontank_gloss.dds</File>
+    <File md5="BFE4E76DF7996ADA585948B4F006E2A2" import="1">Art/Units/Railgun Tank/railguntank.fxsxml</File>
+    <File md5="CB055BAE8E14DD0891C2EDE3FC54A3CA" import="1">Art/Units/Railgun Tank/RailgunTank.gr2</File>
+    <File md5="0924202B7367ABC39FD6030BA43BF5BC" import="1">Art/Units/Vertol/Crysis_VTOL.dds</File>
+    <File md5="CD379C7F842D47615A641F89DA9611B7" import="1">Art/Units/Vertol/Crysis_VTOL_GLOSS.dds</File>
+    <File md5="572068CBF3C6AA2A68CA9E76708EED37" import="1">Art/Units/Vertol/fx_triggers_vertol.ftsxml</File>
+    <File md5="608DD5FC6EBAF77412D4C7ADF95AED34" import="1">Art/Units/Vertol/Vertol.fxsxml</File>
+    <File md5="C3F6B0D6F7F46D47B2817190865F0308" import="1">Art/Units/Vertol/vertol.gr2</File>
+    <File md5="B9533C4DAA1B12508F5B8BDEB590B558" import="1">Art/Wonders/VirtualIdol_Splash.dds</File>
+    <File md5="41410A86929FFDA72CDF5491A2FF3E62" import="0">Lua/FutureLua.lua</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Lua/MischaIteratingPlotsFunctions.lua</File>
+    <File md5="4D7990794C9B8D91D5AD3F4B7F1ACB90" import="0">XML/Buildings.xml</File>
+    <File md5="E462DB3C2FD238113EB8A49E38EB4F97" import="0">XML/BuildingUpdates.xml</File>
+    <File md5="159FC9F61E6401390E60674CA20DB245" import="0">XML/FutureEras.xml</File>
+    <File md5="3084C456287AD754549A1E08C9FBF61F" import="0">XML/FutureImprovements.xml</File>
+    <File md5="AA951E20647159A7EB0EB39C46773429" import="0">XML/FutureText.xml</File>
+    <File md5="C433338148346665CE6A3B36C717FB06" import="0">XML/FuturePolicies.xml</File>
+    <File md5="2C62B79D54B8773E1654E15944D27363" import="0">XML/TechTreeAdjustment.sql</File>
+    <File md5="EB7663A502FD173485DA4E11A2DAFA0C" import="0">XML/Wonders.xml</File>
+    <File md5="19B50141D1B5B472FF954A9E501F8335" import="0">XML/IconAtlases.xml</File>
+    <File md5="0CA289E56CD6AD84068D3E4946FC0EFF" import="0">XML/FutureTechnologies.xml</File>
+    <File md5="CFE8861B2357DCEA5E239675D7B6E6F8" import="1">XML/Resources/FutureFontIcons.dds</File>
+    <File md5="B8E04F6D15B7AA0F5DCDCE7B838020DE" import="1">XML/Resources/FutureFontIcons.ggxml</File>
+    <File md5="167225A8AC8E7A9DF5259AA692C4470E" import="0">XML/Resources/FutureResources.xml</File>
+    <File md5="2F8BFF6F4A099AB9B1BF1F4A2740016F" import="0">XML/Resources/ResourceIcons.xml</File>
+    <File md5="8843A6EEBCAF4FCA45F8BE83F843E9D3" import="0">XML/TechTreeUpdates.xml</File>
+    <File md5="4A337623912B91A965688ADA472EB82C" import="0">XML/Units/ArtDefines.xml</File>
+    <File md5="4262A8537BF08F8BA057A9A7DFFECB96" import="0">XML/Units/FutureSoldier.xml</File>
+    <File md5="E4AB639E6F3AA543FB063EC282430763" import="0">XML/Units/FutureUnitIconAtlases.xml</File>
+    <File md5="8E040A3756A6A71583690E071E70408D" import="0">XML/Units/Mutant.xml</File>
+    <File md5="19D0C4678947931BDCD8196FF2229B4B" import="0">XML/Units/MutantArtDefines.sql</File>
+    <File md5="B2A0AED8C46D1E40F5B7B743CCF98D99" import="0">XML/Units/Units.xml</File>
+    <File md5="403046E398F62C4B74A03144F653A436" import="0">XML/UnitUpdates.xml</File>
+    <File md5="8A4604CB905AF0C6E56DBC91B6D8190C" import="0">XML/WondersCivilizations.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/FutureTechnologies.xml</UpdateDatabase>
+      <UpdateDatabase>XML/FutureText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/IconAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/TechTreeUpdates.xml</UpdateDatabase>
+      <UpdateDatabase>XML/UnitUpdates.xml</UpdateDatabase>
+      <UpdateDatabase>XML/BuildingUpdates.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Resources/FutureResources.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Resources/ResourceIcons.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/FutureSoldier.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/FutureUnitIconAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/FutureImprovements.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Mutant.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/MutantArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Units/ArtDefines.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Units.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Wonders.xml</UpdateDatabase>
+      <UpdateDatabase>XML/WondersCivilizations.xml</UpdateDatabase>
+      <UpdateDatabase>XML/FutureEras.xml</UpdateDatabase>
+      <UpdateDatabase>XML/FuturePolicies.xml</UpdateDatabase>
+      <UpdateDatabase>XML/TechTreeAdjustment.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/FutureLua.lua">
+      <Name>Future Lua</Name>
+      <Description>Future Lua</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

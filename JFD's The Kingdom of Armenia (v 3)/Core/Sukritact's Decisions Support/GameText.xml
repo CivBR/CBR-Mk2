@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>	
+		<!--Establish the Armenian Apostolic Church-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ARMENIA_APOSTOLIC_CHURCH">
+			<Text>Establish the Armenian Apostolic Church</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ARMENIA_APOSTOLIC_CHURCH_DESC">
+			<Text>
+				When the apostles of our faith came to Armenia, we were given a vision of a destiny previously unknown. But by the will of God, we were illuminated by their words, and so, in their name, we establish this Church, which shall forever be independent and a pillar of Armenian piety and culture.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Armenia
+				[NEWLINE][ICON_BULLET]{1_ReligionName} must be your {2_ReligionType}
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{3_Faith} [ICON_PEACE] Faith
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The Grand Temple is built in the [ICON_CAPITAL] Capital
+				[NEWLINE][ICON_BULLET]The Grand Temple increases [ICON_CULTURE] Culture output by 10%
+				[NEWLINE][ICON_BULLET]{4_Reward}
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ARMENIA_APOSTOLIC_CHURCH_ENACTED_DESC">
+			<Text>
+				When the apostles of our faith came to Armenia, we were given a vision of a destiny previously unknown. But by the will of God, we were illuminated by their words, and so, in their name, we establish this Church, which shall forever be independent and a pillar of Armenian piety and culture.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The Grand Temple is built in the [ICON_CAPITAL] Capital
+				[NEWLINE][ICON_BULLET]{1_Reward}
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ARMENIA_APOSTOLIC_CHURCH_REWARD">
+			<Text>The Grand Temple increases [ICON_CULTURE] Culture output by 10%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ARMENIA_APOSTOLIC_CHURCH_PIETY_REWARD">
+			<Text>[ICON_JFD_PIETY] Piety threshold is increased by 10</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_ARMENIA_APOSTOLIC_CHURCH">
+			<Text>The Armenian Apostolic Church has been established by Tiridates III.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PIETY_RESTING_RATE_ARMENIA_APOSTOLIC_CHURCH">
+			<Text>[COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] to your resting rate from the Armenian Apostolic Church.</Text>
+		</Row>
+		<!--Approve the Sparapet-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ARMENIA_SPARAPET">
+			<Text>Approve the Sparapet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ARMENIA_SPARAPET_DESC">
+			<Text>
+				The hereditary Sparapet of the noble and proud Mamikonian dynasty, as commander in chief of the greatest army in the land, is a servant to the Armenian state. As such, our approval of the newest Mamikonian to bear this title is paramount in maintaining their fealty to us; their sovereign.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Armenia
+				[NEWLINE][ICON_BULLET]Must have a Mamikonian General in the [ICON_CAPITAL] Capital
+				[NEWLINE][ICON_BULLET]May only be enacted once per era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The Mamikonian General gains +2 [ICON_MOVES] Movement
+				[NEWLINE][ICON_BULLET]Gain two free [ICON_RES_HORSE] Horses
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ARMENIA_SPARAPET_ENACTED_DESC">
+			<Text>
+				The hereditary Sparapet of the noble and proud Mamikonian dynasty, as commander in chief of the greatest army in the land, is a servant to the Armenian state. As such, our approval of the newest Mamikonian to bear this title is paramount in maintaining their fealty to us; their sovereign.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The Mamikonian General gains +2 [ICON_MOVES] Movement
+				[NEWLINE][ICON_BULLET]Gain two free [ICON_RES_HORSE] Horses
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_ARMENIA_SPARAPET">
+			<Text>Sparapet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_ARMENIA_SPARAPET_HELP">
+			<Text>+2 [ICON_MOVES] Moves</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_ARMENIA_SPARAPET">
+			<Text>A new Sparapet has been approved in Armenia.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

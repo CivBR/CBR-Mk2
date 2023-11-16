@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Pouakai-->
+<GameData>
+	<Leaders>
+		<Row>
+			<Type>LEADER_MC_LEONIDAS</Type>
+			<Description>TXT_KEY_LEADER_MC_LEONIDAS_DESC</Description>
+			<Civilopedia>TXT_KEY_LEADER_MC_LEONIDAS_PEDIA</Civilopedia>
+			<CivilopediaTag>TXT_KEY_LEADER_MC_LEONIDAS</CivilopediaTag>
+			<ArtDefineTag>MC_Sparta_Leaderhead.xml</ArtDefineTag>
+			<VictoryCompetitiveness>7</VictoryCompetitiveness>
+			<WonderCompetitiveness>6</WonderCompetitiveness>
+			<MinorCivCompetitiveness>6</MinorCivCompetitiveness>
+			<Boldness>8</Boldness>
+			<DiploBalance>8</DiploBalance>
+			<WarmongerHate>3</WarmongerHate>
+			<DenounceWillingness>8</DenounceWillingness>
+			<DoFWillingness>3</DoFWillingness>
+			<Loyalty>8</Loyalty>
+			<Neediness>4</Neediness>
+			<Forgiveness>3</Forgiveness>
+			<Chattiness>5</Chattiness>
+			<Meanness>7</Meanness>
+			<PortraitIndex>5</PortraitIndex>
+			<IconAtlas>MC_GREECE_ATLAS</IconAtlas>
+		</Row>
+	</Leaders>
+	<Leader_Traits>
+		<Row>
+			<LeaderType>LEADER_MC_LEONIDAS</LeaderType>
+			<TraitType>TRAIT_MC_WALLS_OF_SPARTA</TraitType>
+		</Row>
+	</Leader_Traits>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_MC_LEONIDAS">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_MC_LEONIDAS_FIRST_GREETING_%</Response>
+		</Row>
+		<Row LeaderType="LEADER_MC_LEONIDAS">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_MC_LEONIDAS_DEFEATED_%</Response>
+		</Row>
+	</Diplomacy_Responses>
+</GameData>

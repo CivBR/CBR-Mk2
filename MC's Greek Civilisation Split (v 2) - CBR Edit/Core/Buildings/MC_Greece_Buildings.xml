@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Pouakai-->
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_MC_SPARTAN_SYSSITIA_HALL</Type>
+			<BuildingClass>BUILDINGCLASS_WALLS</BuildingClass>
+			<FreeStartEra>ERA_INDUSTRIAL</FreeStartEra>
+			<Cost>75</Cost>
+			<PrereqTech>TECH_MASONRY</PrereqTech>
+			<Help>TXT_KEY_BUILDING_MC_SPARTAN_SYSSITIA_HALL_HELP</Help>
+			<Description>TXT_KEY_BUILDING_MC_SPARTAN_SYSSITIA_HALL</Description>
+			<Civilopedia>TXT_KEY_BUILDING_MC_SPARTAN_SYSSITIA_HALL_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_MC_SPARTAN_SYSSITIA_HALL_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_BARRACKS</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>MC_GREECE_ATLAS</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>13</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_MC_SPARTAN_SYSSITIA_HALL</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Building_DomainFreeExperiences>
+		<Row>
+			<BuildingType>BUILDING_MC_SPARTAN_SYSSITIA_HALL</BuildingType>
+			<DomainType>DOMAIN_LAND</DomainType>
+			<Experience>15</Experience>
+		</Row>
+	</Building_DomainFreeExperiences>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_MC_SPARTAN_SYSSITIA_HALL</BuildingType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MC_SPARTAN_SYSSITIA_HALL</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+	</Building_Flavors>
+</GameData>

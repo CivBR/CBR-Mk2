@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/13/2015 6:47:38 PM -->
+<GameData>
+	<Units>
+		<Row>
+			<Class>UNITCLASS_RIFLEMAN</Class>
+			<Type>UNIT_CLKIMTRACKER</Type>
+			<PrereqTech>TECH_RIFLING</PrereqTech>
+			<Combat>34</Combat>
+			<Cost>225</Cost>
+			<FaithCost>450</FaithCost>
+			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
+			<Moves>2</Moves>
+			<CombatClass>UNITCOMBAT_GUN</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_ATTACK</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_CLKIMTRACKER</Description>
+			<Civilopedia>TXT_KEY_CIV5_ANTIQUITY_CLKIMTRACKER_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_CLKIMTRACKER_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_CLKIMTRACKER</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<ObsoleteTech>TECH_REPLACEABLE_PARTS</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_GREAT_WAR_INFANTRY</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>30</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<Conscription>5</Conscription>
+			<UnitArtInfo>ART_DEF_UNIT_CLKIMTRACKER</UnitArtInfo>
+			<MoveRate>BIPED</MoveRate>
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+			<UnitFlagAtlas>CLKIMBERLEY_HUNTER_ATLAS</UnitFlagAtlas>
+			<IconAtlas>CIV_COLOR_ATLAS_CLKIMBERLEY</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
+		</Row>
+	</Units>
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_CLKIMTRACKER</UnitType>
+			<UnitAIType>UNITAI_ATTACK</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CLKIMTRACKER</UnitType>
+			<UnitAIType>UNITAI_DEFENSE</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CLKIMTRACKER</UnitType>
+			<UnitAIType>UNITAI_EXPLORE</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+	<Unit_ClassUpgrades>
+		<Row>
+			<UnitType>UNIT_CLKIMTRACKER</UnitType>
+			<UnitClassType>UNITCLASS_GREAT_WAR_INFANTRY</UnitClassType>
+		</Row>
+	</Unit_ClassUpgrades>
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_CLKIMTRACKER</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>26</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CLKIMTRACKER</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+	</Unit_Flavors>
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_CLKIMTRACKER</UnitType>
+			<PromotionType>PROMOTION_CLTRACKER</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_CLTRACKER</Type>
+			<Description>TXT_KEY_PROMOTION_CLTRACKER</Description>
+			<Help>TXT_KEY_PROMOTION_CLTRACKER_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>10</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PEDIA_PROMOTION_CLTRACKER</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_CLTRACKERAURA</Type>
+			<Description>TXT_KEY_PROMOTION_CLTRACKERAURA</Description>
+			<Help>TXT_KEY_PROMOTION_CLTRACKERAURA_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>16</PortraitIndex>
+			<IconAtlas>EXPANSION2_PROMOTION_ATLAS</IconAtlas>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<GreatGeneral>true</GreatGeneral>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PEDIA_PROMOTION_CLTRACKERAURA</PediaEntry>
+		</Row>
+	</UnitPromotions>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PROMOTION_CLTRACKER">
+			<Text>Tracker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CLTRACKER_HELP">
+			<Text>When next to a unit currently being Tracked, this unit will boost the strength of all friendly units within 2 tiles like a Great General. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_CLTRACKER">
+			<Text>Tracker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CLTRACKERAURA">
+			<Text>On The Trail</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CLTRACKERAURA_HELP">
+			<Text>Boosting the strength of nearby friendly units like a Great General.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_CLTRACKERAURA">
+			<Text>On The Trail</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

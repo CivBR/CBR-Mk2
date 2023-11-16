@@ -1,0 +1,582 @@
+<!-->
+Colonialist Legacies' Australia
+Text
+Civitar, Viregel
+</!-->
+
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIVILIZATION_CL_AUSTRALIA">
+			<Text>Commonwealth of Australia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_CL_AUSTRALIA_SHORT">
+			<Text>Australia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_CL_AUSTRALIA_ADJ">
+			<Text>Australian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_CL_AUSTRALIA_PEDIA_TITLE">
+			<Text>Australia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_CL_AUSTRALIA_PEDIA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_CL_AUSTRALIA_PEDIA_TEXT_1">
+			<Text>For most of its history, the land known as "Australia" has been inhabited by various Aboriginal peoples, who were isolated from the rest of the world. Upon the European discovery of this vast landmass in 1606, many countries tried to take portions of it. Eventually, the British took the entire island of Australia, turning it into one of their most prosperous - and largest - colonies. Due to the vast amount of available land, the British Empire sent convicts to the territory, as a way of keeping the British Isles crime-free. Eventually, in 1901, Australia got its first Prime Minister, and eventually independence from Great Britain. As a newly-formed nation, Australia joined the First and Second World Wars, helping to put its place on the world map. Today, Australia is one of the most visited tourist destinations in the world, as well as having strong economic and political links with other countries.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_CL_AUSTRALIA_PEDIA_HEADING_2">
+			<Text>Terrain and Climate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_CL_AUSTRALIA_PEDIA_TEXT_2">
+			<Text>Due to the large desert regions in Central Australia, the majority of the population live on the coast. Australia has several notable geographical features, such as Uluru, a sacred Aboriganal site; the Great Barrier Reef, off the north coast; and the Outback, a large, arid area in the middle of Australia. Due to the extreme heat in Australia's summer months, there are often bushfires which involve shrubs and plantlife being set on fire by the intense warming. These can cause a lot of trouble to Australians, and can be potentially deadly if not controlled properly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_CL_AUSTRALIA_PEDIA_HEADING_3">
+			<Text>Prehistory and the Aboriginals</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_CL_AUSTRALIA_PEDIA_TEXT_3">
+			<Text>Before the 18th century, Australia was mostly inhabited by Aboriginals. They were probably originally from Asia, although they would not be classified as "Asian". About 50,000 years ago, there was a migration of these people to Australia, where they settled and lived in an isolated state for the next 49,700 or so years. The Aboriginals inhabited most of Australia, even some of the arid desert parts in the centre. However, most Aboriginals were located in the northern parts of the continent. Even today, there is still a small amount of these people, making up only 3% of Australia's total population. Most Aboriginals are now in the Northern Territory province of the country.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_CL_AUSTRALIA_PEDIA_HEADING_4">
+			<Text>European Sightings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_CL_AUSTRALIA_PEDIA_TEXT_4">
+			<Text>The first outside sighting of Australia was made by a Dutch navigator called Willem Janszoon. On the 26th of February 1606, Janszoon landed at what is now Cape York, Queensland. He later went on to map 320 km of Australia's coastline, thinking it part of New Guinea. He named the land "Nieu Zeland", but the name didn't catch on. Over the course of that century, Dutch navigators charted the whole island, which they now named "New Holland", but never attempted to colonize. Over the next 200 years several voyages were made, but the most important was probably James Cook's expedition. Cook mapped the unknown South of Australia, which he called New South Wales. This was soon to grow into Britain's settlement on the island.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_CL_AUSTRALIA_PEDIA_HEADING_5">
+			<Text>Establishment of the Colonies</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_CL_AUSTRALIA_PEDIA_TEXT_5">
+			<Text>With the loss of its 13 colonies in America in 1780, the British Empire sent a fleet to start colonizing Australia. On the 26th of January 1788 the British flag was raised at Sydney Cove, proclaiming the land a British settlement. Today, the 26th of January is celebrated as Australia Day. The site for this first colony later became Sydney. Eventually Britain split the island into several different colonial settlements, each with different governments, which today serve as regional divisions in Australia. They were used for different things by the British - most of them had some convict focus, except for South Australia, which was notably a "free colony".</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_CL_AUSTRALIA_PEDIA_HEADING_6">
+			<Text>Convicts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_CL_AUSTRALIA_PEDIA_TEXT_6">
+			<Text>Australia was by this point a thriving British settlement, although it had no central government. The British eventually decided to use this vast land as a convict settlement by sending British prisoners to the mostly uninhabited land. From the start convicts had been used to establish initial colonies, but now there were larger prisons to house convicts in. Most of the time, the crimes they did were harmless - such as steal a loaf of bread - but all the same Britain used it as a convict settlement, perhaps to give people an even better reason not to commit crimes. The largest prison was Port Arthur in Tasmania, which was used for re-offending criminals.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_CL_AUSTRALIA_PEDIA_HEADING_7">
+			<Text>The Gold Rush</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_CL_AUSTRALIA_PEDIA_TEXT_7">
+			<Text>During the 1850s a gold rush began in Australia. It started in New South Wales and Victoria, but quickly spread across the island. The colonies' economies greatly benefited from this as it brought a lot of extra value to both the land and the amount of people in the settlements. While many people got massively rich off this, most of the people taking part in it didn't and instead took advantage of Australia's land laws and started farming.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_CL_AUSTRALIA_PEDIA_HEADING_8">
+			<Text>Federation and Independence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_CL_AUSTRALIA_PEDIA_TEXT_8">
+			<Text>Australia became a unified nation in 1901 and gained its first Prime Minister in the same year. Australia was pretty much an independent state at this point, but in 1931 the Statute of Westminster ended most constitutional ties between Britain and Australia. Although most links between the two nations have now ended they both share a monarch, Queen Elizabeth II. There have been a few attempts to end the monarchy and proclaim Australia a republic, but the majority of Australian voters are opposed to this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_CL_AUSTRALIA_PEDIA_HEADING_9">
+			<Text>The World Wars</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_CL_AUSTRALIA_PEDIA_TEXT_9">
+			<Text>In 1914 Australia entered the First World War on the side of Britain. The Australians initially served on the Western Front and later at Gallipoli, which is marked as an important encounter for the new nation. Throughout the war, Australia supported the war effort which eventually resulted in victory for the Australians, and placed them as a large force on the world stage. Later they also joined the Second World War where they had to deal with threats of Japanese attacks, but successfully defended the nation and helped the Allies in the Pacific War.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_CL_AUSTRALIA_PEDIA_HEADING_10">
+			<Text>Postwar Activities</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_CL_AUSTRALIA_PEDIA_TEXT_10">
+			<Text>After the Second World War, Australia encouraged immigration from Europe and saw its population grow considerably. Australia's economy also grew considerably in the post-war years. Australia played a large role in the Cold War, taking action in Korea and Vietnam and doing what they could to stop the spread of communism. Trade links were reopened with nations such as Japan, and Australia was thriving. Better rights were given to the Aboriginals, and links with other nations such as the United Kingdom and the United States were strengthened.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_CL_AUSTRALIA_PEDIA_HEADING_11">
+			<Text>Modern Australia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_CL_AUSTRALIA_PEDIA_TEXT_11">
+			<Text>Today, Australia is one of the most successful countries with the fifth largest land area and the twelfth largest economy in the world. It is notable for its large amount of rights and equalities, and is considered one of the most developed nations in the world. Australia continues to harbor immigrants today, as well as being a popular tourist resort. It is studied as one of the most geographically interesting places in the world, with a mix of Desert, Rainforest, and Mediterranean climates. Overall, it remains one of the greatest nations in the world - a truly diverse nation, in terms of not only the landscape and the climate, but the people themselves.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_CL_AUSTRALIA_PEDIA_FACTOID_TEXT">
+			<Text>To many people in the Northern Hemisphere, Australia is known as "Down Under" due to its location on the southern part of the planet.[NEWLINE][NEWLINE]Australia has hosted the Olympic Games twice and has participated in every modern Olympic Games, being the only nation aside from Greece to have done so.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_CL_AUSTRALIA_DOM">
+			<Text>Greetings, most wise and prudent Henry Parkes, father of the Australian Federation. Australia truly is a unique and ancient land, more so than any other, for its lands abound in nature's gifts and its shores have beckoned, welcomed, and harbored immigrants from afar for over 50,000 years.[NEWLINE][NEWLINE]By the time you arrived in Sydney as an English immigrant in 1839, Australia was divided into thriving British colonies of undeniably vital significance. By 1889, as premier you had led the colony of New South Wales five times to achieve many great things that undoubtedly improved the lives of many. You will always be remembered, however, in the hearts of Australians, for being instrumental in the process of federating the Australian colonies into a single united nation, earning you the humble title of "The father of the Australian Federation". Thanks to your efforts, Australia today remains one of the most wealthy, prosperous, and modern countries in the developed world, and truly a sight to behold.[NEWLINE][NEWLINE]O Henry Parkes, your people call for you in joyful strains once more. Will you make the rest the world hear the thunder of Australia? Will you build a civilization that stands the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_HENRY_PARKES">
+			<Text>Henry Parkes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_HENRY_PARKES_PEDIA_NAME">
+			<Text>Sir Henry Parkes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_HENRY_PARKES_PEDIA_SUBTITLE">
+			<Text>Leader of Australia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_HENRY_PARKES_PEDIA_LIVED">
+			<Text>1815 AD - 1896 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_HENRY_PARKES_PEDIA_TITLES_1">
+			<Text>Premier of New South Wales</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_HENRY_PARKES_PEDIA_TITLES_2">
+			<Text>Father of the Australian Confederation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_HENRY_PARKES_PEDIA_HEADING_1">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_HENRY_PARKES_PEDIA_TEXT_1">
+			<Text>Henry Parkes was born in Canley, England. Parkes received little education and ended up working for a brickyard. He later got an apprenticeship as a Bone and Ivory turner. Parkes joined several political unions to improve the rights of workers. In 1836, he married Clarinda Varndy and moved to London. Sadly two of their children died; unsatisfied with their quality of life, Parkes decided to emigrate to Australia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_HENRY_PARKES_PEDIA_HEADING_2">
+			<Text>Arrival in Australia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_HENRY_PARKES_PEDIA_TEXT_2">
+			<Text>Parkes arrived in Sydney on the 25th of June 1837. Parkes now had a new-born child, but he and his wife only had a few shillings between them. They were forced to sell their belongings as a way of survival. Parkes struggled to find employment, but he eventually came across a job for one of Australia's wealthiest people. After that Parkes went from job to job, until he found employment as a worker in the New South Wales Customs Department.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_HENRY_PARKES_PEDIA_HEADING_3">
+			<Text>Australian Self-Government</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_HENRY_PARKES_PEDIA_TEXT_3">
+			<Text>Although Parkes had traveled halfway around the world to get to this point, he was not altogether satisfied. There were three main problems of the day; land laws, convict transport, and self-government. Henry Parkes publicly voiced his opinion about such issues, as well as many more minor. In December 1850, Parkes founded the "Empire" newspaper. Although Parkes was loyal towards the British Empire he kept the newspaper as honest as possible, not ignoring the faults the empire had. In 1854 Parkes got a minor role in the the New South Wales government, starting his political career quite quietly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_HENRY_PARKES_PEDIA_HEADING_4">
+			<Text>Premiership and the Australian Federation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_HENRY_PARKES_PEDIA_TEXT_4">
+			<Text>In 1873 Parkes became Premier of New South Wales. This job allowed him to carry out the ideas he had talked about, including the pardoning of several prisoners. He went on to become Premier four times more, and achieved much during his time in office. He tackled problems such as immigration, land laws, and - perhaps more importantly - a connection between the colonies. This laid the foundation for the Australian Federation. Aged 77, Parkes retired from politics. Over his many years in power, he had changed the face of Australian politics.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_HENRY_PARKES_PEDIA_HEADING_5">
+			<Text>Judgment of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_HENRY_PARKES_PEDIA_TEXT_5">
+			<Text>Parkes is a notable figure in Australian history as he effectively formed the country out of the various colonies of Britain - this has earned him the title of "Father of the Australian Confederation". He is also notable for the vast amount of reforms he made to the land, most of which are still in place today. Overall, Henry Parkes was a unifying force that managed to create a strong, prosperous nation that plays a large part in world affairs today.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_HENRY_PARKES_PEDIA_HEADING_6">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_HENRY_PARKES_PEDIA_TEXT_6">
+			<Text>Henry Parkes is currently running against Gustavus Adolphus and Ashurbanipal for first place in the "Civilization V Beard of the Year" competition.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CL_BOUNDLESS_PLAINS_TO_SHARE">
+			<Text>
+				Settlers found [ICON_PUPPET] Puppeted cities that generate +1 [ICON_TOURISM] Tourism. +1 [ICON_TOURISM] Tourism for each outgoing Naval Trade Route. Cities that generate +2 [ICON_TOURISM] Tourism or more expand [ICON_CULTURE] Cultural Borders twice as fast.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CL_BOUNDLESS_PLAINS_TO_SHARE_SHORT">
+			<Text>Boundless Plains to Share</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CL_AUSTRALIA_DIGGER">
+			<Text>Digger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CL_AUSTRALIA_DIGGER_HELP">
+			<Text>Modern-era unit that specializes in defending the coastlines and defending outside friendly territory. Only the Australians may build it. This unit may be upgraded from Workers and upgrades to Mechanized Infantry, unlike the Great War Infantry it replaces.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CL_AUSTRALIA_DIGGER_STRATEGY">
+			<Text>The Digger is an Australian unique unit, replacing the Great War Infantry. It receives bonuses in coastal territory and foreign territory, as well as the Cover I promotion. This makes it a highly effective unit for defending your coastal cities against amphibious assault.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CL_AUSTRALIA_DIGGER_PEDIA">
+			<Text>From about the 19th century, "Digger" became a commonly used slang term to refer to Australian soldiers. The phrase was popularized during the First World War, where these Australian soldiers served at vital battles such as Gallipoli and the Somme. The name was originally a term for an Australian miner, but later referenced the fact that they would have to dig trenches to keep safe, embodied in the quote "You have got through the difficult business, now you have only to dig, dig, dig, until you are safe", although there is some debate as to if there is any link between them. Their first major battle was in the Gallipoli campaign, where they landed at what would become known as Anzac Cove, the official name for the Australian troops. Although they lost several battles there and were eventually defeated, the event confirmed Australia's place on the world stage.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CL_AUSTRALIA_PRIME_MINISTER">
+			<Text>Prime Minister</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CL_AUSTRALIA_PRIME_MINISTER_HELP">
+			<Text>This Australian unique Great Person replaces the Great Writer. It provides political quotes as Great Works of Writing and when it is acquired all non-puppeted coastal cities receive +1[ICON_TOURISM]Tourism per owned land tile outside workable limits.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CL_AUSTRALIA_PRIME_MINISTER_STRATEGY">
+			<Text>The Prime Minister is an Australian unique Great Person, replacing the Great Writer. Aside from writing hilarious political quotes as unique Great Works of Writing, when one is acquired all annexed coastal cities generate [ICON_TOURISM]Tourism from remote territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CL_AUSTRALIA_PRIME_MINISTER_PEDIA">
+			<Text>Australia has had a lot of great leaders, most of them being Prime Ministers. As of 2014, there have been a total of 28 Australian Prime Ministers since their establishment in 1901. The first Prime Minister was Sir Edmund Barton, who was elected as the first leader of the new nation. After him, there have been several other notable leaders such as John Curtin, who led Australia through the Second World War; Robert Menzies, for having the longest time in office; and Alfred Denkin, who managed to secure a proposed constitution for Australia. Overall, they have played a massive role in Australia's separation from the United Kingdom, and continue to play a large role today.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CL_MALCOLM_FRASER">
+			<Text>Malcolm Fraser</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CL_BOB_HAWKE">
+			<Text>Bob Hawke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CL_ROBERT_MENZIES">
+			<Text>Robert Menzies</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CL_ALFRED_DEAKIN">
+			<Text>Alfred Deakin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CL_KEVIN_RUDD">
+			<Text>Kevin Rudd</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CL_JOHN_CURTIN">
+			<Text>John Curtin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CL_EDMUND_BARTON">
+			<Text>Edmund Barton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CL_ANDREW_FISHER">
+			<Text>Andrew Fisher</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CL_BEN_CHIFLEY">
+			<Text>Ben Chifley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CL_JOHN_HOWARD">
+			<Text>John Howard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CL_GOUGH_WHITLAM">
+			<Text>Gough Whitlam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CL_JULIA_GILLARD">
+			<Text>Julia Gillard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CL_HAROLD_HOLT">
+			<Text>Harold Holt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CL_PAUL_KEATING">
+			<Text>Paul Keating</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CL_BILLY_HUGHES">
+			<Text>Billy Hughes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CL_STANLEY_BRUCE">
+			<Text>Stanley Bruce</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CL_MALCOLM_TURNBULL">SMH_2012
+			<Text>Malcolm Turnbull</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CL_TONY_ABBOTT">
+			<Text>Tony Abbott</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CL_BROADCAST_OPENING">
+			<Text>Special Broadcasting Service Opening, Oct. 1980</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CL_BROADCAST_OPENING_QUOTE">
+			<Text>"We used to have a view that to really be a good Australian, to love Australia, you almost had to cut your links with the country of origin. But I don’t think that was right and it never was right."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CL_ELDERS">
+			<Text>Elders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CL_ELDERS_QUOTE">
+			<Text>"The essence of power is the knowledge that what you do is going to have an effect - not just an immediate but perhaps a lifelong effect - on the happiness and wellbeing of millions of people."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CL_ON_PROGRESS">
+			<Text>On Progress</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CL_ON_PROGRESS_QUOTE">
+			<Text>"This is a wonderful country. It’s going to be more wonderful still, but it will achieve greater wonders on the hard work and efforts of its people and not by a spirit of dependency."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CL_PARLIAMENTARY_DEBATE">
+			<Text>1909 Commonwealth Parliamentary Debate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CL_PARLIAMENTARY_DEBATE_QUOTE">
+			<Text>"But there is no man in Australia who ought to be more proud of the fusion that I should be, since I laid its foundation in the battle that I fought before the electorate three years ago."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CL_APOLOGY_TO_ABORIGINALS">
+			<Text>Apology to Australia's Aboriginal Peoples</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CL_APOLOGY_TO_ABORIGINALS_QUOTE">
+			<Text>"The time has now come for the nation to turn a new page in Australia's history by righting the wrongs of the past and so moving forward with confidence to the future."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CL_SPEECH_TO_THE_HOUSE">
+			<Text>Speech to the House, 24 June 1941</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CL_SPEECH_TO_THE_HOUSE_QUOTE">
+			<Text>"The Labour party believes in the right of peoples to govern themselves, and to enjoy a way of life which they themselves decide upon. We concede that right to Russia. We concede that right to Germany, and it is because we are claiming it for ourselves, and Germany denies it to us, that we are at war with Germany."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CL_JANUARY_1_1901">
+			<Text>January 1, 1901</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CL_JANUARY_1_1901_QUOTE">
+			<Text>"For the first time in history there is a nation for a continent, and a continent for a nation."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CL_ON_ENLISTMENT">
+			<Text>On Enlistment</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CL_ON_ENLISTMENT_QUOTE">
+			<Text>"Australians will stand beside our own to help and defend Britain to our last man and our last shilling."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CL_LIGHT_ON_THE_HILL">
+			<Text>The Light on the Hill</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CL_LIGHT_ON_THE_HILL_QUOTE">
+			<Text>"We have a great objective - the light on the hill - which we aim to reach by working for the betterment of mankind not only here but anywhere we may give a helping hand."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CL_ABC_RADIO">
+			<Text>ABC Radio "AM", August 1995</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CL_ABC_RADIO_QUOTE">
+			<Text>"Truth is absolute, truth is supreme, truth is never disposable in national political life."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CL_UPON_BEING_SACKED">
+			<Text>Exclamation Upon Being Sacked</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CL_UPON_BEING_SACKED_QUOTE">
+			<Text>"Well may we say: 'God save the Queen!', for nothing will save the Governor General."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CL_ABC_LATELINE">
+			<Text>ABC Lateline, Dec 2006</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CL_ABC_LATELINE_QUOTE">
+			<Text>"At the end of the day government is about teamwork and partnership and we will be proving that by working together."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CL_MINISTRY_OF_LABOR">
+			<Text>The Ministry of Labour and National Service</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CL_MINISTRY_OF_LABOR_QUOTE">
+			<Text>"The marshalling of those resources in order to obtain the maximum war effort for Australia, and a maximum degree of help and cooperation for Great Britain and the sister Dominions, is the primary objective of the new Department."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CL_CONCESSION_SPEECH">
+			<Text>Concession Speech, March 1996</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CL_CONCESSION_SPEECH_QUOTE">
+			<Text>"In the end it's the big picture which changes nations and whatever our opponents may say, Australia's changed inexorably for good, for the better."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CL_UPON_LEAVING_LABOR_PARTY">
+			<Text>On Leaving the Labor Party</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CL_UPON_LEAVING_LABOR_PARTY_QUOTE">
+			<Text>"Enough of this. Let those who think with me follow me."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CL_REFERENDUM">
+			<Text>Referendum: An Appeal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CL_REFERENDUM_QUOTE">
+			<Text>"My government was returned to power on a clear issue and with a definite mission ... to introduce measures for the preservation of industrial peace."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CL_SMH_2012">
+			<Text>Sydney Morning Herald, 2012</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CL_SMH_2012_QUOTE">
+			<Text>"I am an ambitious person, but I am not ambitious in the sense that I want jobs only for the sake of them... I am here to do things I think are worthwhile. I am always careful that the political positions I take are consistent with good policy. I would not want to be prime minister of Australia at any price."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CL_INTERVIEW_WITH_MARK_RILEY">
+			<Text>Interview With Mark Riley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CL_INTERVIEW_WITH_MARK_RILEY_QUOTE">
+			<Text>Abbott: "............................................."[NEWLINE]Reporter: "You're not saying anything, Tony..."[NEWLINE]Abbott: "............................................................"</Text>
+		</Row>
+		<Update>
+			<Set Text="Foreign Lands Bonus (20)"/>
+			<Where Tag="TXT_KEY_PROMOTION_FOREIGN_LANDS"/>
+		</Update>
+		<Row Tag="TXT_KEY_PROMOTION_CL_AUSTRALIA_DIGGER_FOREIGN_BONUS">
+			<Text>Foreign Lands Bonus (15)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CL_AUSTRALIA_DIGGER_FOREIGN_BONUS_HELP">
+			<Text>Combat Bonus outside Friendly Territory (15).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CL_AUSTRALIA_DIGGER_COAST_BONUS_DUMMY">
+			<Text>Coastline Defender</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CL_AUSTRALIA_DIGGER_COAST_BONUS_DUMMY_HELP">
+			<Text>+15% [ICON_STRENGTH] Combat Strength when fighting in [COLOR_POSITIVE_TEXT]COASTAL[ENDCOLOR] Terrain.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CL_AUSTRALIA_PRIME_MINISTER_TOURISM">
+			<Text>Tourism On Appearance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CL_AUSTRALIA_PRIME_MINISTER_TOURISM_HELP">
+			<Text>All annexed coastal cities receive +1 [ICON_TOURISM] Tourism per owned remote land tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CL_AUSTRALIA_WORKER_UPGRADE">
+			<Text>May Upgrade to Digger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CL_AUSTRALIA_WORKER_UPGRADE_HELP">
+			<Text>May upgrade to a Digger after researching Replaceable Parts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_AUSTRALIA_SYDNEY">
+			<Text>Sydney</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_AUSTRALIA_MELBOURNE">
+			<Text>Melbourne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_AUSTRALIA_BRISBANE">
+			<Text>Brisbane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_AUSTRALIA_CANBERRA">
+			<Text>Canberra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_AUSTRALIA_PERTH">
+			<Text>Perth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_AUSTRALIA_ADELAIDE">
+			<Text>Adelaide</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_AUSTRALIA_GOLD_COAST">
+			<Text>Gold Coast</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_AUSTRALIA_DARWIN">
+			<Text>Darwin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_AUSTRALIA_HOBART">
+			<Text>Hobart</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_AUSTRALIA_GREATER_NEWCASTLE">
+			<Text>Newcastle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_AUSTRALIA_SUNSHINE_COAST">
+			<Text>Sunshine Coast</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_AUSTRALIA_WOLLONGONG">
+			<Text>Wollongong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_AUSTRALIA_GEELONG">
+			<Text>Geelong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_AUSTRALIA_TOWNSVILLE">
+			<Text>Townsville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_AUSTRALIA_CAIRNS">
+			<Text>Cairns</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_AUSTRALIA_MILDURA">
+			<Text>Mildura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_AUSTRALIA_TOOWOOMBA">
+			<Text>Toowoomba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_AUSTRALIA_BALLARAT">
+			<Text>Ballarat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_AUSTRALIA_BENDIGO">
+			<Text>Bendigo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_AUSTRALIA_LAUNCESTON">
+			<Text>Launceston</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_AUSTRALIA_ALBURY">
+			<Text>Albury</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_AUSTRALIA_MACKAY">
+			<Text>Mackay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_AUSTRALIA_ROCKHAMPTON">
+			<Text>Rockhampton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_AUSTRALIA_BUNDABURG">
+			<Text>Bundaburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_AUSTRALIA_BUNBURY">
+			<Text>Bunbury</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_AUSTRALIA_COFFS_HARBOUR">
+			<Text>Coffs Harbour</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_AUSTRALIA_HERVEY_BAY">
+			<Text>Hervey Bay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_AUSTRALIA_BROKEN_HILL">
+			<Text>Broken Hill</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_AUSTRALIA_SHEPPARTON">
+			<Text>Shepparton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_AUSTRALIA_GLADSTONE">
+			<Text>Gladstone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_AUSTRALIA_PORT_MACQUARIE">
+			<Text>Port Macquarie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_AUSTRALIA_TAMWORTH">
+			<Text>Tamworth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_AUSTRALIA_TRALAGON">
+			<Text>Tralagon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_AUSTRALIA_ORANGE">
+			<Text>Orange</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_AUSTRALIA_GERALDTON">
+			<Text>Geraldton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CL_AUSTRALIA_0">
+			<Text>Russell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CL_AUSTRALIA_1">
+			<Text>Nicole</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CL_AUSTRALIA_2">
+			<Text>Hugo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CL_AUSTRALIA_3">
+			<Text>Cate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CL_AUSTRALIA_4">
+			<Text>Naomi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CL_AUSTRALIA_5">
+			<Text>Geoffrey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CL_AUSTRALIA_6">
+			<Text>Hogan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CL_AUSTRALIA_7">
+			<Text>Hugh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CL_AUSTRALIA_8">
+			<Text>Heath</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CL_AUSTRALIA_9">
+			<Text>Toni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_CL_KINGSTON">
+			<Text>Kingston</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_CL_KINGSTON_ADJ">
+			<Text>Kingston</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_CL_KINGSTON_PEDIA">
+			<Text>Kingston is the capital and largest city of Jamaica, located on the southeastern coast of the island. It faces a natural harbour protected by the Palisadoes, a long sand spit which connects the town of Port Royal and the Norman Manley International Airport to the rest of the island. In the Americas, Kingston is the largest predominantly English-speaking city south of the United States. The city of Kingston is home to a number of urban parks which are frequently transformed to accommodate various events and festivities on the Jamaican calendar. The most popular parks include: Emancipation Park, Hope Gardens, Devon House, National Heroes' Park, St William Grant Park and Mandela Park. The Royal Botanical Gardens at Hope, popularly called Hope Gardens serves as a national attraction. The Hope Gardens is a part of the 2,000 acres of land making it the largest botanical garden in the English-speaking Caribbean. The land situated by the foothills of the Blue Mountains was originally owned by Major Richard Hope from whom it got its name. Two hundred acres of this land was obtained by the Government of Jamaica in 1880 and was originally established as a plant introduction and crop-testing facility for plants such as pineapple, cocoa, coffee and tobacco. The formal Botanical Gardens were laid out on approximately 60 acres of this land with the assistance of personnel from the Kew Gardens in England.[NEWLINE][NEWLINE]Kingston was founded in July 1692 as a place for survivors of the 1692 earthquake that destroyed Port Royal. Before the earthquake, Kingston’s functions were purely agricultural. The town did not begin to grow until after the further destruction of Port Royal by the Nick Catania Pirate Fleet's fire in 1703. Surveyor John Goffe drew up a plan for the town based on a grid bounded by North, East, West and Harbour Streets. By 1716 it had become the largest town and the centre of trade for Jamaica. The government sold land to people with the regulation that they purchase no more than the amount of the land that they owned in Port Royal, and only land on the sea front. Gradually wealthy merchants began to move their residences from above their businesses to the farm lands north on the plains of Liguanea.[NEWLINE][NEWLINE]Kingston, as the capital, is the financial, cultural, economic and industrial centre of Jamaica. Many financial institutions are based in Kingston, and the city boasts the largest number of hospitals, schools, universities and cultural attractions of any urban area on the island. Notable Kingston landmarks include the University of the West Indies, Jamaica Defence Force Museum, and Bob Marley Museum.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_CL_LUXEMBOURG">
+			<Text>Luxembourg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_CL_LUXEMBOURG_ADJ">
+			<Text>Luxembourg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_CL_LUXEMBOURG_PEDIA">
+			<Text>Luxembourg is a landlocked country in Western Europe. It is bordered by Belgium to the west and north, Germany to the east, and France to the south. It comprises two principal regions: the Oesling in the north as part of the Ardennes massif, and the Gutland ("good country") in the south. Luxembourg had a population of 524,853 in October 2012 and has an area of 2,586 square kilometres, making it one of the smallest sovereign nations in Europe.As a representative democracy with a constitutional monarch, it is headed by a grand duke and is the world's only remaining grand duchy. Its central location has historically made it of great strategic importance to numerous powers, dating back to its founding as a Roman fortress, its hosting of a vital Frankish castle during the Early Middle Ages, and its role as a bastion for the Spanish Road between 16th and 17th centuries.[NEWLINE][NEWLINE]The recorded history of Luxembourg begins with the acquisition of Lucilinburhuc (today Luxembourg Castle) situated on the Bock rock by Siegfried, Count of Ardennes, in 963 through an exchange act with St. Maximin's Abbey, Trier. Around this fort, a town gradually developed, which became the centre of a state of great strategic value. In the 14th and early 15th centuries, three members of the House of Luxembourg reigned as Holy Roman Emperors. In 1437, the House of Luxembourg suffered a succession crisis, precipitated by the lack of a male heir to assume the throne, which led to the territories being sold by Duchess Elisabeth to Philip the Good of Burgundy.[NEWLINE][NEWLINE]Luxembourg has been overshadowed by the culture of its neighbours. It retains a number of folk traditions, having been for much of its history a profoundly rural country. There are several notable museums, located mostly in the capital. These include the National Museum of History and Art, the Luxembourg City History Museum, and the new Grand Duke Jean Museum of Modern Art. The National Museum of Military History in Diekirch is especially known for its representations of the Battle of the Bulge. The city of Luxembourg itself is on the UNESCO World Heritage List, on account of the historical importance of its fortifications.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_HENRY_PARKES_FIRST_GREETING_1">
+			<Text>The great people of Australia welcome you, as do I. My name is Sir Henry Parkes, and it is a pleasure to meet you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_HENRY_PARKES_FIRST_GREETING_2">
+			<Text>It is a pleasure to make your acquaintance. I am Henry Parkes of Australia. Don't just stand there! Please, make yourself at home.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_HENRY_PARKES_FIRST_GREETING_3">
+			<Text>Welcome to Australia, my friend! My name is Henry Parkes, would you like to hear some of my poetry? No? Perhaps another time, then.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_HENRY_PARKES_POLITE_HELLO_1">
+			<Text>Good to see you, my friend! Make yourself at home.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_HENRY_PARKES_POLITE_HELLO_2">
+			<Text>G'day!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_HENRY_PARKES_POLITE_HELLO_3">
+			<Text>What can I do for my friend on this fine day?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_HENRY_PARKES_NEUTRAL_HELLO_1">
+			<Text>What can I do for you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_HENRY_PARKES_NEUTRAL_HELLO_2">
+			<Text>What can I do you for?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_HENRY_PARKES_NEUTRAL_HELLO_3">
+			<Text>Hello there!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_HENRY_PARKES_HOSTILE_HELLO_1">
+			<Text>Well, look what the cat dragged in. Let's get this over with.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_HENRY_PARKES_HOSTILE_HELLO_2">
+			<Text>Tell me, what is it like being the world's only living brain donor?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_HENRY_PARKES_HOSTILE_HELLO_3">
+			<Text>I do hope you aren't immigrating - I couldn't stand knowing the likes of you were on the same continent as me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_HENRY_PARKES_DEFEATED_1">
+			<Text>I shall die happily, knowing that Australia was once a proud and mighty nation far exceeding the ideals of your unequivocally barbaric ways.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_HENRY_PARKES_DEFEATED_2">
+			<Text>Nothing, not now and not ever, will break the Australian spirit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_HENRY_PARKES_DEFEATED_3">
+			<Text>And so a legacy comes to an end. Yet know this: Australia will always shine, though your men may plunder her.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_HENRY_PARKES_REQUEST">
+			<Text>We could more than certainly use a helping hand, my friend. We'll repay you in time - Australia assures you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_HENRY_PARKES_LUXURY_TRADE">
+			<Text>My friend, I hope we may tempt you with this offer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_HENRY_PARKES_OPEN_BORDERS">
+			<Text>Here in Australia we truly have boundless plains to share. Thus we propose an Open Borders treaty, which would allow our two great peoples to share in each other's glory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_HENRY_PARKES_HOSTILE_AGGRESSIVE_MILITARY_WARNING">
+			<Text>I suppose it just slipped your mind that a large contingent of your troops are stationed near our borders? Never fear, Australia will not hesitate to remove them for you if you yourself do not.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_HENRY_PARKES_EXPANSION_SERIOUS_WARNING">
+			<Text>We know we are called the "Lucky Country", but that doesn't mean you should settle so near us. Please ensure it doesn't happen again.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

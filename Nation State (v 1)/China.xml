@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_MINOR_CIV_CHINA">
+			<Text>China</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_CHINA_ADJ">
+			<Text>Chinese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_CHINA_1">
+			<Text>Xianggang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_CHINA_2">
+			<Text>Aomen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_CHINA_3">
+			<Text>Taibei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_CHINA_4">
+			<Text>Lasa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_CHINA_5">
+			<Text>Tainan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_CHINA_6">
+			<Text>Gaoxiong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_CHINA_7">
+			<Text>Rikaze</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_CHINA_8">
+			<Text>Taizhong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_CHINA_9">
+			<Text>Jiangzi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_CHINA_10">
+			<Text>Xinzhu</Text>
+		</Row>
+	</Language_en_US>
+	<MinorCivilizations>
+		<Row>
+			<Type>MINOR_CIV_CHINA</Type>
+			<Description>TXT_KEY_MINOR_CIV_CHINA</Description>
+			<ShortDescription>TXT_KEY_MINOR_CIV_CHINA</ShortDescription>
+			<Adjective>TXT_KEY_MINOR_CIV_CHINA_ADJ</Adjective>
+			<Civilopedia>No info</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_MINOR_CIV_CHINA</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_ASIAN</ArtStyleType>
+			<ArtStylePrefix>ASIAN</ArtStylePrefix>
+			<ArtStyleSuffix>_CHINA</ArtStyleSuffix>
+			<MinorCivTrait>MINOR_TRAIT_MILITARISTIC</MinorCivTrait>
+		</Row>
+	</MinorCivilizations>
+
+<!--FLAVOR_RELIGION:          Religious=10, other=3 
+<!--FLAVOR_CULTURE:           Cultured=10, other=3 
+<!--FLAVOR_GOLD:              Mercantile=10, other=3 
+<!--FLAVOR_NAVAL:             Maritime=8, other=3 
+<!--FLAVOR_GROWTH:            Maritime=8, other=3 
+<!--FLAVOR_CITY_DEFENSE:      Militaristic=7, other=3
+<!--FLAVOR_DEFENSE:           Militaristic=7, other=3
+<!--FLAVOR_OFFENSE:           Militaristic=7, other=3 
+<!--FLAVOR_MILITARY_TRAINING: Militaristic=7, other=3 --> 
+
+	<MinorCivilization_Flavors>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHINA</MinorCivType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHINA</MinorCivType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHINA</MinorCivType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHINA</MinorCivType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHINA</MinorCivType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHINA</MinorCivType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHINA</MinorCivType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHINA</MinorCivType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHINA</MinorCivType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHINA</MinorCivType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHINA</MinorCivType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHINA</MinorCivType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+	</MinorCivilization_Flavors>
+
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_CHINA_ICON</Type>
+            <Red>0.824</Red>
+            <Green>0.635</Green>
+            <Blue>0.271</Blue>
+            <Alpha>1.0</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_CHINA_BACKGROUND</Type>
+            <Red>0.678</Red>
+            <Green>0.149</Green>
+            <Blue>0.094</Blue>
+            <Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_MINOR_CIV_CHINA</Type>
+			<PrimaryColor>COLOR_PLAYER_MINOR_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_MINOR_CIV_CHINA_ICON</SecondaryColor>
+			<TextColor>COLOR_PLAYER_PEACH_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHINA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_CHINA_1</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHINA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_CHINA_2</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHINA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_CHINA_3</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHINA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_CHINA_4</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHINA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_CHINA_5</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHINA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_CHINA_6</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHINA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_CHINA_7</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHINA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_CHINA_8</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHINA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_CHINA_9</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHINA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_CHINA_10</CityName>
+		</Row>
+	</MinorCivilization_CityNames>
+</GameData>

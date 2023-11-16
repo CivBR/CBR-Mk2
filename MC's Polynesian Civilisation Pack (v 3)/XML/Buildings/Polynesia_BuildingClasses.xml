@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_MC_MALAE_FOOD</Type>
+			<DefaultBuilding>BUILDING_MC_MALAE_FOOD</DefaultBuilding>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_PA_MILITARY_UNIT_PRODUCTION</Type>
+			<DefaultBuilding>BUILDING_PA_MILITARY_UNIT_PRODUCTION</DefaultBuilding>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_MC_HAWAII_UA_CULTURE</Type>
+			<DefaultBuilding>BUILDING_MC_HAWAII_UA_CULTURE</DefaultBuilding>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_MC_HEIAU</Type>
+			<DefaultBuilding>BUILDING_TEMPLE</DefaultBuilding>
+		</Row>
+	</BuildingClasses>
+</GameData>

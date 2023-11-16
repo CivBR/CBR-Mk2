@@ -1,0 +1,12 @@
+<LeaderScene lights="Sulieman_Lights.gr2" camera="Bismarck_Camera.fxsxml" 
+             ColorKey="Sulieman_COLORKEY.tga"  cubemap_prefix ="sulieman" FallbackImage="CL_HenryParkes.dds">
+
+<HackLightSettings color="255,255,255" direction="0.2,0.2,0.0" intensity="2.0" />
+
+<DOFSettings max_width="8.00" blur_distance="1000" ramp_distance="750" ></DOFSettings> 
+<BloomSettings max_width="7.5" scale="1.33" min="8.95" ></BloomSettings>
+
+  <LeaderObject  model="henry_parkes.fxsxml"></LeaderObject>
+  <BackgroundObject model="henry_parkes_scene.fxsxml" ></BackgroundObject>
+
+</LeaderScene>

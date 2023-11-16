@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/21/2015 1:53:43 PM -->
+<GameData>
+	<Defines>
+		<Update>
+			<Set Value="8"/>
+			<Where Name="MAXIMUM_ACQUIRE_PLOT_DISTANCE"/>
+		</Update>
+		<Update>
+			<Set Value="10"/>
+			<Where Name="CULTURE_COST_FIRST_PLOT"/>
+		</Update>
+		<Update>
+			<Set Value="10"/>
+			<Where Name="CULTURE_COST_LATER_PLOT_MULTIPLIER"/>
+		</Update>
+		<Update>
+			<Set Value="1.055"/>
+			<Where Name="CULTURE_COST_LATER_PLOT_EXPONENT"/>
+		</Update>
+		<Update>
+			<Set Value="5"/>
+			<Where Name="CULTURE_COST_VISIBLE_DIVISOR"/>
+		</Update>
+		<Update>
+			<Set Value="40"/>
+			<Where Name="PLOT_BASE_COST"/>
+		</Update>
+		<Update>
+			<Set Value="150"/>
+			<Where Name="MINOR_CIV_PLOT_CULTURE_COST_MULTIPLIER"/>
+		</Update>
+	</Defines>
+</GameData>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/16/2013 3:39:05 PM -->
+<GameData>
+	<!-- gameplay -->
+	<Language_en_US>
+		<Row Tag="TXT_KEY_TRAIT_HIT_AND_RUN">
+			<Text>All land combat units with the exception of Siege units can move after attacking.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_HIT_AND_RUN_SHORT">
+			<Text>Hit and Run Tactics</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_YARANGA">
+			<Text>Yaranga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_YARANGA_HELP">
+			<Text>Replaces Granary. In addition to the yields of the Granary, worked tundra or snow tiles yield 1+ extra [ICON_FOOD] food. Available from Agriculture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDINGS_YARANGA_TEXT">
+			<Text>
+				A Yaranga is a tent-like traditional mobile home of some nomadic Northern indigenous peoples of Russia, such as Chukchi and Siberian Yupik. It is a cone-shaped or rounded reindeer-hide tent. It is built of a light wooden frame covered with reindeer skins or canvas sewn together. The word yaranga comes from the Chukchi language.The Yarangas framework are made of posts and tarpaulins are used for covering it. The yarangas are surrounded by sod or planking around the base. There is a smaller cabin within the yaranga at the rear, used for sleeping and living. It is separated from the outer, cooler parts of the yaranga with haired reindeer skins and grass, supported by a cage-like framework.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_YARANGA_STRATEGY">
+			<Text>The Yaranga is available earlier than the Granary it replaces and it improves the yield of tundra tiles. It also provides furs, increasing global happiness.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_SIBERIAN_TATAR">
+			<Text>Siberian Tatar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SIBERIAN_TATAR_HELP">
+			<Text>Replaces Knight. Ranged attack unit which can move after attacking, ignores terrain cost and has greater combat strength in rough terrain.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SIBERIAN_TATAR_TEXT">
+			<Text>A variant of the Mongol Keshik units composed of native Siberian Tatar horsemen with great knowledge of the Siberian landscape.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SIBERIAN_TATAR_STRATEGY">
+			<Text>A mounted archery unit specialised for hit-and-run attacks in any terrain.</Text>
+		</Row>
+
+	</Language_en_US>
+
+	<!-- civilopedia -->
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_SIBIR_DESC">
+			<Text>Khanate of Sibir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SIBIR_SHORT_DESC">
+			<Text>Sibir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SIBIR_ADJECTIVE">
+			<Text>Siberian</Text>
+		</Row>
+
+		<!--Info-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_SIBIR_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_SIBIR_TEXT_1">
+			<Text>
+				The Khanate of Sibir was a state in modern day Siberia, Russia founded in the late 15th century by Taibuga. A tatar state, the original capital of the Khans were Chimgi-Tura. The reign of Taibuga's descendants (the Taibugids) were eventually contested by the mongolic Shaybanid familiy.The Taibugids' control of the region between the Tobol and middle Irtysh was not uncontested. The Shaybanids, descendants of Jochi, frequently claimed the area as their own. Ibak Khan, a member of a junior branch of the Shaybanid house, killed Mar and seized Chimgi-Tura. A Taibugid restoration occurred when Mar's grandson Muhammad fled to the eastern territories around the Irtysh and killed Ibak in battle in c. 1493. Muhammad decided not to remain at Chimgi-Tura, but chose a new capital named Qashliq located on the Irtysh.The Russian conquest of Kazan in 1552 prompted the Taibugid khan of Sibir, Yadigar, to seek friendly relations with Moscow. Yadigar, however, was challenged by a Shaybanid, Kuchum. Several years of fighting (1556–1563) ended with Yadigar's death and Kuchum becoming khan. Kuchum attempted to convert the Siberian Tatars, who were mostly Shamanists, to Islam. His decision to conduct a raid on the Stroganov trading posts resulted in an expedition led by the Cossack Yermak against the Khanate of Sibir. Kuchum's forces were defeated by Yermak at the Battle of Chuvash Cape in 1582 and the Cossacks entered Iskar later that year. Kuchum reorganized his forces, killed Yermak in battle in 1584, and reasserted his authority over Sibir. Over the next fourteen years, however, the Russians slowly conquered the khanate. In 1598 Kuchum was defeated on the banks of the Ob and was forced to flee to the territories of the Nogai, bringing an end to his rule and the start of the Russian Conquest of Siberia.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_KUCHUM_LIVED">
+			<Text>c. ? - 1605</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_KUCHUM_NAME">
+			<Text>Kuchum Khan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_KUCHUM_SUBTITLE">
+			<Text>Khan of the Khanate of Sibir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_KUCHUM_HEADING_1">
+			<Text>Historical account</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_KUCHUM_TEXT_1">
+			<Text>
+				Kuchum was the son of prince Mortaza from the Shayban dynasty (Şäyban). In 1554, he contested the throne of the Siberia Khanate against the incumbents brothers Yadegar (Yädegär) and Bekbulat, who were both vassals of Russia. In 1563, Yadegar was defeated and Kuchum assumed the throne. In 1573, Kuchum conducted a raid on Perm. It was this and other minor raids which prompted the Tsar of Russia to support a Cossack invasion of Siberia. In 1582, the Siberia Khanate was attacked by the Cossack ataman Yermak, who defeated Kuchum's forces and captured the capital Qashliq. Kuchum retreated into the steppes, and over the next few years regrouped his forces. He suddenly attacked Yermak on August 6, 1584 in the dead of night, and killed Yermak and most of his army; regaining control of the now ruined Qashliq. Kuchum attempted to unite the rival factions within the khanate nobility but met with resistance. After an unsuccessful attempt on his life by Qarachi Sayet khan (Säyet), Kuchum was forced to move his horde to the steppe south of the Irtysh river. There he attempted to establish a new khanate, engaging in war against Russian governors. In 1590 Kuchum raided the Tatars around Tobolsk who were paying yasak to the Russians. In 1591 Koltsov caught Kuchum on the Ishym River and captured two of his wives and his son Abdul-Khair who was later given estates in Russia. In 1594 the fort at Tara was built in part to control Kuchum who was in the area. In 1595 Kuchum's followers were raided on the upper Irtysh. In 1597 Kuchum asked for negotiations and the Tsar and Abdul-Khair wrote from Russia offering estates in Russia in return for surrender. Before September 1598 Andrey Voyeykov caught a large group of his followers at a place called Ub Lake and later caught Kuchum on the Ob River. Kuchum fled, but the Russians killed two of his sons and captured five other sons, eight wives and eight daughters. A Muslim cleric was sent to negotiate. Kuchum replied, describing himself as deaf and blind and without subsistence and said that he had not submitted before and would not submit now. This was his last contact with the Russians. He is believed to have died c. 1605 in Bukhara. In 1620 his son Ishim-khan married a daughter of Kho Orluk who was then leading his people from Dzugharia to the Volga.
+			</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_LEADER_KUCHUM">
+			<Text>Kuchum Khan</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV_SIBIR_DOM_QUOTE">
+			<Text>
+				Hail Kuchum, last Khan of the great Khanate of Sibir! Your kingdom dominated the lands east of the Ural mountains for almost 200 years, driving away encroachments from other empires using cunning hit and run military tactics. The mighty Khanate only fell when the Russian empire had painstakingly weakened it over many years. [NEWLINE][NEWLINE]Great Khan in the north, will you take back your lands in the name the legacy of your Mongolian forefathers? Will you build a civilization to stand the test of time?
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_KUCHUM_FIRSTGREETING_1">
+			<Text>We meet on this auspicious day...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KUCHUM_FIRSTGREETING_2">
+			<Text>Welcome to Siberia. I do hope you like the cold.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_KUCHUM_DEFEATED_1">
+			<Text>It seems I have been outfought. I congratulate you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KUCHUM_DEFEATED_2">
+			<Text>Our tactics have failed!</Text>
+		</Row>
+	</Language_en_US>
+
+	
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_SPY_NAME_SIBIR_0">
+			<Text>Chenghiz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIBIR_1">
+			<Text>Tarkhan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIBIR_2">
+			<Text>Chuluun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIBIR_3">
+			<Text>Muunokhoi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIBIR_4">
+			<Text>Oktai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIBIR_5">
+			<Text>Naranbaatar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIBIR_6">
+			<Text>Odtsetseg</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIBIR_7">
+			<Text>Enkhjargal</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIBIR_8">
+			<Text>Munkhtsetseg</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIBIR_9">
+			<Text>Altantsetseg</Text>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_en_US>
+</GameData>

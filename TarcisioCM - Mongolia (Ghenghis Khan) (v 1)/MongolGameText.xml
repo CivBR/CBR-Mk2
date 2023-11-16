@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/2/2015 2:16:52 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_TRAIT_WORLD_CONQUEST_SHORT">
+			<Text>Conquest of the World</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_WORLD_CONQUEST">
+			<Text>Units have extra [ICON_STRENGTH] Strength against cities during [ICON_GOLDEN_AGE] Golden Ages, and they are extended upon capturing a city. Gain +1 [ICON_HAPPINESS_1] Happiness per internal [ICON_INTERNATIONAL_TRADE] Trade route, increased to +2 during [ICON_GOLDEN_AGE] Golden Ages.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_TCM_MONGOLIA_KHAN_HELP">
+			<Text>This Mongolian Unique Great Person replaces the Great General. While providing the same combat bonuses as a normal Great General, the Khan moves at an increased rate and can heal adjacent units. Upon being born, it also triggers a Golden Age.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TCM_MONGOLIA_KHAN_STRATEGY">
+			<Text>The Khan is a Mongolian Unique Great Person, replacing the standard Great General.  The same combat bonuses apply, but the Khan moves at the same rate as the Keshik (5 points per turn) and can heal adjacent units for an additional 2HP per turn. This beefed up General ensures that his cavalry units will always be in a battle ready state. It triggers a Golden Age upon being born</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TCM_MONGOLIA_KHAN_INFO">
+			<Text>Originally the Khans were tribal chieftains of the Mongol people, ruling anywhere from one tribe to a loose confederation of many smaller ones. At the time of Genghis' rise to power, the title was generally reserved for military leaders, but was later used to denote the civil leaders of the Mongolian Empire as well. The Khans were the elected rulers of the empire provinces, holding their titles based on merit and loyalty rather than blood ties. These leaders often served as generals as well, leading the large Mongolian armies in their successful raids and conquests. Later, an extension of the word was created, "Khagan", to denote the grand ruler, the Khan of Khans so to speak, but this wasn't used until after Genghis Khan's death in 1227 AD.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_TCM_MONGOLIA_KESHIK_STRATEGY">
+			<Text>The Keshik is a unique replacement for the Knight, available to the Mongols starting in the Medieval Era. Keshiks possess a strong ranged attack and an increased movement rate (5 points total), allowing it to perform hit and run attacks remarkably effectively. If this wasn't enough, the Keshik also acquires promotions at double the rate of other units, and contributes twice the amount of points towards earning Great Generals. These mounted warriors singlehandedly afford Genghis control of the open plains.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_TCM_MONGOL_CITY_BONUS">
+			<Text>+33% [ICON_STRENGTH] Combat Strength Against Cities</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_MONGOL_CITY_BONUS_HELP">
+			<Text>+33% [ICON_STRENGTH] Combat Strength Against Cities</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_TCM_MONGOL_MOVEMENT">
+			<Text>+1 Movement Points</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_MONGOL_MOVEMENT_HELP">
+			<Text>+1 Movement Points</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
+

@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- ARMENIA -->
+		<Row Tag="TXT_KEY_CIV_JFD_ARMENIA_ADJECTIVE">
+			<Text>Armenian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_ARMENIA_DESC">
+			<Text>Armenian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_ARMENIA_SHORT_DESC">
+			<Text>Armenia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_ARMENIA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_ARMENIA_TEXT_1">
+			<Text>The Kingdom of Armenia is an ancient monarchy that existed in the Caucasus from 321 BC to 428 AD. Its origins can be traced to the northern satrapies of the Persian Empire, where once stood the lands of the Kingdom of Ararat. After the conquest of Persia by Alexander the Great, Armenia was divided in two - Armenia Major and Sophene, and it became a part of the Seleucid Empire. But in the coming years, in the wake of the expansion of the Roman Republic, Armenia's power would rapidly expand and, under Tigranes the Great, Armenia would reach its imperial height.[NEWLINE][NEWLINE]In 69 BC, Armenia was conquered by the Romans and became a client state of theirs. It remained as such until the foundation of the Arsacid dynasty by Tiridates I, who proclaimed himself King of Armenia in 52 AD. Throughout most of its history during this period, Armenia would be heavily contested between Rome and Parthia. In 301, Tiridates III proclaimed Christianity as the state religion of Armenia, making the Armenian Kingdom the first state to embrace Christianity officially. The Kingdom finally came to an end during the Byzantine-Sasanin wars, when it was partitioned into Byzantine Armenia and Persian Armenia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_ARMENIA_HEADING_2">
+			<Text>Geography and Climate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_ARMENIA_TEXT_2">
+			<Text>Armenia lies in the highlands surrounding the Biblical mountains of Ararat. It is landlocked in the South Caucasus. Located between the Black and Caspian Seas, the country is bordered on the north and east by Georgia and Azerbaijan, and on the south and west by Iran and Turkey.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_ARMENIA_HEADING_3">
+			<Text>Early History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_ARMENIA_TEXT_3">
+			<Text>The geographic Armenian Highlands, then known as the highlands of Ararat, was originally inhabited by proto-Armenian tribes which did not yet constitute a unitary state or nation. The highlands were first united by tribes in the vicinity of lake Van into the Kingdom of Van. The kingdom competed with Assyria over supremacy in the highlands of Ararat and the Fertile Crescent.[NEWLINE][NEWLINE]Both kingdoms fell to Iranian invaders from the East (Medes, followed by Achaemenid Persians) in the 6th century BC. Its territory was reorganized into a satrapy called Armenia (Old Persian: Armina, Elamite: Harminuya, Akkadian: Urashtu). The Orontid dynasty ruled as satraps of the Achaemenid Empire for three centuries until the empire's defeat against Alexander the Great's Macedonian Empire at the Battle of Gaugamela in 331 BC. After Alexander's death in 323 BC, a Macedonian general named Neoptolemus obtained Armenia until he died in 321 BC and the Orontids returned, not as satraps, but as kings.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_ARMENIA_HEADING_4">
+			<Text>The Orontid Dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_ARMENIA_TEXT_4">
+			<Text>Orontes III and the ruler of Lesser Armenia, Mithridates, recognized themselves independent, thus elevating the former Armenian satrapy into a kingdom, giving birth to the kingdoms of Armenia and Lesser Armenia. Orontes III also defeated the Thessalian commander Menon, who wanted to capture Sper's gold mines. Weakened by the Seleucid Empire which succeeded the Macedonian Empire, the last Orontid king, Orontes IV, was overthrown in 200/201 BC and the kingdom was taken over by an Armenian commander of the Seleucid Empire, Artashes I, who is presumed to be a member of Orontid Dynasty.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_ARMENIA_HEADING_5">
+			<Text>The Artaxiad Dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_ARMENIA_TEXT_5">
+			<Text>The Seleucid Empire's influence over Armenia had weakened after it was defeated by the Romans in the Battle of Magnesia in 190 BC. A Hellenistic Armenian state was thus founded in the same year by Artaxias I alongside the Armenian kingdom of Sophene led by Zariadres. Artaxias seized Yervandashat, united the Armenian Highland at the expense of neighboring tribes and founded the new royal capital of Artaxata near the Araxes River. According to Strabo and Plutarch, Hannibal Barca received hospitality at the Armenian court of Artaxias I. The authors add an apocryphal story of how Hannibal planned and supervised the building of Artaxata.[3] The new city was laid on a strategic position at the juncture of trade routes that connected the Ancient Greek world with Bactria, India and the Black Sea which permitted the Armenians to prosper. Tigranes the Great saw opportunity for expansion in the constant civil strife to the south. In 83 BC, at the invitation of one of the factions in the interminable civil wars, he entered Syria, and soon established himself as ruler of Syria, putting the Seleucid Empire virtually at an end and ruled peacefully for 17 years. During the zenith of his rule, Tigranes the Great, extended Armenia's territory outside of the Armenian Highland over parts of the Caucasus and the area that is now south-eastern Turkey, Iran, Syria and Lebanon, becoming one of the most powerful states in the Roman East.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_ARMENIA_HEADING_6">
+			<Text>Roman Rule</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_ARMENIA_TEXT_6">
+			<Text>Armenia came under the Ancient Roman sphere of influence in 66 BC, after the battle of Tigranocerta and the final defeat of Armenia's ally, Mithridates VI of Pontus. Mark Antony invaded and defeated the kingdom in 34 BC, but Romans lost hegemony during the Final war of the Roman Republic in 32–30 BC. In 20 BC, Augustus negotiated a truce with the Parthians, making Armenia a buffer zone between the two major powers.Augustus installed Tigranes V as king of Armenia in AD 6, but ruled with Erato of Armenia. The Romans then installed Mithridates of Armenia as client king. Mithridates was arrested by Caligula, but later restored by Claudius. Subsequently, Armenia was often a focus of contention between Rome and Parthia, with both major powers supporting opposing sovereigns and usurpers. The Parthians forced Armenia into submission in AD 37, but in AD 47 the Romans retook control of the kingdom. In AD 51 Armenia fell to an Iberian invasion sponsored by Parthia, led by Rhadamistus. Tigranes VI of Armenia ruled from AD 58, again installed by Roman support. The period of turmoil ends in AD 66, when Tiridates I of Armenia was crowned king of Armenia by Nero. For the remaining duration of the Armenian kingdom, Rome still considered it a client kingdom de jure, but the ruling dynasty was of Parthian extraction, and contemporary Roman writers thought that Nero had de facto yielded Armenia to the Parthians.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_ARMENIA_HEADING_7">
+			<Text>The Arsacid Dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_ARMENIA_TEXT_7">
+			<Text>Under Nero, the Romans fought a campaign (55–63) against the Parthian Empire, which had invaded the Kingdom of Armenia, allied with the Romans. After gaining Armenia in 60, then losing it in 62, the Romans sent the legion XV Apollinaris from Pannonia to Gnaeus Domitius Corbulo, legatus of Syria. In 63, strengthened further by the legions III Gallica, V Macedonica, X Fretensis and XXII, General Corbulo entered into the territories of Vologases I of Parthia, who then returned the Armenian kingdom to Tiridates.[NEWLINE][NEWLINE]Another campaign was led by Emperor Lucius Verus in 162–165, after Vologases IV of Parthia had invaded Armenia and installed his chief general on its throne. To counter the Parthian threat, Verus set out for the east. His army won significant victories and retook the capital. Sohaemus, a Roman citizen of Armenian heritage, was installed as the new client king. But during an epidemic within the Roman forces, Parthians retook most of their lost territory in 166. Sohaemus retreated to Syria, аnd Arsacid’s dynasty was restored power over Armenia.[NEWLINE][NEWLINE]After the fall of the Arsacid Dynasty in Persia, the succeeding Sassanian Dynasty aspired to reestablish Persian control. The Sassanid Persians occupied Armenia in 252. However, in 287, Tiridates III the Great was established King of Armenia by the Roman armies. After Gregory the Illuminator's spreading of Christianity in Armenia, Tiridates accepted Christianity and made it his kingdom's official religion. The traditional date for Armenia's conversion to Christianity is established at 301, which precedes the Roman Emperor Constantine the Great's conversion and the Edict of Milan by a dozen years.[NEWLINE][NEWLINE] In 387, the Kingdom of Armenia was split between the Eastern Roman Empire and the Persians. Western Armenia quickly became a province of the Roman Empire under the name of Armenia Minor; Eastern Armenia remained a kingdom within Persia until 428, when the local nobility overthrew the king, and the Sassanids installed a governor in his place. In 885, after years of Roman, Persian, and Arab rule, Armenia regained its independence under the Bagratid dynasty.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_ARMENIA_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_ARMENIA_FACTOID_TEXT">
+			<Text>The city of Yerevan (originally known as Erebuni) has been continuously inhabited for 2,700 years.[NEWLINE][NEWLINE]The Armenian language has it's own unique script, which was invented in the year 45 BCE.[NEWLINE][NEWLINE]The Armenian Apostolic Church, the primary religious institute in Armenia, is the very same Church founded by Saint Gregory the Illuminator.</Text>
+		</Row>
+		<!-- City Names -->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_YEREVAN">
+			<Text>Yerevan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GYUMRI">
+			<Text>Gyumri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ARTASHAT">
+			<Text>Artashat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_TIGRANOCERTA">
+			<Text>Tigranocerta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_YERVANTASHAT">
+			<Text>Yervantashat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GAVAR">
+			<Text>Gavar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ARMAVIR">
+			<Text>Armavir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ARARAT">
+			<Text>Ararat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ETCHMIADZIN">
+			<Text>Etchimadzin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANI">
+			<Text>Ani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GHAPAN">
+			<Text>Ghapan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_DVIN">
+			<Text>Dvin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_KARS">
+			<Text>Kars</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BITLIS">
+			<Text>Bitlis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SHABIN_KARAHISSAR">
+			<Text>Karahissar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ERZURUM">
+			<Text>Erzurum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NAXCIVAN">
+			<Text>Naxcivan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SHUSHA">
+			<Text>Shusha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STEPANAKERT">
+			<Text>Stepanakert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_DILIJAN">
+			<Text>Dilijan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_KARAKILLISE">
+			<Text>Karakillise</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LORRI">
+			<Text>Lorri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_KIROVAKAN">
+			<Text>Kirovakan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SEPASTIA">
+			<Text>Sepastia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SASSOUN">
+			<Text>Sassoun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_APARAN">
+			<Text>Aparan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICHEVAN">
+			<Text>Ichevan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HRAZDAN">
+			<Text>Hrazdan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VANADZOR">
+			<Text>Vanadzor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VARDENIS">
+			<Text>Vardenis</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ARMENIA_9">
+			<Text>Gevork</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ARMENIA_8">
+			<Text>Arutyunov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ARMENIA_7">
+			<Text>Pavel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ARMENIA_6">
+			<Text>Mane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ARMENIA_5">
+			<Text>Tigran</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ARMENIA_4">
+			<Text>Seryan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ARMENIA_3">
+			<Text>Aghunik</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ARMENIA_2">
+			<Text>Varduhi</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ARMENIA_1">
+			<Text>Arkadi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ARMENIA_0">
+			<Text>Zahur</Text>
+		</Row>
+		<!-- TIRIDATES -->
+		<Row Tag="TXT_KEY_LEADER_JFD_TIRIDATES">
+			<Text>Tiridates III</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_TIRIDATES_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_TIRIDATES_TEXT_1">
+			<Text>Tiridates III was the son of Khosrov I of Armenia, who was assassinated in 252 by a Parthian agent named Anak under the orders of Ardashir I. The infant Tiridates would be taken to Rome, where he would become versed in many languages, as well as in military tactics and the practices of Roman law. In 270 AD, the Roman Emperor Aurelian drove the Sassanids from the eastern borders and Tiridates was able to reclaim the Armenian throne. Because of the strong relationship between the Roman Emperor Diocletian and the newly restored Armenian Kingdom, Armenia remained in a quasi-independent state as a Roman protectorate; although this may have also served Rome as a buffer against the Parthinians.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_TIRIDATES_HEADING_3">
+			<Text>Conversion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_TIRIDATES_TEXT_3">
+			<Text>The story of Tiridates' conversion of Armenia to Christianity is as much legend as it is history. Gregory the Illuminator, the son of Anak, the assassin of Tiridates' father, was a Christian convert who, feeling guilt for his father's sin, joined the Armenian army and worked as a secretary. At this time, Christianity had a strong influence in Armenia, but the Kingdom was still largely pagan. Tiridates was no exception. According to legend, during a pagan religious ceremony Tiridates ordered Gregory to place a flower wreath at the foot of the statue of the goddess Anahit in Eriza. Gregory refused, proclaiming his Christian faith. This act infuriated the king and his fury was only exacerbated when several individuals declared that Gregory was the son of the traitor who had killed Tiridates' father. For this, Gregory was tortured, before finally being thrown in Khor Virap, a deep underground dungeon.[NEWLINE][NEWLINE]During the years of Gregory's imprisonment, a group of virgins, lead by Gayane, came to Armenia as they fled the Roman persecution of their Christian faith. Tiridates heard about the group and the legendary beauty of one of its members, Hripsime. He brought them to the palace and demanded to marry the beautiful virgin; she refused. The King had the whole group tortured and killed. After this event, he fell ill and according to legend adopted a pig-like behaviour and begun to aimlessly wander the forest. The King's sister, Chosroesvitooghtkh, had a dream wherein Gregory was still alive in the dungeon and he was the only one able to cure the King. At this point it had been 13 years since his imprisonment, and the odds of Gregory being alive were slim. But they retrieved him and despite being incredibly malnourished he was still alive. He was kept alive by a kind-hearted woman that threw a loaf of bread down in Khor Virap everyday for him. Tiridates III was brought to Gregory, and was miraculously cured of his illness in 301 AD. Tiridates III immediately proclaimed Christianity the official state religion. And so, Armenia became the first nation to officially adopt the Christian faith. Tiridates III appointed Gregory as the first Catholicos of the Armenian Apostolic Church. From 301 to 428 the Episcopal office was hereditary.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_TIRIDATES_LIVED">
+			<Text>250 - 330</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_TIRIDATES_NAME">
+			<Text>Tiridates</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_TIRIDATES_SUBTITLE">
+			<Text>Leader of Armenia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_TIRIDATES_TITLES_1">
+			<Text>King of Armenia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_JFD_TIRIDATES_TEXT">
+			<Text>Welcome, O magnificent and enlightened King Tiridates III, descendant of the great and ancient Kingship of Armenia. Armenia's history stretches far back; its origins traced from the northernmost satrapies of the mighty Achaemenid Dynasty. For centuries, the Kingdom lay at the crossroads of power: between the two empires of Rome in the West and Parthinia in the East, who would wage bloody war for the right to subjugate her beneath them. In the 3rd century AD, the throne of Armenian Kings would fall to the occupation of the Sassanid Persians, but, with the aid of the Roman Emperor Aurelian, it would be restored unto you: Armenia's rightful King. And as her King, you would go on to proclaim Armenia's devotion as the first Christian state in the world: several dozen years prior the proclamation of Constantine the Great.[NEWLINE][NEWLINE]Wise Prince, the Kingdom of Armenia must rise once more, and with it must come the defence of the faith that you would call your own. Can you bring to the Armenian people great piety and power immeasurable? Can you carve an empire into the mountains that rise to the heavens above your Kingdom? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!-- THE ILLUMINATION OF TIRIDATES -->
+		<Row Tag="TXT_KEY_TRAIT_JFD_ARMENIA_SHORT">
+			<Text>The Illumination of Tiridates</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_ARMENIA">
+			<Text>After the first religion is founded, your [ICON_CAPITAL] Capital converts to that religion and you gain 33% of the [ICON_PEACE] Faith produced by the founder. Converting conquered cities to this religion eliminates occupied [ICON_HAPPINESS_4] Unhappiness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARMENIAN_CONVERSION_DESC">
+			<Text>The gospel of the religion of the {1_CivName:textkey} has spread to your people![NEWLINE][NEWLINE]So long as you follow this religion, 33% of the [ICON_PEACE] Faith produced by {2_CivNameShort:textkey} will be added to yours each turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARMENIAN_CONVERSION_DESC_UNKNOWN">
+			<Text>The gospel of a foreign religion from an unknown civilization has spread to your people![NEWLINE][NEWLINE]So long as you follow this religion, 33% of the [ICON_PEACE] Faith produced by the founder of {1_Religion:textkey} will be added to yours each turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARMENIAN_CONVERSION_SHORT">
+			<Text>Your empire converts to {1_Religion:textkey}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FAITH_FROM_OTHER_CIVS">
+			<Text>[COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] produced by the founder of the first World Religion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_ARMENIAN_CONVERSION">
+			<Text>JFD: Armenian Conversion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_ARMENIAN_CONVERSION_HELP">
+			<Text>Eliminates occupied unhappiness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FIRST_WORLD_RELIGION">
+			<Text>The first World Religion is [COLOR_POSITIVE_TEXT]{1_ReligionName}[ENDCOLOR].</Text>
+		</Row>
+		<!-- MAMIKONIAN -->
+		<Row Tag="TXT_KEY_UNIT_JFD_MAMIKONIAN">
+			<Text>Mamikonian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_MAMIKONIAN_TEXT">
+			<Text>The Mamikonian House was a noble family that ruled several Armenian regions between the 4th and 8th centuries. According to legend, the Mamikonian family originated from the Han Dynasty in China. Having attempted an unsuccessful coup against the Han Emperor, two noblemen, Mamik and Konak, fled to the King of Parthia, who sent them to live in Armenia, where Mamik would propagate the Mamikonians. Other tales, however, place the Mamikonians as descendants of King David, or even Assyrian royalty. Historians are divided over the true nature of the origin of the family.[NEWLINE][NEWLINE]For the beginning of their history, the Mamikonians held the Armenian title of sparapef, or commander-in-chief, and served in charge of the defense of Armenia against their Persian neighbour. After Armenia's defeat against Persia in the late 4th century, Vahan Mamikonian, brother to the patriarch Vassak, defected to the Persian side, but the intervention of the Roman Emperor Valens, however, would see the office of sparapef restored to Vassak and his direct line. For years to come, the Mamikonians would remain sided with the affairs of the Roman Empire, and some would even become the emperors of the Eastern Empire after the fall of the West. However, in time, their power would wane, and the House would eventually disappear into the rising families of other regional powers; such as those in Georgia. Because of the success of the House of Mamikonian, it is believed that much of modern nobility can be traced to their bloodline.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_MAMIKONIAN_HELP">
+			<Text>Mounted units within two tiles of a Mamikonian General gain the Nakharar promotion, granting them a 33% bonus when attacking cities and allowing them to earn additional [ICON_GOLD] Gold from plundering cities following a different religion than the first World Religion.[NEWLINE][NEWLINE]This unit also replaces the Great Prophet, though it cannot found its own religion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_MAMIKONIAN_STRATEGY">
+			<Text>The Mamikonian is a unique Armenian replacement for the Great General. When friendly Mounted Units (including the Mounted Units of the founder of the first religion) are within 2 tiles of a Mamikonian, they gain the Nakhrar promotion. This promotion grants them a 33% bonus when attacking cities and allows them to earn additional [ICON_GOLD] Gold from pillaging cities following a different religion than the first World Religion. In addition to replacing the Great General, the Mamikonian also replaces the Great Prophet, allowing it to build Holy Sites or to spread religion, though it cannot found its own.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_NAKHARAR">
+			<Text>Nakharar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_NAKHARAR_HELP">
+			<Text>+33% bonus vs Cities. Earns additional [ICON_GOLD] Gold from plundering a city that is following a different religion than the first World Religion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAKHARAR_ALERT">
+			<Text>{1_GoldPillage} [ICON_GOLD] Gold has been plundered from heathen Shrines and Temples!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_MAMIKONIAN">
+			<Text>Armenian Noble</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_MAMIKONIAN_HELP">
+			<Text>Mounted Units within 2 tiles have enhanced attack against cities and earn [ICON_GOLD] Gold from plundering cities controlled by a different religion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VARDAN">
+			<Text>Saint Vardan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_HAMAZASP">
+			<Text>Hamazasp</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SHUSHANIK">
+			<Text>Saint Shushanik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_HMAYEAK">
+			<Text>Hmayeak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VAHAN">
+			<Text>Vahan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VARD">
+			<Text>Vard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VASAK">
+			<Text>Vasak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_ENMANUEL">
+			<Text>Enmanuel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_GAGHIK">
+			<Text>Gaghik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MAMAK">
+			<Text>Mamak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_HAMAZASPIAN">
+			<Text>Hamazaspian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_ARTACHES">
+			<Text>Artaches</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_GRIGOR">
+			<Text>Grigor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SMBAT_THE_VALIANT">
+			<Text>Smbat the Valiant</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_KAHAN_GAIL">
+			<Text>Kahan Gail</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MUSEL">
+			<Text>Musel</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_PROMOTION_JFD_ARMENIAN_PROPHET">
+			<Text>Great Prophet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_ARMENIAN_PROPHET_HELP">
+			<Text>This unit claims to have been given divine revelation.</Text>
+		</Row>
+		<!-- MOUNTAIN MONASTERY -->
+		<Row Tag="TXT_KEY_BUILDING_JFD_MOUNTAIN_MONASTERY">
+			<Text>Vank</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_MOUNTAIN_MONASTERY_TEXT">
+			<Text>Vank is the Armenian word for a Monastery or Cathedral. During the 12th to 14th centuries, Armenian religious architecture flourished and many locally renown monasteries were constructed during this time; including the Saghmosavank Monastery, Akhtala Monastery, Kaymaklı Monastery, Kecharis Monastery, and the Makaravank Monastery. It was here that much of medieval Armenian literature was written and the Kingdom's architectural progress continued until the invasion of Timurlane of the Timurid Empire in 1400.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_MOUNTAIN_MONASTERY_STRATEGY"> 
+			<Text>The Vank is the Armenian unique building. It contains a Great Work of Art slot, unlike the Temple which it replaces, making it a valuable centre for [ICON_CULTURE] Culture and [ICON_TOURISM] Tourism. When this Great Work slot is filled, 20% of your [ICON_CITIZEN] Citizens in the city are converted to the first World Religion each turn. In addition, when the city with a Vank is built in a city in which there is a mountain within its borders, that city also produces an additional +2 [ICON_PEACE] Faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_MOUNTAIN_MONASTERY_PIETY_STRATEGY">
+			<Text>The Vank is the Armenian unique building. It contains a Great Work of Art slot, unlike the Monastery which it replaces, making it a valuable centre for [ICON_CULTURE] Culture and [ICON_TOURISM] Tourism. When this Great Work slot is filled, 20% of your [ICON_CITIZEN] Citizens in the city are converted to the first World Religion each turn. In addition, when the city with a Vank is built in a city in which there is a mountain within its borders, that city also produces an additional +2 [ICON_PEACE] Faith. Like a regular Monastery, the Vank increases the [ICON_PEACE] Faith and [ICON_CULTURE] Culture of sources of [ICON_RES_INCENSE] Incense, [ICON_RES_JFD_SAFFRON] Saffron and [ICON_RES_WINE] Wine worked by the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_MOUNTAIN_MONASTERY_HELP">
+			<Text>If the Great Work of Art slot is filled, converts 20% of your [ICON_CITIZEN] Citizens every turn to the first World Religion.[NEWLINE][NEWLINE]If the Vank is built in a city with a Mountain within its borders, that city produces an additional +2 [ICON_PEACE] Faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_MOUNTAIN_MONASTERY_PIETY_HELP">
+			<Text>If the Great Work of Art slot is filled, converts 20% of your [ICON_CITIZEN] Citizens every turn to the first World Religion.[NEWLINE][NEWLINE]If the Vank is built in a city with a Mountain within its borders, that city produces an additional +2 [ICON_PEACE] Faith.[NEWLINE][NEWLINE]Each source of [ICON_RES_INCENSE] Incense, [ICON_RES_JFD_SAFFRON] Saffron and [ICON_RES_WINE] Wine worked by this City produce +1 [ICON_PEACE] Faith and +1 [ICON_CULTURE] Culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_ARMENIAN_FAITH">
+			<Text>JFD: Armenian Faith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_ARMENIAN_FAITH_HELP">
+			<Text>+2 [ICON_PEACE] Faith if the city is within two tiles of a Mountain.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_VANK_CITY_VIEW_HELP">
+			<Text>+2 [ICON_PEACE] Faith for having a Mountain within this city's borders.</Text>
+		</Row>
+		<!-- TBILISI -->
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_TBILISI">
+			<Text>Tbilisi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_TBILISI_DESC">
+			<Text>Tbilisi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_TBILISI_SHORT_DESC">
+			<Text>Tbilisi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_TBILISI_ADJECTIVE">
+			<Text>Tbilisan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_TBILISI_TEXT_1">
+			<Text>Tbilisi, formerly known as Tiflis, is the capital and the largest city of Georgia, lying on the banks of the Mtkvari River with a population of roughly 1.5 million inhabitants. Founded in the 5th century by the monarch of Georgia's ancient precursor Kingdom of Iberia, Tbilisi has served, with various intervals, as Georgia's capital for more than a thousand years. Under the Russian rule, the city was the seat of the Tsar's viceroy and has served, from 1801 to 1917, as the Imperial capital of the entire Caucasus, including Georgia's current neighbors.[NEWLINE][NEWLINE]Located on the southeastern edge of Europe, Tbilisi's proximity to lucrative east-west trade routes often made the city a point of contention between various rival empires throughout history and the city's location to this day ensures its position as an important transit route for global energy and trade projects. Tbilisi's varied history is reflected in its architecture, which is a mix of medieval, classical, and Soviet structures.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

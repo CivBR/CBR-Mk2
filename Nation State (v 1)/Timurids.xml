@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_MINOR_CIV_TIMURIDS">
+			<Text>The Timurids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_TIMURIDS_ADJ">
+			<Text>Timurid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_TIMURIDS_1">
+			<Text>Sarrak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_TIMURIDS_2">
+			<Text>Enlilbattu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_TIMURIDS_3">
+			<Text>Ereish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_TIMURIDS_4">
+			<Text>Arbirpa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_TIMURIDS_5">
+			<Text>Hit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_TIMURIDS_6">
+			<Text>Nasad-Tuta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_TIMURIDS_7">
+			<Text>Nineshineg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_TIMURIDS_8">
+			<Text>Isippa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_TIMURIDS_9">
+			<Text>Ner</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_TIMURIDS_10">
+			<Text>Kuriga</Text>
+		</Row>
+	</Language_en_US>
+	<MinorCivilizations>
+		<Row>
+			<Type>MINOR_CIV_TIMURIDS</Type>
+			<Description>TXT_KEY_MINOR_CIV_TIMURIDS</Description>
+			<ShortDescription>TXT_KEY_MINOR_CIV_TIMURIDS</ShortDescription>
+			<Adjective>TXT_KEY_MINOR_CIV_TIMURIDS_ADJ</Adjective>
+			<Civilopedia>No info</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_MINOR_CIV_TIMURIDS</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
+			<ArtStylePrefix>ASIAN</ArtStylePrefix>
+			<ArtStyleSuffix>_MONGOL</ArtStyleSuffix>
+			<MinorCivTrait>MINOR_TRAIT_MILITARISTIC</MinorCivTrait>
+		</Row>
+	</MinorCivilizations>
+
+	<MinorCivilization_Flavors>
+		<Row>
+			<MinorCivType>MINOR_CIV_TIMURIDS</MinorCivType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TIMURIDS</MinorCivType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TIMURIDS</MinorCivType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TIMURIDS</MinorCivType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TIMURIDS</MinorCivType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TIMURIDS</MinorCivType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TIMURIDS</MinorCivType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TIMURIDS</MinorCivType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TIMURIDS</MinorCivType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TIMURIDS</MinorCivType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TIMURIDS</MinorCivType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TIMURIDS</MinorCivType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+	</MinorCivilization_Flavors>
+
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_TIMURIDS_ICON</Type>
+            <Red>1</Red>
+            <Green>0.18</Green>
+            <Blue>0.225</Blue>
+            <Alpha>1.0</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_TIMURIDS_BACKGROUND</Type>
+            <Red>0.225</Red>
+            <Green>0.225</Green>
+            <Blue>0.225</Blue>
+            <Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_MINOR_CIV_TIMURIDS</Type>
+			<PrimaryColor>COLOR_PLAYER_MINOR_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_MINOR_CIV_TIMURIDS_ICON</SecondaryColor>
+			<TextColor>COLOR_PLAYER_PEACH_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_TIMURIDS</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_TIMURIDS_1</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TIMURIDS</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_TIMURIDS_2</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TIMURIDS</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_TIMURIDS_3</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TIMURIDS</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_TIMURIDS_4</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TIMURIDS</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_TIMURIDS_5</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TIMURIDS</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_TIMURIDS_6</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TIMURIDS</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_TIMURIDS_7</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TIMURIDS</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_TIMURIDS_8</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TIMURIDS</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_TIMURIDS_9</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TIMURIDS</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_TIMURIDS_10</CityName>
+		</Row>
+	</MinorCivilization_CityNames>
+</GameData>

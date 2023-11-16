@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_MINOR_CIV_HUNS">
+			<Text>The Huns</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HUNS_ADJ">
+			<Text>Hunnic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HUNS_1">
+			<Text>Urgan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HUNS_2">
+			<Text>Angan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HUNS_3">
+			<Text>Urtoq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HUNS_4">
+			<Text>Laliore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HUNS_5">
+			<Text>Se'itaosh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HUNS_6">
+			<Text>Tessaba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HUNS_7">
+			<Text>Gwyth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HUNS_8">
+			<Text>Damiyadin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HUNS_9">
+			<Text>Lugsburgen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_HUNS_10">
+			<Text>Krung Koh Kong</Text>
+		</Row>
+	</Language_en_US>
+
+	<MinorCivilizations>
+		<Row>
+			<Type>MINOR_CIV_HUNS</Type>
+			<Description>TXT_KEY_MINOR_CIV_HUNS</Description>
+			<ShortDescription>TXT_KEY_MINOR_CIV_HUNS</ShortDescription>
+			<Adjective>TXT_KEY_MINOR_CIV_HUNS_ADJ</Adjective>
+			<Civilopedia>No info</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_MINOR_CIV_HUNS</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_ASIAN</ArtStyleType>
+			<ArtStylePrefix>ASIAN</ArtStylePrefix>
+			<ArtStyleSuffix>_HUNS</ArtStyleSuffix>
+			<MinorCivTrait>MINOR_TRAIT_MILITARISTIC</MinorCivTrait>
+		</Row>
+	</MinorCivilizations>
+
+	<MinorCivilization_Flavors>
+		<Row>
+			<MinorCivType>MINOR_CIV_HUNS</MinorCivType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_HUNS</MinorCivType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_HUNS</MinorCivType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_HUNS</MinorCivType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_HUNS</MinorCivType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_HUNS</MinorCivType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_HUNS</MinorCivType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_HUNS</MinorCivType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_HUNS</MinorCivType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_HUNS</MinorCivType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_HUNS</MinorCivType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_HUNS</MinorCivType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+	</MinorCivilization_Flavors>
+
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_HUNS_ICON</Type>
+            <Red>0.2745</Red>
+            <Green>0.0</Green>
+            <Blue>0.0156</Blue>
+            <Alpha>1.0</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_HUNS_BACKGROUND</Type>
+            <Red>0.7058</Red>
+            <Green>0.698</Green>
+            <Blue>0.6431</Blue>
+            <Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_MINOR_CIV_HUNS</Type>
+			<PrimaryColor>COLOR_PLAYER_MINOR_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_MINOR_CIV_HUNS_ICON</SecondaryColor>
+			<TextColor>COLOR_PLAYER_PEACH_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_HUNS</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_HUNS_1</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_HUNS</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_HUNS_2</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_HUNS</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_HUNS_3</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_HUNS</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_HUNS_4</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_HUNS</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_HUNS_5</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_HUNS</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_HUNS_6</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_HUNS</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_HUNS_7</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_HUNS</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_HUNS_8</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_HUNS</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_HUNS_9</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_HUNS</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_HUNS_10</CityName>
+		</Row>
+	</MinorCivilization_CityNames>
+</GameData>

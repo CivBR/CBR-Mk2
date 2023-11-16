@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/10/2014 4:53:57 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_YAKUTIA_DESC">
+			<Text>Yakutia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_YAKUTIA_SHORT_DESC">
+			<Text>Yakutia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_YAKUTIA_ADJECTIVE">
+			<Text>Yakut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_YAKUTIA_PEDIA">
+			<Text>No info</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_YAKUTIA_TEXT">
+			<Text>Hail Tygyn Darkhan, Cheif Toyon and hero of the Sakha peoples. Upon succeeding your father as leader of the Kangalas clan you united the people of Yakutia through conquest, gaining prestige and wealth through your efforts. You owned many estates and homesteads and forged an empire to pass down to your sons and grandsons. You valiantly fought against the invasion of the Russian Empire, defending your lands despite being outnumbered and outclassed by their superior weapons. Though the Yakuts have been under the foot of the Russians for centuries since, your people have flourished and maintained their cultural identity.[NEWLINE][NEWLINE]Great Toyon, can you unite the clans of Yakutia once more and assert the power of Sakha as an independant nation? Can you build a civilization to stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYGYNDARKHAN_DESC">
+			<Text>Tygyn Darkhan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYGYNDARKHAN_PEDIA_LIVED">
+			<Text>? – 1632</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYGYNDARKHAN_PEDIA_NAME">
+			<Text>Tygyn Darkhan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYGYNDARKHAN_PEDIA_SUBTITLE">
+			<Text>Cheif Toyon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYGYNDARKHAN_PEDIA_HEADING_1">
+			<Text>Historical account</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYGYNDARKHAN">
+			<Text>No info</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_PASTORALISTS">
+			<Text>Camps and Pastures yield an additional +2 [ICON_GOLD] gold. [ICON_GREAT_GENERAL] Toyons are generated 25% faster and a free [ICON_GREAT_GENERAL] Toyon is generated upon discovering Chivalry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_PASTORALISTS_SHORT">
+			<Text>Riches of the Sakha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TOYON_DESC">
+			<Text>Toyon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TOYON_STRATEGY">
+			<Text>Replaces Great General. In addition to the Great General's abilities, can build a Toyon's Estate on resources which can be improved by a Pasture or Camp, which claims surrounding territory and yields +4 [ICON_GOLD] gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TOYON_TEXT">
+			<Text>No info.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BATAS_CAVALRY">
+			<Text>Batas Cavalry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BATAS_CAVALRY_STRATEGY">
+			<Text>Replaces Lancer. Starts with the Blitz promotion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_BATAS_CAVALRY">
+			<Text>The Batas Cavalry is effective against mounted units and can attack twice in one turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BATAS_CAVALRY_TEXT">
+			<Text>No info</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_TOYONESTATE">
+			<Text>Build Toyon's Estate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_TOYONESTATE_HELP">
+			<Text>Build a Toyon's Estate, claiming surrounding tiles, providing +4 [ICON_GOLD] gold and improving a resource.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_TOYONESTATE">
+			<Text>Toyon's Estate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_TOYONESTATE_TEXT">
+			<Text>Toyon's Estate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYGYNDARKHAN_FIRSTGREETING_1">
+			<Text>Welcome to Yakutia. Have you come to admire my vast herds?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYGYNDARKHAN_FIRSTGREETING_2">
+			<Text>I am Tygyn Darkhan, Chief Toyon of the Sakha people. Who may you be?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYGYNDARKHAN_DEFEATED_1">
+			<Text>Have mercy on us and allow us to keep our flocks!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TYGYNDARKHAN_DEFEATED_2">
+			<Text>My estates are yours now it seems.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

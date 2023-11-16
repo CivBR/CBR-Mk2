@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="6647604c-71e0-440d-84ac-3961b68fe4f7" version="1">
+  <Properties>
+    <Name>BuildingPlacer</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Building Placer</Teaser>
+    <Description>Building Placer</Description>
+    <Authors>CBR Dev Team</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="B4304A11DC935101EB8B5C2E094750E7" import="0">BuildingPlacer.lua</File>
+  </Files>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="BuildingPlacer.lua">
+      <Name>Building Placer</Name>
+      <Description>Building Placer</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

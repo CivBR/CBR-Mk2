@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="3fc234dd-e0ac-4673-aaa8-74f018f2e1f7" version="1">
+  <Properties>
+    <Name>Hidden UI Screen Shot Mod</Name>
+    <Stability>Beta</Stability>
+    <Teaser>This mod hides all graphical elements of the Civ 5 in game UI.</Teaser>
+    <Description>This mod hides all graphical elements of the Civ 5 in game UI. It also hides the unit flag and city banner.</Description>
+    <Authors>GraklDC</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>0</AffectsSavedGames>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="532626EC8F194EA1FB79FE7CE7DD33F3" import="1">InGame.lua</File>
+  </Files>
+</Mod>

@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="6876310e-f388-4a89-b088-efec2f32008a" version="1">
+  <Properties>
+    <Name>JFD's The United Kingdoms of Sweden-Norway</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]The United Kingdoms of Sweden-Norway[ENDCOLOR] with Oscar II to the game.</Teaser>
+    <Description>See CivFanatics or Steam Workshop for full details.</Description>
+    <Authors>JFD</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="JFD’s Prestige" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack    " />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="4400962CDDB57BFB9AA3B8F423FEB5BA" import="1">Art/Diplomacy/Oscar_Diplo.dds</File>
+    <File md5="C79324F79D82483E3401B758C0D239C0" import="1">Art/Diplomacy/Oscar_Scene.xml</File>
+    <File md5="42BFF7ED83DDA7CFC004E69CAE8FE7BB" import="1">Art/Graphics/Braunschweig_BB.fxsxml</File>
+    <File md5="15DCFEEEB25300581D6E8A3666AD1A00" import="1">Art/Graphics/Braunschweig_BB.gr2</File>
+    <File md5="AF149BEBA8E8554C0C8BAC7684404954" import="1">Art/Graphics/Braunschweig_BB_diff.dds</File>
+    <File md5="D3231D5FA3AFDCB5351C2A4B313AE3B4" import="1">Art/Graphics/sv_Tordenskjold.dds</File>
+    <File md5="59467D4EF1163E01C3294BCFCB8CDBE4" import="1">Art/Great Works/OscarII.dds</File>
+    <File md5="79E2B5C55FEB80393DD918DE098D864F" import="1">Art/Icon Atlas/JFD_TordenskjoldUnitFlag_32.dds</File>
+    <File md5="E56E2E8541CD3BC17E18BDAC4B9A0C21" import="1">Art/Icon Atlas/JFD_SwdenOscarIconAlphaAtlas_128.dds</File>
+    <File md5="AC9A2CEEE4A4FA7A99EAA0EF002368E8" import="1">Art/Icon Atlas/JFD_SwdenOscarIconAlphaAtlas_16.dds</File>
+    <File md5="C3658C69F476F3D46A8E8F3BFAAB443C" import="1">Art/Icon Atlas/JFD_SwdenOscarIconAlphaAtlas_22.dds</File>
+    <File md5="AA3AA3B2CBBEEB42124BAC845A30D145" import="1">Art/Icon Atlas/JFD_SwdenOscarIconAlphaAtlas_24.dds</File>
+    <File md5="2F725514C90F1F28D69DF560E7FB9826" import="1">Art/Icon Atlas/JFD_SwdenOscarIconAlphaAtlas_256.dds</File>
+    <File md5="D911EC0DD0ACFF0034909377CD768876" import="1">Art/Icon Atlas/JFD_SwdenOscarIconAlphaAtlas_32.dds</File>
+    <File md5="5446F258F3E953725ABF3B36CCDC9099" import="1">Art/Icon Atlas/JFD_SwdenOscarIconAlphaAtlas_45.dds</File>
+    <File md5="4ADB61867FE42F10120C983367216D92" import="1">Art/Icon Atlas/JFD_SwdenOscarIconAlphaAtlas_48.dds</File>
+    <File md5="A773C7B39ADBB315DDE16B4CB5970201" import="1">Art/Icon Atlas/JFD_SwdenOscarIconAlphaAtlas_64.dds</File>
+    <File md5="C57C319FEFB66D5424FAC5F27AA3E888" import="1">Art/Icon Atlas/JFD_SwdenOscarIconAlphaAtlas_80.dds</File>
+    <File md5="2733CBFD0C0C397AE38AB9BB995FD963" import="1">Art/Icon Atlas/JFD_SwdenOscarIconAtlas_128.dds</File>
+    <File md5="221B886A87A0D6C258C571F2AF361A7F" import="1">Art/Icon Atlas/JFD_SwdenOscarIconAtlas_256.dds</File>
+    <File md5="F7D14442C12CD9F718A91D3F1D19B2BB" import="1">Art/Icon Atlas/JFD_SwdenOscarIconAtlas_32.dds</File>
+    <File md5="FF1209CFE02E4DE9C5EF3E7D37201307" import="1">Art/Icon Atlas/JFD_SwdenOscarIconAtlas_45.dds</File>
+    <File md5="B8D09ED99B7288827D07BDC028469F75" import="1">Art/Icon Atlas/JFD_SwdenOscarIconAtlas_64.dds</File>
+    <File md5="4C6A9A6BD4A2A21D32B180AE63AAC5DE" import="1">Art/Icon Atlas/JFD_SwdenOscarIconAtlas_80.dds</File>
+    <File md5="4413E68A4384EBFF8D795D6904FEA438" import="1">Art/Map/DOM_OscarII.dds</File>
+    <File md5="486759B61F3DE2D267C38CA33B9638AE" import="1">Art/Map/SwedenOscarMap_512.dds</File>
+    <File md5="18C1DE032FEFD02BA13AEDA1DC67842C" import="1">Audio/Oscar_Peace.mp3</File>
+    <File md5="14B025D55B05F846D45BE6F9656D7CC0" import="1">Audio/Oscar_War.mp3</File>
+    <File md5="01EBCE38A90AE4CEE52454E54056E8A1" import="0">Core/JFD_SwedenNorway_ArtDefines.sql</File>
+    <File md5="905CD8C3015F509E5123DB2A2ECD8815" import="0">Core/JFD_SwedenNorway_GameDefines.sql</File>
+    <File md5="58670FC11A3BDFD6600FE4FA80322B7A" import="0">Core/JFD_SwedenNorway_GameDefines_Diplomacy.sql</File>
+    <File md5="D5B21D3777BD90874CEBBDAB0A568C83" import="0">Core/JFD_SwedenNorway_GameDefines_ModSupport.sql</File>
+    <File md5="CEBAB8E76B9FFF68B15F399F5721DDD3" import="0">Core/JFD_SwedenNorway_GameText.xml</File>
+    <File md5="E552D32BDA8569632885498CECA628B2" import="0">Core/JFD_SwedenNorway_GameText_Diplomacy.xml</File>
+    <File md5="0BC49CF01F7B19D9D9429E181D4B1741" import="0">Core/JFD_SwedenNorway_GameText_ModSupport.xml</File>
+    <File md5="C4B5E1329293555E2CABE495D141645A" import="0">Core/JFD_Sweden_GameDefines.sql</File>
+    <File md5="FFD8CC565FA060D2AD0AE198E4E4D807" import="0">Core/JFD_Sweden_GameText.xml</File>
+    <File md5="3665EA7314EC7714D3F5520365D7702A" import="0">DeleteMissingReferences.xml</File>
+    <File md5="3A20DECF25CAF5A37E01A7E354A5D936" import="1">Lua/JFD_SwedenNorway_Decisions.lua</File>
+    <File md5="BBD0550DE9DC05D3181293A8A77B3C5E" import="1">Lua/JFD_SwedenNorway_Events.lua</File>
+    <File md5="80A7D4947851AB1F906EA687ACC1D17E" import="0">Lua/JFD_SwedenNorway_Functions.lua</File>
+    <File md5="12216E3B48A9C79D0070D47EA6C58463" import="0">Lua/JFD_Sweden_Functions.lua</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Lua/Utilities/PlotIterators.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/JFD_Sweden_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_Sweden_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_SwedenNorway_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_SwedenNorway_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_SwedenNorway_GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_SwedenNorway_GameDefines_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_SwedenNorway_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_SwedenNorway_GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_SwedenNorway_GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>DeleteMissingReferences.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_SwedenNorway_Functions.lua">
+      <Name>JFD_SwedenNorway_Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_Sweden_Functions.lua">
+      <Name>JFD_Sweden_Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

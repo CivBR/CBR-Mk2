@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_TIBETANYAKS">
+			<Text>Encourage Yak Breeding</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TIBETANYAKS_DESC">
+			<Text>
+				Its wool can be woven, its milk can be drunk, its meat can be eaten and its strength utilised. Is not the yak vital to the Tibetan way of life? We should encourage our people to domesticate and breed them, that we might continue to flourish.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Tibet
+				[NEWLINE][ICON_BULLET]Player must have researched Animal Husbandry
+				[NEWLINE][ICON_BULLET]May only be enacted before the Industrial Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]{1_Food} [ICON_FOOD] Food
+				[NEWLINE][ICON_BULLET]{2_Prod} [ICON_PRODUCTION] Production
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: the amount of [ICON_FOOD] Food and [ICON_PRODUCTION] Production you receive will increase with the number of Pastures and Mountains you own[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TIBETANYAKS_ENACTED_DESC">
+			<Text>
+				Its wool can be woven, its milk can be drunk, its meat can be eaten and its strength utilised. Is not the yak vital to the Tibetan way of life? We should encourage our people to domesticate and breed them, that we might continue to flourish.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Lump sum of [ICON_FOOD] Food
+				[NEWLINE][ICON_BULLET]Lump sum of [ICON_PRODUCTION] Production
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: the amount of [ICON_FOOD] Food and [ICON_PRODUCTION] Production you receive will increase with the number of Pastures and Mountains you own[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TIBETANPOTALA">
+			<Text>Construct the Potala Palace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TIBETANPOTALA_DESC">
+			<Text>
+				Our religion is central to our culture, so is it not fitting that our religious leader should have an abode here in Tibet? Let us build a Palace wherein the Dalai Lama may reside.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Tibet[NEWLINE][ICON_BULLET]Player must have a majority religion[NEWLINE][ICON_BULLET]Must have Chortens in all cities[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Medieval Era[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Mountains provide +2 [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]+5 [ICON_PEACE] Faith and +1 Culture [ICON_CULTURE] in the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TIBETANPOTALA_ENACTED_DESC">
+			<Text>
+				Our religion is central to our culture, so is it not fitting that our religious leader should have an abode here in Tibet? Let us build a Palace wherein the Dalai Lama may reside.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Mountains provide +2 [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]+5 [ICON_PEACE] Faith and +1 Culture [ICON_CULTURE] in the Capital
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

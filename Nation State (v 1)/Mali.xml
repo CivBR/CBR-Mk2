@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_MINOR_CIV_MALI">
+			<Text>The Mali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_MALI_ADJ">
+			<Text>Malian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_MALI_1">
+			<Text>Boroumé</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_MALI_2">
+			<Text>Kandez</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_MALI_3">
+			<Text>Djounne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_MALI_4">
+			<Text>Kaladou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_MALI_5">
+			<Text>Josso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_MALI_6">
+			<Text>Djeneniali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_MALI_7">
+			<Text>Ouena</Text>
+		</Row>
+	</Language_en_US>
+	<MinorCivilizations>
+		<Row>
+			<Type>MINOR_CIV_MALI</Type>
+			<Description>TXT_KEY_MINOR_CIV_MALI</Description>
+			<ShortDescription>TXT_KEY_MINOR_CIV_MALI</ShortDescription>
+			<Adjective>TXT_KEY_MINOR_CIV_MALI_ADJ</Adjective>
+			<Civilopedia>No info</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_MINOR_CIV_MALI</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
+			<ArtStylePrefix>AFRICAN</ArtStylePrefix>
+			<ArtStyleSuffix>_SONGHAI</ArtStyleSuffix>
+			<MinorCivTrait>MINOR_TRAIT_MERCANTILE</MinorCivTrait>
+		</Row>
+	</MinorCivilizations>
+
+	<MinorCivilization_Flavors>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALI</MinorCivType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALI</MinorCivType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALI</MinorCivType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALI</MinorCivType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALI</MinorCivType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALI</MinorCivType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALI</MinorCivType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALI</MinorCivType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALI</MinorCivType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALI</MinorCivType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALI</MinorCivType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALI</MinorCivType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+	</MinorCivilization_Flavors>
+
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_MALI_ICON</Type>
+            <Red>0.3608</Red>
+            <Green>0.1725</Green>
+            <Blue>0.1725</Blue>
+            <Alpha>1.0</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_MALI_BACKGROUND</Type>
+            <Red>0.7843</Red>
+            <Green>0.6941</Green>
+            <Blue>0.3804</Blue>
+            <Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_MINOR_CIV_MALI</Type>
+			<PrimaryColor>COLOR_PLAYER_MINOR_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_MINOR_CIV_MALI_ICON</SecondaryColor>
+			<TextColor>COLOR_PLAYER_PEACH_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALI</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_MALI_1</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALI</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_MALI_2</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALI</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_MALI_3</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALI</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_MALI_4</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALI</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_MALI_5</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALI</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_MALI_6</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALI</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_MALI_7</CityName>
+		</Row>
+	</MinorCivilization_CityNames>
+</GameData>

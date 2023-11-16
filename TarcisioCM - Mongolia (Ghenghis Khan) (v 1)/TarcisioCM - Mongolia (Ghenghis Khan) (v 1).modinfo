@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="7875aafb-0c0b-4d6c-811c-ce38a6c5d741" version="1">
+  <Properties>
+    <Name>TarcisioCM - Mongolia (Ghenghis Khan)</Name>
+    <Teaser>Overhauls [COLOR_POSITIVE_TEXT]Mongolia[ENDCOLOR] under Genghis Khan.</Teaser>
+    <Description>Overhauls [COLOR_POSITIVE_TEXT]Mongolia[ENDCOLOR] under Genghis Khan.</Description>
+    <Authors>TarcisioCM</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="95CCCB793AE1A0CCA66B8E2F41990E16" import="0">MongolGameText.xml</File>
+    <File md5="A4097FB1192AD2DD9E88F2ED696BBA06" import="0">MongolMainCode.sql</File>
+    <File md5="D18F4BCA81F4D8C732038ACD04FA8931" import="0">MongolFunctions.lua</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">PlotIterators.lua</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">SaveUtils.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>MongolMainCode.sql</UpdateDatabase>
+      <UpdateDatabase>MongolGameText.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="MongolFunctions.lua">
+      <Name>Mongol Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

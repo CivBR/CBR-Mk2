@@ -1,0 +1,66 @@
+<!-->
+Colonialist Legacies' Australia
+Support for Events & Decisions Text
+Civitar, TPangolin
+</!-->
+
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_CL_AUSTRALIA_MOVE_CAPITAL">
+			<Text>Resolve the Capital Dispute</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CL_AUSTRALIA_MOVE_CAPITAL_DESC">
+			<Text>
+				Our two great cities, Sydney and Melbourne, have been at loggerheads as to which should be the national capital since the process of federation began. Such madness cannot be allowed to continue if we are to remain unified as a nation. Perhaps a different solution is called for…
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Australia
+				[NEWLINE][ICON_BULLET]Player must have founded at least 4 cities
+				[NEWLINE][ICON_BULLET]All Australian cities must be annexed
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The fourth city founded by Australia becomes the [ICON_CAPITAL] Capital
+				[NEWLINE][ICON_BULLET]A Prime Minister appears in the new [ICON_CAPITAL] Capital
+				[NEWLINE][ICON_BULLET]A [ICON_GOLDEN_AGE] Golden Age begins
+				[NEWLINE][ICON_BULLET]Cultural [ICON_GREAT_PEOPLE] Great People generation rate increased by 25%
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CL_AUSTRALIA_MOVE_CAPITAL_ENACTED_DESC">
+			<Text>
+				Our two great cities, Sydney and Melbourne, have been at loggerheads as to which should be the national capital since the process of federation began. Such madness cannot be allowed to continue if we are to remain unified as a nation. Perhaps a different solution is called for…
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The fourth city founded by Australia becomes the [ICON_CAPITAL] Capital
+				[NEWLINE][ICON_BULLET]A Prime Minister appears in the new [ICON_CAPITAL] Capital
+				[NEWLINE][ICON_BULLET]A [ICON_GOLDEN_AGE] Golden Age begins
+				[NEWLINE][ICON_BULLET]Cultural [ICON_GREAT_PEOPLE] Great People generation rate increased by 25%
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CL_AUSTRALIA_DINGO_FENCE">
+			<Text>End the Dingo Madness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CL_AUSTRALIA_DINGO_FENCE_DESC">
+			<Text>
+				The dingo, far from being basically the canine equivalent of the crazy old homeless man who shouts gibberish at passing traffic and sleeps underneath parked lorries, is in fact a menace to society, a ravager of women and devourer of innocent babes! Apparently! Which happened somewhere… we think… anyway, let’s put up a massive fence and ignore the rabbits, blackberries, and prickly pears that actually damage our environment beyond repair.
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Australia
+				[NEWLINE][ICON_BULLET]Player must have at least 5 Pastures
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_FOOD] Food from Pastures
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CL_AUSTRALIA_DINGO_FENCE_ENACTED_DESC">
+			<Text>
+				The dingo, far from being basically the canine equivalent of the crazy old homeless man who shouts gibberish at passing traffic and sleeps underneath parked lorries, is in fact a menace to society, a ravager of women and devourer of innocent babes! Apparently! Which happened somewhere… we think… anyway, let’s put up a massive fence and ignore the rabbits, blackberries, and prickly pears that actually damage our environment beyond repair.
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_FOOD] Food from Pastures
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

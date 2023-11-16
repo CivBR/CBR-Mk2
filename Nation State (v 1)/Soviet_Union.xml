@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_MINOR_CIV_SOVIET_UNION">
+			<Text>The Soviet Union</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_SOVIET_UNION_ADJ">
+			<Text>Soviet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_SOVIET_UNION_1">
+			<Text>Sagallo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_SOVIET_UNION_2">
+			<Text>Ross</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_SOVIET_UNION_3">
+			<Text>Elizabeth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_SOVIET_UNION_4">
+			<Text>Three Saints Bay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_SOVIET_UNION_5">
+			<Text>St. Paul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_SOVIET_UNION_6">
+			<Text>Kodiak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_SOVIET_UNION_7">
+			<Text>Old Sitka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_SOVIET_UNION_8">
+			<Text>Sitka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_SOVIET_UNION_9">
+			<Text>Nulato</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_SOVIET_UNION_10">
+			<Text>Stikine</Text>
+		</Row>
+	</Language_en_US>
+	<MinorCivilizations>
+		<Row>
+			<Type>MINOR_CIV_SOVIET_UNION</Type>
+			<Description>TXT_KEY_MINOR_CIV_SOVIET_UNION</Description>
+			<ShortDescription>TXT_KEY_MINOR_CIV_SOVIET_UNION</ShortDescription>
+			<Adjective>TXT_KEY_MINOR_CIV_SOVIET_UNION_ADJ</Adjective>
+			<Civilopedia>No info</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_MINOR_CIV_SOVIET_UNION</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_ASIAN</ArtStyleType>
+			<ArtStylePrefix>ASIAN</ArtStylePrefix>
+			<ArtStyleSuffix>_RUSSIA</ArtStyleSuffix>
+			<MinorCivTrait>MINOR_TRAIT_MILITARISTIC</MinorCivTrait>
+		</Row>
+	</MinorCivilizations>
+
+<!--FLAVOR_RELIGION:          Religious=10, other=3 
+<!--FLAVOR_CULTURE:           Cultured=10, other=3 
+<!--FLAVOR_GOLD:              Mercantile=10, other=3 
+<!--FLAVOR_NAVAL:             Maritime=8, other=3 
+<!--FLAVOR_GROWTH:            Maritime=8, other=3 
+<!--FLAVOR_CITY_DEFENSE:      Militaristic=7, other=3
+<!--FLAVOR_DEFENSE:           Militaristic=7, other=3
+<!--FLAVOR_OFFENSE:           Militaristic=7, other=3 
+<!--FLAVOR_MILITARY_TRAINING: Militaristic=7, other=3 --> 
+
+	<MinorCivilization_Flavors>
+		<Row>
+			<MinorCivType>MINOR_CIV_SOVIET_UNION</MinorCivType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SOVIET_UNION</MinorCivType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SOVIET_UNION</MinorCivType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SOVIET_UNION</MinorCivType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SOVIET_UNION</MinorCivType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SOVIET_UNION</MinorCivType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SOVIET_UNION</MinorCivType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SOVIET_UNION</MinorCivType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SOVIET_UNION</MinorCivType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SOVIET_UNION</MinorCivType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SOVIET_UNION</MinorCivType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SOVIET_UNION</MinorCivType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+	</MinorCivilization_Flavors>
+
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_SOVIET_UNION_ICON</Type>
+            <Red>0.945</Red>
+            <Green>0.713</Green>
+            <Blue>0.027</Blue>
+            <Alpha>1.0</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_SOVIET_UNION_BACKGROUND</Type>
+            <Red>0.45</Red>
+            <Green>0</Green>
+            <Blue>0</Blue>
+            <Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_MINOR_CIV_SOVIET_UNION</Type>
+			<PrimaryColor>COLOR_PLAYER_MINOR_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_MINOR_CIV_SOVIET_UNION_ICON</SecondaryColor>
+			<TextColor>COLOR_PLAYER_PEACH_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_SOVIET_UNION</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_SOVIET_UNION_1</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SOVIET_UNION</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_SOVIET_UNION_2</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SOVIET_UNION</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_SOVIET_UNION_3</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SOVIET_UNION</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_SOVIET_UNION_4</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SOVIET_UNION</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_SOVIET_UNION_5</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SOVIET_UNION</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_SOVIET_UNION_6</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SOVIET_UNION</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_SOVIET_UNION_7</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SOVIET_UNION</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_SOVIET_UNION_8</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SOVIET_UNION</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_SOVIET_UNION_9</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SOVIET_UNION</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_SOVIET_UNION_10</CityName>
+		</Row>
+	</MinorCivilization_CityNames>
+</GameData>

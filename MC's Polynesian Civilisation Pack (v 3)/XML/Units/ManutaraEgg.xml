@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Leugi, King of Kings -->
+<GameData>
+	<Improvements>
+		<Row>
+			<Type>IMPROVEMENT_MANUTARA_SITE</Type>
+			<Description>TXT_KEY_IMPROVEMENT_MANUTARA_SITE</Description>
+			<Civilopedia>TXT_KEY_IMPROVEMENT_MANUTARA_SITE_TEXT</Civilopedia>
+			<Help>TXT_KEY_BUILD_MANUTARA_SITE_HELP</Help>
+			<HillsMakesValid>true</HillsMakesValid>
+			<Coastal>true</Coastal>
+			<PortraitIndex>16</PortraitIndex>
+			<IconAtlas>MC_POLYNESIA_ATLAS</IconAtlas>
+		</Row>
+	</Improvements>
+	<Builds>
+		<Row>
+			<Type>BUILD_MANUTARA</Type>
+			<ImprovementType>IMPROVEMENT_MANUTARA_SITE</ImprovementType>
+			<Description>TXT_KEY_BUILD_MANUTARA</Description>
+			<Help>TXT_KEY_BUILD_MANUTARA_HELP</Help>
+			<Recommendation>TXT_KEY_BUILD_MANUTARA</Recommendation>
+			<ShowInPedia>false</ShowInPedia>
+			<!--<PrereqTech>TECH_CONSTRUCTION</PrereqTech>
+			<ShowInTechTree>false</ShowInTechTree>-->
+			<Time>500</Time>
+			<EntityEvent>ENTITY_EVENT_CHOP</EntityEvent>
+			<HotKey>KB_A</HotKey>
+			<OrderPriority>1</OrderPriority>
+			<CtrlDown>1</CtrlDown>
+			<IconIndex>17</IconIndex>
+			<IconAtlas>MC_POLYNESIA_ATLAS</IconAtlas>
+		</Row>
+	</Builds>
+	<Resources>
+		<Row>
+			<Type>RESOURCE_MANUTARA_EGG</Type>
+			<Description>TXT_KEY_IMPROVEMENT_MANUTARA_SITE</Description>
+			<Civilopedia>TXT_KEY_IMPROVEMENT_MANUTARA_SITE_TEXT</Civilopedia>
+			<Help>TXT_KEY_BUILD_MANUTARA_SITE_HELP</Help>
+			<ResourceClassType>RESOURCECLASS_BONUS</ResourceClassType>
+			<PortraitIndex>16</PortraitIndex>
+			<IconAtlas>MC_POLYNESIA_ATLAS</IconAtlas>
+			<IconString>[ICON_RES_MANUTARA]</IconString>
+		</Row>
+	</Resources>
+	<Resource_YieldChanges>
+		<Row>
+			<ResourceType>RESOURCE_MANUTARA_EGG</ResourceType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Resource_YieldChanges>
+	<Language_en_US>
+
+		<Replace Tag="TXT_KEY_IMPROVEMENT_MANUTARA_SITE">
+			<Text>Manu-Tara Egg Site</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILD_MANUTARA_SITE_HELP">
+			<Text>On this tile the Tangata Manu found a Manu Tara egg, making it a sacred place</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_IMPROVEMENT_MANUTARA_SITE_TEXT">
+			<Text>The locations in which Manu-tara eggs were founded in the Tangata-Manu ritual were often deemed to be sacred sites in the Rapa Nui faith, and were protected as a result.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILD_MANUTARA">
+			<Text>Search for a Manu-Tara Egg!</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILD_MANUTARA_HELP">
+			<Text>Orders the unit to search for a Manu-Tara egg on this tile. If an egg is found, this unit will be upgraded to a Tangata Manu, increasing its combat strength. The tile will also receive a Manu-Tara egg resource, granting +1 Faith more.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_MC_TANGATAMANU_ALERT">
+			<Text>Our Matato'a has discovered a Manu-Tara egg, and is now a Tangata-Manu!</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NOTIFICATION_NOEGG">
+			<Text>No Manu-Tara egg was found on this tile, you should try on another one.</Text>
+		</Replace>
+	</Language_en_US>
+	<Unit_Builds>
+		<Row>
+			<UnitType>UNIT_MC_RAPA_NUI_MATATOA</UnitType>
+			<BuildType>BUILD_MANUTARA</BuildType>
+		</Row>
+	</Unit_Builds>
+</GameData>

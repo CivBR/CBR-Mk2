@@ -1,0 +1,15 @@
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_MC_WALLS_OF_SPARTA</Type>
+			<Description>TXT_KEY_TRAIT_MC_WALLS_OF_SPARTA</Description>
+			<ShortDescription>TXT_KEY_TRAIT_MC_WALLS_OF_SPARTA_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+	<Policies>
+		<Row>
+			<Type>POLICY_C15_SPARTA_GENERAL</Type>
+			<Description>TXT_KEY_C15_SPARTA_GENERAL</Description>
+		</Row>
+	</Policies>
+</GameData>

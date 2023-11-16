@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Pouakai-->
+<GameData>
+	<Policies>
+		<Row>
+			<Type>POLICY_DECISIONS_RAPANUIHURIMOAI</Type>
+			<Description>TXT_KEY_POLICY_FREE_RELIGION</Description>
+			<Civilopedia>TXT_KEY_POLICY_FREERELIGION_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_FREE_RELIGION_HELP</Help>
+			<GridX>988</GridX>
+			<GridY>1000</GridY>
+			<PortraitIndex>47</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</Row>
+		<Row>
+			<Type>POLICY_DECISIONS_RAPANUIMANAVAI</Type>
+			<Description>TXT_KEY_POLICY_FREE_RELIGION</Description>
+			<Civilopedia>TXT_KEY_POLICY_FREERELIGION_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_FREE_RELIGION_HELP</Help>
+			<GridX>989</GridX>
+			<GridY>1000</GridY>
+			<PortraitIndex>47</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</Row>
+	</Policies>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_DECISIONS_HAWAIIPAKUIALUA</Type>
+			<BuildingClass>BUILDINGCLASS_DECISIONS_HAWAIIPAKUIALUA</BuildingClass>
+			<Description>TXT_KEY_DECISIONS_HAWAIIPAKUIALUA</Description>
+			<Cost>-1</Cost>
+			<TrainedFreePromotion>PROMOTION_MC_DECISION_OLOHE</TrainedFreePromotion>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<FaithCost>-1</FaithCost>
+		</Row>
+		<Row>
+			<Type>BUILDING_DECISIONS_TONGATAKALAUA</Type>
+			<BuildingClass>BUILDINGCLASS_DECISIONS_TONGATAKALAUA</BuildingClass>
+			<Description>TXT_KEY_DECISIONS_TONGATAKALAUA</Description>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<FaithCost>-1</FaithCost>
+		</Row>
+		<Row>
+			<Type>BUILDING_DECISIONS_KANOKUPOLU</Type>
+			<BuildingClass>BUILDINGCLASS_DECISIONS_KANOKUPOLU</BuildingClass>
+			<Description>TXT_KEY_DECISIONS_TONGATAKALAUA</Description>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<FaithCost>-1</FaithCost>
+		</Row>
+		<Row>
+			<Type>BUILDING_DECISIONS_TONGAVAVAUCODE</Type>
+			<BuildingClass>BUILDINGCLASS_DECISIONS_TONGAVAVAUCODE</BuildingClass>
+			<Description>TXT_KEY_DECISIONS_TONGAVAVAUCODE</Description>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<Happiness>1</Happiness>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<FaithCost>-1</FaithCost>
+		</Row>
+	</Buildings>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_DECISIONS_TONGATAKALAUA</BuildingType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>5</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_DECISIONS_KANOKUPOLU</BuildingType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>5</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_DECISIONS_TONGAVAVAUCODE</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>3</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_DECISIONS_HAWAIIPAKUIALUA</Type>
+			<DefaultBuilding>BUILDING_DECISIONS_HAWAIIPAKUIALUA</DefaultBuilding>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_DECISIONS_TONGATAKALAUA</Type>
+			<DefaultBuilding>BUILDING_DECISIONS_TONGATAKALAUA</DefaultBuilding>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_DECISIONS_KANOKUPOLU</Type>
+			<DefaultBuilding>BUILDING_DECISIONS_KANOKUPOLU</DefaultBuilding>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_DECISIONS_TONGAVAVAUCODE</Type>
+			<DefaultBuilding>BUILDING_DECISIONS_TONGAVAVAUCODE</DefaultBuilding>
+		</Row>
+	</BuildingClasses>
+	<Building_DomainFreeExperiences>
+		<Row>
+			<BuildingType>BUILDING_DECISIONS_HAWAIIPAKUIALUA</BuildingType>
+			<DomainType>DOMAIN_LAND</DomainType>
+			<Experience>10</Experience>
+		</Row>
+	</Building_DomainFreeExperiences>
+	<Language_en_US>
+		<!-- Hawaii -->
+		<Row Tag="TXT_KEY_DECISIONS_HAWAIIPAKUIALUA">
+			<Text>Establish the Pa Ku'ialua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_HAWAIIPAKUIALUA_DESC">
+			<Text>
+				The ancient art of Kapu Ku'ialua slowly fades from the minds of the Hawaiian people. We must found schools to ensure this martial art remains strong in our people's culture.
+				[NEWLINE]
+				[NEWLINE]Requirements/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Hawaii
+				[NEWLINE][ICON_BULLET]Player must have researched Education
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]{2_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Land units trained in a city with a University receive an additional 10 XP
+				[NEWLINE][ICON_BULLET]All units trained in a city with a University receive the 'Olohe promotion, which gives a +10% combat bonus and the ability to heal 15 damage when it kills an enemy unit.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_HAWAIIPAKUIALUA_ENACTED_DESC">
+			<Text>
+				The ancient art of Kapu Ku'ialua slowly fades from the minds of the Hawaiian people. We must found schools to ensure this martial art remains strong in our people's culture.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Land units trained in a city with a University receive an additional 10 XP
+				[NEWLINE][ICON_BULLET]All units trained in a city with a University receive the 'Olohe promotion, which gives a +15% combat bonus when wounded.
+			</Text>
+		</Row>
+		<Update>
+			<Where Tag="TXT_KEY_DECISIONS_POLYNESIAPADDLE_DESC"/>
+			<Set>
+				<Text>
+					Let us bring peace to our civilians by proclaiming the Kanawai Mamalahoe; the Law of the Splintered Paddle, that every elderly person, woman and child might lie by the roadside in safety.[NEWLINE]
+					[NEWLINE]Requirement/Restrictions:
+					[NEWLINE][ICON_BULLET]Player must be Hawaii
+					[NEWLINE][ICON_BULLET]Must have 5 Military Units or more
+					[NEWLINE][ICON_BULLET]May only be enacted once per game
+					[NEWLINE]Costs:
+					[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+					[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+					[NEWLINE]Rewards:
+					[NEWLINE][ICON_BULLET]Empire enters a [ICON_GOLDEN_AGE] Golden Age
+					[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: The length of the [ICON_GOLDEN_AGE] Golden Age will depend on the number of units; if enacted now it will last {2_Turns} turns[ENDCOLOR]
+				</Text>
+			</Set>
+		</Update>
+		<!--Maori-->
+		<Update>
+			<Where Tag="TXT_KEY_DECISIONS_POLYNESIARUNANGA_DESC"/>
+			<Set>
+				<Text>
+					In the 1850s, in response to the European colonisation of New Zealand and the alienation of Maori land, the Maori began reviving the ancient tribal Runanga or chiefly war councils.[NEWLINE]
+					[NEWLINE]Requirement/Restrictions:
+					[NEWLINE][ICON_BULLET]Player must be the Maori
+					[NEWLINE][ICON_BULLET]There must be a Unit with the Haka War Dance Promotion in the Capital
+					[NEWLINE][ICON_BULLET]May only be enacted in the Industrial or Modern Era
+					[NEWLINE][ICON_BULLET]May only be enacted once per game
+					[NEWLINE]Costs:
+					[NEWLINE][ICON_BULLET]The unit is disbanded
+					[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+					[NEWLINE]Rewards:
+					[NEWLINE][ICON_BULLET]Receive a free Social Policy
+				</Text>
+			</Set>
+		</Update>
+		<Row Tag="TXT_KEY_DECISIONS_MAORI_GUNFIGHTER_PA">
+			<Text>Develop Gunfighter Pa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MAORI_GUNFIGHTER_PA_DESC">
+			<Text>
+				The arrival of gunpowder weaponry has made our fortified villages vulnerable to attack! We should develop methods in Pa building which allow us to better protect against these new weapons!
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Maori
+				[NEWLINE][ICON_BULLET]Player must have at least {1_NumPa} Pa within their territory
+				[NEWLINE][ICON_BULLET]Player must have researched Gunpowder
+				[NEWLINE][ICON_BULLET]Player must be at War
+				[NEWLINE][ICON_BULLET]May only be enacted once
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{2_NumMagistrates} [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]{3_NumScience} [ICON_RESEARCH] Science
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Pa are transformed into Gunfighter Pa
+				[NEWLINE][ICON_BULLET]Units stationed on Gunfighter Pa receive a promotion against gun units
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MAORI_GUNFIGHTER_PA_ENACTED_DESC">
+			<Text>
+				The arrival of gunpowder weaponry has made our fortified villages vulnerable to attack! We should develop methods in Pa building which allow us to better protect against these new weapons!
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Pa are transformed into Gunfighter Pa
+				[NEWLINE][ICON_BULLET]Units stationed on Gunfighter Pa receive a promotion against gun units
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_MAORI_GUNFIGHTER_PA">
+			<Text>Gunfighter Pa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_MC_MAORI_GUNFIGHTER_PA">
+			<Text>Build a Gunfighter Pa</Text>
+		</Row>
+		<!--Rapa Nui-->
+		<Row Tag="TXT_KEY_DECISIONS_RAPANUIHURIMOAI">
+			<Text>Huri-Moai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RAPANUIHURIMOAI_DESC">
+			<Text>
+				Rogue Matato'a defy the mana of the ancestral ariki and terrorize the countryside. The people look to you to restore peace to the land and honor to the moai.
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Rapa Nui
+				[NEWLINE][ICON_BULLET]Must have at least 5 Moai
+				[NEWLINE][ICON_BULLET]May only be enacted in the Classical or Medieval Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Cost} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]A Barbarian Matato'a appears on 1 out of every 3 Moai
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+2 [ICON_CULTURE] Culture on Moai and Quarries
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: the [ICON_GOLD] Gold cost will decrease with the number of Moai you own[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RAPANUIHURIMOAI_ENACTED_DESC">
+			<Text>
+				Rogue Matato'a defy the mana of the ancestral ariki and terrorize the countryside. The people look to you to restore peace to the land and honor to the moai.
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+2 [ICON_CULTURE] Culture on Moai and Quarries
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RAPANUIMANAVAI">
+			<Text>Construct Manavai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RAPANUIMANAVAI_DESC">
+			<Text>
+				Our fields are exposed to the ravages of the elements, but by placing scattering stones through our fields, we may have discovered a way of improving our harvests and protect against erosion.
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Rapa Nui
+				[NEWLINE][ICON_BULLET]Must have at least one Stone Works
+				[NEWLINE][ICON_BULLET]Player must have researched Chemistry[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Science} [ICON_RESEARCH] Science
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Farms yield +1 [ICON_FOOD] Food
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RAPANUIMANAVAI_ENACTED_DESC">
+			<Text>
+				Our fields are exposed to the ravages of the elements, but by placing scattering stones through our fields, we may have discovered a way of improving our harvests and protect against erosion.
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Farms yield +1 [ICON_FOOD] Food
+			</Text>
+		</Row>
+		<!--Tonga-->
+		<Row Tag="TXT_KEY_DECISIONS_TONGATAKALAUA">
+			<Text>Promote the Tui Takalaua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TONGATAKALAUA_DESC">
+			<Text>
+				The Takalaua and the Kanokupolu are two cadet branches of the royal Tu'i Tonga lineage. The Tu'i Tonga appointed the Takalaua to handle routine internal affairs, so that the office of the Tui Tonga could focus more on religious concerns. While the Tui Tonga became increasingly focused on matters of faith, it lost most of its secular power and the Takalaua and the Kanokupolu vied for power between themselves.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Tonga
+				[NEWLINE][ICON_BULLET]Must have completed at least 1 Social Policy tree
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]The Capital [ICON_CAPITAL] enters 5 turns of [ICON_RESISTANCE] Resistance
+				[NEWLINE][ICON_BULLET]Unenacts the "Promote the Tui Kanokupolu" Decision if enacted
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Cities with an outgoing Domestic Trade Route recieve +5 [ICON_PEACE] Faith and + 15% [ICON_CULTURE] Culture
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TONGATAKALAUA_ENACTED_DESC">
+			<Text>
+				The Takalaua and the Kanokupolu are two cadet branches of the royal Tu'i Tonga lineage. The Tu'i Tonga appointed the Takalaua to handle routine internal affairs, so that the office of the Tui Tonga could focus more on religious concerns. While the Tui Tonga became increasingly focused on matters of faith, it lost most of its secular power and the Takalaua and the Kanokupolu vied for power between themselves.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Cities with an outgoing Domestic Trade Route recieve +5 [ICON_PEACE] Faith and + 15% [ICON_CULTURE] Culture
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TONGAKANOKUPOLU">
+			<Text>Promote the Tui Kanokupolu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TONGAKANOKUPOLU_DESC">
+			<Text>
+				The Takalaua and the Kanokupolu are two cadet branches of the royal Tu'i Tonga lineage. The Tu'i Tonga appointed the Kanokupolu to focus on external affairs and foreign relations, so that the office of the Tui Tonga could focus more on religious concerns. While the Tui Tonga became increasingly focused on matters of faith, it lost most of its secular power and the Takalaua and the Kanokupolu vied for power between themselves.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Tonga
+				[NEWLINE][ICON_BULLET]Must have completed at least 1 Social Policy tree
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]The Capital [ICON_CAPITAL] enters 5 turns of [ICON_RESISTANCE] Resistance
+				[NEWLINE][ICON_BULLET]Unenacts the "Promote the Tui Takalaua" Decision if enacted
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Cities with an outgoing International Trade Route recieve +5 [ICON_PEACE] Faith and + 15% [ICON_RESEARCH] Science
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TONGAKANOKUPOLU_ENACTED_DESC">
+			<Text>
+				The Takalaua and the Kanokupolu are two cadet branches of the royal Tu'i Tonga lineage. The Tu'i Tonga appointed the Takalaua to handle routine internal affairs, so that the office of the Tui Tonga could focus more on religious concerns. While the Tui Tonga became increasingly focused on matters of faith, it lost most of its secular power and the Takalaua and the Kanokupolu vied for power between themselves.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Cities with an outgoing International Trade Route recieve +5 [ICON_PEACE] Faith and + 15% [ICON_RESEARCH] Science
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TONGAVAVAUCODE">
+			<Text>Write the Vava'u Code</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TONGAVAVAUCODE_DESC">
+			<Text>
+				In order to protect our islands from the expansionism of others, we should codify the laws of our islands. It will allow us to define exactly what it means to be Tongan![NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Tonga
+				[NEWLINE][ICON_BULLET]Must have at least one Courthouse
+				[NEWLINE][ICON_BULLET]Player must have researched Mathematics
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]{2_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Each city with a Courthouse receives +3 [ICON_CULTURE] Culture and +1 [ICON_HAPPINESS_1] Happiness
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TONGAVAVAUCODE_ENACTED_DESC">
+			<Text>
+				In order to protect our islands from the expansionism of others, we should codify the laws of our islands. It will allow us to define exactly what it means to be Tongan![NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Each city with a Courthouse receives +3 [ICON_CULTURE] Culture and +1 [ICON_HAPPINESS_1] Happiness
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_DECISION_OLOHE">
+			<Text>'Olohe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_DECISION_OLOHE_HELP">
+			<Text>10% Combat boost, and heals 15 damage if it kills an enemy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_DECISION_GUNFIGHTER">
+			<Text>Gunfighter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_DECISION_GUNFIGHTER_HELP">
+			<Text>+25% combat boost against gunpowder units</Text>
+		</Row>
+		<!-- Wayfinders -->
+		<Delete Tag="TXT_KEY_EVENT_JFD_OCEANIC_WAYFINDERS" />
+		<Delete Tag="TXT_KEY_EVENT_JFD_OCEANIC_WAYFINDERS_DESC" />
+		<Delete Tag="TXT_KEY_EVENT_JFD_OCEANIC_WAYFINDERS_OUTCOME_1" />
+		<Delete Tag="TXT_KEY_EVENT_JFD_OCEANIC_WAYFINDERS_OUTCOME_RESULT_1" />
+		<Delete Tag="TXT_KEY_JFD_OCEANIC_WAYFINDERS_OUTCOME_RESULT_1_NOTIFICATION" />
+		<Row Tag="TXT_KEY_EVENT_JFD_OCEANIC_WAYFINDERS">
+			<Text>Wayfinders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_OCEANIC_WAYFINDERS_DESC">
+			<Text>
+				The waves on the horizon speak of unseen islands beyond.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_OCEANIC_WAYFINDERS_OUTCOME_1">
+			<Text>We shall follow Maui’s Hook until it draws up new lands..</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_OCEANIC_WAYFINDERS_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Receive a free Settler which can embark across Oceans and which gains additional Sight. This unit may only found a city on a foreign continent[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_OCEANIC_WAYFINDERS_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have been inspired to seek out unknown lands beyond the seas.</Text>
+		</Row>
+		<!--Other mod support-->
+		<!--Wish for the World-->
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MC_TE_RAUPARAHA">
+			<Text>Papatuanuku</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MC_AHO_EITU">
+			<Text>Salote</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MC_HOTU_MATUA">
+			<Text>Makemake</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--Unique Cultural Influence-->
+		<Row Tag="TXT_KEY_GENERIC_MC_MAORI_INFLUENTIAL_ON_AI_1">
+			<Text>My people have started to sing your waiata and perform your haka. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_MC_TONGA_INFLUENTIAL_ON_AI_1">
+			<Text>My people have started to sail your outriggers and cook Umu. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_MC_RAPA_NUI_INFLUENTIAL_ON_AI_1">
+			<Text>My people have started to follow your bird cults and carve their ancestors in stone. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+	</Language_en_US>
+	<Building_YieldModifiers>
+		<Row>
+			<BuildingType>BUILDING_DECISIONS_TONGATAKALAUA</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>15</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_DECISIONS_KANOKUPOLU</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>15</Yield>
+		</Row>
+	</Building_YieldModifiers>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_MC_DECISION_OLOHE</Type>
+			<Description>TXT_KEY_PROMOTION_MC_DECISION_OLOHE</Description>
+			<Help>TXT_KEY_PROMOTION_MC_DECISION_OLOHE_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>59</PortraitIndex>
+			<HPHealedIfDestroyEnemy>15</HPHealedIfDestroyEnemy>
+			<HealIfDestroyExcludesBarbarians>false</HealIfDestroyExcludesBarbarians>
+			<CombatPercent>10</CombatPercent>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_SHARED</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_MC_OLOHE</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_MC_DECISION_GUNFIGHTER</Type>
+			<Description>TXT_KEY_PROMOTION_MC_DECISION_GUNFIGHTER</Description>
+			<Help>TXT_KEY_PROMOTION_MC_DECISION_GUNFIGHTER_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>59</PortraitIndex>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_SHARED</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_MC_DECISION_GUNFIGHTER</PediaEntry>
+		</Row>
+	</UnitPromotions>
+	<UnitPromotions_UnitCombatMods>
+		<Row>
+			<PromotionType>PROMOTION_MC_DECISION_GUNFIGHTER</PromotionType>
+			<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+			<Modifier>25</Modifier>
+		</Row>
+	</UnitPromotions_UnitCombatMods>
+	<Policy_ImprovementYieldChanges>
+		<Row>
+			<PolicyType>POLICY_DECISIONS_RAPANUIHURIMOAI</PolicyType>
+			<ImprovementType>IMPROVEMENT_MOAI</ImprovementType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DECISIONS_RAPANUIHURIMOAI</PolicyType>
+			<ImprovementType>IMPROVEMENT_QUARRY</ImprovementType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DECISIONS_RAPANUIMANAVAI</PolicyType>
+			<ImprovementType>IMPROVEMENT_FARM</ImprovementType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Policy_ImprovementYieldChanges>
+	<UnitPromotions_UnitCombats>
+		<Row>
+			<PromotionType>PROMOTION_MC_DECISION_OLOHE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_RECON</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_MC_DECISION_OLOHE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_MC_DECISION_OLOHE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_MC_DECISION_OLOHE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_MC_DECISION_OLOHE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_SIEGE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_MC_DECISION_OLOHE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_MC_DECISION_OLOHE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_ARMOR</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_MC_DECISION_OLOHE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_HELICOPTER</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_MC_DECISION_OLOHE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_NAVALRANGED</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_MC_DECISION_OLOHE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_NAVALMELEE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_MC_DECISION_OLOHE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_SUBMARINE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_MC_DECISION_GUNFIGHTER</PromotionType>
+			<UnitCombatType>UNITCOMBAT_RECON</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_MC_DECISION_GUNFIGHTER</PromotionType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_MC_DECISION_GUNFIGHTER</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_MC_DECISION_GUNFIGHTER</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_MC_DECISION_GUNFIGHTER</PromotionType>
+			<UnitCombatType>UNITCOMBAT_SIEGE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_MC_DECISION_GUNFIGHTER</PromotionType>
+			<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_MC_DECISION_GUNFIGHTER</PromotionType>
+			<UnitCombatType>UNITCOMBAT_ARMOR</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_MC_DECISION_GUNFIGHTER</PromotionType>
+			<UnitCombatType>UNITCOMBAT_HELICOPTER</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_MC_DECISION_GUNFIGHTER</PromotionType>
+			<UnitCombatType>UNITCOMBAT_NAVALRANGED</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_MC_DECISION_GUNFIGHTER</PromotionType>
+			<UnitCombatType>UNITCOMBAT_NAVALMELEE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_MC_DECISION_GUNFIGHTER</PromotionType>
+			<UnitCombatType>UNITCOMBAT_SUBMARINE</UnitCombatType>
+		</Row>
+	</UnitPromotions_UnitCombats>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>TECH_ATLAS_DLC_03</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>TechnologyAtlas256_Polynesia.dds</Filename>
+			<IconsPerRow>3</IconsPerRow>
+			<IconsPerColumn>3</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>TECH_ATLAS_DLC_03</Atlas>
+			<IconSize>214</IconSize>
+			<Filename>TechnologyAtlas214_Polynesia.dds</Filename>
+			<IconsPerRow>3</IconsPerRow>
+			<IconsPerColumn>3</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>TECH_ATLAS_DLC_03</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>TechnologyAtlas128_Polynesia.dds</Filename>
+			<IconsPerRow>3</IconsPerRow>
+			<IconsPerColumn>3</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>TECH_ATLAS_DLC_03</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>TechnologyAtlas80_Polynesia.dds</Filename>
+			<IconsPerRow>3</IconsPerRow>
+			<IconsPerColumn>3</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>TECH_ATLAS_DLC_03</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>TechnologyAtlas64_Polynesia.dds</Filename>
+			<IconsPerRow>3</IconsPerRow>
+			<IconsPerColumn>3</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>TECH_ATLAS_DLC_03</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>TechnologyAtlas45_Polynesia.dds</Filename>
+			<IconsPerRow>3</IconsPerRow>
+			<IconsPerColumn>3</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+</GameData>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_MINOR_CIV_ZULU">
+			<Text>The Zulu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_ZULU_ADJ">
+			<Text>Zulu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_ZULU_1">
+			<Text>Kalemingo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_ZULU_2">
+			<Text>Boenga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_ZULU_3">
+			<Text>Makuru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_ZULU_4">
+			<Text>Bosokwi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_ZULU_5">
+			<Text>Ruwendu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_ZULU_6">
+			<Text>Binde</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_ZULU_7">
+			<Text>Diba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_ZULU_8">
+			<Text>Kiteingo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_ZULU_9">
+			<Text>Masok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_ZULU_10">
+			<Text>Kalani</Text>
+		</Row>
+	</Language_en_US>
+	<MinorCivilizations>
+		<Row>
+			<Type>MINOR_CIV_ZULU</Type>
+			<Description>TXT_KEY_MINOR_CIV_ZULU</Description>
+			<ShortDescription>TXT_KEY_MINOR_CIV_ZULU</ShortDescription>
+			<Adjective>TXT_KEY_MINOR_CIV_ZULU_ADJ</Adjective>
+			<Civilopedia>No info</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_MINOR_CIV_ZULU</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
+			<ArtStylePrefix>AFRICAN</ArtStylePrefix>
+			<ArtStyleSuffix>_ZULU</ArtStyleSuffix>
+			<MinorCivTrait>MINOR_TRAIT_MILITARISTIC</MinorCivTrait>
+		</Row>
+	</MinorCivilizations>
+	
+	<MinorCivilization_Flavors>
+		<Row>
+			<MinorCivType>MINOR_CIV_ZULU</MinorCivType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ZULU</MinorCivType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ZULU</MinorCivType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ZULU</MinorCivType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ZULU</MinorCivType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ZULU</MinorCivType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ZULU</MinorCivType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ZULU</MinorCivType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ZULU</MinorCivType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ZULU</MinorCivType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ZULU</MinorCivType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ZULU</MinorCivType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+	</MinorCivilization_Flavors>
+
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_ZULU_ICON</Type>
+            <Red>0.4196078431</Red>
+            <Green>0.1960784314</Green>
+            <Blue>0.09803921569</Blue>
+            <Alpha>1.0</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_ZULU_BACKGROUND</Type>
+            <Red>1</Red>
+            <Green>0.9098039216</Green>
+            <Blue>0.8392156863</Blue>
+            <Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_MINOR_CIV_ZULU</Type>
+			<PrimaryColor>COLOR_PLAYER_MINOR_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_MINOR_CIV_ZULU_ICON</SecondaryColor>
+			<TextColor>COLOR_PLAYER_PEACH_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_ZULU</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_ZULU_1</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ZULU</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_ZULU_2</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ZULU</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_ZULU_3</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ZULU</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_ZULU_4</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ZULU</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_ZULU_5</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ZULU</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_ZULU_6</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ZULU</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_ZULU_7</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ZULU</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_ZULU_8</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ZULU</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_ZULU_9</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ZULU</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_ZULU_10</CityName>
+		</Row>
+	</MinorCivilization_CityNames>
+</GameData>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>	
+		<!--Assemble the Althing-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ICELAND_ASSEMBLE_THE_ALTHING">
+			<Text>Assemble the Althing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ICELAND_ASSEMBLE_THE_ALTHING_DESC">
+			<Text>
+				It is that time once more; to call together our wisest men to determine the laws and policies of our noble people in a sound and equitable discussion.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Iceland
+				[NEWLINE][ICON_BULLET]Must have a Thingstead in all cities
+				[NEWLINE][ICON_BULLET]May only be enacted once per era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_GOLDEN_AGE] Golden Age points
+				[NEWLINE][ICON_BULLET]{2_Num} [ICON_CULTURE] Culture
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ICELAND_ASSEMBLE_THE_ALTHING_ENACTED_DESC">
+			<Text>
+				It is that time once more; to call together our wisest men to determine the laws and policies of our noble people in a sound and equitable discussion.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Lump sum of [ICON_GOLDEN_AGE] Golden Age points
+				[NEWLINE][ICON_BULLET]Lump sum of [ICON_CULTURE] Culture
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_ICELAND_ASSEMBLE_THE_ALTHING">
+			<Text>Ingolfur Arnarson of Iceland has assembled the Althing; a parliament of Iceland's elders.</Text>
+		</Row>
+		<!--Compose the Landnámabók-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ICELAND_COMPOSE_THE_LANDNAMABOK">
+			<Text>Compose the Landnámabók</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ICELAND_COMPOSE_THE_LANDNAMABOK_DESC">
+			<Text>
+				A comprehensive scripture detailing the settlement of our people would be of invalueable importance to our society. More importantly, it would provide ample opportunity to glorify the excursions of our ancestors. We should compose the Landnámabók immediately.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Iceland
+				[NEWLINE][ICON_BULLET]Must have a Skald in the capital
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Medieval Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]1 [ICON_GREAT_PEOPLE] Skald
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]20% [ICON_GREAT_PEOPLE] Great Writer generation
+				[NEWLINE][ICON_BULLET]20% more [ICON_GREAT_PEOPLE] Great Writer points from Naval Combat
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ICELAND_COMPOSE_THE_LANDNAMABOK_ENACTED_DESC">
+			<Text>
+				A comprehensive scripture detailing the settlement of our people would be of invalueable importance to our society. More importantly, it would provide ample opportunity to glorify the excurcisons of our ancestors. We should compose the Landnámabók immediately.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]20% [ICON_GREAT_PEOPLE] Great Writer generation in all cities
+				[NEWLINE][ICON_BULLET]20% more [ICON_GREAT_PEOPLE] Great Writer points from Naval Combat
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="1f620f0f-af76-4517-91db-253b2674c1c1" version="1">
+  <Properties>
+    <Name>Free Expansion - No City Unhappiness Penalty</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Removes the unhappiness malus for additional cities that you settle. Does not remove occupation penalty.</Teaser>
+    <Description>Removes the -3 unhappiness you get for additional cities that you settle. Does not remove unhappiness from population, unhappiness from occupied population, nor occupied cities penalty.</Description>
+    <Authors>Numenor</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="B0D62D03FA8E9087E4EB5D96953E2828" import="0">Settling_Unhappiness.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Settling_Unhappiness.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

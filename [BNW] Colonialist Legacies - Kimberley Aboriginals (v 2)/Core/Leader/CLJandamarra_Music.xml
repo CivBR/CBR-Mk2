@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/22/2015 6:24:49 PM -->
+<GameData>
+	<Audio_Sounds>
+		<!--CLJandamarra Music-->
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_CLJANDAMARRA_PEACE</SoundID>
+			<Filename>CLJandamarra_Peace</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_CLJANDAMARRA_WAR</SoundID>
+			<Filename>CLJandamarra_War</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_DOM_SPEECH_CLJANDAMARRA</SoundID>
+			<Filename>CLKimberley_DOM</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<!--CLJandamarra Music For Audio Scripts-->
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_CLJANDAMARRA_PEACE</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_CLJANDAMARRA_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>70</MinVolume>
+			<MaxVolume>70</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_CLJANDAMARRA_WAR</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_CLJANDAMARRA_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>70</MinVolume>
+			<MaxVolume>70</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_AMBIENCE_LEADER_CLJANDAMARRA_AMBIENCE</ScriptID>
+			<SoundID>SND_AMBIENCE_DESERT_BED</SoundID>
+			<SoundType>GAME_SFX</SoundType>
+			<Looping>true</Looping>
+			<MinVolume>15</MinVolume>
+			<MaxVolume>15</MaxVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_DOM_SPEECH_CLJANDAMARRA</ScriptID>
+			<SoundID>SND_DOM_SPEECH_CLJANDAMARRA</SoundID>
+			<SoundType>GAME_SPEECH</SoundType>
+			<MinVolume>90</MinVolume>
+			<MaxVolume>90</MaxVolume>
+		</Row>
+	</Audio_2DSounds>
+</GameData>

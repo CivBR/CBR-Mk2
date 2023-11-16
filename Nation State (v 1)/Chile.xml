@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_MINOR_CIV_CHILE">
+			<Text>Chile</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_CHILE_ADJ">
+			<Text>Chilean</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_CHILE_1">
+			<Text>Ichac</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_CHILE_2">
+			<Text>Pajampatal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_CHILE_3">
+			<Text>Chuachis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_CHILE_4">
+			<Text>Tumbes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_CHILE_5">
+			<Text>Mayo</Text>
+		</Row>
+	</Language_en_US>
+	<MinorCivilizations>
+		<Row>
+			<Type>MINOR_CIV_CHILE</Type>
+			<Description>TXT_KEY_MINOR_CIV_CHILE</Description>
+			<ShortDescription>TXT_KEY_MINOR_CIV_CHILE</ShortDescription>
+			<Adjective>TXT_KEY_MINOR_CIV_CHILE_ADJ</Adjective>
+			<Civilopedia>No info</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_MINOR_CIV_CHILE</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_GRECO_ROMAN</ArtStyleType>
+			<ArtStylePrefix>AMERICAN</ArtStylePrefix>
+			<ArtStyleSuffix>_SOUTHAM</ArtStyleSuffix>
+			<MinorCivTrait>MINOR_TRAIT_MARITIME</MinorCivTrait>
+		</Row>
+	</MinorCivilizations>
+
+	<MinorCivilization_Flavors>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHILE</MinorCivType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHILE</MinorCivType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHILE</MinorCivType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHILE</MinorCivType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHILE</MinorCivType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHILE</MinorCivType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHILE</MinorCivType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHILE</MinorCivType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHILE</MinorCivType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHILE</MinorCivType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHILE</MinorCivType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHILE</MinorCivType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+	</MinorCivilization_Flavors>
+
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_CHILE_ICON</Type>
+            <Red>0.945</Red>
+            <Green>0.901</Green>
+            <Blue>0.827</Blue>
+            <Alpha>1.0</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_CHILE_BACKGROUND</Type>
+            <Red>0.031</Red>
+            <Green>0.031</Green>
+            <Blue>0.226</Blue>
+            <Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_MINOR_CIV_CHILE</Type>
+			<PrimaryColor>COLOR_PLAYER_MINOR_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_MINOR_CIV_CHILE_ICON</SecondaryColor>
+			<TextColor>COLOR_PLAYER_PEACH_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHILE</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_CHILE_1</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHILE</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_CHILE_2</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHILE</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_CHILE_3</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHILE</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_CHILE_4</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHILE</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_CHILE_5</CityName>
+		</Row>
+	</MinorCivilization_CityNames>
+</GameData>

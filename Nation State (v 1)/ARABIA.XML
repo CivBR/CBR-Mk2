@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_MINOR_CIV_ARABIA">
+			<Text>Arabia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_ARABIA_ADJ">
+			<Text>Arabian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_ARABIA_1">
+			<Text>Shubat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_ARABIA_2">
+			<Text>Keshin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_ARABIA_3">
+			<Text>Shub</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_ARABIA_4">
+			<Text>Marat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_ARABIA_5">
+			<Text>Enlil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_ARABIA_6">
+			<Text>Eshair</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_ARABIA_7">
+			<Text>Ki-an</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_ARABIA_8">
+			<Text>Lagsu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_ARABIA_9">
+			<Text>Ribil Bara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_ARABIA_10">
+			<Text>Sarrak</Text>
+		</Row>
+	</Language_en_US>
+	
+	<MinorCivilizations>
+		<Row>
+			<Type>MINOR_CIV_ARABIA</Type>
+			<Description>TXT_KEY_MINOR_CIV_ARABIA</Description>
+			<ShortDescription>TXT_KEY_MINOR_CIV_ARABIA</ShortDescription>
+			<Adjective>TXT_KEY_MINOR_CIV_ARABIA_ADJ</Adjective>
+			<Civilopedia>No info</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_MINOR_CIV_ARABIA</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
+			<ArtStylePrefix>AFRICAN</ArtStylePrefix>
+			<ArtStyleSuffix>_ARABIA</ArtStyleSuffix>
+			<MinorCivTrait>MINOR_TRAIT_MERCANTILE</MinorCivTrait>
+		</Row>
+	</MinorCivilizations>
+
+	<MinorCivilization_Flavors>
+		<Row>
+			<MinorCivType>MINOR_CIV_ARABIA</MinorCivType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ARABIA</MinorCivType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ARABIA</MinorCivType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ARABIA</MinorCivType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ARABIA</MinorCivType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ARABIA</MinorCivType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ARABIA</MinorCivType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ARABIA</MinorCivType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ARABIA</MinorCivType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ARABIA</MinorCivType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ARABIA</MinorCivType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ARABIA</MinorCivType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+	</MinorCivilization_Flavors>
+
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_ARABIA_ICON</Type>
+            <Red>0.573</Red>
+            <Green>0.867</Green>
+            <Blue>0.039</Blue>
+            <Alpha>1.0</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_ARABIA_BACKGROUND</Type>
+            <Red>0.169</Red>
+            <Green>0.345</Green>
+            <Blue></Blue>
+            <Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_MINOR_CIV_ARABIA</Type>
+			<PrimaryColor>COLOR_PLAYER_MINOR_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_MINOR_CIV_ARABIA_ICON</SecondaryColor>
+			<TextColor>COLOR_PLAYER_PEACH_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_ARABIA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_ARABIA_1</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ARABIA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_ARABIA_2</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ARABIA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_ARABIA_3</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ARABIA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_ARABIA_4</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ARABIA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_ARABIA_5</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ARABIA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_ARABIA_6</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ARABIA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_ARABIA_7</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ARABIA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_ARABIA_8</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ARABIA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_ARABIA_9</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ARABIA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_ARABIA_10</CityName>
+		</Row>
+	</MinorCivilization_CityNames>
+</GameData>

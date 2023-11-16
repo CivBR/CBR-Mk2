@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/16/2014 11:37:52 PM -->
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_FOREIGN_TRAINING</Type>
+			<Description>TXT_KEY_PROMOTION_FOREIGN_TRAINING</Description>
+			<Help>TXT_KEY_PROMOTION_FOREIGN_TRAINING_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>31</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_FOREIGN_TRAINING</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<FriendlyHealChange>10</FriendlyHealChange>
+		</Row>
+	</UnitPromotions>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PROMOTION_FOREIGN_TRAINING_BASE">
+			<Text>Jääkäri Movement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FOREIGN_TRAINING_BASE_HELP">
+			<Text>Allows this unit to be trained on the lands of civilizations you have a Declaration of Friendship with.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FOREIGN_TRAINING">
+			<Text>Foreign Training</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FOREIGN_TRAINING_HELP">
+			<Text>Gets 4 Unit Experience per turn on the lands of civilizations you have a Declaration of Friendship with.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

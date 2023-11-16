@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_MINOR_CIV_IRELAND">
+			<Text>Ireland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_IRELAND_ADJ">
+			<Text>Irish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_IRELAND_1">
+			<Text>Salem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_IRELAND_2">
+			<Text>Boston</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_IRELAND_3">
+			<Text>Windsor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_IRELAND_4">
+			<Text>Abidjan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_IRELAND_5">
+			<Text>Libreville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_IRELAND_6">
+			<Text>Saybrook</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_IRELAND_7">
+			<Text>Providence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_IRELAND_8">
+			<Text>Cape Town</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_IRELAND_9">
+			<Text>Accra</Text>
+		</Row>
+	</Language_en_US>
+	<MinorCivilizations>
+		<Row>
+			<Type>MINOR_CIV_IRELAND</Type>
+			<Description>TXT_KEY_MINOR_CIV_IRELAND</Description>
+			<ShortDescription>TXT_KEY_MINOR_CIV_IRELAND</ShortDescription>
+			<Adjective>TXT_KEY_MINOR_CIV_IRELAND_ADJ</Adjective>
+			<Civilopedia>No info</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_MINOR_CIV_IRELAND</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+			<ArtStylePrefix>EUROPEAN</ArtStylePrefix>
+			<ArtStyleSuffix>_EURO</ArtStyleSuffix>
+			<MinorCivTrait>MINOR_TRAIT_MERCANTILE</MinorCivTrait>
+		</Row>
+	</MinorCivilizations>
+
+	<MinorCivilization_Flavors>
+		<Row>
+			<MinorCivType>MINOR_CIV_IRELAND</MinorCivType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_IRELAND</MinorCivType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_IRELAND</MinorCivType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_IRELAND</MinorCivType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_IRELAND</MinorCivType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_IRELAND</MinorCivType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_IRELAND</MinorCivType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_IRELAND</MinorCivType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_IRELAND</MinorCivType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_IRELAND</MinorCivType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_IRELAND</MinorCivType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_IRELAND</MinorCivType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+	</MinorCivilization_Flavors>
+
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_IRELAND_ICON</Type>
+            <Red>0.967</Red>
+            <Green>0.549</Green>
+            <Blue>0.035</Blue>
+            <Alpha>1.0</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_IRELAND_BACKGROUND</Type>
+            <Red>0.0.004</Red>
+            <Green>0.455</Green>
+            <Blue>0.396</Blue>
+            <Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_MINOR_CIV_IRELAND</Type>
+			<PrimaryColor>COLOR_PLAYER_MINOR_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_MINOR_CIV_IRELAND_ICON</SecondaryColor>
+			<TextColor>COLOR_PLAYER_PEACH_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_IRELAND</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_IRELAND_1</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_IRELAND</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_IRELAND_2</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_IRELAND</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_IRELAND_3</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_IRELAND</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_IRELAND_4</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_IRELAND</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_IRELAND_5</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_IRELAND</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_IRELAND_6</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_IRELAND</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_IRELAND_7</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_IRELAND</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_IRELAND_8</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_IRELAND</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_IRELAND_9</CityName>
+		</Row>
+	</MinorCivilization_CityNames>
+</GameData>

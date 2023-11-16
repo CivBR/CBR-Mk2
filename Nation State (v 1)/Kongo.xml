@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_MINOR_CIV_KONGO">
+			<Text>The Kongo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_KONGO_ADJ">
+			<Text>Kongo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_KONGO_1">
+			<Text>Godomélad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_KONGO_2">
+			<Text>Ogboulo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_KONGO_3">
+			<Text>Jimet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_KONGO_4">
+			<Text>Kumbe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_KONGO_5">
+			<Text>Ogar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_KONGO_6">
+			<Text>Doussa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_KONGO_7">
+			<Text>Doumandi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_KONGO_8">
+			<Text>Abadi</Text>
+		</Row>
+	</Language_en_US>
+	<MinorCivilizations>
+		<Row>
+			<Type>MINOR_CIV_KONGO</Type>
+			<Description>TXT_KEY_MINOR_CIV_KONGO</Description>
+			<ShortDescription>TXT_KEY_MINOR_CIV_KONGO</ShortDescription>
+			<Adjective>TXT_KEY_MINOR_CIV_KONGO_ADJ</Adjective>
+			<Civilopedia>No info</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_MINOR_CIV_KONGO</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
+			<ArtStylePrefix>AFRICAN</ArtStylePrefix>
+			<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
+			<MinorCivTrait>MINOR_TRAIT_MARITIME</MinorCivTrait>
+		</Row>
+	</MinorCivilizations>
+
+	<MinorCivilization_Flavors>
+		<Row>
+			<MinorCivType>MINOR_CIV_KONGO</MinorCivType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KONGO</MinorCivType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KONGO</MinorCivType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KONGO</MinorCivType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KONGO</MinorCivType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KONGO</MinorCivType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KONGO</MinorCivType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KONGO</MinorCivType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KONGO</MinorCivType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KONGO</MinorCivType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KONGO</MinorCivType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KONGO</MinorCivType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+	</MinorCivilization_Flavors>
+
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_KONGO_ICON</Type>
+            <Red>0.631</Red>
+            <Green>0.223</Green>
+            <Blue>0.137</Blue>
+            <Alpha>1.0</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_KONGO_BACKGROUND</Type>
+            <Red>0.674</Red>
+            <Green>0.682</Green>
+            <Blue>0.388</Blue>
+            <Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_MINOR_CIV_KONGO</Type>
+			<PrimaryColor>COLOR_PLAYER_MINOR_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_MINOR_CIV_KONGO_ICON</SecondaryColor>
+			<TextColor>COLOR_PLAYER_PEACH_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_KONGO</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_KONGO_1</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KONGO</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_KONGO_2</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KONGO</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_KONGO_3</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KONGO</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_KONGO_4</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KONGO</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_KONGO_5</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KONGO</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_KONGO_6</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KONGO</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_KONGO_7</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KONGO</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_KONGO_8</CityName>
+		</Row>
+	</MinorCivilization_CityNames>
+</GameData>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="f2a9ed6c-7598-451e-913f-fe291cd390b3" version="1">
+  <Properties>
+    <Name>Aggressive and Expansive AI</Name>
+    <Teaser>Increases AI expansionist and military tendencies - way too many people have complained on passive nature of BNW AI :)
+
+Fully</Teaser>
+    <Description>Increases AI expansionist and military tendencies - way too many people have complained on passive nature of BNW AI :)
+
+Fully compatible with Smart AI and CivIV diplomatic features mods.</Description>
+    <Authors>Krajzen</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="329FC533A1A8F894FF5B3E35329C7BD7" import="0">AI.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>AI.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

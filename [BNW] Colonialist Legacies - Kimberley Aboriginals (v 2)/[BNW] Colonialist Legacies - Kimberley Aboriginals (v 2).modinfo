@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="b3b3c21c-b119-49dd-81e3-82c2bed17d6a" version="2">
+  <Properties>
+    <Name>[BNW] Colonialist Legacies - Kimberley Aboriginals</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>This mod adds the prestigious Kimberley to the game, led by Jandamarra.</Teaser>
+    <Description>This mod adds the Kimberley to the game, led by Jandamarra.</Description>
+    <Authors>TPangolin, Sasquatch (AKA Kramer)</Authors>
+    <SpecialThanks>Neirai, Reedstilt, DJSHenninger and Senshidenshi</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events And Decisions" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="Mercenaries" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD's Piety" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="JFD's Sovereignty" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Enlightenment Era" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="9BBD7228CB2B0D0D7278C67779075B41" import="1">Art/Atlases/Alpha/CLKimberleyAlpha_128.dds</File>
+    <File md5="0456D6EC291FF76BC38103FCD8C53AB6" import="1">Art/Atlases/Alpha/CLKimberleyAlpha_16.dds</File>
+    <File md5="4CAC335352B277A014150415510AD3D4" import="1">Art/Atlases/Alpha/CLKimberleyAlpha_24.dds</File>
+    <File md5="96C02531E278F7ADF2C579E454C0858C" import="1">Art/Atlases/Alpha/CLKimberleyAlpha_32.dds</File>
+    <File md5="26AC4BE2BCBBA5FBB576FDE3738BEE44" import="1">Art/Atlases/Alpha/CLKimberleyAlpha_45.dds</File>
+    <File md5="FF31AAA71CDF09547537A20298B57B4B" import="1">Art/Atlases/Alpha/CLKimberleyAlpha_48.dds</File>
+    <File md5="4BB9053525B3E78D53B5AB1C555D47D7" import="1">Art/Atlases/Alpha/CLKimberleyAlpha_64.dds</File>
+    <File md5="C3990FC7F5A048B53D084C5F91B898A1" import="1">Art/Atlases/Alpha/CLKimberleyAlpha_80.dds</File>
+    <File md5="264B18FF136A3516603762E32F173FE8" import="1">Art/Atlases/CLKimAtlas128.dds</File>
+    <File md5="6D5E7206DD6A5AD4C8098025E6F72944" import="1">Art/Atlases/CLKimAtlas256.dds</File>
+    <File md5="50B55FE34298DC86B47B81DD2479B50D" import="1">Art/Atlases/CLKimAtlas32.dds</File>
+    <File md5="1B2AFBBF4AF3478A3421ACEA84DB4BE0" import="1">Art/Atlases/CLKimAtlas45.dds</File>
+    <File md5="BB58032CD74285E721AD5F57FB126307" import="1">Art/Atlases/CLKimAtlas64.dds</File>
+    <File md5="7303574AE516BE98115AD927551B3D9A" import="1">Art/Atlases/CLKimAtlas80.dds</File>
+    <File md5="97F04BC8CD1E323825DB3F4171D1E31E" import="0">Art/Atlases/CLKimAtlases.xml</File>
+    <File md5="3BA5A0881D568421C0C6303A2AD8C843" import="1">Art/CLJandamarraDOM.dds</File>
+    <File md5="4F4F320BF436D314C9FC5049160DB0AF" import="1">Art/CLJandamarra_Diplo.dds</File>
+    <File md5="29BB92926C4BB05B244F6C2A9E1B30E4" import="1">Art/CLKimberleyMap.dds</File>
+    <File md5="351160B198E48C35C225A0D5D2C5CEEB" import="1">Art/CLTrackerFlag.dds</File>
+    <File md5="16E5087AD3FCAC28B14B72470C374D42" import="1">Art/SV_CLTracker.dds</File>
+    <File md5="253A970E2BF153D3344CDE17A2428305" import="1">Art/Tracker/civ5_kimtracker.fxsxml</File>
+    <File md5="4EFE82F08B7CBD17A436DA27CBDA50C4" import="1">Art/Tracker/civ5_kimtracker.gr2</File>
+    <File md5="550D03CEFF902DDF843D983B08E8707D" import="1">Art/Tracker/kimtracker.dds</File>
+    <File md5="1B9A4D9CB2A03E0ED424D36C0BB8AF90" import="1">Art/Tracker/kimtracker_sref.dds</File>
+    <File md5="BF0AC8DECFBAF2EB8092F81B569ED2AC" import="1">Art/Tracker/SonghaiScout.dds</File>
+    <File md5="318FE752C0261026122150B3BED01C32" import="1">Art/Tracker/SonghaiScout.fxsxml.xml</File>
+    <File md5="7A21D15C3BFB60668B6C9401AED8E68C" import="1">Art/Tracker/SonghaiScout.gr2</File>
+    <File md5="85CC97ED04CDA6A9C6472FE69B6BD678" import="1">Art/Tracker/SonghaiScout_sref.dds</File>
+    <File md5="7142DA6DF72FEAE7A9EB5F5A171BC5A8" import="0">Core/Buildings/CLTrepanger.xml</File>
+    <File md5="6C92107AABC8A88D29B1DE18B0E5A94C" import="0">Core/Buildings/KimberleyHiddenBuildings.xml</File>
+    <File md5="C10349EC89E41EF59DBB37260C0BEFFC" import="0">Core/Civilization/CLKayuJawa.xml</File>
+    <File md5="D1450EF910CB9BF243A0C9A8B8D1C84B" import="0">Core/Civilization/CLKimberley.xml</File>
+    <File md5="07320934AA12BA6F3A7DB32252C17C9F" import="0">Core/Civilization/Units/CLKimTracker.xml</File>
+    <File md5="A7F74DA9C91ECBF3E61B2C9BCA73F873" import="0">Core/Civilization/Units/CLKimTrackerDefines.xml</File>
+    <File md5="23EB770243197DF79977F10E8AAAA484" import="0">Core/CLKimberleyText.xml</File>
+    <File md5="B95D1AAAA95DA44C7240CC1467E7D971" import="0">Core/CLKim_ModSupport.sql</File>
+    <File md5="D7654149B5A3A4B946E1D5C68B1926C3" import="0">Core/CLKim_TSL.sql</File>
+    <File md5="E67C1399AF541752E6A424842489A580" import="0">Core/Leader/CLJandamarra.xml</File>
+    <File md5="54D70BB066B002634C4F69C7F1A5E544" import="0">Core/Leader/CLJandamarra_Music.xml</File>
+    <File md5="132BA7558C04C3532A2037672F7783DC" import="1">Core/Leader/CLJandamarra_Scene.xml</File>
+    <File md5="07320934AA12BA6F3A7DB32252C17C9F" import="0">Core/Units/CLKimTracker.xml</File>
+    <File md5="A191871371823239E10677CD3871454C" import="0">Core/Units/CLKimTrackerDefines.xml</File>
+    <File md5="F86E813C19A474D9369323D8AF5C7473" import="1">Lua/CLKimberleyDecisions.lua</File>
+    <File md5="67E2848771DF73B0B019F33F37CFB9F0" import="0">Lua/CLKimberleyDecisions_Support.sql</File>
+    <File md5="27937A73D3CCA8834523D61BDBCB8B61" import="0">Lua/CLKimberleyLua.lua</File>
+    <File md5="9512706864656DB4DE8AD590201B1BF4" import="1">Sounds/CLJandamarra_Peace.mp3</File>
+    <File md5="B5F75AAE33D1705FD8D193576991B19F" import="1">Sounds/CLJandamarra_War.mp3</File>
+    <File md5="EA31B1C496AAEE1B2012E4EAD72F30EA" import="1">Sounds/CLKimberley_DOM.mp3</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Buildings/CLTrepanger.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Civilization/CLKimberley.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leader/CLJandamarra.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Units/CLKimTracker.xml</UpdateDatabase>
+      <UpdateDatabase>Core/CLKimberleyText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Civilization/CLKayuJawa.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings/KimberleyHiddenBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Units/CLKimTrackerDefines.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leader/CLJandamarra_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>Art/Atlases/CLKimAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>Core/CLKim_TSL.sql</UpdateDatabase>
+      <UpdateDatabase>Lua/CLKimberleyDecisions_Support.sql</UpdateDatabase>
+      <UpdateDatabase>Core/CLKim_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Leader/CLJandamarra_Music.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/CLKimberleyLua.lua">
+      <Name>CLKimberleyLua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

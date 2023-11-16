@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- SWEDEN-NORWAY-->
+		<Row Tag="TXT_KEY_CIV_JFD_SWEDEN_NORWAY_ADJECTIVE">
+			<Text>Swedish-Norwegian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_SWEDEN_NORWAY_DESC">
+			<Text>Swedish-Norwegian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_SWEDEN_NORWAY_SHORT_DESC">
+			<Text>Sweden-Norway</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SWEDEN_NORWAY_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SWEDEN_NORWAY_TEXT_1">
+			<Text>Sweden and Norway or Sweden–Norway, officially the United Kingdoms of Sweden and Norway, was a personal union of the separate kingdoms of Sweden and Norway under a common monarch and common foreign policy from 1814 to 1905, before Sweden accepted Norway's leaving the union. Both states kept their separate constitutions, laws, legislatures, administrations, state churches, armed forces, and currencies; the kings mostly resided in Stockholm, where foreign diplomatic representations were located. The Norwegian government was initially presided over by viceroys: Swedes until 1829, Norwegians until 1856. That office was later vacant and then formally abolished in 1873. Foreign policy was conducted through the Swedish foreign ministry until the dissolution of the union in 1905.[NEWLINE][NEWLINE]Norway had previously been in a closer union with Denmark, but Denmark-Norway's alliance with Napoleonic France caused Great Britain and Russia to consent to Sweden's annexation of the realm as compensation for the loss of Finland in 1809 and as a reward for joining the alliance against Napoleon. By the 1814 Treaty of Kiel, the King of Denmark-Norway was forced to cede Norway to the King of Sweden. But Norway refused to submit to the treaty provisions, declared independence, and convoked a constituent assembly at Eidsvoll.[NEWLINE][NEWLINE]After the adoption of the new Constitution of Norway on 17 May 1814, Prince Christian Frederick was elected king. The ensuing Swedish-Norwegian War (1814) and the Convention of Moss compelled Christian Frederick to abdicate after calling an extraordinary session of the Norwegian Parliament, the Storting, to revise the Constitution in order to allow for a personal union with Sweden. On 4 November the Storting elected Charles XIII as the king of Norway, thereby confirming the Union. Continuing differences between the two realms led to a failed attempt to create a separate Norwegian consular service and then, on 7 June 1905, to a unilateral declaration of independence by the Storting. Sweden accepted the union's dissolution on 26 October. After a plebiscite confirming the election of Danish Prince Carl as the new king of Norway, he accepted the Storting's offer of the throne on 18 November and took the regnal name of Haakon VII.</Text>
+		</Row>
+		<!--City List-->
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SWEDEN_NORWAY_0">
+			<Text>Stockholm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SWEDEN_NORWAY_1">
+			<Text>Christiania</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SWEDEN_NORWAY_2">
+			<Text>Gothenburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SWEDEN_NORWAY_3">
+			<Text>Trondheim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SWEDEN_NORWAY_4">
+			<Text>Malmö</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SWEDEN_NORWAY_5">
+			<Text>Stavanger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SWEDEN_NORWAY_6">
+			<Text>Sundsvall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SWEDEN_NORWAY_7">
+			<Text>Tromsø</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SWEDEN_NORWAY_8">
+			<Text>Uppsala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SWEDEN_NORWAY_9">
+			<Text>Kristiansand</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SWEDEN_NORWAY_10">
+			<Text>Linköping</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SWEDEN_NORWAY_11">
+			<Text>Fredrikstad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SWEDEN_NORWAY_12">
+			<Text>Norrköping</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SWEDEN_NORWAY_13">
+			<Text>Tønsberg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SWEDEN_NORWAY_14">
+			<Text>Helsingborg </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SWEDEN_NORWAY_15">
+			<Text>Porsgrunn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SWEDEN_NORWAY_16">
+			<Text>Västerås</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SWEDEN_NORWAY_17">
+			<Text>Moss</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SWEDEN_NORWAY_18">
+			<Text>Gävle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SWEDEN_NORWAY_19">
+			<Text>Arendal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SWEDEN_NORWAY_20">
+			<Text>Umeå</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SWEDEN_NORWAY_21">
+			<Text>Bodø</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SWEDEN_NORWAY_22">
+			<Text>Eskilstuna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SWEDEN_NORWAY_23">
+			<Text>Hamar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SWEDEN_NORWAY_24">
+			<Text>Karlstad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SWEDEN_NORWAY_25">
+			<Text>Larvik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SWEDEN_NORWAY_26">
+			<Text>Borås</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SWEDEN_NORWAY_27">
+			<Text>Lillehammer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SWEDEN_NORWAY_28">
+			<Text>Luleå</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SWEDEN_NORWAY_29">
+			<Text>Halden</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SWEDEN_NORWAY_30">
+			<Text>Täby</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SWEDEN_NORWAY_31">
+			<Text>Askøy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SWEDEN_NORWAY_32">
+			<Text>Halmstad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SWEDEN_NORWAY_33">
+			<Text>Molde</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SWEDEN_NORWAY_9">
+			<Text>Sven</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SWEDEN_NORWAY_8">
+			<Text>Joakim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SWEDEN_NORWAY_7">
+			<Text>Gustav</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SWEDEN_NORWAY_6">
+			<Text>Nils</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SWEDEN_NORWAY_5">
+			<Text>Stefan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SWEDEN_NORWAY_4">
+			<Text>Ulrika</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SWEDEN_NORWAY_3">
+			<Text>Hedvig</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SWEDEN_NORWAY_2">
+			<Text>Sibylla</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SWEDEN_NORWAY_1">
+			<Text>Estelle</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SWEDEN_NORWAY_0">
+			<Text>Elsa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- Oscar II -->
+		<Row Tag="TXT_KEY_LEADER_JFD_OSCAR">
+			<Text>Oscar II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_OSCAR_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_OSCAR_TEXT_1">
+			<Text>Oscar II, baptised Oscar Fredrik, was King of Sweden from 1872 until his death and King of Norway from 1872 until 1905. The third son of King Oscar I of Sweden and Josephine of Leuchtenberg, he was a descendant of Gustav I of Sweden through his mother.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_OSCAR_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_OSCAR_TEXT_2">
+			<Text>
+				At his birth in Stockholm, Oscar Fredrik was created Duke of Östergötland. He entered the navy at the age of eleven, and was appointed junior lieutenant in July 1845. Later he studied at Uppsala University, where he distinguished himself in mathematics. On 13 December 1848, he was made an honorary member of the Royal Swedish Academy of Sciences.[NEWLINE][NEWLINE]On 6 June 1857 he married in Wiesbaden-Biebrich, Germany, Princess Sophia Wilhelmina, youngest daughter of Duke William of Nassau.[NEWLINE][NEWLINE]From 1859, when his father died, he was first in line to the Swedish throne after his oldest brother King Charles, who then had no male heirs (his son had died in infancy in 1854). His middle brother Gustaf had died in 1852.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_OSCAR_HEADING_3">
+			<Text>King of Sweden and Norway</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_OSCAR_TEXT_3">
+			<Text>He succeeded his brother Charles XV / IV on 18 September 1872, and was crowned as king of Norway in the Nidaros Cathedral in Trondheim on 18 July 1873. At the accession he adopted as his motto Brödrafolkens väl / Broderfolkenes Vel ("The Welfare of the Brother Peoples"). While the King and the Royal Court resided mostly in Sweden, Oscar made the effort of learning to be fluent in Norwegian and from the very beginning he realized the essential difficulties in the maintenance of the union between the two countries.[NEWLINE][NEWLINE]The political events which led up to the peaceful dissolution of the union between Norway and Sweden in 1905 could hardly have been attained but for the tact and patience of the king himself. He was dethroned on 7 June 1905 by the Norwegian Parliament and renounced the Norwegian throne on 26 October. He declined, indeed, to permit any prince of his house to become king of Norway, but better relations between the two countries were restored before his death, which occurred in Stockholm on 8 December 1907.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_OSCAR_HEADING_4">
+			<Text>Foreign and Domestic Statecraft</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_OSCAR_TEXT_4">
+			<Text>His acute intelligence and his aloofness from the dynastic considerations affecting most European sovereigns gave the king considerable weight as an arbitrator in international questions. At the request of Great Britain, Germany and the United States in 1889 he appointed the chief justice of Samoa, and he was again called on to arbitrate in Samoan affairs in 1899.[NEWLINE][NEWLINE]In 1897 he was empowered to appoint a fifth arbitrator if necessary in the Venezuelan dispute, and he was called on to act as umpire in the Anglo-American arbitration treaty that was quashed by the United States Senate. He won many friends in the United Kingdom by his outspoken and generous support of Britain at the time of the Second Boer War (1899–1902), expressed in a declaration printed in The Times of 2 May 1900, when continental opinion was almost universally hostile.[NEWLINE][NEWLINE]He was the 1,027th Knight of the Order of the Golden Fleece in Spain and the 774th Knight of the Order of the Garter in 1881.[NEWLINE][NEWLINE]During his time as King, the Office of Prime Minister was instituted in 1876. Louis De Geer became the first head of government in Sweden with this title. The most known and powerful first minister of the Crown during the reign of Oscar was the conservative estate-owner Erik Gustaf Boström . He served as Prime Minister between 1891 -1900 and from 1902 to 1905. He became during this time, very trusted by Oscar, who had much difficulty approving of some one else as Prime Minister. Gradually, Boström was given free hands by Oscar to select his own ministers without much regal involvement. It was an arrangement (unintentionally by both the King and Boström) that furthered the road to parliamentarism.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_OSCAR_HEADING_5">
+			<Text>Science and the Arts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_OSCAR_TEXT_5">
+			<Text>Himself a distinguished writer and musical amateur, King Oscar proved a generous friend of learning, and did much to encourage the development of education throughout his dominions. In 1858 a collection of his lyrical and narrative poems, Memorials of the Swedish Fleet, published anonymously, obtained the second prize of the Swedish Academy. His "Contributions to the Military History of Sweden in the Years 1711, 1712, 1713," originally appeared in the Annals of the Academy, and were printed separately in 1865. His works, which included his speeches, translations of Herder's Cid and Goethe's Torquato Tasso, and a play, Castle Cronberg, were collected in two volumes in 1875–76, and a larger edition, in three volumes, appeared in 1885–88.[NEWLINE][NEWLINE]His Easter hymn and some other of his poems are familiar throughout the Scandinavian countries. His Memoirs of Charles XII of Sweden were translated into English in 1879. In 1881 he founded the World's first open-air museum at his summer residence near Christiania, now Oslo. In 1885 he published his Address to the Academy of Music, and a translation of one of his essays on music appeared in Literature in May 1900. He had a valuable collection of printed and manuscript music, which was readily accessible to the historical student of music.[NEWLINE][NEWLINE]Being a theater lover, he commissioned a new opera house to be built by Axel Anderberg for the Royal Swedish Opera which was inaugurated on 19 September 1898. It is until today the current home of that institution. Oscar II told Henrik Ibsen that his Ghosts was "not a good play". As he was dying, he requested that the theatres not be closed on account of his death. His wishes were respected.[NEWLINE][NEWLINE]King Oscar II was an enthusiast of Arctic exploration. Along with Swedish millionaire Oscar Dickson and Russian magnate Aleksandr Mikhaylovich Sibiryakov, he was the patron of a number of pioneering Arctic expeditions in the 1800s. Among the ventures the king sponsored, the most important are Adolf Erik Nordenskiöld's explorations to the Russian Arctic and Greenland, as well as Fridtjof Nansen's Polar journey on the Fram.[NEWLINE][NEWLINE]The name and portrait of Oscar II have been used as a trademark for King Oscar sardines (which remains the only brand to obtain his "royal permission") as well as for gingerbread cookies (pepparkakor) and other bakery products made by Göteborgs Kex AB.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_OSCAR_NAME">
+			<Text>Oscar II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_OSCAR_SUBTITLE">
+			<Text>Leader of Sweden-Norway</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_OSCAR_TITLES_1">
+			<Text>King of Sweden, King of Norway</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_OSCAR_LIVED">
+			<Text>1829 - 1907</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_SWEDEN_NORWAY_TEXT">
+			<Text>Hail to the last King of the union of Sweden and Norway, Oscar II. A distinguished artist, academic, and statesman, you oversaw the peaceful seperation of Norway from an almost hundred year union with Sweden, as well as the institution of the office of Prime Minister in both Stockholm and Oslo. Remarked for your love and patronage of the arts and sciences, and confided in for your acute diplomacy, your reign over Sweden and Norway was both enlightened and ceremonious, and you remain beloved in the hearts of Swedes and Norwegians alike.[NEWLINE][NEWLINE]Respected King, the dual kingship of Sweden and Norway once more lies within your trust. Can you bring to both realms peace and harmony, and ensure prosperity and good health for your subjects? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!-- NOBEL PRIZE -->
+		<Row Tag="TXT_KEY_TRAIT_JFD_SWEDEN_OSCAR_SHORT">
+			<Text>Nobel Prize</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_SWEDEN_OSCAR">
+			<Text>Gain 90 [ICON_INFLUENCE] Influence when gifting [ICON_GREAT_PEOPLE] Great People to City-States. When declaring friendship, Sweden-Norway and their friend gain a +10% boost to [ICON_GREAT_PEOPLE] Great Person generation empire-wide.</Text>
+		</Row>
+		<!-- ROYAL_ACADEMY -->
+		<Row Tag="TXT_KEY_BUILDING_JFD_ROYAL_ACADEMY">
+			<Text>Royal Academy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_ROYAL_ACADEMY_TEXT">
+			<Text>The Royal Academies are independent organisations, founded on Royal command, that act to promote the arts, culture, and science in Sweden. The Swedish Academy and Academy of Sciences are also responsible for the selection of Nobel Prize laureates in Literature, Physics, Chemistry, and the Prize in Economic Sciences. Also included in the Royal Academies are three scientific societies that were granted Royal Charters during the 18th century.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_ROYAL_ACADEMY_HELP">
+			<Text>+1 [ICON_RESEARCH] Science for every 2 [ICON_CITIZEN] Citizens in this City. Contains an Artist and Writer Specialist slot.[NEWLINE][NEWLINE]City must have a University.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_ROYAL_ACADEMY_STRATEGY">
+			<Text>The Royal Academy is a mid-game building unique to Sweden-Norway, replacing the Public School. This building costs slightly less maintenance than the Public School and, in addition to the Scientist Specialist slot a Public School ordinary possesses, contains a slot for both an Artist and a Writer Specialist.</Text>
+		</Row>
+		<!-- TORDENSKJOLD -->
+		<Row Tag="TXT_KEY_UNIT_JFD_TORDENSKJOLD">
+			<Text>Tordenskjold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JFD_TORDENSKJOLD">
+			<Text>Late-game Naval Unit with a ranged attack that can build and repair Offshore Platforms and Fishing Boats. Has a bonus to [ICON_STRENGTH] Defense but a penalty to [ICON_WAR] Attack. Only Sweden-Norway may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_TORDENSKJOLD_STRATEGY">
+			<Text>The Tordenskjold is the unique version of the Battleship for Sweden-Norway. Unlike the Battleship, this unit may be used to build and repair Offshore Platforms and Fishing Boats (this does not consume the unit). It also possesses a 25% bonus to Defense, but suffers a 25% penalty to Attack. Use the Tordenskjold for defense, not war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_TORDENSKJOLD_TEXT">
+			<Text>The Tordenskjold class of coastal defence ships was ordered by Norway as part as the general rearmament in the time leading up to the events in 1905 - when Norway broke out of the union with Sweden - the two ships in the class (Tordenskjold and Harald Haarfagre) remained the backbone (alongside the slightly newer Eidsvold class) of the Royal Norwegian Navy until they were considered 'unfit for war' in the mid-1930s.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TORDENSKJOLD_BONUS">
+			<Text>Defensive Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TORDENSKJOLD_BONUS_HELP">
+			<Text>+25% [ICON_STRENGTH] Defensive Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TORDENSKJOLD_PENALTY">
+			<Text>Attack Penalty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TORDENSKJOLD_PENALTY_HELP">
+			<Text>25% Penalty to [ICON_WAR] Attack</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

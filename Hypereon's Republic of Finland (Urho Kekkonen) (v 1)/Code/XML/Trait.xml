@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_HYP_FINLAND</Type>
+			<Description>TXT_KEY_TRAIT_HYP_FINLAND</Description>
+			<ShortDescription>TXT_KEY_TRAIT_HYP_FINLAND_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+</GameData>

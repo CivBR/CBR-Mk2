@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/16/2013 11:02:36 AM -->
+<GameData>
+	<Buildings>
+		<Update>
+			<Where Type="BUILDING_SPACESHIP_FACTORY"/>
+			<Set PrereqTech="TECH_NANOTECHNOLOGY"/>
+		</Update>
+	</Buildings>
+	<Building_ResourceQuantityRequirements>
+		<Update>
+			<Where Type="BUILDING_SPACESHIP_FACTORY"/>
+			<Set ResourceType="RESOURCE_NANOMAT"/>
+		</Update>
+	</Building_ResourceQuantityRequirements>
+</GameData>

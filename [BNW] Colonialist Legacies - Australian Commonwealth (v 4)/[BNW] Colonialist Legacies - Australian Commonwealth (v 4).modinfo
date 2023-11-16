@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="03934433-eafb-4ec5-a481-ed72a16b1990" version="4">
+  <Properties>
+    <Name>[BNW] Colonialist Legacies - Australian Commonwealth</Name>
+    <Teaser>Adds the charismatic [COLOR_POSITIVE_TEXT]Australian Commonwealth[ENDCOLOR] to the game lead by Henry Parkes!</Teaser>
+    <Description>Adds [COLOR_POSITIVE_TEXT]Colonialist Legacies' Australia[ENDCOLOR] to the game!
+[NEWLINE]
+[NEWLINE]
+[NEWLINE][COLOR_GREEN]Leader: [ENDCOLOR]Henry Parkes
+[NEWLINE]
+[NEWLINE][COLOR_GREEN]Boundless Plains to Share: [ENDCOLOR]Settlers found [ICON_PUPPET] Puppeted cities that generate +1 [ICON_TOURISM] Tourism. +1 [ICON_TOURISM] Tourism per outgoing sea-based Trade Route. Cities that generate +2 [ICON_TOURISM] Tourism or more expand at double speed.
+[NEWLINE]
+[NEWLINE][COLOR_GREEN]Prime Minister: [ENDCOLOR] Creates political quotes as unique Great Works of Writing. When one is generated, all coastal Cities generate +1 [ICON_TOURISM] Tourism for every claimed land tile outside workable range for 10 turns. Replaces the Great Writer.
+[NEWLINE]
+[NEWLINE][COLOR_GREEN]Digger: [ENDCOLOR]Starts with Cover I and receives +15% [ICON_STRENGTH] Combat Strength in rival territory as well as in coastal tiles. Can be recruited from Workers and does not obsolete at Plastics. Replaces the Great War Infantry.
+[NEWLINE]
+[NEWLINE][COLOR_YELLOW]Features a 3D leaderscene courtesy of Ekmek and bernie14 and voice acting by Charlatan Alley![ENDCOLOR]</Description>
+    <Authors>Colonialist Legacies</Authors>
+    <SpecialThanks>See the [COLOR_YELLOW]credits.txt[ENDCOLOR] in the mod's folder</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <Homepage>http://forums.civfanatics.com/showthread.php?t=512802</Homepage>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>3</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>0</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="1" maxversion="23" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="1" maxversion="1" title="Events &amp; Decisions" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="1" maxversion="31" title="Ethnic Units" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="1" maxversion="6" title="Historical Religions Complete" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="1" maxversion="4" title="Unique Cultural Influence" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="1" maxversion="6" title="Map Labels" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="1" maxversion="1" title="Cultural Diversity" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="7C982F526168F07E74884E6C02EF17EB" import="1">Art/CL_AustraliaDOM.dds</File>
+    <File md5="3FFB89ACC1301C7B68EBAFDE25EAED62" import="1">Art/CL_AustraliaMap.dds</File>
+    <File md5="BFF56B6634A99EB9F0DCC38D37B44993" import="1">Art/IconAtlases/CL_AustraliaAlphaIcon128.dds</File>
+    <File md5="AEEB1AC5AEF33158A00ECC47440F5A94" import="1">Art/IconAtlases/CL_AustraliaAlphaIcon16.dds</File>
+    <File md5="5F13DF5DAF3209FA214514C57911AA30" import="1">Art/IconAtlases/CL_AustraliaAlphaIcon24.dds</File>
+    <File md5="E01F9C2803BB0C35E2C4ED6544CE7BF9" import="1">Art/IconAtlases/CL_AustraliaAlphaIcon32.dds</File>
+    <File md5="C4C0BEE485C51E46C4701F17AFAB30A2" import="1">Art/IconAtlases/CL_AustraliaAlphaIcon45.dds</File>
+    <File md5="B7817587A8E3D74545FF2F6C6FD1EBAE" import="1">Art/IconAtlases/CL_AustraliaAlphaIcon48.dds</File>
+    <File md5="7A6A2C19A4597C89D6DD93644AB76AB9" import="1">Art/IconAtlases/CL_AustraliaAlphaIcon64.dds</File>
+    <File md5="AF5244DA56824F052CFCDC3CD393392F" import="1">Art/IconAtlases/CL_AustraliaAlphaIcon80.dds</File>
+    <File md5="6D2CA9139485CD2A625900105D3C73DF" import="1">Art/IconAtlases/CL_AustraliaIcons128.dds</File>
+    <File md5="412A0ECADF316EED40A676591DF0BE90" import="1">Art/IconAtlases/CL_AustraliaIcons256.dds</File>
+    <File md5="328029F161C3CA8BF3A0045EB33A5E72" import="1">Art/IconAtlases/CL_AustraliaIcons32.dds</File>
+    <File md5="71D8E529CA7FDDB6CFC986ADF03C0134" import="1">Art/IconAtlases/CL_AustraliaIcons45.dds</File>
+    <File md5="01DE556644E9F8F86823E5F60A80CF44" import="1">Art/IconAtlases/CL_AustraliaIcons64.dds</File>
+    <File md5="430AC898080CE8E70719749E463FCBA2" import="1">Art/IconAtlases/CL_AustraliaIcons80.dds</File>
+    <File md5="4016879D3F5C84E7704D735012D9D4E3" import="1">Art/IconAtlases/CL_AustraliaUnitFlagIcons32.dds</File>
+    <File md5="84A5FAF7448ECBDF1FCA74863A485959" import="1">Art/Leader/CL_HenryParkes.dds</File>
+    <File md5="B2FCDF485ACFFEA2AFB8A69E380B0FE1" import="1">Art/Leader/fx_triggers_henry_parkes.ftsxml</File>
+    <File md5="46BCA62473B01B2ED39B84BD2C92BBA4" import="1">Art/Leader/henry_parkes.fxsxml</File>
+    <File md5="EBA9AE92870A0D9F0EC51E7B2323AB88" import="1">Art/Leader/henry_parkes.gr2</File>
+    <File md5="2828C439B5CD5EB8EEBF7368E6F9BC16" import="1">Art/Leader/henry_parkes_background.dds</File>
+    <File md5="A2DD9CD6E5AFD4220EB147F55A0A1AC3" import="1">Art/Leader/henry_parkes_clothes_diff.dds</File>
+    <File md5="556CB5A3421B611236E608F973D0C001" import="1">Art/Leader/henry_parkes_clothes_norm.dds</File>
+    <File md5="95D60C6467CE329C3F3A4D75E9232DB8" import="1">Art/Leader/henry_parkes_clothes_sref.dds</File>
+    <File md5="9C939C3C3ED7BA2645A0C9D7530C1C10" import="1">Art/Leader/henry_parkes_hair_diff.dds</File>
+    <File md5="784DFA9A941647CC01E198E4E04996C8" import="1">Art/Leader/henry_parkes_hair_norm.dds</File>
+    <File md5="989EA2A121D888A62201D0661DD9E47E" import="1">Art/Leader/henry_parkes_hair_sref.dds</File>
+    <File md5="422FA0CA046D8F9DDE2C45B0FA1D7236" import="1">Art/Leader/henry_parkes_scene.fxsxml</File>
+    <File md5="EDF056041E47D3582F9D4599A9ED31BD" import="1">Art/Leader/henry_parkes_scene.gr2</File>
+    <File md5="0E77DD0B0C7732821DCDBA57F4709FA1" import="1">Art/Leader/henry_parkes_scene.xml</File>
+    <File md5="262F0A74FD5AED16E3CCD80E1CBF4AB8" import="1">Art/Leader/henry_parkes_skin_blur.dds</File>
+    <File md5="9FB00F0F6A36E61E8672CC053F39889C" import="1">Art/Leader/henry_parkes_skin_diff.dds</File>
+    <File md5="C02AEF364596F8D48AD1739AB64E3840" import="1">Art/Leader/henry_parkes_skin_norm.dds</File>
+    <File md5="A54ED0FB0C8BFFB6BEB34D5C765F2FD8" import="1">Art/Leader/henry_parkes_skin_sref.dds</File>
+    <File md5="ED3E572F099F92FAD0859DE6412EF790" import="1">Art/Units/Digger/sv_digger.dds</File>
+    <File md5="DAED0F1C4964D9ECC45B4FB54DDC0B02" import="1">Art/Units/Digger/u_australian_digger.fxsxml</File>
+    <File md5="C7A629CFA57CA25BC8AD90BFB23BBC88" import="1">Art/Units/Digger/u_australian_digger.gr2</File>
+    <File md5="C559FF10CBFEF99BEAC4D8F8D78AFCF9" import="1">Art/Units/Digger/u_australian_digger_diff.dds</File>
+    <File md5="13ADE75B834271115F220892C6C69D3A" import="1">Art/Units/Digger/u_australian_digger_sref.dds</File>
+    <File md5="C18B51C6B6E5D30E71E60090388172B5" import="1">Art/Units/Prime Minister/sv_prime_minister.dds</File>
+    <File md5="DFF4088D8F551655CA903C9AE924759F" import="1">Art/Units/Prime Minister/u_australian_prime_minister.fxsxml</File>
+    <File md5="B62F77FF42D51BF181C8B025FF904463" import="1">Art/Units/Prime Minister/u_australian_prime_minister.gr2</File>
+    <File md5="2047B6068F2B117AFBBC3B29D5B9F4E0" import="1">Art/Units/Prime Minister/u_australian_prime_minister_diff.dds</File>
+    <File md5="3DD4A9599DC270AC42435A475629F9AF" import="1">Art/Units/Prime Minister/u_australian_prime_minister_sref.dds</File>
+    <File md5="1B48528B9FC19BA6CDC294CA884A5587" import="0">Compatibility/CL_AustraliaCiv4Traits.sql</File>
+    <File md5="6C61339AD4B85F075123DD69589A4F20" import="0">Compatibility/CL_AustraliaCulturalDiversity.sql</File>
+    <File md5="92DB8E8EC411E07B02AD425A4473D321" import="1">Compatibility/CL_AustraliaDecisions.lua</File>
+    <File md5="B39AFD4F28D98A1D5EAC8259EAA5AB67" import="0">Compatibility/CL_AustraliaDecisions.sql</File>
+    <File md5="C46C8DA84ABC83A6CAB3B1D1F20C2C53" import="0">Compatibility/CL_AustraliaDecisionsText.xml</File>
+    <File md5="07B89F5B327B5F46568DED843F29C8FB" import="0">Compatibility/CL_AustraliaEthnicUnits.sql</File>
+    <File md5="B4166C81364B6850D5F895AA7C52569E" import="0">Compatibility/CL_AustraliaHistoricalReligions.sql</File>
+    <File md5="AD69FDAEF290E4E4E2CE15CA92AAACB0" import="0">Compatibility/CL_AustraliaMapLabels.sql</File>
+    <File md5="D4F68A57B47B8814C07FE844F866B436" import="0">Compatibility/CL_AustraliaPietyAndPrestige.sql</File>
+    <File md5="6FAD1211F3B97D52629CC1F30A15BD0F" import="0">Compatibility/CL_AustraliaUCI.xml</File>
+    <File md5="30637B8BC0F6B401224AACA0D43ED7B5" import="0">Compatibility/CL_AustraliaYnAEMP.sql</File>
+    <File md5="D312392E61F438B2F4A4A2C4C6CDE8A7" import="0">credits.txt</File>
+    <File md5="F8DEA7806EBBFD834413C28256073961" import="0">Database/CL_AustraliaArtDefines.sql</File>
+    <File md5="50DEFAF87300D1F86EF739645ABC2767" import="0">Database/CL_AustraliaAtlases.sql</File>
+    <File md5="5C12D8157C1F525FD5081A08821BFC38" import="0">Database/CL_AustraliaBuildings.sql</File>
+    <File md5="FD0F7E9313B8B204EE745077D699947C" import="0">Database/CL_AustraliaCityStates.sql</File>
+    <File md5="CB4F1A1C9A17BC1DFAD6D4D5A9D58C30" import="0">Database/CL_AustraliaCivilization.sql</File>
+    <File md5="F1E9F95254F59869A1C210D90E7AFEA7" import="0">Database/CL_AustraliaColors.sql</File>
+    <File md5="71BE5ED7EA96F1B9A668F26BF448373E" import="0">Database/CL_AustraliaDB.sql</File>
+    <File md5="A72B01E057D57DD7E86E675FC2CC45F7" import="0">Database/CL_AustraliaGreatWorks.sql</File>
+    <File md5="0DA8AF916E149EA11939DE998E1EEFA5" import="0">Database/CL_AustraliaLeader.sql</File>
+    <File md5="441946F91EAF5FE4709D6ECF86F9187A" import="0">Database/CL_AustraliaPromotions.sql</File>
+    <File md5="9C4A73F10C4C81B94E2430C2EAFE10B4" import="0">Database/CL_AustraliaSounds.sql</File>
+    <File md5="A4438E1C9D95A8FA16BB818C731DA27F" import="0">Database/CL_AustraliaText.xml</File>
+    <File md5="3339A537854EF9821EA8B0BE4BE1848A" import="0">Database/CL_AustraliaUnits.sql</File>
+    <File md5="A14F682D0E02BFFC40C8D36688ABAB17" import="0">Database/CL_AustraliaTrait.sql</File>
+    <File md5="B6EC8CF5BB3AEE500C218DF871077BB9" import="1">Lua/CivilopediaScreen.lua</File>
+    <File md5="0A1865D819187572ED878217AB2A203F" import="0">Lua/CL_AustraliaBoundlessPlainsToShare.lua</File>
+    <File md5="CE2D42ED5A5CF6DBFF46FAE8654A7E04" import="0">Lua/CL_AustraliaDigger.lua</File>
+    <File md5="D9A3BA398EB4CE091911FA9D76C40992" import="0">Lua/CL_AustraliaPrimeMinister.lua</File>
+    <File md5="4D04833C7FFE2DF2CC4105CE25DBD7E7" import="1">Lua/EnemyUnitPanel.lua</File>
+    <File md5="F0326777BF39067C03862FA01F794B1E" import="1">Lua/UnitPanel.lua</File>
+    <File md5="7C2899439B3A51EA549399144B6BC2CC" import="1">Sound/DOM_Australia.mp3</File>
+    <File md5="5ACC5B8910D1BF0F3BD0671AB9121D57" import="1">Sound/LeaderMusic/HenryParkes_Ambience.mp3</File>
+    <File md5="CA3040ED6155A8BAA333B535D8F13D84" import="1">Sound/LeaderMusic/HenryParkes_Peace.mp3</File>
+    <File md5="C088E631DFB44F8C0BCE5DABD3EB1048" import="1">Sound/LeaderMusic/HenryParkes_War.mp3</File>
+    <File md5="EA8EDB59A47D8F69CE38E844024F28EC" import="1">Sound/LeaderSpeech/HenryParkesAttacked.mp3</File>
+    <File md5="1128DACD417A4AF49ECDA6C70DE3AE8D" import="1">Sound/LeaderSpeech/HenryParkesDeclaresWar.mp3</File>
+    <File md5="7225C9A15F7891FC66E3737552ACF48D" import="1">Sound/LeaderSpeech/HenryParkesDefeated.mp3</File>
+    <File md5="564986A8BF980B1496944AFCEA165128" import="1">Sound/LeaderSpeech/HenryParkesDemand.mp3</File>
+    <File md5="0C8EB1954C5D4A0364A25B50E70EAF67" import="1">Sound/LeaderSpeech/HenryParkesGloat.mp3</File>
+    <File md5="730FF8C4B4316895715FC84885ECB364" import="1">Sound/LeaderSpeech/HenryParkesGreeting.mp3</File>
+    <File md5="941E1DE5DD93EF8E2F9F65CBA933D72A" import="1">Sound/LeaderSpeech/HenryParkesHateHearIt01.mp3</File>
+    <File md5="E46DE0E9BBE1C3F79CD56483E6F2CDC8" import="1">Sound/LeaderSpeech/HenryParkesHateHearIt02.mp3</File>
+    <File md5="528495B0B092BFA88BD68011604675C6" import="1">Sound/LeaderSpeech/HenryParkesHateHearIt03.mp3</File>
+    <File md5="9FBA9BA6E13F2B311824B44D18F4A014" import="1">Sound/LeaderSpeech/HenryParkesHateHello.mp3</File>
+    <File md5="D2D5ED5403BC999F934654A016CC959E" import="1">Sound/LeaderSpeech/HenryParkesHateNoLayer01.mp3</File>
+    <File md5="6463C680D01FD10870A6D0D213D24561" import="1">Sound/LeaderSpeech/HenryParkesHateNoLayer02.mp3</File>
+    <File md5="354FD78D585DCBC63A5533A94DF48945" import="1">Sound/LeaderSpeech/HenryParkesHateYesLayer01.mp3</File>
+    <File md5="BED5D89E8D1F3D42A45D2AD2755E07F9" import="1">Sound/LeaderSpeech/HenryParkesHateYesLayer02.mp3</File>
+    <File md5="3C5BCDF85024C626C0632FAE46EDE235" import="1">Sound/LeaderSpeech/HenryParkesNeutralHearIt01.mp3</File>
+    <File md5="C7616581F4C87B1FC9F612FDC2839380" import="1">Sound/LeaderSpeech/HenryParkesNeutralHearIt02.mp3</File>
+    <File md5="C7616581F4C87B1FC9F612FDC2839380" import="1">Sound/LeaderSpeech/HenryParkesNeutralHearIt03.mp3</File>
+    <File md5="A731109C5AB6DCB288ADF109F7E4A982" import="1">Sound/LeaderSpeech/HenryParkesNeutralHello.mp3</File>
+    <File md5="7D9717FB9DA134CD80E6F3EA36611171" import="1">Sound/LeaderSpeech/HenryParkesNeutralNoLayer01.mp3</File>
+    <File md5="BE8B0636CB50217D45070135828EB7FD" import="1">Sound/LeaderSpeech/HenryParkesNeutralNoLayer02.mp3</File>
+    <File md5="26F69E6DECFC41282874E8BBE07FA25D" import="1">Sound/LeaderSpeech/HenryParkesNeutralYesLayer01.mp3</File>
+    <File md5="26F69E6DECFC41282874E8BBE07FA25D" import="1">Sound/LeaderSpeech/HenryParkesNeutralYesLayer02.mp3</File>
+    <File md5="18B68B588829D9D8544C97177395706A" import="1">Sound/LeaderSpeech/HenryParkesPeaceful.mp3</File>
+    <File md5="5063EF8DAB51890C4AC51FCD7BFA985D" import="1">Sound/LeaderSpeech/HenryParkesRequest.mp3</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Database/CL_AustraliaDB.sql</UpdateDatabase>
+      <UpdateDatabase>Database/CL_AustraliaAtlases.sql</UpdateDatabase>
+      <UpdateDatabase>Database/CL_AustraliaText.xml</UpdateDatabase>
+      <UpdateDatabase>Database/CL_AustraliaBuildings.sql</UpdateDatabase>
+      <UpdateDatabase>Database/CL_AustraliaPromotions.sql</UpdateDatabase>
+      <UpdateDatabase>Database/CL_AustraliaArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Database/CL_AustraliaGreatWorks.sql</UpdateDatabase>
+      <UpdateDatabase>Database/CL_AustraliaUnits.sql</UpdateDatabase>
+      <UpdateDatabase>Database/CL_AustraliaSounds.sql</UpdateDatabase>
+      <UpdateDatabase>Database/CL_AustraliaTrait.sql</UpdateDatabase>
+      <UpdateDatabase>Database/CL_AustraliaLeader.sql</UpdateDatabase>
+      <UpdateDatabase>Database/CL_AustraliaCityStates.sql</UpdateDatabase>
+      <UpdateDatabase>Database/CL_AustraliaColors.sql</UpdateDatabase>
+      <UpdateDatabase>Database/CL_AustraliaCivilization.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/CL_AustraliaYnAEMP.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/CL_AustraliaCulturalDiversity.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/CL_AustraliaEthnicUnits.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/CL_AustraliaPietyAndPrestige.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/CL_AustraliaCiv4Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/CL_AustraliaUCI.xml</UpdateDatabase>
+      <UpdateDatabase>Compatibility/CL_AustraliaMapLabels.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/CL_AustraliaDecisionsText.xml</UpdateDatabase>
+      <UpdateDatabase>Compatibility/CL_AustraliaDecisions.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/CL_AustraliaBoundlessPlainsToShare.lua">
+      <Name>Boundless Plains To Share</Name>
+      <Description>Allows Australia's UA to work.</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/CL_AustraliaDigger.lua">
+      <Name>Australian Digger</Name>
+      <Description>Allows the Digger to function.</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/CL_AustraliaPrimeMinister.lua">
+      <Name>Australian Prime Minister</Name>
+      <Description>Allows the Prime Minister to function.</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Compatibility/CL_AustraliaDecisions.lua">
+      <Name>Australian Decisions</Name>
+      <Description>Compatibility for Events &amp; Decisions</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

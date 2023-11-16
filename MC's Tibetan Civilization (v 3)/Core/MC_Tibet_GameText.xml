@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!----------------------------------------------------------------
+						Tibet
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_CIV_MC_TIBET_ADJECTIVE">
+			<Text>Tibetan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MC_TIBET_DESC">
+			<Text>Tibetan Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MC_TIBET_SHORT_DESC">
+			<Text>Tibet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MC_TIBET_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MC_TIBET_TEXT_1">
+			<Text>Of the many cultures of the world who experience the tumult of political stability Tibet has itself a tumultuous history. Tibet emerged as a unified empire some 1300 years ago, however this soon divided the land into territories poised to be influenced by outside powers; much of that from China. Following the collapse of the Qing dynasty Chinese garrisons were disarmed and exiled from Tibet, causing the government to declare its independence. Then a military strike caused Tibet to become incorporated into the People's Republic of China and later abolishing Tibet's government. This merely summarizes the struggle between a small nation trying to unify itself and a superpower hyphenating its domination. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MC_TIBET_HEADING_2">
+			<Text>Geography</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MC_TIBET_TEXT_2">
+			<Text>Tibet is the highest region on earth, averaging 16,000 feet above sea level. Found on the Tibetan Plateau the region is known as the 'roof of the world', bordered by the Himalayas and carrying some of the highest mountains; Mount Everest being the highest of all. With rivers cutting through the ranges Tibet also contains deep, sometimes very steep valleys, the Yarlung Tsangpo Grand Canyon being one of the deepest canyons in the world. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MC_TIBET_HEADING_3">
+			<Text>Prehistory and Myth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MC_TIBET_TEXT_3">
+			<Text>The earliest known residence of Tibet settled some 21,000 years ago between the spiritual India and the militaristic China; both of which becoming major factors in the history of Tibet. Neolithic populations from northern China replace them by 3000 BC, some Tibetans now however do still follow their genealogy back to the original inhabitants. Tibetan mythology suggests that before the first century BC the Zhang Zhung culture migrated into Guge in western Tibet; the Zhang Zhung are seen as the originators of the local Bön religion. The neighbouring kingdom in the Yarlung Valley attempted to remove this influence by expelling the Bön priests from Yarlung. Drigum Tsenpo, the King of Yarlung was assassinated and the Zhang Zhung continued its domination of the region.[NEWLINE][NEWLINE]Nyatri Tsenpo was the first known king of the Tibetan region, thought the date of his reign varies. His horrifying appearance caused fear in his native land of Puwo and resulted in exile by the Bön where he later became king. The kings were said to be originally connected to the heavens by a dmu cord, rather than dying the kings ascend directly to heaven. Drigum Tsenpo challenged either a clan head or his groom, Longam into a duel, where during the fight Tsenpo's cord was cut and he was killed. Thereafter the kings remained on the ground and the Bön conducted funerals.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MC_TIBET_HEADING_4">
+			<Text>Rise and Fall of the Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MC_TIBET_TEXT_4">
+			<Text>From the early 7th century AD the Chinese began to refer to Tibet as 'Tubuo' when first contact with the Tibetan kingdom was made; the king at the time was Namri Löntsän. The state was created when a group of rebels convinced Tagbu Nyazig to rebel against Gudri Zingpoje, who was a vassal of the Zhang Zhung Empire; the rebels prevailed. During this Löntsän led his clan to conquer the neighbouring lands to claim the area of what would become Lhasa by 630 by the time he was assassinated. From then on to the 11th century emperors ruled Tibet as a unified empire; the three most noteworthy and important emperors were Songtsän Gampo, Trisong Detsen and Ralpacan. So important were these figures they became the three 'protectors'; Avalokitesvara, Mañjusri and Vajrapani respectively.[NEWLINE][NEWLINE]At the height of its power Tibet extended as far south and Bengal and north as Mongolia. The expanse however created problems; the ever-changing terrain made transportation difficult, new ideas from the newly acquired regions also caused stress, this precipitated power blocs that competed against the emperor. This all led to the Era of Fragmentation in Tibet; between the 9th and 11th centuries political centralization collapsed, sparking rebellions against imperial Tibet and the rise of regional warlords. When Langdarma, the last king of unified Tibet, died there was controversy over which of his two sons - Yumtän or Ösung - would succeed him. Civil war broke out effectively splitting the empire in two; Ösung and his allies taking control of Lhasa while Yumtän claimed Yarlung. Ösung's son Pälkhortsän maintained control of central Tibet with his sons Trishi Tsentsän and Thrikhyiding. Thrikhyiding migrated to upper Ngari in the west where he married a woman of great nobility and creating his own dynasty. In 842, after the breakup of the empire Nyima-Gon, a member of the ancient Tibetan royal house, founded the first Ladakh dynasty. Thrikhyiding's eldest son became ruler of Mar-yul Ladakh region and younger sons ruling western Tibet, founding the Kingdom of Guge and Pu-hrang.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MC_TIBET_HEADING_5">
+			<Text>Influence and Invasion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MC_TIBET_TEXT_5">
+			<Text>Kor-re, the eldest son of a Guge king, became a Buddhist monk and sent scholars to Kashmir for training; he was also responsible for inviting Atiśa into Tibet in 1040. This ushered in the Chidar phase of Buddhism in Tibet. Before Kor-re Buddhism was a well-established religion in Tibet; During the reign of Langdarma three monks escaped Lhasa at a time of tumalt to Mount Dantig in Amdo. Their disciple Muzu Saelbar generated a renewal of Buddhism in northern Tibet, he became known as scholar Gongpa Rabsal and the progenitor of the Nyingma school of Tibetan Buddhism. One of Ösung's descendants sent ten men to learn from Rabsal. These men were ordained to return to central Tibet, from there they also met with Atiśa in 1042 and advanced the spread of the religion. From that action, from 1073 to the next two centuries the Sakya Monastery grew in prominence in Tibetan life and its culture as a Buddhist monastery.[NEWLINE][NEWLINE]Tsang-pa Dung-khur and six disciples met Mongolia and Genghis Khan for the first time during 1221, he and his men were taken captive upon meeting as Taoism rose in Mongolia. This action only demonstrated the procession of events as the Khan began a campaign in 1240, seeking to conquer Tibet. Originally the invasion was a somewhat false start for Mongolia; the Mongols withdrew their forces only a year after as the princes were recalled to prepare for the appointment of a successor, Ögedai Khan. Mongolia returned in 1244 delivering an ultimatum, summoning the abbot Sakya Pandita to be prince Köten's personal chaplain under pain of a greater invasion force. Almost three years past before Pandita obeyed, arriving first in Kokonor in 1246 then metting Köten in Langzhou the following year. Pandita asked to stop the killing of Chinese farmers and prevailed. In return however Mongolia annexed Amdo and Kham in the east and appointed Pandita the Viceroy of Central Tibet by the Mongol court, effectively granting Mongolia control over much of Tibet.[NEWLINE][NEWLINE]Tibet retained power in the religious and domestic political affairs, but Mongolia managed the administration. In the Mongol Empire, Tibet was managed by the Bureau of Buddhist and Tibetan Affairs - known as Xuanzheng Yuan, separate from the provinces of China. With the Mongol claim over the entirety of China, China began its influence on Tibet; when a dispute erupted between the dpoun-chen, the great administrator, and one of 'Phags-pa's relatives at Sakya, Chinese troops were sent to execute the dpon-chen. While the Tibetan Viceroys attempted their own influential powers, instability and corruption was rife until the eighty year period of the rise of the Phagmodru myriarchy between 1354 and 1434, which saw stability and lengthy independence from the Mongols. The Mongols would return as Manchuria 300 years later; overrunning China once again, establishing their own dynasty once again and beginning in 1724 wrested control over parts of Tibet once again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MC_TIBET_HEADING_6">
+			<Text>Second Rise and Fall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MC_TIBET_TEXT_6">
+			<Text>Before 1912 the Qing dynasty possessed and held influence in eastern Kham, as well as engaging in Tibetan affairs for the two intervening centuries; the imperial official Fengchung reasserting control, Zhao Erfeng destroying monasteries and starting the Sinification of the region, Chinese forces sent to Lhasa to control the restored Dalai Lama. This was the state of Tibet until October 1911 where the Qing dynasty fell into collapse, Zhao's soldiers mutinied and executed their master; this caused the Dalai Lama to emerge from hiding in India and return to Tibet in July 1912 and expelled all Chinese troops. The next year the Dalai Lama proclaimed the relationship between the Chinese emperor and Tibet "had been that of a patron and priest and had not been on the subordination of one to the other." He continued to say Tibet is "a small, religious and independent nation.", this effected a de facto independence for Tibet from that point onward.[NEWLINE][NEWLINE]In the time Tibet was independent, China had to deal with civil war as well as World War II and the threat of Japanese expansion. Chinese sources suggest Tibet was still under Chinese control during the time, others say only a de jure independence after the Tibet-Mongolia Treaty in 1913. Nevertheless, while being known to the rest of the world Tibet was very limiting to the world, Lhasa in particular was closed to outsiders. In 1914 the government signed the Simla Accord with Britain to cede the South Tibet region to British India, an action the Chinese denounced as illegal. As Japan seized Manchuria in 1932, the National Revolutionary Army led by Ma Bufang and Liu Wenhui defeated the Tibetan army in the Sino-Tibetan War as the Dalai Lama then attempted to take territory in Qinghai and Xikang. China 'encouraged' the attack in a bid to solve what was reported as the "Tibet situation", warning Tibet never to dare cross the Jinsha River again. A truce was signed to end the war, while the Dalai Lama contacted British India to bolster Tibet's army as well as demoting his generals who surrendered to China.[NEWLINE][NEWLINE]With the rise of Communism in China the Kashag expelled all Chinese connected to the Chinese government in 1949. This was due to protests from the Kuomingtang and the Communists. Mao Zedong took no time in reasserting Chinese dominance in Tibet a third time; by October 1950 the People's Liberation Army entered Chamdo, defeating resistance from the Tibetan Army. In 1951 representatives from Tibet negotiated with the Chinese in Beijing, resulting in the Seventeen Point Agreement - formalizing China's sovereignty over Tibet and ending the most resent Tibetan independence from China. Unexpectedly, the Communist government did not seek to reform Tibetan policy; in fact for the eight years following, while under the Chinese flag, Tibetan government and policy remained mostly unchanged, apart from abolishing slavery and serfdom. The price however slowly became evident as Eastern Kham incorporated into Sichuan provide and Western Kham fell to the Chamdo Military Committee; in all of Kham 'land reform' was implemented, generally involving communist agitators selecting "landlords" for public humiliation, torture, maiming and in some cases death. Unrest broke out in Kham and Amdo in 1956, where land reform was fully implemented; over the course of the next three years growing unrest in Tibet - in particular Kham and Amdo - sparked the "Lhasa Uprising", a full scale resistance against the People's Liberation Army and Chinese Communism. The revolt ended with both the Dalai Lama and the Tibetan government fleeing to India and placing Tibet in a state of government-in-exile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MC_TIBET_HEADING_7">
+			<Text>Tibet Today</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MC_TIBET_TEXT_7">
+			<Text>Suffering the many losses in its history Tibet today sees itself in a very different light to how most of the world sees Tibet. The current Dalai Lama, Tenzin Gyatso proclaims a different message to the Dalai Lama of the last century; suggesting "Tibet wants autonomy, not independence." As the spiritual and religious leader of the government-in-exile, the Dalai Lama has also received the accolades of the American and Canadian governments and is a recipient of the Nobel Peace Prize for his continuing peaceful protest of the Chinese occupation of Tibet. As a result of his works and audience China distrusts the Dalai Lama, viewing him as a threat and having not given up the fight for independence; as a result the Chinese government tends to protest the contacts and friends of the leader.[NEWLINE][NEWLINE]Since the 1951 Lhasa Uprising the government exiled itself and a number of Tibetan refugees to India where the Indian government accepted them and established land in Dharamsala, where the government-in-exile is still operating. The People's Republic of China still portrays its rule over Tibet as an 'unalloyed improvement', some governments do still protest over the PRC's occupation of Tibet as well as global organizations; however most governments recognize the PRC's sovereignty over Tibet, and none in fact recognize the Government of Tibet in Exile based in India.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MC_TIBET_FACTOID_HEADING">
+			<Text>Tibetan Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MC_TIBET_FACTOID_TEXT">
+			<Text>Tibet comes in many names. The local Tibetan word is spelt Bod and pronounced Bho, meaning Tibet or 'Tibetan Plateau'. Modern Mandarin is Zàngqu, meaning 'western', a modern translation of medieval Mandarin is either Tufan or Tufo. The English name goes back to the 18th century; linguists generally believe the name originates from Arabic, ultimately deriving from the Turkic word 'Töbäd', meaning 'the heights'.</Text>
+		</Row>
+		<!-- City Names -->
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TIBET_LHASA">	
+			<Text>Lhasa</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TIBET_XIGAZE">	
+			<Text>Xigaze</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TIBET_GYANTSE">	
+			<Text>Gyantse</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TIBET_CHAMDO">	
+			<Text>Chamdo</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TIBET_SENGGEZANGBO">	
+			<Text>Senggezangbo</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TIBET_NAGCHUKHA">	
+			<Text>Nagchukha</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TIBET_BAMDA">	
+			<Text>Bamda</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TIBET_RUTOG">	
+			<Text>Rutog</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TIBET_NYINGCHI">	
+			<Text>Nyingchi</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TIBET_NEDONG">	
+			<Text>Nedong</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TIBET_COQEN">	
+			<Text>Coqen</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TIBET_BARKAM">	
+			<Text>Barkam</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TIBET_SAKYA">	
+			<Text>Sakya</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TIBET_GARTSE">	
+			<Text>Gartse</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TIBET_PELBAR">	
+			<Text>Pelbar</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TIBET_LHATSE">	
+			<Text>Lhatse</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TIBET_TINGRI">	
+			<Text>Tingri</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TIBET_DARTSEDO">	
+			<Text>Dartsedo</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TIBET_GYEGU">	
+			<Text>Gyegu</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TIBET_MACHEN">	
+			<Text>Machen</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TIBET_GOLMUD">	
+			<Text>Golmud</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TIBET_TAWANG">	
+			<Text>Tawang</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TIBET_LEH">	
+			<Text>Leh</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TIBET_GANGTOK">	
+			<Text>Gangtok</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TIBET_LADAKH">	
+			<Text>Ladakh</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_MC_TIBET_BATANG">	
+			<Text>Batang</Text>
+		</Row>	
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_MC_TIBET_9">
+			<Text>Sunita</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_TIBET_8">
+			<Text>Tride</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_TIBET_7">
+			<Text>Mune</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_TIBET_6">
+			<Text>Tristu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_TIBET_5">
+			<Text>Agvan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_TIBET_4">
+			<Text>Nischal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_TIBET_3">
+			<Text>Shanko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_TIBET_2">
+			<Text>Kunja</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_TIBET_1">
+			<Text>Ashmi</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_TIBET_0">
+			<Text>Amita</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!----------------------------------------------------------------
+						Songtsän Gampo
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_LEADER_MC_SONGTSAN_GAMPO">
+			<Text>Songtsän Gampo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MC_SONGTSAN_GAMPO_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MC_SONGTSAN_GAMPO_TEXT_1">
+			<Text>The impact Songtsän Gampo left in Tibetan history is worthy of being identified as the 'incarnation of Avalokiteśvara' and Protector. Traditionally he is known merely as the thirty-third ruler of the Yarlung dynasty, but Gampo is also credited from establishing the Tibetan Empire; bringing cultural and technological advances, spreading Buddhism throughout Tibet and deploying successful campaigns to unify and expand the empire. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MC_SONGTSAN_GAMPO_HEADING_2">
+			<Text>Early Life and Cultural Advancement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MC_SONGTSAN_GAMPO_TEXT_2">
+			<Text>Said to have been born in Gyama in a region northeast of modern Lhasa, Songtsän Gampo was the son of the previous king; Namri Songtsen. According to tradition, as is much of the knowledge of Songtsän Gampo, his mother was Dringma Togo from the Tsepong clan. Gampo ascended to the throne at around 13 years old; much of Tibetan tradition states kings who ascend at this age, as well as those able to ride a horse in order to rule. As a youth he married Trimonyen Dongsten from the Mong clan; with his mother the ties to these clans would become important into the unification of Tibet.[NEWLINE][NEWLINE]During his reign Gampo used his powers as a diplomat to broaden the cultural horizon of Tibet; sending a minister to India to develop a script resulting in literature, importing Chinese astrological systems, treasures and wealth from Nepal and a code of laws from the Uyghurs. These allies aided to provide the Tibetan Empire a platform of cultural development.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MC_SONGTSAN_GAMPO_HEADING_3">
+			<Text> Incarnation of Avalokiteśvara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MC_SONGTSAN_GAMPO_TEXT_3">
+			<Text>Songtsän Gampo was the first king to introduce and spread Buddhism to the Tibetan people. Gampo built many temples devoted to Buddhism; the most noted is the Jokhang in Lhasa, as well as Changzhug in Nêdong. During his reign Buddhist texts were translated from Sanskrit to the new Tibetan script. Later in traditional sources Songtsän Gampo becomes referenced as the first of three Dharma Kings - Chosgyal, kings who established Buddhism in Tibet; Gampo becomes known as the incarnation of Avalokiteśvara and in the book 'The Holder of the White Lotus' describes him as a manifestation of Avalokiteśvara; the Dalai Lama is similarly believed to be the same manifestation. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MC_SONGTSAN_GAMPO_HEADING_4">
+			<Text>Road to the Zhang Zhung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MC_SONGTSAN_GAMPO_TEXT_4">
+			<Text>As well as a master diplomat Songtsän Gampo demonstrated the skills of a general in battle. Originally with the direction of his minister Myang Mangporje and the help of Zhang Zhung troops, Gampo defeated the Sumpa clan in the northeast circa 627. Six years after Mangporje was accused of treason and executed, minister Mgar-srong-rtsan succeeded him. The first embassy from Tibet arrived in China in 634, during the Tang dynasty. The Chinese described this as a tribute mission; it was in fact the precursor to an ultimatum demanding a marriage alliance. When this was refused Tibet launched a number of attacks against Tang allies from 637 to 638; a mostly victorious venture.[NEWLINE][NEWLINE]While there is some confusion as to when the conquest of the Zhang Zhung took place - during the reign of either Songtsän Gampo or Trisong Detsän (reigned 755 - c. 797) - the 'Tang Annuals' clearly suggest the campaign as Gampo's as it appear to occur at the time of the embassy, 634. During the fight agaist the Tang dynasty various Qiang tribes submitted to Gampo, he united with Yangtong and defeated either the 'Azha or Tuyuhun as well as two more Qiang tribes before Gumpo threatened Songzhou. The Chinese estimate the Tibetan army of more than 200,000 men; Gumpo sent an envoy with gold and silk to the Chinese emperor to ask for a princess' hand in marriage. Refusing the offer Songzhou was attacked by the army, however successful against allies Gumpo retreated and apologized; later on the emperor granted the original request. The Tibetan history however suggests a complete victory for Tibet and the Tang emperor delivering a bride.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MC_SONGTSAN_GAMPO_HEADING_5">
+			<Text>Marital Diplomacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MC_SONGTSAN_GAMPO_TEXT_5">
+			<Text>Trimonyen Dongsten was just the first of Songtsän Gampo's wives, later in his life Gampo would come to use marriage as a tool for diplomatic advantage. Gampo had at least five wives, although some traditions suggest six. Before 624 Gumpo married Bhrikuti Devi, a Nepalese princess, although based in legend the marriage is generally considered to have taken place. After the Songzhou campaign in 636 the Chinese emperor agreed to send a Chinese princess to marry him as part of Gampo's political settlement. The best example of Gampo's use of marriage as a diplomatic devise is with the Zhang Zhung; Gampo married the sister of the king of Zhang Zhung - Ligmikya, and Ligmikya married the sister of Gampo - Sad-mar-kar. When Lig-myi-rhya refused to consummate the marriage Sad-mar-kar went to her brother and helped him plan the siege against her husband, resulting in Zhang Zhung incorporating into the Tibetan Empire. As the end of the attack against Western Xia Gampo won the daughter of the king as his wife. Peace was eventually restored between Tibet and China following Princess Wencheng leaving China in 640 for Tibet to marry Gampo, wedding the following year. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MC_SONGTSAN_GAMPO_HEADING_6">
+			<Text>Judgement of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MC_SONGTSAN_GAMPO_TEXT_6">
+			<Text>According to the 'Tibetan Annuls' Songtsän Gampo died at around 649, with the Tang emperor sending an envoy a year later, carrying a "letter of mourning and condolences". While much of his life is recorded in legend, Gampo's impression on Tibet is lasting and splendorous; the father of Tibetan Buddhism, the bringer of cultural development, the master of diplomacy, and the expander of his domain. In short, Songtsän Gampo was more than the protector of the Tibetan people, he sewn the seeds of Tibetan culture and spirituality; he truly was the manifestation of Avalokiteśvara.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MC_SONGTSAN_GAMPO_LIVED">
+			<Text>c. 617 - 649</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MC_SONGTSAN_GAMPO_NAME">
+			<Text>Songtsän Gampo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MC_SONGTSAN_GAMPO_SUBTITLE">
+			<Text>Leader of Tibet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MC_SONGTSAN_GAMPO_TITLES_1">
+			<Text>Cakravartin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_MC_SONGTSAN_GAMPO_TEXT">
+			<Text>Blessings upon you, O' great king Songtsän Gampo. You founded the proud Tibetan Empire, and expanded her rule to encompass much of the surrounding area. Under your reign you threatened the rule of many ancient kingdoms - China and India to name but two. You are also famed for your introduction of Buddhism to your empire, a legacy which has lasted far beyond that of your empire. Through your cunning diplomacy you created many loyal subjects and vassals amongst the neighbouring kingdoms, which in turn helped to cement the position of Tibet. After your time Tibet continued to be a prosperous empire for centuries, ruling over a swath of empire from China in the East to Pakistan in the West and the Indian Ocean in the south. Despite this, the empire succumb to the greed of man after several hundred years of central rule and collapsed into civil war, signalling the end of the empire and of Tibet as a power. From that age Tibet has succumbed to invasions from those who it once commanded, and to this day remains within the realm of the Chinese. [NEWLINE][NEWLINE]O' great Songtsän Gampo, can you expel the foreigners and reclaim Tibet's rightful place at the top of the world? Can you build an empire from the ashes of faded dreams and lead Tibet into a new Golden Age of prosperity? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Diplomacy
+		------------------------------------------------------------------>
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_MC_SONGTSAN_GAMPO_FIRSTGREETING_1">
+			<Text>Welcome to the roof of the world, friend. Treat those who you negotiate with fairly and we shall have no issues between us.</Text>
+		</Row>
+    	<Row Tag="TXT_KEY_LEADER_MC_SONGTSAN_GAMPO_FIRSTGREETING_2">
+			<Text>Ah, a new visitor. Welcome to Tibet, I trust the altitude causes you no problems?</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_MC_SONGTSAN_GAMPO_DEFEATED_1">
+			<Text>You have conquered a peaceful nation who have wished no ill against you, do not feel that it is something to be proud of.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_SONGTSAN_GAMPO_DEFEATED_2">
+			<Text>You may have conquered the land of Tibet, but you have not conquered the people. We will rise again with the world on our side.</Text>
+		</Row>
+		<!--Cultural Influence-->
+		<Row Tag="TXT_KEY_GENERIC_MC_TIBET_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now wearing your Khatas and eating your yak yoghurt. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Dharma Kings
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_TRAIT_MC_TIBET_SHORT">
+			<Text>Dharma Kings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MC_TIBET">
+			<Text>Mountain tiles yield +1 [ICON_FOOD] Food and +1 [ICON_PEACE] Faith, increasing to +2 [ICON_FOOD] Food, +2 [ICON_PEACE] Faith in Cities that follow your Religion. Cities following your Religion generate +10% more Religious Pressure.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_TIBET_RELIGIOUS_PRESSURE">
+			<Text>MC's Tibet: Dharma Kings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_TIBET_RELIGIOUS_PRESSURE_HELP">
+			<Text>+10% Religious Pressure</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Himalayan Cavalry
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_UNIT_MC_TIBET_HIMALAYAN_CAVALRY">
+			<Text>Himalayan Cavalry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MC_TIBET_HIMALAYAN_CAVALRY_TEXT">
+			<Text>Armored cavalrymen were equipped with both a bow and arrows and a musket, the Tibetans were expert at firing each instrument with great precision on horseback. Many of the weapons replaced in Europe by the eighteenth century - matchlock muskets, swords, spears and arrows - were not outmoded in Tibet, they remained in circulation and use up to the twentieth century. And with that armor of the cavalryman and horse also remained, helmets of iron and cloth and chainmail. While not in service today armored cavalrymen do remain in use as part of the Monlam Prayer Festival in Lhasa, a celebration held around New Years established since 1409.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_MC_TIBET_HIMALAYAN_CAVALRY">
+			<Text>Tibetan Unique Unit replacing the Knight. +1 [ICON_MOVES] Movement when starting its turn on a hill. This increases to +2 [ICON_MOVES] Movement in friendly territory. Mountains in friendly territory adjacent to the Himalayan Cavalry produce an additional +1 [ICON_CULTURE] Culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_TIBET_HIMALAYAN_CAVALRY_STRATEGY">
+			<Text>The Himalayan Cavalry is the Tibetan Unique Unit, replacing the Knight. Himalayan Cavalry gain extra [ICON_MOVES] Movement when starting their turn on a hill, which is further increased when the hill is in friendly territory. In addition, the Himalayan Cavalry will cause adjacent friendly Mountains to produce an additional +1 [ICON_CULTURE] Culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_TIBET_HIMALAYAN_CAVALRY">
+			<Text>Rlung Rta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_TIBET_HIMALAYAN_CAVALRY_HELP">
+			<Text>+1 [ICON_MOVES] Movement when starting its turn on a hill. This increases to +2 [ICON_MOVES] Movement in friendly territory. Mountains in friendly territory adjacent to this unit produce an additional +1 [ICON_CULTURE] Culture.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Chorten
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_BUILDING_MC_TIBET_CHORTEN">
+			<Text>Chorten</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MC_TIBET_CHORTEN_TEXT">
+			<Text>A Chorten is a Tibetan stupa. is a mound-like or hemispherical structure containing Buddhist relics, typically the ashes of Buddhist monks, used by Buddhists as a place of meditation. Chortens always house items that Buddhists hold sacred. Sutra scripts, Buddha statues, Tsa-Tsas, hair clippings, fingernails, relics and cremation ashes of saints are usually enshrined in them along with jewels, herbs and other objects. They are sometimes used as tombs in which mummified bodies of high lamas are buried. Chortens may also be built in commemoration of high Lamas as a sign of merit accumulation, or for their funerals. Building a stupa and any other work done on it are considered of work of the highest purity and merit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_TIBET_CHORTEN_HELP"> 
+			<Text>Unique Tibetan Temple replacement. Religious Followers and Mountains worked by the city the Chorten is built in and Great Works stored within the Chorten generate points that work towards upgrading the Chorten, eventually allowing it to provide greater yields.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_TIBET_CHORTEN_STRATEGY">
+			<Text>
+				While initially weaker than most other Unique Buildings, the Chorten will eventually be upgraded through points earned by working Mountains and having Religious Followers in the city and storing Great Works within the Chorten. Only Tibet may build it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_TIBET_CHORTEN_0">
+			<Text>Lotus Blossom Chorten</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_TIBET_CHORTEN_1">
+			<Text>Enlightenment Chorten</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_TIBET_CHORTEN_2">
+			<Text>Chorten of Many Doors</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_TIBET_CHORTEN_3">
+			<Text>Chorten of Descent</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_TIBET_CHORTEN_4">
+			<Text>Chorten of Great Miracles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_TIBET_CHORTEN_5">
+			<Text>Chorten of Reconciliation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_TIBET_CHORTEN_6">
+			<Text>Chorten of Complete Victory</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_TIBET_CHORTEN_7">
+			<Text>Chorten of Nirvana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_TIBET_CHORTEN_SUBHEADING">
+			<Text>[COLOR_MAGENTA]{1_Turns} Turns  ({2_CurrentProgress}/{3_Threshhold})[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_TIBET_CHORTEN_POINTS_EXPLANATION">
+			<Text>You gain +3[ICON_GREAT_PEOPLE] when the Chorten's Great Work slot is filled, +1[ICON_GREAT_PEOPLE] per Religious Follower, and +5[ICON_GREAT_PEOPLE] for every Mountain worked by this city.[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_TIBET_CHORTEN_TOOLTIP">
+			<Text>
+				[ICON_BULLET]+{1_Followers}[ICON_GREAT_PEOPLE] from Religious Followers
+				[NEWLINE][ICON_BULLET]+{2_Mountains}[ICON_GREAT_PEOPLE] from worked Mountains
+				[NEWLINE][ICON_BULLET]+{3_GW}[ICON_GREAT_PEOPLE] from the Great Work Slot
+				[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_TIBET_CHORTEN_DATA">
+			<Text>
+				[NEWLINE]The {1_ChortenName} will provide {2_Yields} it will replace the {3_OldChorten}.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_TIBET_CHORTEN_SUMMARY">
+			<Text>
+				[NEWLINE][COLOR_MAGENTA]Total: +{1_PPT}[ICON_GREAT_PEOPLE] per turn[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_TIBET_CHORTEN_NO_UPGRADE">
+			<Text>
+				The {1_ChortenName} is the maximum level attainable. It can no longer be upgraded.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_TIBET_CHORTEN_NOTIFICATION_TITLE">
+			<Text>
+				Chorten Upgraded
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_TIBET_CHORTEN_NOTIFICATION">
+			<Text>
+				The passing of {1_Monk} has prompted the people to construct a {2_Stupa} in {3_City}
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_TIBET_CHORTEN_MONK">
+			<Text>
+				a famed Monk
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_TIBET_CHORTEN_LAMA">
+			<Text>
+				a revered Lama
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_TIBET_CHORTEN_DALAI_LAMA">
+			<Text>
+				His Holiness the Dalai Lama
+			</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						City States
+		------------------------------------------------------------------>
+		<Update>
+			<Where Tag="TXT_KEY_CITYSTATE_LHASA"/>
+			<Set Text="Varanasi"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CITYSTATE_LHASA_ADJ"/>
+			<Set Text="Varanasi"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CIV5_LHASA_TEXT"/>
+			<Set Text="Varanasi is a city located on the banks of the River Ganges in northern India. It is the holiest city in India, sacred in Hinduism, Jainism and Buddhism while featuring many religious institutions for those, Sikhs and Muslims. According to legend the city was founded by the Hindu deity Shiva, although the earliest archaeological evidence comes from the 12th century BCE, making it among the world's oldest continuously occupied cities. [NEWLINE][NEWLINE]Despite having a majority of the religious buildings destroyed in the 12th century by a Sultan of the Ghurid Dynasty, Varanasi remains a pilgrimage site for many religious people in India and around the world. It is believed that dying in Varanasi promises salvation, and funeral pyres can often be seen on the shore of or afloat on the River Ganges of those who have died in the city."/>
+		</Update>
+	</Language_en_US>
+</GameData>

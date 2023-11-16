@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_MINOR_CIV_INDONESIA">
+			<Text>Indonesia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_INDONESIA_ADJ">
+			<Text>Indonesian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_INDONESIA_1">
+			<Text>Na Luang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_INDONESIA_2">
+			<Text>Ban Thamui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_INDONESIA_3">
+			<Text>Nongphum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_INDONESIA_4">
+			<Text>Surathang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_INDONESIA_5">
+			<Text>Phitsaphon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_INDONESIA_6">
+			<Text>Phra thong</Text>
+		</Row>
+	</Language_en_US>
+	
+	<MinorCivilizations>
+		<Row>
+			<Type>MINOR_CIV_INDONESIA</Type>
+			<Description>TXT_KEY_MINOR_CIV_INDONESIA</Description>
+			<ShortDescription>TXT_KEY_MINOR_CIV_INDONESIA</ShortDescription>
+			<Adjective>TXT_KEY_MINOR_CIV_INDONESIA_ADJ</Adjective>
+			<Civilopedia>No info</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_MINOR_CIV_INDONESIA</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_ASIAN</ArtStyleType>
+			<ArtStylePrefix>ASIAN</ArtStylePrefix>
+			<ArtStyleSuffix>_INDONESIA</ArtStyleSuffix>
+			<MinorCivTrait>MINOR_TRAIT_MARITIME</MinorCivTrait>
+		</Row>
+	</MinorCivilizations>
+
+	<MinorCivilization_Flavors>
+		<Row>
+			<MinorCivType>MINOR_CIV_INDONESIA</MinorCivType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_INDONESIA</MinorCivType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_INDONESIA</MinorCivType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_INDONESIA</MinorCivType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_INDONESIA</MinorCivType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_INDONESIA</MinorCivType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_INDONESIA</MinorCivType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_INDONESIA</MinorCivType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_INDONESIA</MinorCivType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_INDONESIA</MinorCivType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_INDONESIA</MinorCivType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_INDONESIA</MinorCivType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+	</MinorCivilization_Flavors>
+
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_INDONESIA_ICON</Type>
+            <Red>0.6235294118</Red>
+            <Green>0.1843137255</Green>
+            <Blue>0.1137254902</Blue>
+            <Alpha>1.0</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_INDONESIA_BACKGROUND</Type>
+            <Red>0.4352941176</Red>
+            <Green>0.8274509804</Green>
+            <Blue>0.8549019608</Blue>
+            <Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_MINOR_CIV_INDONESIA</Type>
+			<PrimaryColor>COLOR_PLAYER_MINOR_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_MINOR_CIV_INDONESIA_ICON</SecondaryColor>
+			<TextColor>COLOR_PLAYER_PEACH_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_INDONESIA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_INDONESIA_1</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_INDONESIA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_INDONESIA_2</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_INDONESIA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_INDONESIA_3</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_INDONESIA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_INDONESIA_4</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_INDONESIA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_INDONESIA_5</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_INDONESIA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_INDONESIA_6</CityName>
+		</Row>
+	</MinorCivilization_CityNames>
+</GameData>

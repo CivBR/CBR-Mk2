@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/16/2014 7:55:55 PM -->
+<GameData>
+	<Defines>
+		<Update>
+			<Where Name ="PLOT_BASE_COST"/>
+			<Set Value="35"/>
+		</Update>
+	</Defines>
+</GameData>
